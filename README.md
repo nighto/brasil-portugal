@@ -46,15 +46,15 @@ O site da Polícia Federal informa a [lista de documentos necessários](http://w
 
 Se você tem filhos, [verifique na página de dúvidas frequentes da Polícia Federal a tabela de validade por idade](http://www.pf.gov.br/servicos-pf/passaporte/duvidas-frequentes) especialmente se a data de aniversário estiver próxima, pode ser interessante esperar algum tempo para ter uma validade maior.
 
-- Custo: R$ 257,25 por pessoa.
-- Autenticação: ~R$ 8
+- Custo: R$ 257,25 por pessoa;
+- Autenticação: ~R$ 8.
 
 #### 2. RG ou Carteira de Motorista + cópia autenticada
 
 Dica: se você for do RJ, desde abril de 2019 há um [**novo modelo de identidade civil**](http://www.detran.rj.gov.br/_monta_aplicacoes.asp?doc=10777&cod=14&tipo=exibe_noticias&pag_noticias=true) emitida pelo Detran que condensa dados de diversos documentos: título de eleitor, carteira de trabalho, certificado de reservista, número do SUS e até tipo sanguíneo. Se a sua identidade estiver velha você pode aproveitar para pedir uma segunda via, que aqui no Rio custa R$ 38,58. [Veja mais detalhes no site do Detran-RJ](http://www.detran.rj.gov.br/_documento.asp?cod=160).
 Dica da dica: para incluir o tipo sanguíneo é necessário apresentar um exame (não basta auto-declaração).
 
-- Autenticação: ~R$ 8
+- Autenticação: ~R$ 8.
 
 #### 3. Antecedentes Criminais na Polícia Federal
 
@@ -62,8 +62,8 @@ Dica da dica: para incluir o tipo sanguíneo é necessário apresentar um exame 
 
 Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos, do contrário pagará pelo apostilamento de um documento que não terá mais valor no decorrer do processo.
 
-- Custo: R$ 0
-- Apostilamento: ~R$ 50
+- Custo: R$ 0;
+- Apostilamento: ~R$ 50.
 
 #### 4. PB4
 
@@ -73,7 +73,26 @@ O PB4 tem validade de um ano e não pode ser emitido pelos consulados brasileiro
 
 Dica: o horário de atendimento é de 9h às 15h mas há poucas senhas distribuídas (ao menos no posto aqui do RJ, distribui-se somente 30 senhas pela manhã), cheguei às 13h e as pessoas que aguardavam atendimento me recomendaram chegar antes das 7h para pegar fila e conseguir ser atendido. Voltei no dia seguinte às 6:40 e já tinha 20 pessoas na fila. Peguei a senha e fui pro trabalho, voltando ao meio-dia para conseguir ser atendido. Por outro lado, um colega da Paraíba disse que foi atendido sem filas, então talvez seja uma limitação da unidade do RJ. A renovação do PB4 é bem mais simples e não precisa pegar fila, basta chegar no horário de atendimento com uma cópia do documento vencido/próximo a vencer.
 
-- Custo: R$ 0
+- Custo: R$ 0.
+
+#### 5. Diploma universitário
+
+Como o visto D3 é para trabalhadores _altamente qualificados_, é necessário anexar ao processo seu diploma universitário (pode ser tecnólogo, que era uma dúvida que eu tinha). Será necessário fazer o apostilamento do documento.
+
+- Apostilamento: ~R$ 50.
+
+#### 6. Comprovantes de Renda brasileiros
+
+É preciso comprovar renda no Brasil. É exigido a declaração de Imposto de Renda do último ano, assim como os 3 últimos contra-cheques. Não é necessário autenticar ou apostilar.
+
+#### 7. Comprovantes de casamento/união estável/certidão de nascimento
+
+Caso você vá se mudar para Portugal com cônjuge ou filhos, será necessário uma cópia autenticada da certidão de casamento, de união estável e/ou de nascimento. **Detalhe importante**: a certidão deve ter sido emitida há **menos de 6 meses** da data da viagem. Portanto você provavelmente precisará solicitar uma segunda via.
+
+Se você vive em um matrimônio, precisará de um documento comprovativo para seu cônjuge poder se mudar com você para Portugal. Como é aceito tanto união estável quanto casamento, sugiro que faça união estável por esta ser mais barata que o casamento. Os valores variam de cartório para cartório, mas os valores aproximados são: ~R$ 300 para união estável e ~R$ 800 para casamento civil.
+
+- Custo: (varia de cartório para cartório);
+- Autenticação: ~R$ 8 por certidão.
 
 ## Extras
 
@@ -87,7 +106,7 @@ _Firma_ neste contexto significa assinatura, é um processo similar ao da autent
 
 ### Apostila da Haia
 
-Apostilamento é basicamente uma autenticação de documento reconhecida internacionalmente. Este serviço é oferecido por alguns cartórios, que cadastram o documento em um sistema online, e colam um adesivo atestando a sua autenticidade. O valor do apostilamento varia de estado para estado. [Veja mais detalhes aqui](https://www.eurodicas.com.br/apostila-de-haia/).
+Apostilamento é basicamente uma autenticação de documento reconhecida internacionalmente. Este serviço é oferecido por alguns cartórios, que cadastram o documento em um sistema online, e colam um adesivo atestando a sua autenticidade. O valor do apostilamento varia de estado para estado. [Veja mais detalhes aqui](http://www.cnj.jus.br/haia).
 
 ### Procuração
 
