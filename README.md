@@ -94,6 +94,34 @@ Se você vive em um matrimônio, precisará de um documento comprovativo para se
 - Custo: (varia de cartório para cartório);
 - Autenticação: ~R$ 8 por certidão.
 
+#### 8. Comprovante de Residência
+
+Uma cópia simples de uma conta de água/energia/gás/telefone em seu nome, de seu cônjuge ou de seu responsável. Não é necessário autenticar ou apostilar.
+
+#### 9. Currículo
+
+Uma cópia do seu CV.
+
+#### 10. Declaração de autorização de consulta de antecedentes criminais em Portugal
+
+[Este PDF impresso e assinado](https://www.vistos.mne.pt/images/schengen/formularios/aut_consulta_rc.pdf).
+
+#### 11. Formulário de pedido de visto impresso, preenchido com letra de forma, caneta preta e assinado
+
+[Este PDF](https://www.vistos.mne.pt/images/schengen/formularios/pedido_de_visto_de_longa_duracao_pt.pdf). Sugiro levar uma cópia adicional em branco caso seja necessário corrigir alguma informação equivocada.
+
+#### 12. Duas fotos 3,5 x 4,5cm
+
+[Veja aqui mais detalhes sobre a especificação das fotografias](https://www.vfsglobal.com/portugal/Brazil/work-visa.html).
+
+#### 13. Comprovante de pagamento da taxa de visto
+
+- Custo: € 60 por pessoa (€ 35 por criança de 6 a 12 anos, gratuito para crianças até 5 anos).
+
+### Agendamento
+
+Após ter reunido todos os documentos, faça o agendamento no site do [Ministério de Negócios Estrangeiros](https://www.vistos.mne.pt/pt/pedido-de-visto/solicitar-pedido-de-visto) português.
+
 ## Extras
 
 ### Autenticação de cópia
