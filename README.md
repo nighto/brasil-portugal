@@ -1,6 +1,8 @@
 # 🇧🇷➡️🇵🇹
 Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal.
 
+(Em construção, não contém informações completas!)
+
 ## Introdução
 
 Este texto foi originalmente escrito por [Arlindo Pereira](http://github.com/nighto) então alguns trechos estão em primeira pessoa, mas contribuições são bem-vindas! Tive a oportunidade de passar para uma empresa que forneceu uma advogada especializada nesse tipo de procedimento, e sinto que posso ajudar a comunidade compartilhando os conhecimentos que aprendi. Também incluí os custos de toda a documentação, para dar uma ideia do quanto se gasta no processo.
@@ -65,7 +67,7 @@ Apostilamento: ~R$ 50
 
 #### 4. PB4
 
-Portugal e Brasil, além de Itália e Cabo Verde tem um acordo que permite o uso da saúde pública por seus cidadãos entre os países. (Daí a origem da sigla.) **Você só poderá usar hospitais públicos em Portugal se tiver esse documento**, que dessa forma se torna praticamente obrigatório para a emissão do visto (a alternativa é a compra de um seguro saúde, algo que envolve custos). Ele é emitido pelo Ministério da Saúde em postos estaduais, e deve ser solicitado presencialmente. Se você é do interior, precisará viajar até a capital do seu estado para solicitá-lo. [Veja aqui mais detalhes e a lista dos endereços dos postos do Ministério da Saúde](https://www.eurodicas.com.br/pb4-como-funciona-e-como-solicitar/). Ao contrário do que alguns blogs online falam, não é necessário reconhecer firma nem apostilar.
+Portugal e Brasil, além de Itália e Cabo Verde tem um acordo que permite o uso da saúde pública por seus cidadãos entre os países. (Daí a origem da sigla.) **Você só poderá usar hospitais públicos em Portugal se tiver esse documento**, que dessa forma se torna praticamente obrigatório para a emissão do visto (a alternativa é a compra de um seguro saúde, algo que envolve custos). Ele é emitido pelo Ministério da Saúde em postos estaduais, e deve ser solicitado presencialmente. Se você é do interior, precisará viajar até a capital do seu estado para solicitá-lo. [Veja aqui mais detalhes e a lista dos endereços dos postos do Ministério da Saúde](https://www.eurodicas.com.br/pb4-como-funciona-e-como-solicitar/). Ao contrário do que alguns blogs online falam, não é necessário reconhecer firma nem apostilar. Precisa levar RG, CPF, passaporte originais (não precisa levar cópias) e comprovante de residência. Se for casado ou tiver união estável, ou tiver filhos, levar RG, CPF, passaporte e o comprovante de vínculo (união estável, certidão de casamento ou nascimento).
 
 Dica: o horário de atendimento é de 9h às 15h mas há poucas senhas distribuídas (ao menos no posto aqui do RJ, distribui-se somente 30 senhas pela manhã), cheguei às 13h e as pessoas que aguardavam atendimento me recomendaram chegar antes das 7h para pegar fila e conseguir ser atendido. Voltei no dia seguinte às 6:40 e já tinha 20 pessoas na fila. Peguei a senha e fui pro trabalho, voltando ao meio-dia para conseguir ser atendido. Por outro lado, um colega da Paraíba disse que foi atendido sem filas, então talvez seja uma limitação da unidade do RJ.
 
