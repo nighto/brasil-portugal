@@ -126,7 +126,7 @@ Um documento assinado por você declarando que não irá viajar para Portugal se
 
 #### 12. Declaração de Próprio Punho
 
-Um docuemnto assinado por você declarando seus motivos para requerer o visto, no modelo a seguir.
+Um documento assinado por você declarando seus motivos para requerer o visto, no modelo a seguir.
 
 >**DECLARAÇÃO**
 >
