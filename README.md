@@ -21,7 +21,7 @@ Alternativamente, se você for filho, neto ou bisneto de portugueses, é possív
 
 ## Visto D3 - Documentação Necessária
 
-Para tirar este visto de trabalho, você precisará de diversos documentos. Alguns devem ser apresentados no original, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará levar o original e uma cópia _apostilada_. Verifique o anexo no final sobre mais detalhes desses procedimentos.
+Para tirar este visto de trabalho, você precisará de diversos documentos. Alguns devem ser apresentados no original, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará fazer o _apostilamento_. Verifique o anexo no final sobre mais detalhes desses procedimentos.
 
 ### Documentos da empresa
 
@@ -56,9 +56,9 @@ Dica da dica: para incluir o tipo sanguíneo é necessário apresentar um exame 
 
 - Autenticação: ~R$ 8.
 
-#### 3. Antecedentes Criminais na Polícia Federal
+#### 3. Antecedentes Criminais na Polícia Federal + apostilamento
 
-[A Polícia Federal emite um documento atestando que não há condenações criminais em seu nome.](http://www.pf.gov.br/servicos-pf/antecedentes-criminais) Este documento pode ser emitido online gratuitamente e sai na hora, tem validade de 90 dias e precisa ser apostilado.
+[A Polícia Federal emite um documento atestando que não há condenações criminais em seu nome.](http://www.pf.gov.br/servicos-pf/antecedentes-criminais) Este documento pode ser emitido online gratuitamente e sai na hora, tem validade de 90 dias e precisa ser apostilado (verifique o anexo o significado deste termo).
 
 Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos, do contrário pagará pelo apostilamento de um documento que não terá mais valor no decorrer do processo.
 
@@ -75,9 +75,11 @@ Dica: o horário de atendimento é de 9h às 15h mas há poucas senhas distribu�
 
 - Custo: R$ 0.
 
-#### 5. Diploma universitário
+#### 5. Diploma universitário + apostilamento
 
 Como o visto D3 é para trabalhadores _altamente qualificados_, é necessário anexar ao processo seu diploma universitário (pode ser tecnólogo, que era uma dúvida que eu tinha). Será necessário fazer o apostilamento do documento.
+
+Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, também é aceito uma certidão de colação de grau / conclusão de curso (tipicamente emitidas após colar grau e antes da entrega do diploma).
 
 - Apostilamento: ~R$ 50.
 
