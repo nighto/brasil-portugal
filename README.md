@@ -30,7 +30,7 @@ Para tirar este visto de trabalho, você precisará de diversos documentos. Algu
 3. Carta Convite
 4. Termo de responsabilidade
 
-No meu caso, todos os documentos foram fornecidos pela empresa após ter passados na entrevista.
+No meu caso, todos os documentos foram fornecidos pela empresa após ter passado na entrevista.
 
 ### Documentos pessoais
 
@@ -80,6 +80,8 @@ Dica: o horário de atendimento é de 9h às 15h mas há poucas senhas distribu�
 Como o visto D3 é para trabalhadores _altamente qualificados_, é necessário anexar ao processo seu diploma universitário (pode ser tecnólogo, que era uma dúvida que eu tinha). Será necessário fazer o apostilamento do documento.
 
 Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, também é aceito uma certidão de colação de grau / conclusão de curso (tipicamente emitidas após colar grau e antes da entrega do diploma).
+
+Dica: caso você tenha concluído o curso mas ainda não tenha sequer colado grau, verifique com a universidade a possibilidade de uma _colação de grau antecipada_. No meu caso, levei à reitoria a carta convite fornecida pela empresa. A UFF exigiu que a carta convite tivesse uma data limite para disponibilização da vaga, sugerindo a data de um mês para que o processo ocorresse de maneira célere. Apenas para dar uma ideia da velocidade: fui à UFF dia 02/08, colei grau dia 07/08 (numa cerimônia específica para quem pediu antecipação, com meia dúzia de alunos de outros cursos) e recebi o diploma dia 20/08.
 
 - Apostilamento: ~R$ 50.
 
