@@ -93,14 +93,14 @@ Dica: caso você tenha concluído o curso mas ainda não tenha sequer colado gra
 
 Caso você vá se mudar para Portugal com cônjuge ou filhos, será necessário uma cópia autenticada da certidão de casamento, de união estável e/ou de nascimento. **Detalhe importante**: a certidão deve ter sido emitida há **menos de 6 meses** da data da viagem. Portanto você provavelmente precisará solicitar uma segunda via.
 
-Se você vive em um matrimônio, precisará de um documento comprovativo para seu cônjuge poder se mudar com você para Portugal. Como é aceito tanto união estável quanto casamento, sugiro que faça união estável por esta ser mais barata que o casamento. Os valores variam de cartório para cartório, mas os valores aproximados são: ~R$ 300 para união estável e ~R$ 800 para casamento civil.
+Se você vive em um matrimônio não-oficializado, precisará de um documento comprovativo para seu cônjuge poder se mudar com você para Portugal. Como é aceito tanto união estável quanto casamento, sugiro que faça união estável por esta ser mais barata que o casamento. Os valores variam de cartório para cartório, mas os valores aproximados são: ~R$ 300 para união estável e ~R$ 800 para casamento civil.
 
 - Custo: (varia de cartório para cartório);
 - Autenticação: ~R$ 8 por certidão.
 
 #### 8. Comprovante de Residência
 
-Uma cópia simples de uma conta de água/energia/gás/telefone em seu nome, de seu cônjuge ou de seu responsável. Não é necessário autenticar ou apostilar.
+Uma cópia simples de uma conta de água, eletricidade, gás ou telefone em seu nome, de seu cônjuge ou de seu responsável. Não é necessário autenticar ou apostilar.
 
 #### 9. Currículo
 
