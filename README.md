@@ -110,21 +110,53 @@ Uma cópia do seu CV.
 
 [Este PDF impresso e assinado](https://www.vistos.mne.pt/images/schengen/formularios/aut_consulta_rc.pdf).
 
-#### 11. Formulário de pedido de visto impresso, preenchido com letra de forma, caneta preta e assinado
+#### 11. Declaração de Ciência do Fato
+
+Um documento assinado por você declarando que não irá viajar para Portugal sem ter um visto apropriado. Não encontrei esse requerimento na lista de documentos no site português, mas a advogada que auxiliou o processo enviou para que eu preenchesse, então o incluo aqui. Os campos para edição estão abaixo em itálico (todo o texto centralizado, exceto os dois parágrafos principais justificados):
+
+>**DECLARAÇÃO**
+>
+> Eu, _**nome completo em negrito**_, de nacionalidade _Brasileira_, nascido a _DD.MM.YYYY_, titular do passaporte n.º _AB123456_, emitido em _DD.MM.YYYY_ e válido até _DD.MM.YYYY_, requerente de Visto de Residência para Portugal, ao abrigo do artigo n.º 61.º - A da Lei n.º 23/2007, de 04 de Julho, na sua redação atual, tomei conhecimento de que as Autoridades Portuguesas não se responsabilizam por início de viagem em direção a Portugal sem o adequado visto aposto no passaporte.
+>
+> _Cidade_, _dd de MêsPorExtenso de YYYY_
+>
+> _sua assinatura_
+> 
+> _**nome completo em negrito**_
+
+#### 12. Declaração de Próprio Punho
+
+Um docuemnto assinado por você declarando seus motivos para requerer o visto, no modelo a seguir.
+
+>**DECLARAÇÃO**
+>
+> Eu, _**nome completo em negrito**_, estado civil _tal_, residente em _seu endereço completo_, titulo do passaporte n.º _AB123456_, e válido até _DD.MM.YYYY_, pela Universidade _tal_, sou atualmente especializado na área de _preencha_. Irei para Portugal, pelo período de _tanto tempo_, trabalhar na empresa _razão social da empresa_, para desempenhar as seguintes funções: _preencha_.
+>
+> Pela minha formação e experiência profissional, irei contribuir com _preencha_, serei responsável por _preencha_, e farei parte do projeto _preencha_.
+>
+> Em Portugal irei ficar alojado num hotel durante as primeiras semanas até encontrar um apartamento que possa arrendar pelo período total da minha permanência no país.
+>
+>_dd de Mês por Extenso de YYYY_
+>
+> _sua assinatura_
+>
+> _**nome completo em negrito**_
+
+#### 13. Formulário de pedido de visto impresso, preenchido com letra de forma, caneta preta e assinado
 
 [Este PDF](https://www.vistos.mne.pt/images/schengen/formularios/pedido_de_visto_de_longa_duracao_pt.pdf). Sugiro levar uma cópia adicional em branco caso seja necessário corrigir alguma informação equivocada.
 
-#### 12. Duas fotos 3,5 x 4,5cm
+#### 14. Duas fotos 3,5 x 4,5cm
 
 [Veja aqui mais detalhes sobre a especificação das fotografias](https://www.vfsglobal.com/portugal/Brazil/work-visa.html).
-
-#### 13. Comprovante de pagamento da taxa de visto
-
-- Custo: € 60 por pessoa (€ 35 por criança de 6 a 12 anos, gratuito para crianças até 5 anos).
 
 ### Agendamento
 
 Após ter reunido todos os documentos, faça o agendamento no site do [Ministério de Negócios Estrangeiros](https://www.vistos.mne.pt/pt/pedido-de-visto/solicitar-pedido-de-visto) português.
+
+Além dos documentos especificados anteriormente, é preciso pagar a taxa do visto e levar o comprovante.
+
+- Custo: € 60 por pessoa (€ 35 por criança de 6 a 12 anos, gratuito para crianças até 5 anos).
 
 ## Extras
 
