@@ -112,17 +112,7 @@ Uma cópia do seu CV.
 
 #### 11. Declaração de Ciência do Fato
 
-Um documento assinado por você declarando que não irá viajar para Portugal sem ter um visto apropriado. Não encontrei esse requerimento na lista de documentos no site português, mas a advogada que auxiliou o processo enviou para que eu preenchesse, então o incluo aqui. Os campos para edição estão abaixo em itálico (todo o texto centralizado, exceto os dois parágrafos principais justificados):
-
->**DECLARAÇÃO**
->
-> Eu, _**nome completo em negrito**_, de nacionalidade _Brasileira_, nascido a _DD.MM.YYYY_, titular do passaporte n.º _AB123456_, emitido em _DD.MM.YYYY_ e válido até _DD.MM.YYYY_, requerente de Visto de Residência para Portugal, ao abrigo do artigo n.º 61.º - A da Lei n.º 23/2007, de 04 de Julho, na sua redação atual, tomei conhecimento de que as Autoridades Portuguesas não se responsabilizam por início de viagem em direção a Portugal sem o adequado visto aposto no passaporte.
->
-> _Cidade_, _dd de MêsPorExtenso de YYYY_
->
-> _sua assinatura_
-> 
-> _**nome completo em negrito**_
+Um documento assinado por você declarando que não irá viajar para Portugal sem ter um visto apropriado. [Este PDF impresso, preenchido e assinado](http://consuladoportugalrj.org.br/site2017/wp-content/uploads/2017/02/declaracao-ciente-que-nao-deve-viajar-sem-o-visto.pdf).
 
 #### 12. Declaração de Próprio Punho
 
