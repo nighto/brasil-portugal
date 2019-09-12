@@ -1,4 +1,5 @@
 # 🇧🇷➡️🇵🇹
+
 Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal.
 
 (Em construção, não contém informações completas!)
@@ -13,7 +14,7 @@ Existem alguns tipos de vistos possíveis para trabalhar de forma legal em Portu
 
 - **D3** - _"Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado"_, para trabalhadores especializados com **"carteira assinada"**
 - **D2** - _"Visto para emigrantes empreendedores"_, para quem vai trabalhar **"como PJ"**
-- [Tech Visa](https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf).
+- [Tech Visa](<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx>) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf).
 
 No meu caso, fiz o **D3**, então para detalhes sobre os outros tipos de visto, **pull requests são bem-vindos**.
 
@@ -30,7 +31,7 @@ Para tirar este visto de trabalho, você precisará de diversos documentos. Algu
 3. Carta Convite
 4. Termo de responsabilidade
 
-No meu caso, todos os documentos foram fornecidos pela empresa após ter passado na entrevista.
+O contrato de trabalho deve ser assinado por você e pela empresa em 3 vias, sendo uma da empresa, uma sua e uma para o consulado. A empresa pode enviar as 3 cópias previamente assinadas pelos Correios e pedir para que você envie de volta uma das cópias, ou te convidar para um processo de _onboarding_ presencial em Portugal, de forma que você assinará e retornará com os documentos para iniciar o processo de visto.
 
 ### Documentos pessoais
 
@@ -46,15 +47,15 @@ O site da Polícia Federal informa a [lista de documentos necessários](http://w
 
 Se você tem filhos, [verifique na página de dúvidas frequentes da Polícia Federal a tabela de validade por idade](http://www.pf.gov.br/servicos-pf/passaporte/duvidas-frequentes) especialmente se a data de aniversário estiver próxima, pode ser interessante esperar algum tempo para ter uma validade maior.
 
-- Custo: R$ 257,25 por pessoa;
-- Autenticação: ~R$ 8.
+- Custo: R\$ 257,25 por pessoa;
+- Autenticação: ~R\$ 8.
 
 #### 2. RG ou Carteira de Motorista + cópia autenticada
 
-Dica: se você for do RJ, desde abril de 2019 há um [**novo modelo de identidade civil**](http://www.detran.rj.gov.br/_monta_aplicacoes.asp?doc=10777&cod=14&tipo=exibe_noticias&pag_noticias=true) emitida pelo Detran que condensa dados de diversos documentos: título de eleitor, carteira de trabalho, certificado de reservista, número do SUS e até tipo sanguíneo. Se a sua identidade estiver velha você pode aproveitar para pedir uma segunda via, que aqui no Rio custa R$ 38,58. [Veja mais detalhes no site do Detran-RJ](http://www.detran.rj.gov.br/_documento.asp?cod=160).
+Dica: se você for do RJ, desde abril de 2019 há um [**novo modelo de identidade civil**](http://www.detran.rj.gov.br/_monta_aplicacoes.asp?doc=10777&cod=14&tipo=exibe_noticias&pag_noticias=true) emitida pelo Detran que condensa dados de diversos documentos: título de eleitor, carteira de trabalho, certificado de reservista, número do SUS e até tipo sanguíneo. Se a sua identidade estiver velha você pode aproveitar para pedir uma segunda via, que aqui no Rio custa R\$ 38,58. [Veja mais detalhes no site do Detran-RJ](http://www.detran.rj.gov.br/_documento.asp?cod=160).
 Dica da dica: para incluir o tipo sanguíneo é necessário apresentar um exame (não basta auto-declaração).
 
-- Autenticação: ~R$ 8.
+- Autenticação: ~R\$ 8.
 
 #### 3. Antecedentes Criminais na Polícia Federal + apostilamento
 
@@ -62,8 +63,8 @@ Dica da dica: para incluir o tipo sanguíneo é necessário apresentar um exame 
 
 Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos, do contrário pagará pelo apostilamento de um documento que não terá mais valor no decorrer do processo.
 
-- Custo: R$ 0;
-- Apostilamento: ~R$ 50.
+- Custo: R\$ 0;
+- Apostilamento: ~R\$ 50.
 
 #### 4. PB4
 
@@ -73,7 +74,7 @@ O PB4 tem validade de um ano e não pode ser emitido pelos consulados brasileiro
 
 Dica: o horário de atendimento é de 9h às 15h mas há poucas senhas distribuídas (ao menos no posto aqui do RJ, distribui-se somente 30 senhas pela manhã), cheguei às 13h e as pessoas que aguardavam atendimento me recomendaram chegar antes das 7h para pegar fila e conseguir ser atendido. Voltei no dia seguinte às 6:40 e já tinha 20 pessoas na fila. Peguei a senha e fui pro trabalho, voltando ao meio-dia para conseguir ser atendido. Por outro lado, um colega da Paraíba disse que foi atendido sem filas, então talvez seja uma limitação da unidade do RJ. A renovação do PB4 é bem mais simples e não precisa pegar fila, basta chegar no horário de atendimento com uma cópia do documento vencido/próximo a vencer.
 
-- Custo: R$ 0.
+- Custo: R\$ 0.
 
 #### 5. Diploma universitário + apostilamento
 
@@ -83,7 +84,7 @@ Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, tam
 
 Dica: caso você tenha concluído o curso mas ainda não tenha sequer colado grau, verifique com a universidade a possibilidade de uma _colação de grau antecipada_. No meu caso, levei à reitoria a carta convite fornecida pela empresa. A UFF exigiu que a carta convite tivesse uma data limite para disponibilização da vaga, sugerindo a data de um mês para que o processo ocorresse de maneira célere. Apenas para dar uma ideia da velocidade: fui à UFF dia 02/08, colei grau dia 07/08 (numa cerimônia específica para quem pediu antecipação, com meia dúzia de alunos de outros cursos) e recebi o diploma dia 20/08.
 
-- Apostilamento: ~R$ 50.
+- Apostilamento: ~R\$ 50.
 
 #### 6. Comprovantes de Renda brasileiros
 
@@ -96,7 +97,7 @@ Caso você vá se mudar para Portugal com cônjuge ou filhos, será necessário 
 Se você vive em um matrimônio não-oficializado, precisará de um documento comprovativo para seu cônjuge poder se mudar com você para Portugal. Como é aceito tanto união estável quanto casamento, sugiro que faça união estável por esta ser mais barata que o casamento. Os valores variam de cartório para cartório, mas os valores aproximados são: ~R$ 300 para união estável e ~R$ 800 para casamento civil.
 
 - Custo: (varia de cartório para cartório);
-- Autenticação: ~R$ 8 por certidão.
+- Autenticação: ~R\$ 8 por certidão.
 
 #### 8. Comprovante de Residência
 
@@ -118,7 +119,7 @@ Um documento assinado por você declarando que não irá viajar para Portugal se
 
 Um documento assinado por você declarando seus motivos para requerer o visto, no modelo a seguir.
 
->**DECLARAÇÃO**
+> **DECLARAÇÃO**
 >
 > Eu, _**nome completo em negrito**_, estado civil _tal_, residente em _seu endereço completo_, titulo do passaporte n.º _AB123456_, e válido até _DD.MM.YYYY_, pela Universidade _tal_, sou atualmente especializado na área de _preencha_. Irei para Portugal, pelo período de _tanto tempo_, trabalhar na empresa _razão social da empresa_, para desempenhar as seguintes funções: _preencha_.
 >
@@ -126,7 +127,7 @@ Um documento assinado por você declarando seus motivos para requerer o visto, n
 >
 > Em Portugal irei ficar alojado num hotel durante as primeiras semanas até encontrar um apartamento que possa arrendar pelo período total da minha permanência no país.
 >
->_dd de Mês por Extenso de YYYY_
+> _dd de Mês por Extenso de YYYY_
 >
 > _sua assinatura_
 >
@@ -148,11 +149,29 @@ Além dos documentos especificados anteriormente, é preciso pagar a taxa do vis
 
 - Custo: € 60 por pessoa (€ 35 por criança de 6 a 12 anos, gratuito para crianças até 5 anos).
 
+## Em Portugal
+
+### 1. NIF
+
+O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF. Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que pode ser feito mesmo sem ter visto de trabalho. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "Núemro de contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
+
+Para abrir um NIF, você precisará do passaporte, comprovante de residência brasileiro (pode ser cópia) e ir junto com um "representante fiscal" (que pode ser um cidadão português - um funcionário do RH da empresa, como foi meu caso, por exemplo - ou um estrangeiro com residência permanente) até um centro de atendimento dos Serviços de Finanças (loja própria ou dentro de uma das Lojas do Cidadão) com estes documentos (não precisa de cópias) e fazer o pagamento de uma taxa de € 10,20. Caso você tenha cônjuge e/ou filhos morando em Portugal, é necessário criar um NIF para eles também. Não é necessário agendamento prévio, pega senha para atendimento na hora.
+
+Veja mais detalhes no site [Euro Dicas](https://www.eurodicas.com.br/nif-portugal/).
+
+- Custo: € 10,20 por pessoa.
+
+### 2. Conta Bancária
+
+Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 250 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, comprovante de residência e NIF abre-se a conta na hora e também já é fornecido o cartão de débito. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário.
+
+- Custo: € 250 (podendo sacar imediatamente após a abertura da conta).
+
 ## Extras
 
 ### Autenticação de cópia
 
-O processo de autenticar uma cópia de documento envolve ir num cartório que preste este serviço, aonde um funcionário do cartório irá conferir se os dados da cópia batem com o original e colar um selo no papel copiado atestando a sua autenticidade. O valor da autenticação varia de estado para estado, e aqui no RJ gira em torno de R$ 8 (variando de cartório para cartório).
+O processo de autenticar uma cópia de documento envolve ir num cartório que preste este serviço, aonde um funcionário do cartório irá conferir se os dados da cópia batem com o original e colar um selo no papel copiado atestando a sua autenticidade. O valor da autenticação varia de estado para estado, e aqui no RJ gira em torno de R\$ 8 (variando de cartório para cartório).
 
 ### Reconhecimento de firma
 
