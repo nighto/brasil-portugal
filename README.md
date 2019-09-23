@@ -74,6 +74,8 @@ O PB4 tem validade de um ano e não pode ser emitido pelos consulados brasileiro
 
 Dica: o horário de atendimento é de 9h às 15h mas há poucas senhas distribuídas (ao menos no posto aqui do RJ, distribui-se somente 30 senhas pela manhã), cheguei às 13h e as pessoas que aguardavam atendimento me recomendaram chegar antes das 7h para pegar fila e conseguir ser atendido. Voltei no dia seguinte às 6:40 e já tinha 20 pessoas na fila. Peguei a senha e fui pro trabalho, voltando ao meio-dia para conseguir ser atendido. Por outro lado, um colega da Paraíba disse que foi atendido sem filas, então talvez seja uma limitação da unidade do RJ. A renovação do PB4 é bem mais simples e não precisa pegar fila, basta chegar no horário de atendimento com uma cópia do documento vencido/próximo a vencer.
 
+Para pessoas do estado de **SP**: um colega paulista disse que o Ministério da Saúde leva 30 dias para emitir o documento, ao passo que no RJ saiu na hora. Então se você estiver com pressa pode valer a pena fazer um bate-volta no RJ (ou em outro estado qualquer) para solicitar o PB4 na hora.
+
 - Custo: R\$ 0.
 
 #### 5. Diploma universitário + apostilamento
@@ -83,8 +85,6 @@ Como o visto D3 é para trabalhadores _altamente qualificados_, é necessário a
 Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, também é aceito uma certidão de colação de grau / conclusão de curso (tipicamente emitidas após colar grau e antes da entrega do diploma).
 
 Dica: caso você tenha concluído o curso mas ainda não tenha sequer colado grau, verifique com a universidade a possibilidade de uma _colação de grau antecipada_. No meu caso, levei à reitoria a carta convite fornecida pela empresa. A UFF exigiu que a carta convite tivesse uma data limite para disponibilização da vaga, sugerindo a data de um mês para que o processo ocorresse de maneira célere. Apenas para dar uma ideia da velocidade: fui à UFF dia 02/08, colei grau dia 07/08 (numa cerimônia específica para quem pediu antecipação, com meia dúzia de alunos de outros cursos) e recebi o diploma dia 20/08.
-
-Para pessoas do estado de **SP**: um colega paulista disse que o Ministério da Saúde leva 30 dias para emitir o documento, ao passo que no RJ saiu na hora. Então se você estiver com pressa pode valer a pena fazer um bate-volta no RJ (ou em outro estado qualquer) para solicitar o PB4 na hora.
 
 - Apostilamento: ~R\$ 50.
 
