@@ -84,6 +84,8 @@ Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, tam
 
 Dica: caso você tenha concluído o curso mas ainda não tenha sequer colado grau, verifique com a universidade a possibilidade de uma _colação de grau antecipada_. No meu caso, levei à reitoria a carta convite fornecida pela empresa. A UFF exigiu que a carta convite tivesse uma data limite para disponibilização da vaga, sugerindo a data de um mês para que o processo ocorresse de maneira célere. Apenas para dar uma ideia da velocidade: fui à UFF dia 02/08, colei grau dia 07/08 (numa cerimônia específica para quem pediu antecipação, com meia dúzia de alunos de outros cursos) e recebi o diploma dia 20/08.
 
+Para pessoas do estado de **SP**: um colega paulista disse que o Ministério da Saúde leva 30 dias para emitir o documento, ao passo que no RJ saiu na hora. Então se você estiver com pressa pode valer a pena fazer um bate-volta no RJ (ou em outro estado qualquer) para solicitar o PB4 na hora.
+
 - Apostilamento: ~R\$ 50.
 
 #### 6. Comprovantes de Renda brasileiros
