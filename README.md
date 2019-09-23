@@ -165,7 +165,7 @@ Veja mais detalhes no site [Euro Dicas](https://www.eurodicas.com.br/nif-portuga
 
 ### 2. Conta Bancária
 
-Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 250 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, comprovante de residência e NIF abre-se a conta na hora e também já é fornecido o cartão de débito. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário.
+Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 250 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, comprovante de residência (pode ser brasileiro) e NIF abre-se a conta na hora e também já é fornecido o cartão de débito. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário.
 
 - Custo: € 250 (podendo sacar imediatamente após a abertura da conta).
 
