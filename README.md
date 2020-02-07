@@ -4,25 +4,30 @@ Este repositório contém informações e dicas do processo de visto para brasil
 
 (Em construção, não contém informações completas!)
 
-## Introdução
+# Introdução
 
 Este texto foi originalmente escrito por [Arlindo Pereira](http://github.com/nighto) então alguns trechos estão em primeira pessoa, mas contribuições são bem-vindas! Tive a oportunidade de passar para uma empresa que forneceu uma advogada especializada nesse tipo de procedimento, e sinto que posso ajudar a comunidade compartilhando os conhecimentos que aprendi. Também incluí os custos de toda a documentação, para dar uma ideia do quanto se gasta no processo.
 
-## Tipos de visto
+# Tipos de visto
 
 Existem alguns tipos de vistos possíveis para trabalhar de forma legal em Portugal. Em linhas gerais, há os seguintes tipos de vistos de trabalho:
 
-- **D3** - _"Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado"_, para trabalhadores especializados com **"carteira assinada"**
-- **D2** - _"Visto para emigrantes empreendedores"_, para quem vai trabalhar **"como PJ"**
-- [Tech Visa](<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx>) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf).
+- **D3** - _"Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado"_, para trabalhadores especializados com contrato, parecido com a nossa **"carteira assinada"**
+  - [Tech Visa](<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx>) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf).
+- **D2** - _"Visto para emigrantes empreendedores"_, para quem vai trabalhar como "recibos verdes", **"como PJ"**
 
-No meu caso, fiz o **D3**, então para detalhes sobre os outros tipos de visto, **pull requests são bem-vindos**.
+No meu caso, fiz o **D3 (sem Tech Visa)**, então para detalhes sobre os outros tipos de visto, **pull requests são bem-vindos**.
 
-Alternativamente, se você for filho, neto ou bisneto de portugueses, é possível obter dupla cidadania. Não é meu caso então não sei mais detalhes, mas caso você tenha essa possibilidade, pode ser que seguir este caminho seja mais interessante.
+É possível requerer o visto D3 com ou sem Tech Visa. Inicialmente tive problemas para conseguir dar entrada no pedido de visto D3 sem o Tech Visa por este ser um programa novo, mas foi rapidamente resolvido. [Conto mais detalhes neste vídeo](https://youtu.be/YfVdu11ljp8).
 
-## Visto D3 - Documentação Necessária
+Alternativamente, se você for filho, neto ou bisneto de portugueses, é possível obter dupla cidadania e efetivamente se tornar cidadão português. Não é meu caso então não sei mais detalhes, mas caso você tenha essa possibilidade, pode ser que seguir este caminho seja mais interessante.
+
+
+# Visto D3 - Documentação Necessária
 
 Para tirar este visto de trabalho, você precisará de diversos documentos. Alguns devem ser apresentados no original, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará fazer o _apostilamento_. Verifique o anexo no final sobre mais detalhes desses procedimentos.
+
+## Antes de pedir o visto
 
 ### Documentos da empresa
 
@@ -41,11 +46,11 @@ Obviamente para viajar para fora do país o primeiro passo é ter um passaporte 
 
 No meu caso, já tinha passaportes mas eles estavam vencidos, então precisei renovar para mim e para minha família.
 
-Se você é do interior, precisará viajar até um posto da Polícia Federal do seu estado, [veja a lista aqui](http://www.pf.gov.br/servicos-pf/passaporte/unidades-mobile/estados#mobile). Será preciso ir duas vezes: uma para levar os documentos, tirar foto e coletar as digitais e outra para pegar o documento.
+Se você é do interior, precisará viajar até um posto da Polícia Federal do seu estado, [veja a lista aqui](http://www.pf.gov.br/servicos-pf/passaporte/unidades-mobile/estados#mobile) para a emissão do passaporte. Será preciso ir duas vezes: uma para levar os documentos, tirar foto e coletar as digitais e outra para pegar o documento.
 
-O site da Polícia Federal informa a [lista de documentos necessários](http://www.pf.gov.br/servicos-pf/passaporte/documentacao-necessaria/documentacao-para-passaporte-comum). Também é preciso estar em dia com a Justiça Eleitoral (ter votado na última eleição, justificado ou pago a multa) e, para os homens, estar em quite com o serviço militar obrigatório. Não é necessário levar título de eleitor ou certificado de reservista, as verificações são feitas pela PF online.
+O site da Polícia Federal informa a [lista de documentos necessários](http://www.pf.gov.br/servicos-pf/passaporte/documentacao-necessaria/documentacao-para-passaporte-comum). É preciso estar em dia com a Justiça Eleitoral (ter votado na última eleição, justificado ou pago a multa) e, para os homens, estar em quite com o serviço militar obrigatório. Não é necessário levar título de eleitor ou certificado de reservista, as verificações são feitas pela PF online.
 
-Se você tem filhos, [verifique na página de dúvidas frequentes da Polícia Federal a tabela de validade por idade](http://www.pf.gov.br/servicos-pf/passaporte/duvidas-frequentes) especialmente se a data de aniversário estiver próxima, pode ser interessante esperar algum tempo para ter uma validade maior.
+Se você tem filhos, [verifique na página de dúvidas frequentes da Polícia Federal a tabela de validade por idade](http://www.pf.gov.br/servicos-pf/passaporte/duvidas-frequentes) especialmente se a data de aniversário estiver próxima, pode ser interessante esperar algum tempo para ter uma validade maior. Note os filhos precisam estar presentes nas duas visitas ao posto da Polícia Federal, ou seja tanto para dar entrada quanto para retirar o documento.
 
 - Custo: R\$ 257,25 por pessoa;
 - Autenticação: ~R\$ 8.
@@ -151,11 +156,25 @@ Além dos documentos especificados anteriormente, é preciso pagar a taxa do vis
 
 - Custo: € 60 por pessoa (€ 35 por criança de 6 a 12 anos, gratuito para crianças até 5 anos).
 
+Feito isto, será marcado um dia para a visita à VFS Global, empresa que faz a coleta dos documentos para o consulado português.
+
+## Após o visto ter sido aprovado, ainda no Brasil
+
+Após algum tempo de ansiedade e incertezas, num prazo que pode levar de 15 dias a 6 meses, você teve o visto aprovado! Com isto a empresa já irá comprar a passagem para um dia a sua escolha, se isto estiver no seu pacote de contratação, ou você mesmo poderá comprá-la, para uma data de até **4 meses** após a emissão do visto. O visto de trabalho D3 é válido por este período, e já vem com um agendamento para pedido de Autorização de Residência junto ao SEF. Note que o agendamento marcado pode ser num prazo superior aos 4 meses de duração do visto, não há problema, porém neste período você não poderá viajar entre os países da Europa (leia-se Espaço Schenghen), somente permanecer em Portugal.
+
+Dica: dependendo da cidade que se vá trabalhar, a marcação pode levar um bom tempo (por exemplo, meu visto foi emitido em 27/12/2019 e a visita ao SEF do Porto estava marcada para 10/07/2020). É possível ligar para o SEF e marcar em outra cidade com um prazo menor. No meu caso, consegui agendamento para o SEF em Braga em 20/02/2020.
+
+Para este pedido de Autorização de Residência, deverão ser levados alguns documentos, a lista é parecida com a do pedido do visto mas alguns precisam ser apostilados ao invés de autenticados, ou emitidos novamente se for o caso. Veja a lista a seguir.
+
+### Documentos para Autorização de Residência
+
+### Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)
+
 ## Em Portugal
 
 ### 1. NIF
 
-O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF. Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que pode ser feito mesmo sem ter visto de trabalho. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "Número de contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
+O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF. Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que pode ser feito mesmo sem ter visto de trabalho. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "\[Número de\] contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
 
 Para abrir um NIF, você precisará do passaporte, comprovante de residência brasileiro (pode ser cópia) e ir junto com um "representante fiscal" (que pode ser um cidadão português - um funcionário do RH da empresa, como foi meu caso, por exemplo - ou um estrangeiro com residência permanente) até um centro de atendimento dos Serviços de Finanças (loja própria ou dentro de uma das Lojas do Cidadão) com estes documentos (não precisa de cópias) e fazer o pagamento de uma taxa de € 10,20. Caso você tenha cônjuge e/ou filhos morando em Portugal, é necessário criar um NIF para eles também. Não é necessário agendamento prévio, pega senha para atendimento na hora.
 
@@ -163,11 +182,13 @@ Veja mais detalhes no site [Euro Dicas](https://www.eurodicas.com.br/nif-portuga
 
 - Custo: € 10,20 por pessoa.
 
+Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento - é preciso voltar às Finanças para atualizar sua morada fiscal. Neste caso, você deixa de precisar do representante fiscal e passa a poder ser o representante fiscal de seu cônjuge e/ou filhos. É importante tirar o NIF para o cônjuge, ainda que ele não trabalhe, e também para os filhos para efeito de dedução de imposto de renda relativo a dependentes.
+
 ### 2. Conta Bancária
 
-Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 250 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, comprovante de residência (pode ser brasileiro) e NIF abre-se a conta na hora e também já é fornecido o cartão de débito. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário.
+Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 500 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, comprovante de residência (pode ser brasileiro) e NIF abre-se a conta na hora e também já é fornecido no ato o cartão de débito. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário.
 
-- Custo: € 250 (podendo sacar imediatamente após a abertura da conta).
+- Custo: € 500 (podendo sacar imediatamente após a abertura da conta).
 
 ## Extras
 
