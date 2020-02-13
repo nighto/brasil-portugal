@@ -27,6 +27,8 @@ Alternativamente, se você for filho, neto ou bisneto de portugueses, é possív
 
 Para tirar este visto de trabalho, você precisará de diversos documentos. Alguns devem ser apresentados no original, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará fazer o _apostilamento_. Verifique o anexo no final sobre mais detalhes desses procedimentos.
 
+Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de visto de trabalho; os demais familiares farão um pedido de _Autorização de Residência por Reagrupamento Familiar_, só em Portugal. Mais abaixo listo os documentos necessários para tal.
+
 ## Antes de pedir o visto
 
 ### Documentos da empresa
@@ -154,13 +156,15 @@ Após ter reunido todos os documentos, faça o agendamento no site do [Ministér
 
 Além dos documentos especificados anteriormente, é preciso pagar a taxa do visto e levar o comprovante.
 
-- Custo: € 60 por pessoa (€ 35 por criança de 6 a 12 anos, gratuito para crianças até 5 anos).
+- Custo: € 60.
 
 Feito isto, será marcado um dia para a visita à VFS Global, empresa que faz a coleta dos documentos para o consulado português.
 
 ## Após o visto ter sido aprovado, ainda no Brasil
 
-Após algum tempo de ansiedade e incertezas, num prazo que pode levar de 15 dias a 6 meses, você teve o visto aprovado! Com isto a empresa já irá comprar a passagem para um dia a sua escolha, se isto estiver no seu pacote de contratação, ou você mesmo poderá comprá-la, para uma data de até **4 meses** após a emissão do visto. O visto de trabalho D3 é válido por este período, e já vem com um agendamento para pedido de Autorização de Residência junto ao SEF. Note que o agendamento marcado pode ser num prazo superior aos 4 meses de duração do visto, não há problema, porém neste período você não poderá viajar entre os países da Europa (leia-se Espaço Schenghen), somente permanecer em Portugal.
+Após algum tempo de ansiedade e incertezas, num prazo que pode levar de 15 dias a 6 meses, você teve o visto aprovado! Com isto a empresa já irá comprar a passagem para um dia a sua escolha, se isto estiver no seu pacote de contratação, ou você mesmo poderá comprá-la, para uma data de até **4 meses** após a emissão do visto. O visto de trabalho D3 é válido por este período, e já vem com um agendamento para pedido de Autorização de Residência (AR) junto ao SEF.
+
+Note que o agendamento marcado pode ser num prazo superior aos 4 meses de duração do visto, não há problema. **Você não ficará ilegal neste período.** Porém neste período - entre a data final do visto de trabalho, e o recebimento da Autorização de Residência - você não poderá viajar entre os países da Europa (leia-se Espaço Schenghen), somente permanecer em Portugal. 
 
 Dica: dependendo da cidade que se vá trabalhar, a marcação pode levar um bom tempo (por exemplo, meu visto foi emitido em 27/12/2019 e a visita ao SEF do Porto estava marcada para 10/07/2020). É possível ligar para o SEF e marcar em outra cidade com um prazo menor. No meu caso, consegui agendamento para o SEF em Braga em 20/02/2020.
 
@@ -172,9 +176,11 @@ Para este pedido de Autorização de Residência, deverão ser levados alguns do
 
 ## Em Portugal
 
+Você chegou a Portugal, parabéns! Ainda há diversas burocracias para fazer do lado de cá. Algumas delas poderão ser feitas mesmo antes do visto sair (caso você visite a empresa num processo de _onboarding_ antes de solicitar o visto, por exemplo), outras só após a entrada definitiva. Vamos a lista:
+
 ### 1. NIF
 
-O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF. Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que pode ser feito mesmo sem ter visto de trabalho. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "\[Número de\] contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
+O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF e CNPJ (empresas também tem NIF). Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que _pode ser feito mesmo sem ter visto de trabalho_. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "\[Número de\] contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
 
 Para abrir um NIF, você precisará do passaporte, comprovante de residência brasileiro (pode ser cópia) e ir junto com um "representante fiscal" (que pode ser um cidadão português - um funcionário do RH da empresa, como foi meu caso, por exemplo - ou um estrangeiro com residência permanente) até um centro de atendimento dos Serviços de Finanças (loja própria ou dentro de uma das Lojas do Cidadão) com estes documentos (não precisa de cópias) e fazer o pagamento de uma taxa de € 10,20. Caso você tenha cônjuge e/ou filhos morando em Portugal, é necessário criar um NIF para eles também. Não é necessário agendamento prévio, pega senha para atendimento na hora.
 
@@ -182,7 +188,7 @@ Veja mais detalhes no site [Euro Dicas](https://www.eurodicas.com.br/nif-portuga
 
 - Custo: € 10,20 por pessoa.
 
-Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento - é preciso voltar às Finanças para atualizar sua morada fiscal. Neste caso, você deixa de precisar do representante fiscal e passa a poder ser o representante fiscal de seu cônjuge e/ou filhos. É importante tirar o NIF para o cônjuge, ainda que ele não trabalhe, e também para os filhos para efeito de dedução de imposto de renda relativo a dependentes.
+Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento - é preciso voltar às Finanças para atualizar sua morada fiscal. Neste caso, você deixa de precisar do representante fiscal e passa a poder ser o representante fiscal de seu cônjuge e/ou filhos. É importante tirar o NIF para o cônjuge, ainda que ele não trabalhe, e também para os filhos para efeito de dedução de imposto de renda relativo a dependentes. Para isso, você precisará levar o contrato de arrendamento e comprovante de agendamento no SEF.
 
 ### 2. Conta Bancária
 
