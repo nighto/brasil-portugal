@@ -198,9 +198,9 @@ Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recome
 
 ### 3. NISS
 
-O **NISS** (Número de Identificação de Segurança Social) seria semelhante ao nosso PIS. É criado preenchendo um formulário e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. Veja mais detalhes [na página do CTT](https://www.ctt.pt/faq/pontos-ctt/servicos-de-apoio-ao-cidadao/certificacao-de-fotocopias.html).
+O **NISS** (Número de Identificação de Segurança Social) é equivalente ao nosso PIS. É criado preenchendo um formulário impresso e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. Veja mais detalhes [na página do CTT](https://www.ctt.pt/faq/pontos-ctt/servicos-de-apoio-ao-cidadao/certificacao-de-fotocopias.html).
 
-Uma vez recebido o número (vem por email) é possível [site do NISS, registrar acesso e solicitar senha de acesso por carta](https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin).
+Uma vez recebido o número por email é possível acessar o [site do NISS, registrar acesso e solicitar senha de acesso por carta](https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin).
 
 [Veja mais detalhes sobre o NISS neste artigo no site do Euro Dicas](https://www.eurodicas.com.br/niss-como-fazer/).
 
