@@ -186,7 +186,7 @@ Para abrir um NIF sem ter residência em Portugal, você precisará do passaport
 
 Veja mais detalhes no site [Euro Dicas](https://www.eurodicas.com.br/nif-portugal/).
 
-- Custo: € 10,20 por pessoa.
+- Custo: 10,20 € por pessoa.
 
 Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento - é preciso voltar às Finanças para atualizar sua morada fiscal. Neste caso, você deixa de precisar do representante fiscal e passa a poder ser o representante fiscal de seu cônjuge e/ou filhos. É importante tirar o NIF para o cônjuge, ainda que ele não trabalhe, e também para os filhos para efeito de dedução de imposto de renda relativo a dependentes. Para isso, você precisará levar o contrato de arrendamento e comprovante de agendamento no SEF.
 
@@ -194,7 +194,17 @@ Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento
 
 Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 500 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, declaração de imposto de renda (brasileiro) e NIF abre-se a conta na hora e também já é fornecido no ato o cartão de débito. Não precisa tirar cópias pois eles fazem no banco. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário.
 
-- Custo: € 500 (podendo sacar imediatamente após a abertura da conta).
+- Custo: 500 € (podendo sacar imediatamente após a abertura da conta).
+
+### 3. NISS
+
+O **NISS** (Número de Identificação de Segurança Social) seria semelhante ao nosso PIS. É criado preenchendo um formulário e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. Veja mais detalhes [https://www.ctt.pt/faq/pontos-ctt/servicos-de-apoio-ao-cidadao/certificacao-de-fotocopias.html](na página do CTT).
+
+Uma vez recebido o número (vem por email) é possível [https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin](site do NISS, registrar acesso e solicitar senha de acesso por carta).
+
+[https://www.eurodicas.com.br/niss-como-fazer/](Veja mais detalhes sobre o NISS neste artigo no site do Euro Dicas).
+
+- Custo: 18 € 
 
 ## Extras
 
