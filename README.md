@@ -52,7 +52,9 @@ A declaração da empresa é um papel timbrado, datado e assinado pelo gerente d
 >
 > Por odas estas razões, e ponderado todo o enquadramento acima referido, a **Empresa XPTO** optou então pela contratação de um colaborador brasileiro para os seus quadros.
 
-A carta convite é um documento descrevendo seus benefícios contratuais: qual o valor mensal ou anual de salário, quantos dias de férias, quanto de auxílio-alimentação etc. Finalmente o termo de responsabilidde é uma declaração datada e assinada em papel timbrado nessas linhas gerais:
+A carta convite é um documento descrevendo seus benefícios contratuais: qual o valor mensal ou anual de salário, quantos dias de férias, quanto de auxílio-alimentação etc.
+
+Por fim o termo de responsabilidde é uma declaração datada e assinada em papel timbrado nessas linhas gerais:
 
 > **Empresa XPTO**, com o NIF *123456789* com sede na *Rua tal, CP tal, cidade tal, Portugal*, neste ato representada por *Fulano de tal*, na qualidade de *cargo do gente boa*, titular do cartão cidadão n° *tal*, válido até *tal data*, na qualidade de empresa anfitriã de **seu nome**, de nacionalidade *brasileira*, nascido a *data tal*, titular do passporte n° *tal*, emitido em *data tal* e válido até *tal data*, declara para os devidos efeitos que ser responsabiliza por todas as despesas inerentes à estada daquele colaborador em Portugal, nomeadamente no que diz respeito a saúde e repatriamento, se necessário.
 
@@ -94,6 +96,8 @@ Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apo
 Portugal e Brasil, além de Itália e Cabo Verde tem um acordo que permite o uso da saúde pública por seus cidadãos entre os países. (Daí a origem da sigla.) **Você só poderá usar hospitais públicos em Portugal (pagando a tarifa moderadora que os portugueses pagam) se tiver esse documento**, que dessa forma se torna praticamente obrigatório para a emissão do visto (a alternativa é a compra de um seguro saúde, algo que envolve custos). Ele é emitido pelo Ministério da Saúde em postos estaduais, e deve ser solicitado presencialmente. Se você é do interior, precisará viajar até a capital do seu estado para solicitá-lo. [Veja aqui mais detalhes e a lista dos endereços dos postos do Ministério da Saúde](https://www.eurodicas.com.br/pb4-como-funciona-e-como-solicitar/). Ao contrário do que alguns blogs online falam, não é necessário reconhecer firma nem apostilar. Precisa levar RG, CPF, passaporte originais (não precisa levar cópias) e comprovante de residência. Se for casado ou tiver união estável, ou tiver filhos, levar RG, CPF, passaporte e o comprovante de vínculo (união estável, certidão de casamento ou nascimento).
 
 O PB4 tem validade de um ano e não pode ser emitido pelos consulados brasileiros em Portugal, de forma que você precisará deixar uma procuração com alguém de confiança para a pessoa renovar para você.
+
+Se você tiver cônjuge e/ou filhos, leve o passaporte deles também. Somente um PB4 é necessário para você e seus dependentes.
 
 Dica: o horário de atendimento é de 9h às 15h mas há poucas senhas distribuídas (ao menos no posto aqui do RJ, distribui-se somente 30 senhas pela manhã), cheguei às 13h e as pessoas que aguardavam atendimento me recomendaram chegar antes das 7h para pegar fila e conseguir ser atendido. Voltei no dia seguinte às 6:40 e já tinha 20 pessoas na fila. Peguei a senha e fui pro trabalho, voltando ao meio-dia para conseguir ser atendido. Por outro lado, um colega da Paraíba disse que foi atendido sem filas, então talvez seja uma limitação da unidade do RJ. A renovação do PB4 é bem mais simples e não precisa pegar fila, basta chegar no horário de atendimento com uma cópia do documento vencido/próximo a vencer.
 
@@ -192,6 +196,29 @@ Os únicos documentos brasileiros necessários para pedir a AR são o passaporte
 
 ### Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)
 
+Seu cônjuge e filhos, se houver, precisarão da seguinte lista de documentos do Brasil para fazer pedir AR por Reagrupamento Familiar:
+
+#### 1. Certidão de Antecedentes Criminais
+Emitida na Polícia Federal, ou no país aonde você viver há pelo menos 1 ano se não for o Brasil. Para filhos, somente se maiores de 16 anos. Deve ter sido emitida há no máximo 3 meses da data da viagem, e deve ser apostilada. Veja mais detalhes neste item na seção anterior.
+
+Note que a data que conta é a data da viagem, não a data do agendamento no SEF. Em outras palavras: como eles sabem que o agendamento demora, contam a validade como sendo a do dia em que você chegou a Portugal.
+
+- Custo: R\$ 0
+- Apostilamento: ~R\$ 50.
+
+#### 2. Certidão de União Estável ou Casamento
+
+**Deve ser emitida a menos de 6 meses da data da viagem para Portugal**. Caso você seja casado ou unido estavelmente a mais tempo, será preciso pedir uma segunda via. É necessário apostilar.
+
+- Custo da segunda via: varia por cartório, ~R\$ 50
+- Apostilamento: ~R\$ 50.
+
+#### 3. Certidão de Nascimento (para menores)
+**Deve ser emitida e menos de 12 meses da data da viagem para Portugal**. Se seu filho tem mais que 1 ano, será preciso pedir uma segunda via. O valor varia por idade. É necessário apostilar.
+
+- Custo da segunda via: varia por cartório e por idade, ~R\$ 50
+- Apostilamento: ~R\$ 50.
+
 ## Em Portugal
 
 Você chegou a Portugal, parabéns! Ainda há diversas burocracias para fazer do lado de cá. Algumas delas poderão ser feitas mesmo antes do visto sair (caso você visite a empresa num processo de _onboarding_ antes de solicitar o visto, por exemplo), outras só após a entrada definitiva. Vamos a lista:
@@ -230,17 +257,52 @@ O pedido de **AR** (Autorização de Residência) é o próximo grande passo bur
 
 A lista de documentos para o pedido de AR é a seguinte:
 
-1. Formulário devidamente preenchido (é fornecido por eles)
-2. Passaporte válido com visto
-3. Comprovativo de meios de subsistência: contrato de trabalho + três últimos recibos de vencimento (se houverem) + declaração comprovativa da atualidade da relação laboral, com o valor de salário mensal/anual, devidamente assinada e carimbada pela empresa (emitido numa data próxima ao agendamento). Nota: estes documentos são emitidos pela empresa, em todo caso segue abaixo um modelo.)
-4. Comprovativo de alojamento: Contrato de arrendamento, 3 últimos recibos de pagamento (se houverem) e registro do contrato de arrendamento nas Finanças (Nota: levei tudo mas somente este último me foi pedido), **ou** Atestado de Residência emitido pela Junta da Freguesia da área de residência (emitido numa data próxima ao agendamento)
-5. NIF
-6. NISS
-7. Seguro de saúde (PB4 ou da empresa). (Nota: levei os dois e foi pedido apenas o PB4.)
+#### 1. Formulário devidamente preenchido (é fornecido por eles)
+#### 2. Passaporte válido com visto
+#### 3. Comprovativo de meios de subsistência
+Contrato de trabalho + três últimos recibos de vencimento + declaração comprovativa da atualidade da relação laboral, com o valor de salário mensal/anual, devidamente assinada e carimbada pela empresa (emitido numa data próxima ao agendamento).
+
+No meu caso, o agendamento foi realizado no mesmo mês do início do contrato de trabalho, então não apresentei os últimos recibos de vencimento, sem nenhum problema.
+
+#### 4. Comprovativo de alojamento
+Contrato de arrendamento, 3 últimos recibos de pagamento e registro do contrato de arrendamento nas Finanças **ou** Atestado de Residência emitido pela Junta da Freguesia da área de residência (emitido numa data próxima ao agendamento).
+
+No meu caso, levei contrato assinado, recibos de pagamento e registro do contrato nas Finanças mas somente este último foi pedido.
+
+#### 5. NIF
+#### 6. NISS
+#### 7. Seguro de saúde (PB4 ou da empresa)
+Levei os dois e foi pedido apenas o PB4.
 
 Uma vez aprovado, o documento vem por carta, sendo entregue na residência, num prazo de 3 semanas. Caso não haja ninguém disponível para receber a carta (é preciso assinar o recebimento) o carteiro deixa um papel indicando que é preciso pegar na agência do CTT num prazo de 6 dias. Caso não pegue neste prazo, o documento volta para o SEF e será preciso pegar com eles.
 
 - Custo: 47,60 €
+
+### 5. Autorização de Residência por Reagrupamento Familiar
+
+Esta seção se aplica a seu cônjuge e filhos, se houver.
+
+Ao contrário da AR para você, que atualmente já vem marcada no visto, é preciso ligar para o SEF para agendar pedido de AR por Reagrupamento Familiar. Observação importante: só ligue e agende a partir da chegada em Portugal, um agendamento realizado numa data anterior a da chegada de seus familiares pode causar problemas.
+
+Além dos documentos brasileiros dos familiares mencionados na seção anterior, são preciso mais estes documentos:
+
+#### 1. Formulário fornecido e preenchido no ato
+#### 2. Passaporte válido
+#### 3. Comprovativo de entrada legal em Portugal
+No caso, o carimbo de entrada no passaporte é o suficiente.
+#### 4. Visto de Residência ou Cartão de Autorização de Residência do Principal
+Principal é você, no caso.
+#### 5. Comprovativo de meios de subsistência do Principal
+Contrato de trabalho + 3 últimos recibos de vencimento.
+#### 6. Comprovativo de alojamento
+Contrato de arrendamento, 3 últimos recibos de pagamento e registro do contrato de arrendamento nas Finanças **ou** Atestado de Residência emitido pela Junta da Freguesia da área de residência (emitido numa data próxima ao agendamento).
+#### 7. NIF
+Seu, do cônjuge e dos filhos.
+#### 8. Autorização para Consulta do Registro Criminal pelo SEF
+Formulário fornecido e preenchido no ato
+#### 9. Seguro Saúde
+#### 10. Declaração da Escola comprovando frequência no ano letivo em curso
+#### 11. Declaração do pai ou mãe não residente
 
 ## Extras
 
