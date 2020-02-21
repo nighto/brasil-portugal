@@ -40,6 +40,22 @@ Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de
 
 O contrato de trabalho deve ser assinado por você e pela empresa em 3 vias, sendo uma da empresa, uma sua e uma para o consulado. A empresa pode enviar as 3 cópias previamente assinadas pelos Correios e pedir para que você envie de volta uma das cópias, ou te convidar para um processo de _onboarding_ presencial em Portugal, de forma que você assinará e retornará com os documentos para iniciar o processo de visto.
 
+A declaração da empresa é um papel timbrado, datado e assinado pelo gerente da empresa com um texto nessas linhas gerais:
+
+> A **Empresa XPTO** é uma empresa Portuguesa na área da tecnologia informática, etc e tal. (...) Devido ao seu exponencial cresimento, a **Empresa XPTO** procura mão-de-obra que (i) já tenha desenvolvido vários projetos nesta área e (ii) saiba utilizar os meios informáticos anteriormente desenvolvidos. Contratar colaboradores experientes no sector, a quem não seja necessário prestar uma formação intensiva, constitui uma enorme mais-valia para a **Empresa XPTO**. (...) Por todas as razões acima identificadas, considerou a **Empresa XPTO** essencial contratar um colaborador brasileiro, o qual reúne todas as características acima evidenciadas.
+>
+> É neste sentido que o requerente *seu nome completo* é contratado pela empresa, com a categorial profissional de *o que você irá fazer*.
+>
+> O Requerente irá desempenhar as seguintes funções principais: *descrição técnica do que voc~e irá fazer.*
+>
+> Sucede ainda que, após um enorme esforço de muita procura, a área de recursos humanos da **Empresa XPTO** não logrou identificar qualquer colaborador que se revelasse, não só pelas suas qualificações, como pela sua experiência e formação, ser tão adequado para o cargo que o colaborador em causa vai desempenhar.
+>
+> Por odas estas razões, e ponderado todo o enquadramento acima referido, a **Empresa XPTO** optou então pela contratação de um colaborador brasileiro para os seus quadros.
+
+A carta convite é um documento descrevendo seus benefícios contratuais: qual o valor mensal ou anual de salário, quantos dias de férias, quanto de auxílio-alimentação etc. Finalmente o termo de responsabilidde é uma declaração datada e assinada em papel timbrado nessas linhas gerais:
+
+> **Empresa XPTO**, com o NIF *123456789* com sede na *Rua tal, CP tal, cidade tal, Portugal*, neste ato representada por *Fulano de tal*, na qualidade de *cargo do gente boa*, titular do cartão cidadão n° *tal*, válido até *tal data*, na qualidade de empresa anfitriã de **seu nome**, de nacionalidade *brasileira*, nascido a *data tal*, titular do passporte n° *tal*, emitido em *data tal* e válido até *tal data*, declara para os devidos efeitos que ser responsabiliza por todas as despesas inerentes à estada daquele colaborador em Portugal, nomeadamente no que diz respeito a saúde e repatriamento, se necessário.
+
 ### Documentos pessoais
 
 #### 1. Passaporte + cópia autenticada
@@ -73,7 +89,7 @@ Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apo
 - Custo: R\$ 0;
 - Apostilamento: ~R\$ 50.
 
-#### 4. PB4
+#### 4. PB4 e Seguro Saúde
 
 Portugal e Brasil, além de Itália e Cabo Verde tem um acordo que permite o uso da saúde pública por seus cidadãos entre os países. (Daí a origem da sigla.) **Você só poderá usar hospitais públicos em Portugal (pagando a tarifa moderadora que os portugueses pagam) se tiver esse documento**, que dessa forma se torna praticamente obrigatório para a emissão do visto (a alternativa é a compra de um seguro saúde, algo que envolve custos). Ele é emitido pelo Ministério da Saúde em postos estaduais, e deve ser solicitado presencialmente. Se você é do interior, precisará viajar até a capital do seu estado para solicitá-lo. [Veja aqui mais detalhes e a lista dos endereços dos postos do Ministério da Saúde](https://www.eurodicas.com.br/pb4-como-funciona-e-como-solicitar/). Ao contrário do que alguns blogs online falam, não é necessário reconhecer firma nem apostilar. Precisa levar RG, CPF, passaporte originais (não precisa levar cópias) e comprovante de residência. Se for casado ou tiver união estável, ou tiver filhos, levar RG, CPF, passaporte e o comprovante de vínculo (união estável, certidão de casamento ou nascimento).
 
@@ -84,6 +100,8 @@ Dica: o horário de atendimento é de 9h às 15h mas há poucas senhas distribu�
 Para pessoas do estado de **SP**: um colega paulista disse que o Ministério da Saúde leva 30 dias para emitir o documento, ao passo que no RJ saiu na hora. Então se você estiver com pressa pode valer a pena fazer um bate-volta no RJ (ou em outro estado qualquer) para solicitar o PB4 na hora.
 
 - Custo: R\$ 0.
+
+**A partir de Fevereiro de 2020, tornou-se obrigatório além do PB4 ter também um Seguro Viagem pelo prazo do contrato de trabalho (em geral um ano).** Como a data da viagem é uma incógnita, sugiro a contratação de um seguro que possa ser cancelado em tempo hábil, somente o contratando definitivamente numa data mais próxima a viagem. [Veja mais detalhes no site Euro Dicas](https://www.eurodicas.com.br/pb4-ja-nao-e-valido-para-emissao-de-vistos-em-portugal/).
 
 #### 5. Diploma universitário + apostilamento
 
