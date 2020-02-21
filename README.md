@@ -75,7 +75,7 @@ Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apo
 
 #### 4. PB4
 
-Portugal e Brasil, além de Itália e Cabo Verde tem um acordo que permite o uso da saúde pública por seus cidadãos entre os países. (Daí a origem da sigla.) **Você só poderá usar hospitais públicos em Portugal se tiver esse documento**, que dessa forma se torna praticamente obrigatório para a emissão do visto (a alternativa é a compra de um seguro saúde, algo que envolve custos). Ele é emitido pelo Ministério da Saúde em postos estaduais, e deve ser solicitado presencialmente. Se você é do interior, precisará viajar até a capital do seu estado para solicitá-lo. [Veja aqui mais detalhes e a lista dos endereços dos postos do Ministério da Saúde](https://www.eurodicas.com.br/pb4-como-funciona-e-como-solicitar/). Ao contrário do que alguns blogs online falam, não é necessário reconhecer firma nem apostilar. Precisa levar RG, CPF, passaporte originais (não precisa levar cópias) e comprovante de residência. Se for casado ou tiver união estável, ou tiver filhos, levar RG, CPF, passaporte e o comprovante de vínculo (união estável, certidão de casamento ou nascimento).
+Portugal e Brasil, além de Itália e Cabo Verde tem um acordo que permite o uso da saúde pública por seus cidadãos entre os países. (Daí a origem da sigla.) **Você só poderá usar hospitais públicos em Portugal (pagando a tarifa moderadora que os portugueses pagam) se tiver esse documento**, que dessa forma se torna praticamente obrigatório para a emissão do visto (a alternativa é a compra de um seguro saúde, algo que envolve custos). Ele é emitido pelo Ministério da Saúde em postos estaduais, e deve ser solicitado presencialmente. Se você é do interior, precisará viajar até a capital do seu estado para solicitá-lo. [Veja aqui mais detalhes e a lista dos endereços dos postos do Ministério da Saúde](https://www.eurodicas.com.br/pb4-como-funciona-e-como-solicitar/). Ao contrário do que alguns blogs online falam, não é necessário reconhecer firma nem apostilar. Precisa levar RG, CPF, passaporte originais (não precisa levar cópias) e comprovante de residência. Se for casado ou tiver união estável, ou tiver filhos, levar RG, CPF, passaporte e o comprovante de vínculo (união estável, certidão de casamento ou nascimento).
 
 O PB4 tem validade de um ano e não pode ser emitido pelos consulados brasileiros em Portugal, de forma que você precisará deixar uma procuração com alguém de confiança para a pessoa renovar para você.
 
@@ -162,15 +162,15 @@ Feito isto, será marcado um dia para a visita à VFS Global, empresa que faz a 
 
 ## Após o visto ter sido aprovado, ainda no Brasil
 
-Após algum tempo de ansiedade e incertezas, num prazo que pode levar de 15 dias a 6 meses, você teve o visto aprovado! Com isto a empresa já irá comprar a passagem para um dia a sua escolha, se isto estiver no seu pacote de contratação, ou você mesmo poderá comprá-la, para uma data de até **4 meses** após a emissão do visto. O visto de trabalho D3 é válido por este período, e já vem com um agendamento para pedido de Autorização de Residência (AR) junto ao SEF.
+Após algum tempo de ansiedade e incertezas, num prazo que pode levar de 15 dias a 6 meses, você teve o visto aprovado! Com isto a empresa já irá comprar a passagem para um dia a sua escolha, se isto estiver no seu pacote de contratação, ou você mesmo poderá comprá-la, para uma data de até **4 meses** após a emissão do visto. O visto de trabalho D3 é válido por este período, e já vem com um agendamento para pedido de Autorização de Residência (AR) junto ao SEF. Veja mais detalhes sobre este processo numa seção mais abaixo.
 
-Note que o agendamento marcado pode ser num prazo superior aos 4 meses de duração do visto, não há problema. **Você não ficará ilegal neste período.** Porém neste período - entre a data final do visto de trabalho, e o recebimento da Autorização de Residência - você não poderá viajar entre os países da Europa (leia-se Espaço Schenghen), somente permanecer em Portugal. 
+Note que o agendamento marcado pode ser num prazo superior aos 4 meses de duração do visto, não há problema. **Você não ficará ilegal neste período.** Porém neste período - entre a data final do visto de trabalho, e o recebimento da Autorização de Residência - você não poderá viajar entre os países da Europa (leia-se Espaço Schenghen), somente permanecer em Portugal. Ao menos em teoria, uma vez que não há controle migratório entre os países do Espaço Schenghen - em geral sequer se mostra o passaporte -, mas convém não arriscar.
 
 Dica: dependendo da cidade que se vá trabalhar, a marcação pode levar um bom tempo (por exemplo, meu visto foi emitido em 27/12/2019 e a visita ao SEF do Porto estava marcada para 10/07/2020). É possível ligar para o SEF e marcar em outra cidade com um prazo menor. No meu caso, consegui agendamento para o SEF em Braga em 20/02/2020.
 
-Para este pedido de Autorização de Residência, deverão ser levados alguns documentos, a lista é parecida com a do pedido do visto mas alguns precisam ser apostilados ao invés de autenticados, ou emitidos novamente se for o caso. Veja a lista a seguir.
-
 ### Documentos para Autorização de Residência
+
+Os únicos documentos brasileiros necessários para pedir a AR são o passaporte com visto e o PB4, mas alguns documentos portugueses são necessários, veja mais detalhes na seção abaixo.
 
 ### Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)
 
@@ -192,19 +192,37 @@ Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento
 
 ### 2. Conta Bancária
 
-Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 500 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, declaração de imposto de renda (brasileiro) e NIF abre-se a conta na hora e também já é fornecido no ato o cartão de débito. Não precisa tirar cópias pois eles fazem no banco. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário.
+Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 500 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, declaração de imposto de renda (brasileiro) e NIF abre-se a conta na hora e também já é fornecido no ato o cartão de débito. Não precisa tirar cópias pois eles fazem no banco. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário. Assim como o NIF, a conta bancária também pode ser aberta sem um visto, caso você faça um _onboarding_ presencial antes da emissão do visto.
 
 - Custo: 500 € (podendo sacar imediatamente após a abertura da conta).
 
 ### 3. NISS
 
-O **NISS** (Número de Identificação de Segurança Social) é equivalente ao nosso PIS. É criado preenchendo um formulário impresso e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. Veja mais detalhes [na página do CTT](https://www.ctt.pt/faq/pontos-ctt/servicos-de-apoio-ao-cidadao/certificacao-de-fotocopias.html).
+O **NISS** (Número de Identificação de Segurança Social) é equivalente ao nosso PIS. É criado preenchendo um formulário impresso e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. A emissão do NISS é gratuita, mas a fotocópia certificada custa 18 €. Veja mais detalhes [na página do CTT](https://www.ctt.pt/faq/pontos-ctt/servicos-de-apoio-ao-cidadao/certificacao-de-fotocopias.html).
 
 Uma vez recebido o número por email é possível acessar o [site do NISS, registrar acesso e solicitar senha de acesso por carta](https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin).
 
 [Veja mais detalhes sobre o NISS neste artigo no site do Euro Dicas](https://www.eurodicas.com.br/niss-como-fazer/).
 
-- Custo: 18 € 
+- Custo: 18 €
+
+### 4. Autorização de Residência (AR)
+
+O pedido de **AR** (Autorização de Residência) é o próximo grande passo burocrático após a chegada em Portugal. Consiste de uma visita a um posto do **SEF** (Serviço de Estrangeiros e Fronteiras, com atribuições similares às da nossa Polícia Federal) numa data agendada, levando uma série de documentos. Mais recentemente, a data do agendamento já vem numa URL impressa no próprio visto de trabalho, mas sempre é possível tentar ligar para o SEF e conseguir uma data mais próxima em alguma cidade vizinha menor. No meu caso, trabalho e moro no Porto, mas fui atendido em Braga (1h de trem) por ter data mais próxima.
+
+A lista de documentos para o pedido de AR é a seguinte:
+
+1. Formulário devidamente preenchido (é fornecido por eles)
+2. Passaporte válido com visto
+3. Comprovativo de meios de subsistência: contrato de trabalho + três últimos recibos de vencimento (se houverem) + declaração comprovativa da atualidade da relação laboral, com o valor de salário mensal/anual, devidamente assinada e carimbada pela empresa (emitido numa data próxima ao agendamento). Nota: estes documentos são emitidos pela empresa, em todo caso segue abaixo um modelo.)
+4. Comprovativo de alojamento: Contrato de arrendamento, 3 últimos recibos de pagamento (se houverem) e registro do contrato de arrendamento nas Finanças (Nota: levei tudo mas somente este último me foi pedido), **ou** Atestado de Residência emitido pela Junta da Freguesia da área de residência (emitido numa data próxima ao agendamento)
+5. NIF
+6. NISS
+7. Seguro de saúde (PB4 ou da empresa). (Nota: levei os dois e foi pedido apenas o PB4.)
+
+Uma vez aprovado, o documento vem por carta, sendo entregue na residência, num prazo de 3 semanas. Caso não haja ninguém disponível para receber a carta (é preciso assinar o recebimento) o carteiro deixa um papel indicando que é preciso pegar na agência do CTT num prazo de 6 dias. Caso não pegue neste prazo, o documento volta para o SEF e será preciso pegar com eles.
+
+- Custo: 47,60 €
 
 ## Extras
 
