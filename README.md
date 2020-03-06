@@ -271,7 +271,10 @@ Contrato de arrendamento, 3 últimos recibos de pagamento e registro do contrato
 No meu caso, levei contrato assinado, recibos de pagamento e registro do contrato nas Finanças mas somente este último foi pedido.
 
 #### 5. NIF
+
 #### 6. NISS
+Basta o email impresso mencionando o número do NISS.
+
 #### 7. Seguro de saúde (PB4 ou da empresa)
 Levei os dois e foi pedido apenas o PB4.
 
