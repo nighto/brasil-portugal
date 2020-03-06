@@ -47,7 +47,7 @@ A declaração da empresa é um papel timbrado, datado e assinado pelo gerente d
 >
 > É neste sentido que o requerente *seu nome completo* é contratado pela empresa, com a categorial profissional de *o que você irá fazer*.
 >
-> O Requerente irá desempenhar as seguintes funções principais: *descrição técnica do que voc~e irá fazer.*
+> O Requerente irá desempenhar as seguintes funções principais: *descrição técnica do que você irá fazer.*
 >
 > Sucede ainda que, após um enorme esforço de muita procura, a área de recursos humanos da **Empresa XPTO** não logrou identificar qualquer colaborador que se revelasse, não só pelas suas qualificações, como pela sua experiência e formação, ser tão adequado para o cargo que o colaborador em causa vai desempenhar.
 >
