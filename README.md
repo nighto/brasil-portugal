@@ -15,6 +15,7 @@ Existem alguns tipos de vistos possíveis para trabalhar de forma legal em Portu
 - **D3** - _"Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado"_, para trabalhadores especializados com contrato, parecido com a nossa **"carteira assinada"**
   - [Tech Visa](<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx>) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf).
 - **D2** - _"Visto para emigrantes empreendedores"_, para quem vai trabalhar como "recibos verdes", **"como PJ"**
+- **D1** - _"Visto de residência para atividade exercida por trabalhador subordinado"_, similar ao D3 porém para áreas que não sejam de tecnologia.
 
 No meu caso, fiz o **D3 (sem Tech Visa)**, então para detalhes sobre os outros tipos de visto, **pull requests são bem-vindos**.
 
