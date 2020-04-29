@@ -234,7 +234,9 @@ Veja mais detalhes no site [Euro Dicas](https://www.eurodicas.com.br/nif-portuga
 
 - Custo: 10,20 € por pessoa.
 
-Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento - é preciso voltar às Finanças para atualizar sua morada fiscal. Neste caso, você deixa de precisar do representante fiscal e passa a poder ser o representante fiscal de seu cônjuge e/ou filhos. É importante tirar o NIF para o cônjuge, ainda que ele não trabalhe, e também para os filhos para efeito de dedução de imposto de renda relativo a dependentes. Para isso, você precisará levar o contrato de arrendamento e comprovante de agendamento no SEF.
+Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento - é preciso voltar às Finanças para atualizar sua morada fiscal. Neste caso, você deixa de precisar do representante fiscal e passa a poder ser o representante fiscal de seu cônjuge e/ou filhos. Alternativamente, para pessoas que não tem um contrato de arrendamento no próprio nome por dividir apartamento etc., é possível obter um Comprovativo de Morada junto a Freguesia, mas não sei mais detalhes porque usei o contrato de arrendamento.
+
+É importante tirar o NIF para o cônjuge, ainda que ele não trabalhe, e também para os filhos para efeito de dedução de imposto de renda relativo a dependentes. Para isso, você precisará levar o comprovante de agendamento no SEF e um dos dois documentos: contrato de arrendamento **ou** comprovativo de moradia obtido junto a Freguesia.
 
 ### 2. Conta Bancária
 
