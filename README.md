@@ -85,7 +85,7 @@ Dica da dica: para incluir o tipo sanguíneo é necessário apresentar um exame 
 
 #### 3. Antecedentes Criminais na Polícia Federal + apostilamento
 
-[A Polícia Federal emite um documento atestando que não há condenações criminais em seu nome.](http://www.pf.gov.br/servicos-pf/antecedentes-criminais) Este documento pode ser emitido online gratuitamente e sai na hora, tem validade de 90 dias e precisa ser apostilado (verifique o anexo o significado deste termo).
+[A Polícia Federal emite um documento atestando que não há condenações criminais em seu nome.](http://www.pf.gov.br/servicos-pf/antecedentes-criminais) Este documento pode ser emitido online gratuitamente, sai na hora, tem validade de 90 dias e precisa ser apostilado (verifique o anexo o significado deste termo).
 
 Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos, do contrário pagará pelo apostilamento de um documento que não terá mais valor no decorrer do processo.
 
