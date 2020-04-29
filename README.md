@@ -28,7 +28,7 @@ Alternativamente, se você for filho, neto ou bisneto de portugueses, é possív
 
 Para tirar este visto de trabalho, você precisará de diversos documentos. Alguns devem ser apresentados no original, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará fazer o _apostilamento_. Verifique o anexo no final sobre mais detalhes desses procedimentos.
 
-Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de visto de trabalho; os demais familiares farão um pedido de _Autorização de Residência por Reagrupamento Familiar_, só em Portugal. Mais abaixo listo os documentos necessários para tal.
+Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de visto de trabalho; os demais familiares farão um pedido de _Autorização de Residência por Reagrupamento Familiar_, só em Portugal - isto é, entram como turistas (e portanto precisam comprovar passagem de volta) e só então fazem o processo. Mais abaixo listo os documentos necessários para tal.
 
 ## Antes de pedir o visto
 
@@ -51,7 +51,7 @@ A declaração da empresa é um papel timbrado, datado e assinado pelo gerente d
 >
 > Sucede ainda que, após um enorme esforço de muita procura, a área de recursos humanos da **Empresa XPTO** não logrou identificar qualquer colaborador que se revelasse, não só pelas suas qualificações, como pela sua experiência e formação, ser tão adequado para o cargo que o colaborador em causa vai desempenhar.
 >
-> Por odas estas razões, e ponderado todo o enquadramento acima referido, a **Empresa XPTO** optou então pela contratação de um colaborador brasileiro para os seus quadros.
+> Por todas estas razões, e ponderado todo o enquadramento acima referido, a **Empresa XPTO** optou então pela contratação de um colaborador brasileiro para os seus quadros.
 
 A carta convite é um documento descrevendo seus benefícios contratuais: qual o valor mensal ou anual de salário, quantos dias de férias, quanto de auxílio-alimentação etc.
 
