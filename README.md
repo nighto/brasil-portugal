@@ -307,8 +307,13 @@ Seu, do cônjuge e dos filhos.
 #### 8. Autorização para Consulta do Registro Criminal pelo SEF
 Formulário fornecido e preenchido no ato
 #### 9. Seguro Saúde
+PB4 apostilado.
 #### 10. Declaração da Escola comprovando frequência no ano letivo em curso
 #### 11. Declaração do pai ou mãe não residente
+#### 12. Documento comprovando a ligação
+Certidão de casamento ou união estável, para cônjuges, ou certidão de nascimento, para filhos, em ambos os casos apostilada.
+#### 13. Certidão de Antecedentes Criminais da Polícia Federal
+Para maiores de 16 anos, apostilada.
 
 ## Extras
 
