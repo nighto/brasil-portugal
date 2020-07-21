@@ -226,7 +226,7 @@ Você chegou a Portugal, parabéns! Ainda há diversas burocracias para fazer do
 
 ### 1. NIF
 
-O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF e CNPJ (empresas também tem NIF). Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que _pode ser feito mesmo sem ter visto de trabalho_. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "\[Número de\] contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
+O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF e CNPJ (empresas também tem NIF). Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que _pode ser feito mesmo sem ter visto de trabalho_. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "\[Fatura com número de\] contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
 
 Para abrir um NIF sem ter residência em Portugal, você precisará do passaporte, comprovante de residência do Brasil e ir junto com um "representante fiscal" (que pode ser um cidadão português - um funcionário do RH da empresa, como foi meu caso, por exemplo - ou um estrangeiro com residência permanente) até um centro de atendimento dos Serviços de Finanças (loja própria ou dentro de uma das Lojas do Cidadão) com estes documentos (não precisa de cópias) e fazer o pagamento de uma taxa de € 10,20. Caso você tenha cônjuge e/ou filhos morando em Portugal, é necessário criar um NIF para eles também. Não é necessário agendamento prévio, pega senha para atendimento na hora.
 
@@ -280,7 +280,9 @@ Basta o email impresso mencionando o número do NISS.
 #### 7. Seguro de saúde (PB4 ou da empresa)
 Levei os dois e foi pedido apenas o PB4.
 
-Uma vez aprovado, o documento vem por carta, sendo entregue na residência, num prazo de 3 semanas. Caso não haja ninguém disponível para receber a carta (é preciso assinar o recebimento) o carteiro deixa um papel indicando que é preciso pegar na agência do CTT num prazo de 6 dias. Caso não pegue neste prazo, o documento volta para o SEF e será preciso pegar com eles.
+Uma vez aprovado, o documento - Título de Residência, em um cartão plástico - vem por carta, sendo entregue na residência, num prazo de 3 semanas. Caso não haja ninguém disponível para receber a carta (é preciso assinar o recebimento) o carteiro deixa um papel indicando que é preciso pegar na agência do CTT num prazo de 6 dias. Caso não pegue neste prazo, o documento volta para o SEF e será preciso pegar com eles. Já adiantando uma dúvida que tinha, no Título de Residência há dois números; o número do título é o do canto superior direito do documento (9 caracteres).
+
+A validade da Autorização de Residência é de um ano, e findo este prazo é preciso renová-la. Antes essa renovação era preciso ser feita presencialmente, através de novo agendamento no SEF; desde o segundo semestre de 2020 a renovação está sendo feita online pelo site deles.
 
 - Custo: 47,60 €
 
@@ -314,6 +316,10 @@ PB4 apostilado.
 Certidão de casamento ou união estável, para cônjuges, ou certidão de nascimento, para filhos, em ambos os casos apostilada.
 #### 13. Certidão de Antecedentes Criminais da Polícia Federal
 Para maiores de 16 anos, apostilada.
+
+### 6. Número de Utente
+
+Utente neste caso quer dizer Paciente, e é um número atribuído pelo Sistema Nacional de Saúde, que o identifica como paciente tanto na rede pública quanto na privada. Ao fazer consultas, exames etc., todo o histórico fica associado ao Número de Utente, e ele será necessário em alguns casos como por exemplo para fazer a matrícula de crianças na escola, por exemplo. Para ter um Número de Utente, é preciso primeiro ter pedido a Autorização de Residência e ter o Título de Residência em mãos. Uma vez tendo recebido o documento, vá até um Centro de Saúde para criar o número (pendente mais detalhes...)
 
 ## Extras
 
