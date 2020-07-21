@@ -1,8 +1,29 @@
 # 🇧🇷➡️🇵🇹
 
-Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal.
+Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal, um passo a passo com os procedimentos associados e dicas não relacionadas mas que podem ser úteis.
 
-(Em construção, não contém informações completas!)
+* [Introdução](#introdu%C3%A7%C3%A3o)
+* [Tipos de visto](#tipos-de-visto)
+* [Visto D3 - Documentação Necessária](#visto-d3---documenta%C3%A7%C3%A3o-necess%C3%A1ria)
+  * [Antes de pedir o visto](#antes-de-pedir-o-visto)
+    - [Documentos da empresa](#documentos-da-empresa)
+    - [Documentos pessoais](#documentos-pessoais)
+    - [Agendamento](#agendamento)
+  * [Após o visto ter sido aprovado, ainda no Brasil](#ap%C3%B3s-o-visto-ter-sido-aprovado-ainda-no-brasil)
+    - [Documentos para Autorização de Residência](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia)
+    - [Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar-para-seu-c%C3%B4njuge-eou-filhos)
+  * [Em Portugal](#em-portugal)
+    - [1. NIF](#1-nif)
+    - [2. Conta Bancária](#2-conta-banc%C3%A1ria)
+    - [3. NISS](#3-niss)
+    - [4. Autorização de Residência (AR)](#4-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-ar)
+    - [5. Autorização de Residência por Reagrupamento Familiar](#5-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar)
+    - [6. Número de Utente](#6-n%C3%BAmero-de-utente)
+  * [Extras](#extras)
+    - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
+    - [Reconhecimento de firma](#reconhecimento-de-firma)
+    - [Apostila da Haia](#apostila-da-haia)
+    - [Procuração](#procura%C3%A7%C3%A3o)
 
 # Introdução
 
