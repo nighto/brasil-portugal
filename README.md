@@ -13,12 +13,21 @@ Este repositório contém informações e dicas do processo de visto para brasil
     - [Documentos para Autorização de Residência](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia)
     - [Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar-para-seu-c%C3%B4njuge-eou-filhos)
 * [Em Portugal](#em-portugal)
-    - [1. NIF](#1-nif)
-    - [2. Conta Bancária](#2-conta-banc%C3%A1ria)
-    - [3. NISS](#3-niss)
-    - [4. Autorização de Residência (AR)](#4-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-ar)
-    - [5. Autorização de Residência por Reagrupamento Familiar](#5-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar)
-    - [6. Número de Utente](#6-n%C3%BAmero-de-utente)
+  - [1. NIF](#1-nif)
+  - [2. Conta Bancária](#2-conta-banc%C3%A1ria)
+  - [3. NISS](#3-niss)
+  - [4. Autorização de Residência (AR)](#4-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-ar)
+  - [5. Autorização de Residência por Reagrupamento Familiar](#5-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar)
+  - [6. Número de Utente](#6-n%C3%BAmero-de-utente)
+  - [7. Cartão Europeu Seguro Doença](#7-cartão-europeu-seguro-doença)
+* [Dicas](#dicas)
+  * [Transporte](#transporte)
+    - [Transporte público](#transporte-público)
+      - [Transporte público no Porto](#transporte-público-no-porto)
+    - [Aplicativos](#aplicativos)
+  - [Internet](#internet)
+  - [Energia elétrica e gás](#energia-elétrica-e-gás)
+  - [Água e esgoto](#água-e-esgoto)
 * [Extras](#extras)
   - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
   - [Reconhecimento de firma](#reconhecimento-de-firma)
@@ -259,6 +268,8 @@ Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento
 
 É importante tirar o NIF para o cônjuge, ainda que ele não trabalhe, e também para os filhos para efeito de dedução de imposto de renda relativo a dependentes. Para isso, você precisará levar o comprovante de agendamento no SEF e um dos dois documentos: contrato de arrendamento **ou** comprovativo de moradia obtido junto a Freguesia.
 
+Uma vez tendo recebido a AR, é possível acessar o [Portal das Finanças](https://www.portaldasfinancas.gov.pt/) e solicitar acesso, recebendo um código por carta. Este acesso será necessário para fazer a declaração do imposto de renda a partir do próximo ano, então convém já deixar o acesso pronto para agilizar.
+
 ## 2. Conta Bancária
 
 Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 500 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, declaração de imposto de renda (brasileiro) e NIF abre-se a conta na hora e também já é fornecido no ato o cartão de débito. Não precisa tirar cópias pois eles fazem no banco. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário. Assim como o NIF, a conta bancária também pode ser aberta sem um visto, caso você faça um _onboarding_ presencial antes da emissão do visto.
@@ -269,7 +280,7 @@ Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recome
 
 O **NISS** (Número de Identificação de Segurança Social) é equivalente ao nosso PIS. É criado preenchendo um formulário impresso e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. A emissão do NISS é gratuita, mas a fotocópia certificada custa 18 €. Veja mais detalhes [na página do CTT](https://www.ctt.pt/faq/pontos-ctt/servicos-de-apoio-ao-cidadao/certificacao-de-fotocopias.html).
 
-Uma vez recebido o número por email é possível acessar o [site do NISS, registrar acesso e solicitar senha de acesso por carta](https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin).
+Uma vez recebido o número por email é possível acessar o [site do NISS, registrar acesso e solicitar senha de acesso por carta](https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin), o que recomendo que já seja feito o quanto antes pois será necessário para outros pedidos, como o do Cartão Europeu Seguro Doença (mais detalhes sobre isso abaixo).
 
 [Veja mais detalhes sobre o NISS neste artigo no site do Euro Dicas](https://www.eurodicas.com.br/niss-como-fazer/).
 
@@ -373,6 +384,81 @@ O site menciona que deve-se fazer o pedido pessoalmente, porém devido ao contex
 > Atenciosamente,
 > __seu nome__
 
+Custo: 0.
+
+## 7. Cartão Europeu Seguro Doença
+
+O __Cartão Europeu Seguro Doença__ ou CESD é um cartão plástico que garante atendimento nos hospitais públicos em todos os países da União Europeia com mesmos direitos de cidadãos portugueses (isto é, pagando a mesma taxa moderadora que você pagaria em Portugal). Dessa forma é uma boa ideia tirar o CESD para eventuais utilizações emergenciais em viagens pela Europa, ainda que você tenha plano de saúde pago pela empresa (uma vez que em geral os planos de saúde são por coparticipação e a taxa será maior que a taxa moderadora do hospital público). Para quem tem NISS e trabalha é possível pedir online (após pedir acesso à Segurança Social direta e receber o código por carta); para os familiares será necessário marcar agendamento presencial na Segurança Social.
+
+Veja mais detalhes em: [Cartão Europeu de Seguro de Doença - seg-social.pt](http://www.seg-social.pt/pedido-cartao-europeu-seguro-doenca).
+
+Custo: 0.
+
+
+# Dicas
+
+Nessa seção listo algumas dicas para as coisas que não sejam burocracias governamentais relativas à mudança.
+
+## Transporte
+
+### Transporte Público
+
+#### Transporte Público no Porto
+
+Nessa seção detalho o transporte público da região do Porto, PRs com detalhes de Lisboa e outras regiões são bem-vindos :)
+
+No Porto existe o [Metro do Porto](https://www.metrodoporto.pt/) com 6 linhas de metrô/VLT, a [CP Comboios de Portugal](https://www.cp.pt/passageiros/pt) com 4 linhas de trens suburbanos, além de uma rede extensa de autocarros (ônibus) operados pela [STCP](https://www.stcp.pt/) e empresas locais, como a [Maré de Matosinhos](https://maredematosinhos.pt/), além de 3 linhas de eléctrico (bonde) e outros transportes turísticos.
+
+Para acessar essa rede, você irá precisar de um [cartão Andante](https://www.linhandante.com/), que custa € 0,60, tem validade de um ano e pode ser comprado em qualquer estação do Metro. Quanto às tarifas, a cidade tem um sistema de zonas, de forma que viagens curtas são mais baratas que viagens longas. O bilhete com a menor distância (Z2, 2 zonas) custa € 1,20, o Z3 custa € 1,60 e assim sucessivamente. Cada bilhete possui uma duração (Z2 e Z3 1h, Z4 1h15 e assim sucessivamente) e é possível pegar vários transportes pagando uma só passagem dentro desse horário. Alternativamente, é possível pagar os autocarros com dinheiro trocado, comprando a passagem com o motorista (mas nesse caso não é permitido fazer baldeação).
+
+As estações do Metro e CP assim como os autocarros não possuem catracas/roletas e a validação do bilhete deve ser feita sempre na estação no caso do Metro e comboio (exceto nos ônibus, que é feito próximo ao motorista). Deve-se validar sempre que mudar de veículo ou linha, mesmo que isso não implique no pagamento de outra passagem. Nesse vídeo explico um pouco melhor: https://youtu.be/voYF50pe_9k
+
+Alternativamente ao uso dos bilhetes eventuais, é possível comprar passes diários e semanais (com valores variados a depender das zonas), ou ainda um passe mensal, que custa € 30 para andar em 3 zonas (determinadas, não quaisquer) ou € 40 para andar em toda a região metropolitana e com isso não se preocupar mais com as zonas tarifárias. Os passes diários e semanais podem ser comprados direto nas máquinas de venda de bilhetes, mas para comprar o passe mensal é preciso ir a uma [Loja Andante](https://www.linhandante.com/ondesecompra.asp) com passaporte e comprar um cartão Andante prateado, com nome e foto (tirada na hora), que custa € 6 e tem validade de 10 anos. A validade do bilhete mensal é _até o final do mês_ (não são 30 dias, atenção para não jogar dinheiro fora) e a recarga pode ser feita em qualquer máquina de venda de bilhetes do Metro, além das lojas Andante. Também há uma opção de [passe mensal familiar](https://www.linhandante.com/noticias-det.asp?noticiaid=165) a € 60 (3 zonas) / € 80 (metropolitano).
+
+Crianças com menos de 4 anos não pagam passagem; com menos de 13 anos pagam passagem, mas é possível adquirir na Loja Andante um cartão Sub-13 para não pagar ([mais detalhes aqui](https://www.linhandante.com/noticias-det.asp?noticiaid=157)); e dos 13 aos 18 anos há um cartão com desconto no valor da passagem.
+
+### Aplicativos
+
+Além do Uber, que eu imagino que você já tenha conta, há outros dois players no mercado de [TVDE - Transporte Individual e Remunerado de Passageiros em Veículos Descaracterizados a partir de Plataforma Eletrónica](https://www.razaoautomovel.com/2019/03/tvde-sabe-significado): [Bolt](https://invite.bolt.eu/CEMYCM) e [Free Now](https://www.free-now.com). Os preços costumam ser um pouco mais baixos que os do Uber, por fazerem com frequência campanhas oferecendo descontos. Um diferencial do Bolt que achei interessante é que você pode solicitar carros elétricos.
+
+Para quem tem crianças de 3 anos ou mais: é frequente que os motoristas tenham assentos de elevação (mas não cadeirinhas para crianças mais novas). Convém mandar uma mensagem para o motorista após fazer o pedido para ter certeza. Nesse sentido, o Uber é mais prático, pois o Bolt por exemplo não permite o envio de mensagens de texto, somente ligação.
+
+O Free Now além de ter motoristas de aplicativo e taxistas, também pode ser utilizado para aluguel de trotinetes eléctricos (patinetes elétricos) e bicicletas _dockless_.
+
+O link do Bolt já tem um código de convite com € 1,60 de desconto, no Free Now você pode usar o código __2a0twwxbe__ para ter 2€ de desconto. ;-)
+
+
+## Internet
+
+Existem diversos provedores de internet fixa, como Vodafone, MEO, NOS, Nowo, e em geral fechando um pacote com fidelidade - que costuma ser de 2 anos - há alguma oferta, como descontos expressivos (que podem chegar a 100% dependendo do plano contratado) para a compra de itens como celular, TV, geladeira etc. Além disso, há uma loja de eletroeletrônicos chamada [Worten](https://www.worten.pt), que seria algo similar a uma Ricardo Eletro, que oferece ainda uma oferta secundária, fora a oferta da operadora. Por exemplo, fechei um contrato de 2 anos de internet fixa, telefone fixo e duas linhas móveis e ganhei uma TV 43" 4K da Vodafone e uma 32" Full HD da Worten.
+
+Veja mais detalhes incluindo um simulador para verificar as opções de planos e valores: [Pacotes TV Net Voz Móvel: Vodafone, NOS, MEO e Nowo - Worten](https://www.worten.pt/smartphones-e-comunicacoes/tv-net-voz-movel/tudo-sobre-pacotes-tv-net-voz-movel).
+
+Dica: como os preços costumam ser bem parecidos, recomendo a escolha da Vodafone pelo simples fato da empresa ter uma loja no Aeroporto do Porto, de forma que assim que chegar de viagem você já pode comprar um cartão pré-pago, sair usando e manter o mesmo número quando for fechar o plano.
+
+Dica 2: uma pegadinha é que a fidelidade tem renovação automática, ou seja, quando acabar os dois anos eles renovam automaticamente para mais dois anos e você não ganha benefício algum, por isso convém anotar a data e quando estiver próxima, cancelar e contratar novamente ou ligar pedindo algum desconto. Além disso, mudanças de endereço costumam renovar o período de fidelidade.
+
+## Energia elétrica e gás
+
+Ao contrário do Brasil, que tipicamente possui apenas um provedor de energia elétrica e de gás encanado por região, em Portugal há diversas empresas e você pode fazer portabilidade entre elas, bem parecido com o que acontece com a telefonia. Assim, é possível fechar pacotes vantajosos. Uma das empresas, chamada [Galp](https://galp.com/pt/), também tem parceria com a Worten e é possível assinar energia elétrica e gás com eles, tendo até 12% de desconto, além de descontos para compra de combustível para automóveis nos postos da marca.
+
+Veja mais detalhes em: [Planos Galp Gás e Galp Energia - Contrate nas Lojas Worten](https://www.worten.pt/planos-galp-eletricidade-gas).
+
+Dica: em geral os relógios não fazem leitura automática e um funcionário faz a leitura do consumo. Porém essa leitura não é feita todos os meses, de forma que você pode ser cobrado a mais ou a menos, de acordo com a sua média de consumo. Para evitar isso, é possível enviar as leituras dos relógios através do site ou aplicativo.
+
+## Água e esgoto
+
+Por outro lado, a ligação à rede de água e esgoto é feita por uma única empresa por região e deve ser pedida na Loja do Cidadão da sua região. Por exemplo, meu contrato de água é com a [Indaqua](https://www.indaqua.pt/pt/) e para assinar o serviço foi preciso ir até a [Loja do Cidadão de Matosinhos](https://www.cm-matosinhos.pt/municipe/espacos-cidadao).
+
+De forma similar a Galp, também é possível enviar leituras, porém na Indaqua as leituras devem ser enviadas por ligação telefônica, então nunca faço isso.
+
+## Supermercados
+
+Existem grandes redes de supermercados, como Continente, Pingo Doce, Lidl, Minipreço, Mercadona etc., e em quase todas há um cadastro que se pode fazer para ter descontos. Não deixe de fazer esse cadastro. Por exemplo, no Continente, o cadastro pode ser feito no site ou no app e o app é bem bom, guarda todas as notas fiscais das compras etc. Além disso, o plano da Galp de luz e gás feito na Worten dá créditos no Cartão Continente (vale mais a pena do que receber o desconto na fatura pois desta forma o valor é maior).
+
+Mesmo que você não vá ao Continente com frequência, recomendo ter o cadastro no aplicativo pois há desconto em sua rede de farmácias (Wells), papelarias (Note), lojas veterinárias (ZU) além de restaurantes parceiros, como Burger King, KFC, Pizza Hut, Taco Bell etc.
+
+Outro programa de fidelidade similar para restaurantes é o app [Vitaminas](https://vitaminas.pt/).
 
 # Extras
 
