@@ -340,7 +340,21 @@ Para maiores de 16 anos, apostilada.
 
 ### 6. Número de Utente
 
-Utente neste caso quer dizer Paciente, e é um número atribuído pelo Sistema Nacional de Saúde, que o identifica como paciente tanto na rede pública quanto na privada. Ao fazer consultas, exames etc., todo o histórico fica associado ao Número de Utente, e ele será necessário em alguns casos como por exemplo para fazer a matrícula de crianças na escola, por exemplo. Para ter um Número de Utente, é preciso primeiro ter pedido a Autorização de Residência e ter o Título de Residência em mãos. Uma vez tendo recebido o documento, vá até um Centro de Saúde para criar o número (pendente mais detalhes...)
+"Utente" quer dizer "Paciente", e é um número atribuído pelo Sistema Nacional de Saúde, que o identifica como paciente tanto na rede pública quanto na privada. Ao fazer consultas, exames etc., todo o histórico fica associado ao Número de Utente, e ele será necessário em alguns casos como por exemplo para fazer a matrícula de crianças na escola, tirar carteira de motorista, etc. Veja mais detalhes nesta página do portal ePortugal: [PEDIR O NÚMERO DE UTENTE DO SNS](https://eportugal.gov.pt/servicos/pedir-o-numero-de-utente-do-sns). Veja que excepcionalmente não é preciso aguardar a AR chegar, pode confirmar residência somente com o agendamento de autorização de residência junto ao SEF.
+
+O site menciona que deve-se fazer o pedido pessoalmente, porém devido ao contexto da pandemia essa solicitação está sendo feita online, por email. Primeiro você deve localizar o Centro de Saúde da sua região (procurando no Google Maps, por exemplo), depois deve acessar a página do Ministério da Saúde do Centro de Saúde em questão para enviar o email. Note que devido a pandemia alguns centros de saúde estão funcionando exclusivamente para atender pacientes de Covid-19, de forma que se você não tiver resposta em um ou dois dias pode enviar email para outro centro de saúde próximo da sua residência. Consegui resposta em menos de 24 horas através do email __ucsp.matosinhos@ulsm.min-saude.pt__.
+
+É preciso enviar um email seguindo o modelo, anexando foto do (título de residência ou agendamento de AR junto ao SEF) e do passaporte.
+
+> Olá, boa tarde, 
+>
+> Gostaria de fazer o cadastro na unidade para consultas e de obter número de utente, para mim e meus familiares. Segue anexo os títulos de residência e os passaportes.
+>
+> Agradeço desde já a atenção.
+>
+> Atenciosamente,
+> __seu nome__
+
 
 ## Extras
 
