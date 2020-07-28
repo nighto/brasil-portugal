@@ -12,18 +12,18 @@ Este repositório contém informações e dicas do processo de visto para brasil
   * [Após o visto ter sido aprovado, ainda no Brasil](#ap%C3%B3s-o-visto-ter-sido-aprovado-ainda-no-brasil)
     - [Documentos para Autorização de Residência](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia)
     - [Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar-para-seu-c%C3%B4njuge-eou-filhos)
-  * [Em Portugal](#em-portugal)
+* [Em Portugal](#em-portugal)
     - [1. NIF](#1-nif)
     - [2. Conta Bancária](#2-conta-banc%C3%A1ria)
     - [3. NISS](#3-niss)
     - [4. Autorização de Residência (AR)](#4-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-ar)
     - [5. Autorização de Residência por Reagrupamento Familiar](#5-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar)
     - [6. Número de Utente](#6-n%C3%BAmero-de-utente)
-  * [Extras](#extras)
-    - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
-    - [Reconhecimento de firma](#reconhecimento-de-firma)
-    - [Apostila da Haia](#apostila-da-haia)
-    - [Procuração](#procura%C3%A7%C3%A3o)
+* [Extras](#extras)
+  - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
+  - [Reconhecimento de firma](#reconhecimento-de-firma)
+  - [Apostila da Haia](#apostila-da-haia)
+  - [Procuração](#procura%C3%A7%C3%A3o)
 
 # Introdução
 
@@ -223,7 +223,7 @@ Seu cônjuge e filhos, se houver, precisarão da seguinte lista de documentos do
 #### 1. Certidão de Antecedentes Criminais
 Emitida na Polícia Federal, ou no país aonde você viver há pelo menos 1 ano se não for o Brasil. Para filhos, somente se maiores de 16 anos. Deve ter sido emitida há no máximo 3 meses da data da viagem, e deve ser apostilada. Veja mais detalhes neste item na seção anterior.
 
-Note que a data que conta é a data da viagem, não a data do agendamento no SEF. Em outras palavras: como eles sabem que o agendamento demora, contam a validade como sendo a do dia em que você chegou a Portugal.
+Note que a data que o agendamento foi pedido, não quando será de fato o atendimento. Em outras palavras: como eles sabem que o agendamento demora, contam a validade como sendo a do dia em que você pediu o agendamento (que, portanto, será logo depois da sua chegada em Portugal).
 
 - Custo: R\$ 0
 - Apostilamento: ~R\$ 50.
@@ -241,11 +241,11 @@ Note que a data que conta é a data da viagem, não a data do agendamento no SEF
 - Custo da segunda via: varia por cartório e por idade, ~R\$ 50
 - Apostilamento: ~R\$ 50.
 
-## Em Portugal
+# Em Portugal
 
 Você chegou a Portugal, parabéns! Ainda há diversas burocracias para fazer do lado de cá. Algumas delas poderão ser feitas mesmo antes do visto sair (caso você visite a empresa num processo de _onboarding_ antes de solicitar o visto, por exemplo), outras só após a entrada definitiva. Vamos a lista:
 
-### 1. NIF
+## 1. NIF
 
 O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF e CNPJ (empresas também tem NIF). Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que _pode ser feito mesmo sem ter visto de trabalho_. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "\[Fatura com número de\] contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
 
@@ -259,13 +259,13 @@ Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento
 
 É importante tirar o NIF para o cônjuge, ainda que ele não trabalhe, e também para os filhos para efeito de dedução de imposto de renda relativo a dependentes. Para isso, você precisará levar o comprovante de agendamento no SEF e um dos dois documentos: contrato de arrendamento **ou** comprovativo de moradia obtido junto a Freguesia.
 
-### 2. Conta Bancária
+## 2. Conta Bancária
 
 Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 500 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, declaração de imposto de renda (brasileiro) e NIF abre-se a conta na hora e também já é fornecido no ato o cartão de débito. Não precisa tirar cópias pois eles fazem no banco. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário. Assim como o NIF, a conta bancária também pode ser aberta sem um visto, caso você faça um _onboarding_ presencial antes da emissão do visto.
 
-- Custo: 500 € (podendo sacar imediatamente após a abertura da conta).
+- Custo: 500 € (podendo sacar ou transferir imediatamente após a abertura da conta).
 
-### 3. NISS
+## 3. NISS
 
 O **NISS** (Número de Identificação de Segurança Social) é equivalente ao nosso PIS. É criado preenchendo um formulário impresso e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. A emissão do NISS é gratuita, mas a fotocópia certificada custa 18 €. Veja mais detalhes [na página do CTT](https://www.ctt.pt/faq/pontos-ctt/servicos-de-apoio-ao-cidadao/certificacao-de-fotocopias.html).
 
@@ -275,39 +275,41 @@ Uma vez recebido o número por email é possível acessar o [site do NISS, regis
 
 - Custo: 18 €
 
-### 4. Autorização de Residência (AR)
+## 4. Autorização de Residência (AR)
 
-O pedido de **AR** (Autorização de Residência) é o próximo grande passo burocrático após a chegada em Portugal. Consiste de uma visita a um posto do **SEF** (Serviço de Estrangeiros e Fronteiras, com atribuições similares às da nossa Polícia Federal) numa data agendada, levando uma série de documentos. Mais recentemente, a data do agendamento já vem numa URL impressa no próprio visto de trabalho, mas sempre é possível tentar ligar para o SEF e conseguir uma data mais próxima em alguma cidade vizinha menor. No meu caso, trabalho e moro no Porto, mas fui atendido em Braga (1h de trem) por ter data mais próxima.
+O pedido de **AR** (Autorização de Residência) é o próximo grande passo burocrático após a chegada em Portugal. Consiste de uma visita a um posto do **SEF** (Serviço de Estrangeiros e Fronteiras, com atribuições similares às da nossa Polícia Federal) numa data agendada, levando uma série de documentos. Mais recentemente, a data do agendamento já vem numa URL impressa no próprio visto de trabalho colado no passaporte, mas sempre é possível tentar ligar para o SEF e conseguir uma data mais próxima em alguma cidade vizinha menor. No meu caso, trabalho e moro no Porto, mas consegui um agendamento em Braga (1h de trem) por ter data mais próxima.
 
 A lista de documentos para o pedido de AR é a seguinte:
 
-#### 1. Formulário devidamente preenchido (é fornecido por eles)
-#### 2. Passaporte válido com visto
-#### 3. Comprovativo de meios de subsistência
+__1. Formulário devidamente preenchido__ (é fornecido por eles)
+
+__2. Passaporte válido com visto__
+
+__3. Comprovativo de meios de subsistência__  
 Contrato de trabalho + três últimos recibos de vencimento + declaração comprovativa da atualidade da relação laboral, com o valor de salário mensal/anual, devidamente assinada e carimbada pela empresa (emitido numa data próxima ao agendamento).
 
 No meu caso, o agendamento foi realizado no mesmo mês do início do contrato de trabalho, então não apresentei os últimos recibos de vencimento, sem nenhum problema.
 
-#### 4. Comprovativo de alojamento
+__4. Comprovativo de alojamento__  
 Contrato de arrendamento, 3 últimos recibos de pagamento e registro do contrato de arrendamento nas Finanças **ou** Atestado de Residência emitido pela Junta da Freguesia da área de residência (emitido numa data próxima ao agendamento).
 
 No meu caso, levei contrato assinado, recibos de pagamento e registro do contrato nas Finanças mas somente este último foi pedido.
 
-#### 5. NIF
+__5. NIF__
 
-#### 6. NISS
+__6. NISS__  
 Basta o email impresso mencionando o número do NISS.
 
-#### 7. Seguro de saúde (PB4 ou da empresa)
+__7. Seguro de saúde (PB4 ou da empresa)__  
 Levei os dois e foi pedido apenas o PB4.
 
-Uma vez aprovado, o documento - Título de Residência, em um cartão plástico - vem por carta, sendo entregue na residência, num prazo de 3 semanas. Caso não haja ninguém disponível para receber a carta (é preciso assinar o recebimento) o carteiro deixa um papel indicando que é preciso pegar na agência do CTT num prazo de 6 dias. Caso não pegue neste prazo, o documento volta para o SEF e será preciso pegar com eles. Já adiantando uma dúvida que tinha, no Título de Residência há dois números; o número do título é o do canto superior direito do documento (9 caracteres).
+Uma vez aprovado, o documento - Título de Residência, em um cartão plástico - vem por carta, sendo entregue na residência, num prazo de 3 semanas. Caso não haja ninguém disponível para receber a carta (é preciso assinar o recebimento) o carteiro deixa um papel indicando que é preciso pegar na agência do CTT (Correios português) num prazo de 6 dias. Caso não pegue neste prazo, o documento volta para o SEF e será preciso pegar com eles. Já adiantando uma dúvida que tinha, no Título de Residência há dois números; o número do título é o do canto superior direito do documento (9 caracteres).
 
 A validade da Autorização de Residência é de um ano, e findo este prazo é preciso renová-la. Antes essa renovação era preciso ser feita presencialmente, através de novo agendamento no SEF; desde o segundo semestre de 2020 a renovação está sendo feita online pelo site deles.
 
 - Custo: 47,60 €
 
-### 5. Autorização de Residência por Reagrupamento Familiar
+## 5. Autorização de Residência por Reagrupamento Familiar
 
 Esta seção se aplica a seu cônjuge e filhos, se houver.
 
@@ -315,30 +317,46 @@ Ao contrário da AR para você, que atualmente já vem marcada no visto, é prec
 
 Além dos documentos brasileiros dos familiares mencionados na seção anterior, são preciso mais estes documentos:
 
-#### 1. Formulário fornecido e preenchido no ato
-#### 2. Passaporte válido
-#### 3. Comprovativo de entrada legal em Portugal
+__1. Formulário fornecido e preenchido no ato__
+
+__2. Passaporte válido__
+
+__3. Comprovativo de entrada legal em Portugal__  
 No caso, o carimbo de entrada no passaporte é o suficiente.
-#### 4. Visto de Residência ou Cartão de Autorização de Residência do Principal
+
+__4. Visto de Residência ou Cartão de Autorização de Residência do Principal__  
 Principal é você, no caso.
-#### 5. Comprovativo de meios de subsistência do Principal
+
+__5. Comprovativo de meios de subsistência do Principal__  
 Contrato de trabalho + 3 últimos recibos de vencimento.
-#### 6. Comprovativo de alojamento
+
+__6. Comprovativo de alojamento__  
 Contrato de arrendamento, 3 últimos recibos de pagamento e registro do contrato de arrendamento nas Finanças **ou** Atestado de Residência emitido pela Junta da Freguesia da área de residência (emitido numa data próxima ao agendamento).
-#### 7. NIF
+
+__7. NIF__  
 Seu, do cônjuge e dos filhos.
-#### 8. Autorização para Consulta do Registro Criminal pelo SEF
-Formulário fornecido e preenchido no ato
-#### 9. Seguro Saúde
+
+__8. Autorização para Consulta do Registro Criminal pelo SEF__  
+Formulário fornecido e preenchido no ato.
+
+__9. Seguro Saúde__  
 PB4 apostilado.
-#### 10. Declaração da Escola comprovando frequência no ano letivo em curso
-#### 11. Declaração do pai ou mãe não residente
-#### 12. Documento comprovando a ligação
+
+__10. Declaração da Escola comprovando frequência no ano letivo em curso__
+Para crianças a partir dos 5 anos de idade.
+
+__11. Declaração do pai ou mãe não residente__
+Se for o caso, é claro.
+
+__12. Documento comprovando a ligação__  
 Certidão de casamento ou união estável, para cônjuges, ou certidão de nascimento, para filhos, em ambos os casos apostilada.
-#### 13. Certidão de Antecedentes Criminais da Polícia Federal
+
+Nota: de forma similar ao processo de pedido do visto, há a exigência de que as certidões sejam recentes (emitida há no máximo 6 meses para casamento e 12 meses para nascimento), mas a data que importa é a que o agendamento foi feito, não a data do atendimento em si. Portanto as certidões emitidas no Brasil antes da viagem deverão ser suficientes, mesmo que o agendamento seja vários meses depois da chegada.
+
+__13. Certidão de Antecedentes Criminais da Polícia Federal__  
 Para maiores de 16 anos, apostilada.
 
-### 6. Número de Utente
+## 6. Número de Utente
 
 "Utente" quer dizer "Paciente", e é um número atribuído pelo Sistema Nacional de Saúde, que o identifica como paciente tanto na rede pública quanto na privada. Ao fazer consultas, exames etc., todo o histórico fica associado ao Número de Utente, e ele será necessário em alguns casos como por exemplo para fazer a matrícula de crianças na escola, tirar carteira de motorista, etc. Veja mais detalhes nesta página do portal ePortugal: [PEDIR O NÚMERO DE UTENTE DO SNS](https://eportugal.gov.pt/servicos/pedir-o-numero-de-utente-do-sns). Veja que excepcionalmente não é preciso aguardar a AR chegar, pode confirmar residência somente com o agendamento de autorização de residência junto ao SEF.
 
@@ -356,17 +374,17 @@ O site menciona que deve-se fazer o pedido pessoalmente, porém devido ao contex
 > __seu nome__
 
 
-## Extras
+# Extras
 
-### Autenticação de cópia
+## Autenticação de cópia
 
 O processo de autenticar uma cópia de documento envolve ir num cartório que preste este serviço, aonde um funcionário do cartório irá conferir se os dados da cópia batem com o original e colar um selo no papel copiado atestando a sua autenticidade. O valor da autenticação varia de estado para estado, e aqui no RJ gira em torno de R\$ 8 (variando de cartório para cartório).
 
-### Reconhecimento de firma
+## Reconhecimento de firma
 
 _Firma_ neste contexto significa assinatura, é um processo similar ao da autenticação de cópia tambem oferecido pelos cartórios. O cartório tem um papel com a assinatura original da pessoa que você precisa reconhecer firma, e confere se a assinatura no seu papel se parece com a assinatura que tem em seus registros, colando um selo de autenticidade no seu documento.
 
-### Apostila da Haia
+## Apostila da Haia
 
 Apostilamento é basicamente uma autenticação de documento reconhecida internacionalmente. Este serviço é oferecido por alguns cartórios, que cadastram o documento em um sistema online, e colam um adesivo atestando a sua autenticidade. O valor do apostilamento varia de estado para estado. [Veja mais detalhes aqui](http://www.cnj.jus.br/haia).
 
