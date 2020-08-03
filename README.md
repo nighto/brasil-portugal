@@ -28,6 +28,10 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [Internet](#internet)
   - [Energia elétrica e gás](#energia-elétrica-e-gás)
   - [Água e esgoto](#água-e-esgoto)
+  - [Supermercados](#supermercados)
+  - [Assinaturas](#assinaturas)
+  - [VPN](#vpn)
+  - [App Store](#app-store)
 * [Extras](#extras)
   - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
   - [Reconhecimento de firma](#reconhecimento-de-firma)
@@ -463,6 +467,28 @@ Existem grandes redes de supermercados, como Continente, Pingo Doce, Lidl, Minip
 Mesmo que você não vá ao Continente com frequência, recomendo ter o cadastro no aplicativo pois há desconto em sua rede de farmácias (Wells), papelarias (Note), lojas veterinárias (ZU) além de restaurantes parceiros, como Burger King, KFC, Pizza Hut, Taco Bell etc.
 
 Outro programa de fidelidade similar para restaurantes é o app [Vitaminas](https://vitaminas.pt/).
+
+## Assinaturas
+
+Em geral, serviços como Spotify, Netflix, YouTube Premium, PSN Plus etc. tem preços mais vantajosos no Brasil do que em Portugal por se adequar mais à renda do consumidor médio. Manter assinaturas brasileiras em todos os serviços com um cartão de crédito português funciona sem problemas.
+
+Caso você tenha interesse em acompanhar conteúdos da Globo, como telejornalismo, séries etc., recomendo a assinatura do Globo Play no Brasil. Especificamente quanto ao Globo Play, dependendo do conteúdo você poderá ter alguma perda de praticidade e/ou a necessidade de VPN, veja na relação a seguir:
+
+- conteúdos produzidos pela Globo que não sejam ao vivo (jornais, novelas etc.): assiste normalmente no celular ou Smart TV;
+- conteúdos produzidos pela Globo que sejam de marcas licenciadas (Big Brother Brasil, por ex.) e que não sejam ao vivo: precisa de VPN no Brasil para iniciar a reprodução, mas pode compartilhar com Smart TV ou Chromecast que não esteja na VPN;
+- conteúdos ao vivo: não funciona pelo celular, precisa se conectar a uma VPN e ligar o computador na TV com cabo HDMI.
+
+O que nos leva ao ponto seguinte:
+
+## VPN
+
+Por questões de licenciamento de conteúdos, alguns conteúdos do Brasil podem não estar disponíveis em Portugal. Caso você esbarre com essa necessidade, recomendo os serviços da [NordVPN](https://nordvpn.com). O plano de 3 anos custa US$ 2.99/mês (cobrança a cada 3 anos de US$ 107.55).
+
+## App Store
+
+Ao contrário do [Android que permite login na Play Store com múltiplas contas](https://support.google.com/googleplay/answer/2521798?hl=pt), a App Store dos iPhones só permite login em uma conta por vez. Note que só é possível fazer a mudança do país caso não haja assinaturas ativas associadas à conta da Apple, tais como: Apple Arcade, Globo Play etc. Note que não basta cancelar os serviços, é preciso esperar que o prazo contratado transcorra, então caso você postergue a mudança pode se ver "trancado do lado de fora" numa eventual necessidade e ter de passar pelo transtorno de ter de criar outra conta. Recomendo a mudança o quanto antes, uma vez que aplicativos diversos podem ser disponibilizados somente no país, desde apps bancários até, por exemplo, o app do McDonald's, que é um no Brasil e outro em Portugal, e o brasileiro não é compatível com os restaurantes locais.
+
+Para alterar o país da App Store, siga o link: [Alterar o país ou a região do ID Apple - Suporte Apple](https://support.apple.com/pt-pt/HT201389). 
 
 # Extras
 
