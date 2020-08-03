@@ -136,21 +136,11 @@ Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apo
 - Custo: R\$ 0;
 - Apostilamento: ~R\$ 50.
 
-#### 4. PB4 e Seguro Saúde
+#### 4. CDAM/PB4 e Seguro Saúde
 
-Portugal e Brasil, além de Itália e Cabo Verde tem um acordo que permite o uso da saúde pública por seus cidadãos entre os países. (Daí a origem da sigla.) **Você só poderá usar hospitais públicos em Portugal (pagando a tarifa moderadora que os portugueses pagam) se tiver esse documento**, que dessa forma se torna praticamente obrigatório para a emissão do visto (a alternativa é a compra de um seguro saúde, algo que envolve custos). Ele é emitido pelo Ministério da Saúde em postos estaduais, e deve ser solicitado presencialmente. Se você é do interior, precisará viajar até a capital do seu estado para solicitá-lo. [Veja aqui mais detalhes e a lista dos endereços dos postos do Ministério da Saúde](https://www.eurodicas.com.br/pb4-como-funciona-e-como-solicitar/). Ao contrário do que alguns blogs online falam, não é necessário reconhecer firma nem apostilar. Precisa levar RG, CPF, passaporte originais (não precisa levar cópias) e comprovante de residência. Se for casado ou tiver união estável, ou tiver filhos, levar RG, CPF, passaporte e o comprovante de vínculo (união estável, certidão de casamento ou nascimento).
-
-O PB4 tem validade de um ano e não pode ser emitido pelos consulados brasileiros em Portugal, de forma que você precisará deixar uma procuração com alguém de confiança para a pessoa renovar para você.
-
-Se você tiver cônjuge e/ou filhos, leve o passaporte deles também. Somente um PB4 é necessário para você e seus dependentes.
-
-Dica: o horário de atendimento é de 9h às 15h mas há poucas senhas distribuídas (ao menos no posto aqui do RJ, distribui-se somente 30 senhas pela manhã), cheguei às 13h e as pessoas que aguardavam atendimento me recomendaram chegar antes das 7h para pegar fila e conseguir ser atendido. Voltei no dia seguinte às 6:40 e já tinha 20 pessoas na fila. Peguei a senha e fui pro trabalho, voltando ao meio-dia para conseguir ser atendido. Por outro lado, um colega da Paraíba disse que foi atendido sem filas, então talvez seja uma limitação da unidade do RJ. A renovação do PB4 é bem mais simples e não precisa pegar fila, basta chegar no horário de atendimento com uma cópia do documento vencido/próximo a vencer.
-
-Para pessoas do estado de **SP**: um colega paulista disse que o Ministério da Saúde leva 30 dias para emitir o documento, ao passo que no RJ saiu na hora. Então se você estiver com pressa pode valer a pena fazer um bate-volta no RJ (ou em outro estado qualquer) para solicitar o PB4 na hora.
+O Certificado de Direito a Assitência Médica, também conhecido como PB4, é um acordo entre Portugal, Brasil, Itália e Cabo Verde que permite a utilização de hospitais públicos dos 4 países por seus cidadãos. Os hospitais públicos em Portugal, ao contrário do Brasil, são pagos para turistas, e mesmo para cidadãos alguns procedimentos não-emergenciais podem ter uma cobrança (taxa moderadora). Antigamente este documento era obtido presencialmente junto ao Ministério da Saúde, mas desde 2020 pode ser gerado online no portal gov.br: [Obter o Certificado de Direito à Assistência Médica (CDAM)](https://www.gov.br/pt-br/servicos/obter-certificado-de-direito-a-assistencia-medica).
 
 - Custo: R\$ 0.
-
-**A partir de Fevereiro de 2020, tornou-se obrigatório além do PB4 ter também um Seguro Viagem pelo prazo do contrato de trabalho (em geral um ano).** Como a data da viagem é uma incógnita, sugiro a contratação de um seguro que possa ser cancelado em tempo hábil, somente o contratando definitivamente numa data mais próxima a viagem. [Veja mais detalhes no site Euro Dicas](https://www.eurodicas.com.br/pb4-ja-nao-e-valido-para-emissao-de-vistos-em-portugal/).
 
 #### 5. Diploma universitário + apostilamento
 
@@ -158,7 +148,7 @@ Como o visto D3 é para trabalhadores _altamente qualificados_, é necessário a
 
 Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, também é aceito uma certidão de colação de grau / conclusão de curso (tipicamente emitidas após colar grau e antes da entrega do diploma).
 
-Dica: caso você tenha concluído o curso mas ainda não tenha sequer colado grau, verifique com a universidade a possibilidade de uma _colação de grau antecipada_. No meu caso, levei à reitoria a carta convite fornecida pela empresa. A UFF exigiu que a carta convite tivesse uma data limite para disponibilização da vaga, sugerindo a data de um mês para que o processo ocorresse de maneira célere. Apenas para dar uma ideia da velocidade: fui à UFF dia 02/08, colei grau dia 07/08 (numa cerimônia específica para quem pediu antecipação, com meia dúzia de alunos de outros cursos) e recebi o diploma dia 20/08.
+Dica: caso você tenha recém concluído seu curso mas ainda não tenha colado grau, verifique com a universidade a possibilidade de uma _colação de grau antecipada_. No meu caso, levei à reitoria a carta convite fornecida pela empresa. A UFF exigiu que a carta convite tivesse uma data limite para disponibilização da vaga, sugerindo a data de um mês para que o processo ocorresse de maneira célere. Apenas para dar uma ideia da velocidade: fui à UFF dia 02/08/2019, colei grau dia 07/08/2019 (numa cerimônia específica para quem pediu antecipação, com meia dúzia de alunos de outros cursos) e recebi o diploma dia 20/08/2019.
 
 - Apostilamento: ~R\$ 50.
 
