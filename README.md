@@ -64,7 +64,9 @@ Outra forma de emigrar que talvez seja mais interessante, especificamente se voc
 
 # Visto D3 - Documentação Necessária
 
-Para tirar este visto de trabalho, você precisará de diversos documentos. Alguns devem ser apresentados no original, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará fazer o _apostilamento_. Verifique o anexo no final sobre mais detalhes desses procedimentos.
+Para tirar este visto de trabalho, você precisará reunir diversos documentos e fazer um agendamento para a entrega dos mesmos. O agendamento é somente para entrega e conferência da documentação, isto é, não há nenhum tipo de entrevista.
+
+Alguns documentos devem ser apresentados no original, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará fazer o _apostilamento_. Verifique o anexo no final sobre mais detalhes desses procedimentos.
 
 Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de visto de trabalho; os demais familiares farão um pedido de _Autorização de Residência por Reagrupamento Familiar_, só em Portugal - isto é, entram como turistas (e portanto precisam comprovar passagem de volta) e só então fazem o processo. Mais abaixo listo os documentos necessários para tal.
 
@@ -77,9 +79,11 @@ Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de
 3. Carta Convite
 4. Termo de responsabilidade
 
-O contrato de trabalho deve ser assinado por você e pela empresa em 3 vias, sendo uma da empresa, uma sua e uma para o consulado. A empresa pode enviar as 3 cópias previamente assinadas pelos Correios e pedir para que você envie de volta uma das cópias, ou te convidar para um processo de _onboarding_ presencial em Portugal, de forma que você assinará e retornará com os documentos para iniciar o processo de visto.
+O **Contrato de Trabalho** deve ser assinado por você e pela empresa em 3 vias, sendo uma da empresa, uma sua e uma para o consulado. A empresa pode enviar as 3 cópias previamente assinadas pelos Correios e pedir para que você envie de volta uma das cópias, ou te convidar para um processo de _onboarding_ presencial em Portugal, de forma que você assinará e retornará com os documentos para iniciar o processo de visto.
 
-A declaração da empresa é um papel timbrado, datado e assinado pelo gerente da empresa com um texto nessas linhas gerais:
+A legislação prevê também a possibilidade de aceitar uma _Promessa de Contrato de Trabalho_ mas como a empresa já me ofereceu contrato assinado direto, não sei detalhes de como deve ser esse documento.
+
+A **Declaração da Empresa** é um papel timbrado, datado e assinado pelo gerente da empresa com um texto nessas linhas gerais:
 
 > A **Empresa XPTO** é uma empresa Portuguesa na área da tecnologia informática, etc e tal. (...) Devido ao seu exponencial cresimento, a **Empresa XPTO** procura mão-de-obra que (i) já tenha desenvolvido vários projetos nesta área e (ii) saiba utilizar os meios informáticos anteriormente desenvolvidos. Contratar colaboradores experientes no sector, a quem não seja necessário prestar uma formação intensiva, constitui uma enorme mais-valia para a **Empresa XPTO**. (...) Por todas as razões acima identificadas, considerou a **Empresa XPTO** essencial contratar um colaborador brasileiro, o qual reúne todas as características acima evidenciadas.
 >
@@ -93,9 +97,11 @@ A declaração da empresa é um papel timbrado, datado e assinado pelo gerente d
 
 A carta convite é um documento descrevendo seus benefícios contratuais: qual o valor mensal ou anual de salário, quantos dias de férias, quanto de auxílio-alimentação etc.
 
-Por fim o termo de responsabilidde é uma declaração datada e assinada em papel timbrado nessas linhas gerais:
+Por fim o **Termo de Responsabilidade** é uma declaração datada e assinada em papel timbrado nessas linhas gerais:
 
 > **Empresa XPTO**, com o NIF *123456789* com sede na *Rua tal, CP tal, cidade tal, Portugal*, neste ato representada por *Fulano de tal*, na qualidade de *cargo do gente boa*, titular do cartão cidadão n° *tal*, válido até *tal data*, na qualidade de empresa anfitriã de **seu nome**, de nacionalidade *brasileira*, nascido a *data tal*, titular do passporte n° *tal*, emitido em *data tal* e válido até *tal data*, declara para os devidos efeitos que ser responsabiliza por todas as despesas inerentes à estada daquele colaborador em Portugal, nomeadamente no que diz respeito a saúde e repatriamento, se necessário.
+
+Na minha opinião pessoal a empresa que está oferecendo o contrato deve disponibilizar toda essa documentação sem que você tenha que _correr atrás_ - pelo menos foi assim comigo -, então essa seção é de caráter meramente informativo.
 
 ### Documentos pessoais
 
