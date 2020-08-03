@@ -328,7 +328,9 @@ Levei os dois e foi pedido apenas o PB4.
 
 Uma vez aprovado, o documento - Título de Residência, em um cartão plástico - vem por carta, sendo entregue na residência, num prazo de 3 semanas. Caso não haja ninguém disponível para receber a carta (é preciso assinar o recebimento) o carteiro deixa um papel indicando que é preciso pegar na agência do CTT (Correios português) num prazo de 6 dias. Caso não pegue neste prazo, o documento volta para o SEF e será preciso pegar com eles. Já adiantando uma dúvida que tinha, no Título de Residência há dois números; o número do título é o do canto superior direito do documento (9 caracteres).
 
-A validade da Autorização de Residência é de um ano, e findo este prazo é preciso renová-la. Antes essa renovação era preciso ser feita presencialmente, através de novo agendamento no SEF; desde o segundo semestre de 2020 a renovação está sendo feita online pelo site deles.
+A validade da Autorização de Residência é de dois anos (até 2019 era somente um ano), e findo este prazo é preciso renová-la. Antes essa renovação era preciso ser feita presencialmente, através de novo agendamento no SEF; desde o segundo semestre de 2020 a [renovação está sendo feita online](https://imigrante.sef.pt/renovar-residencia/renovacoes-automaticas-perguntas-frequentes/).
+
+O Título de Residência é similar ao nosso RG e com isso você deixa de precisar andar com o passaporte, exceto para viagens (mesmo dentro da Europa), uma vez que ele não serve como documento de viagem.
 
 - Custo: 47,60 €
 
