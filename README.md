@@ -44,7 +44,7 @@ Este texto foi originalmente escrito por [Arlindo Pereira](http://github.com/nig
 
 # Tipos de visto
 
-O SEF - Serviço de Estrangeiros e Fronteiras, com atribuições similares à Polícia Federal brasileira, no tocante ao controle migratório - possui um site que coleta e comenta a legislação portuguesa para os tipos de visto, sendo de leitura recomendada mesmo para quem não for da área do direito: [LEGISPÉDIA SEF](https://sites.google.com/site/leximigratoria/).
+O SEF - Serviço de Estrangeiros e Fronteiras, com atribuições similares à Polícia Federal brasileira no tocante ao controle migratório - possui um site que lista e comenta a legislação portuguesa para os tipos de visto, sendo de leitura recomendada mesmo para quem não for da área do direito: [LEGISPÉDIA SEF](https://sites.google.com/site/leximigratoria/).
 
 Existem alguns tipos de vistos possíveis para trabalhar de forma legal em Portugal [(veja a legislação que define os tipos)](https://sites.google.com/site/leximigratoria/lei-de-estrangeiros-alterada/cap-vi---residencia-em-territorio-nacional/seccao-ii---autorizacao-de-residencia/subseccao-i---autorizacao-de-residencia-para-exercicio-de-atividade-profissional). Em linhas gerais, há os seguintes tipos de vistos de trabalho (os links vão para a Legispédia do SEF para mais detalhes):
 
@@ -57,18 +57,24 @@ No meu caso, fiz o **D3 (sem Tech Visa)**, então para detalhes sobre os outros 
 
 É possível requerer o visto D3 com ou sem Tech Visa. Inicialmente tive problemas para conseguir dar entrada no pedido de visto D3 sem o Tech Visa por este ser um programa novo, mas foi rapidamente resolvido. [Conto mais detalhes neste vídeo](https://youtu.be/YfVdu11ljp8).
 
-Alternativamente, é possível vir como turista e permanecer além do prazo legal para turismo (90 dias) caso você consiga um trabalho nesse período, mas recomendo fortemente que você **não** faça isso. Veja mais detalhes neste gist do [@gmmcal](https://github.com/gmmcal) sobre porque vir como turista é uma péssima ideia: [Razões pra não ir pra Portugal como turista](https://gist.github.com/gmmcal/3d1ef4c2a9a71a9163fdae1abbb31e42).
+Os vistos de trabalho são emitidos com um prazo de 4 meses, e já vem com um agendamento marcado em Portugal para a solicitação da Autorização de Residência, válida por 2 anos e renovável. Vistos de trabalho não são emitidos para familiares, que podem entrar como turistas (eventualmente precisando comprovar viagem de retorno ao Brasil na imigração) e precisam solicitar junto ao SEF em Portugal a [Autorização de Residência por Reagrupamento Familiar](https://sites.google.com/site/leximigratoria/lei-de-estrangeiros-alterada/cap-vi---residencia-em-territorio-nacional/seccao-ii---autorizacao-de-residencia/subseccao-iv---autorizacao-de-residencia-para-reagrupamento-familiar). Uma vez a AR dos familiares sendo emitida, o que pode levar alguns meses (para minha esposa levou 6), poderão trabalhar normalmente. Darei mais detalhes abaixo sobre a documentação necessária e o passo a passo.
+
+Note que, para quem fará a mudança com cônjuge, pode levar alguns meses para que o cônjuge obtenha a Autorização de Residência por Reagrupamento Familiar, o que significa duas coisas importantes: primeiro, não estará imediatamente legalizada para fins de trabalho formal; e segundo, findo o prazo de 90 dias para viagens de turismo no Espaço Schengen e até que receba a AR, a pessoa não poderá viajar pela Europa, e se voltar para o Brasil, terá de esperar um prazo de 180 dias (a partir da primeira entrada na Europa) para poder voltar a Portugal. É importante observar que o cônjuge e os filhos **não** ficam ilegais enquanto a AR não é emitida, mas terão temporariamente essa restrição quanto ao trabalho e ao deslocamento.
+
+Fora o procedimento de obtenção de visto, é possível ainda ir para Portugal como turista e permanecer além do prazo legal para turismo (90 dias) caso você consiga um trabalho nesse período fazendo um processo chamado Manifestação de Interesse, mas recomendo fortemente que você **não faça isso**. Veja mais detalhes neste gist do [@gmmcal](https://github.com/gmmcal) sobre porque vir como turista é uma péssima ideia: [Razões pra não ir pra Portugal como turista](https://gist.github.com/gmmcal/3d1ef4c2a9a71a9163fdae1abbb31e42).
 
 Outra forma de emigrar que talvez seja mais interessante, especificamente se você for filho, neto ou bisneto de portugueses, é através da obtenção da dupla cidadania, efetivamente se tornando cidadão português. Não é meu caso então não sei mais detalhes, mas caso você tenha essa possibilidade, verifique o processo e adicione aqui. PRs são bem-vindos! :)
 
 
 # Visto D3 - Documentação Necessária
 
-Para tirar este visto de trabalho, você precisará reunir diversos documentos e fazer um agendamento para a entrega dos mesmos. O agendamento é somente para entrega e conferência da documentação, isto é, não há nenhum tipo de entrevista.
+Para tirar este visto de trabalho, você precisará reunir diversos documentos e fazer um agendamento para a entrega numa empresa chamada [VFS Global](https://www.vfsglobal.com/portugal/Brazil/index.html), que faz a coleta e controle de qualidade da documentação para os consulados portugueses. O agendamento é somente para entrega e conferência da documentação, isto é, não há nenhum tipo de entrevista.
+
+A VFS Global possui escritórios em cinco capitais: Rio, São Paulo, Belo Horizonte, Brasília e Salvador. Além da entrega presencial dos documentos - o que recomendo, pois os atendentes verificam criteriosamente antes de aceitar a solicitação, informando de eventuais faltas de documentos -, também é possível enviar pelos Correios (o que pode valer mais a pena caso você não more próximo a um dos 5 escritórios).
 
 Alguns documentos devem ser apresentados no original, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará fazer o _apostilamento_. Verifique o anexo no final sobre mais detalhes desses procedimentos.
 
-Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de visto de trabalho; os demais familiares farão um pedido de _Autorização de Residência por Reagrupamento Familiar_, só em Portugal - isto é, entram como turistas (e portanto precisam comprovar passagem de volta) e só então fazem o processo. Mais abaixo listo os documentos necessários para tal.
+Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de visto de trabalho; os demais familiares farão um pedido de _Autorização de Residência por Reagrupamento Familiar_ só em Portugal - isto é, entram como turistas (e portanto precisam comprovar passagem de volta) e só então fazem o processo. Mais abaixo listo os documentos necessários para tal.
 
 ## Antes de pedir o visto
 
@@ -219,7 +225,7 @@ Feito isto, será marcado um dia para a visita à VFS Global, empresa que faz a 
 
 ## Após o visto ter sido aprovado, ainda no Brasil
 
-Após algum tempo de ansiedade e incertezas, num prazo que pode levar de 15 dias a 6 meses, você teve o visto aprovado! Com isto a empresa já irá comprar a passagem para um dia a sua escolha, se isto estiver no seu pacote de contratação, ou você mesmo poderá comprá-la, para uma data de até **4 meses** após a emissão do visto. O visto de trabalho D3 é válido por este período, e já vem com um agendamento para pedido de Autorização de Residência (AR) junto ao SEF. Veja mais detalhes sobre este processo numa seção mais abaixo.
+Após algum tempo de ansiedade e incertezas, num prazo que pode levar de 15 dias a 6 meses (o meu saiu em 2 meses), você teve o visto aprovado! Com isto a empresa já irá comprar a passagem para um dia a sua escolha, se isto estiver no seu pacote de contratação, ou você mesmo poderá comprá-la, para uma data de até **4 meses** após a emissão do visto. O visto de trabalho D3 é válido por este período, e já vem com um agendamento para pedido de Autorização de Residência (AR) junto ao SEF. Veja mais detalhes sobre este processo numa seção mais abaixo.
 
 Note que o agendamento marcado pode ser num prazo superior aos 4 meses de duração do visto, não há problema. **Você não ficará ilegal neste período.** Porém neste período - entre a data final do visto de trabalho, e o recebimento da Autorização de Residência - você não poderá viajar entre os países da Europa (leia-se Espaço Schenghen), somente permanecer em Portugal. Ao menos em teoria, uma vez que não há controle migratório entre os países do Espaço Schenghen - em geral sequer se mostra o passaporte -, mas convém não arriscar.
 
