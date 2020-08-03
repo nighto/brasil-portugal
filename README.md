@@ -205,7 +205,7 @@ Um documento assinado por você declarando seus motivos para requerer o visto, n
 
 #### 14. Duas fotos 3,5 x 4,5cm
 
-[Veja aqui mais detalhes sobre a especificação das fotografias](https://www.vfsglobal.com/portugal/Brazil/work-visa.html).
+[Veja aqui mais detalhes sobre a especificação das fotografias](https://www.vfsglobal.com/portugal/Brazil/work-visa.html). Note que o tamanho não é 3x4, é 3,5x4x5.
 
 ### Agendamento
 
