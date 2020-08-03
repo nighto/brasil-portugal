@@ -111,11 +111,11 @@ Obviamente para viajar para fora do país o primeiro passo é ter um passaporte 
 
 No meu caso, já tinha passaportes mas eles estavam vencidos, então precisei renovar para mim e para minha família.
 
-Se você é do interior, precisará viajar até um posto da Polícia Federal do seu estado, [veja a lista aqui](http://www.pf.gov.br/servicos-pf/passaporte/unidades-mobile/estados#mobile) para a emissão do passaporte. Será preciso ir duas vezes: uma para levar os documentos, tirar foto e coletar as digitais e outra para pegar o documento.
+Se você é do interior, precisará viajar até um [posto da Polícia Federal do seu estado](http://www.pf.gov.br/servicos-pf/passaporte/unidades-mobile/estados#mobile) para a emissão do passaporte. Será preciso ir duas vezes: uma para levar os documentos, tirar foto e coletar as digitais e outra para pegar o documento.
 
 O site da Polícia Federal informa a [lista de documentos necessários](http://www.pf.gov.br/servicos-pf/passaporte/documentacao-necessaria/documentacao-para-passaporte-comum). É preciso estar em dia com a Justiça Eleitoral (ter votado na última eleição, justificado ou pago a multa) e, para os homens, estar em quite com o serviço militar obrigatório. Não é necessário levar título de eleitor ou certificado de reservista, as verificações são feitas pela PF online.
 
-Se você tem filhos, [verifique na página de dúvidas frequentes da Polícia Federal a tabela de validade por idade](http://www.pf.gov.br/servicos-pf/passaporte/duvidas-frequentes) especialmente se a data de aniversário estiver próxima, pode ser interessante esperar algum tempo para ter uma validade maior. Note que os filhos precisam estar presentes nas duas visitas ao posto da Polícia Federal, ou seja tanto para dar entrada quanto para retirar o documento.
+Se você tem filhos, [verifique na página de dúvidas frequentes da Polícia Federal a tabela de validade por idade](http://www.pf.gov.br/servicos-pf/passaporte/duvidas-frequentes) especialmente se a data de aniversário estiver próxima, pode ser interessante esperar algum tempo para ter uma validade maior, como o passaporte leva apenas alguns dias para ficar pronto enquanto o visto pode levar alguns meses, você pode fazer o documento dos filhos mais próximo da data da viagem para ter uma validade potencialmente maior. Note que os filhos precisam estar presentes nas duas visitas ao posto da Polícia Federal, ou seja tanto para dar entrada quanto para retirar o documento.
 
 - Custo: R\$ 257,25 por pessoa;
 - Autenticação: ~R\$ 8.
