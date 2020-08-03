@@ -40,18 +40,22 @@ Este texto foi originalmente escrito por [Arlindo Pereira](http://github.com/nig
 
 # Tipos de visto
 
-Existem alguns tipos de vistos possíveis para trabalhar de forma legal em Portugal. Em linhas gerais, há os seguintes tipos de vistos de trabalho:
+O SEF - Serviço de Estrangeiros e Fronteiras, com atribuições similares à Polícia Federal brasileira, no tocante ao controle migratório - possui um site que coleta e comenta a legislação portuguesa para os tipos de visto, sendo de leitura recomendada mesmo para quem não for da área do direito: [LEGISPÉDIA SEF](https://sites.google.com/site/leximigratoria/).
 
-- **D3** - _"Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado"_, para trabalhadores especializados com contrato, parecido com a nossa **"carteira assinada"**
-  - [Tech Visa](<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx>) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf).
-- **D2** - _"Visto para emigrantes empreendedores"_, para quem vai trabalhar como "recibos verdes", **"como PJ"**
-- **D1** - _"Visto de residência para atividade exercida por trabalhador subordinado"_, similar ao D3 porém para áreas que não sejam de tecnologia.
+Existem alguns tipos de vistos possíveis para trabalhar de forma legal em Portugal [(veja a legislação que define os tipos)](https://sites.google.com/site/leximigratoria/lei-de-estrangeiros-alterada/cap-vi---residencia-em-territorio-nacional/seccao-ii---autorizacao-de-residencia/subseccao-i---autorizacao-de-residencia-para-exercicio-de-atividade-profissional). Em linhas gerais, há os seguintes tipos de vistos de trabalho (os links vão para a Legispédia do SEF para mais detalhes):
+
+- [**D3** - _"Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado"_](https://sites.google.com/site/leximigratoria/artigo-61-o-a---visto-de-residencia-para-atividade-altamente-qualificada-exercida-por-trabalhador-subordinado), para trabalhadores especializados com contrato, parecido com a nossa **"carteira assinada"**;
+  - [Tech Visa](<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx>) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf). Os pedidos de vistos D3 **podem ou não** ser associados a uma posição em empresa que faz parte do programa Tech Visa. O Tech Visa é apenas um facilitador para obter o visto, de forma que a sua utilização é opcional.
+- [**D2** - _"Visto de residência para exercício de atividade profissional independente ou para imigrantes empreendedores"_](https://sites.google.com/site/leximigratoria/artigo-60-o-visto-de-residencia-para-exercicio-de-atividade-profissional-independente-ou-para-imigrantes-empreendedores), para quem vai trabalhar como "recibos verdes", **"como PJ"**
+- [**D1** - _"Visto de residência para exercício de atividade profissional subordinada"_](https://sites.google.com/site/leximigratoria/artigo-59-o-visto-de-residencia-para-exercicio-de-atividade-profissional-subordinada), similar ao D3 porém para áreas que não sejam "altamente qualificadas". Em outras palavras, quem irá trabalhar com tecnologia pode escolher pelo visto D1 ou D3.
 
 No meu caso, fiz o **D3 (sem Tech Visa)**, então para detalhes sobre os outros tipos de visto, **pull requests são bem-vindos**.
 
 É possível requerer o visto D3 com ou sem Tech Visa. Inicialmente tive problemas para conseguir dar entrada no pedido de visto D3 sem o Tech Visa por este ser um programa novo, mas foi rapidamente resolvido. [Conto mais detalhes neste vídeo](https://youtu.be/YfVdu11ljp8).
 
-Alternativamente, se você for filho, neto ou bisneto de portugueses, é possível obter dupla cidadania e efetivamente se tornar cidadão português. Não é meu caso então não sei mais detalhes, mas caso você tenha essa possibilidade, pode ser que seguir este caminho seja mais interessante.
+Alternativamente, é possível vir como turista e permanecer além do prazo legal para turismo (90 dias) caso você consiga um trabalho nesse período, mas recomendo fortemente que você **não** faça isso. Veja mais detalhes neste gist do [@gmmcal](https://github.com/gmmcal) sobre porque vir como turista é uma péssima ideia: [Razões pra não ir pra Portugal como turista](https://gist.github.com/gmmcal/3d1ef4c2a9a71a9163fdae1abbb31e42).
+
+Outra forma de emigrar que talvez seja mais interessante, especificamente se você for filho, neto ou bisneto de portugueses, é através da obtenção da dupla cidadania, efetivamente se tornando cidadão português. Não é meu caso então não sei mais detalhes, mas caso você tenha essa possibilidade, verifique o processo e adicione aqui. PRs são bem-vindos! :)
 
 
 # Visto D3 - Documentação Necessária
