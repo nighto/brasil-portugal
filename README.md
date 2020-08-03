@@ -20,6 +20,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [5. Autorização de Residência por Reagrupamento Familiar](#5-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar)
   - [6. Número de Utente](#6-n%C3%BAmero-de-utente)
   - [7. Cartão Europeu Seguro Doença](#7-cartão-europeu-seguro-doença)
+  - [8. Justiça Eleitoral](#8-justiça-eleitoral)
 * [Dicas](#dicas)
   * [Transporte](#transporte)
     - [Transporte público](#transporte-público)
@@ -405,6 +406,14 @@ Custo: 0.
 O __Cartão Europeu Seguro Doença__ ou CESD é um cartão plástico que garante atendimento nos hospitais públicos em todos os países da União Europeia com mesmos direitos de cidadãos portugueses (isto é, pagando a mesma taxa moderadora que você pagaria em Portugal). Dessa forma é uma boa ideia tirar o CESD para eventuais utilizações emergenciais em viagens pela Europa, ainda que você tenha plano de saúde pago pela empresa (uma vez que em geral os planos de saúde são por coparticipação e a taxa será maior que a taxa moderadora do hospital público). Para quem tem NISS e trabalha é possível pedir online (após pedir acesso à Segurança Social direta e receber o código por carta); para os familiares será necessário marcar agendamento presencial na Segurança Social.
 
 Veja mais detalhes em: [Cartão Europeu de Seguro de Doença - seg-social.pt](http://www.seg-social.pt/pedido-cartao-europeu-seguro-doenca).
+
+Custo: 0.
+
+## 8. Justiça Eleitoral
+
+Mesmo morando fora do Brasil, os brasileiros continuam com as obrigações eleitorais, isto é, caso você esteja fora da cidade da sua zona eleitoral no Brasil será necessário justificar seu voto a cada 2 anos ou sempre que houver uma eleição. Basta acessar o sistema de [Requerimento de Justificativa Eleitoral no site do TSE](https://justifica.tse.jus.br/) em até 60 dias após cada pleito. Veja mais detalhes na página [Justificativa Eleitoral - Tribunal Superior Eleitoral](http://www.tse.jus.br/eleitor/justificativa-eleitoral/justificativa-eleitoral), na seção "Justificativa de eleitores no exterior".
+
+Também é possível mudar a sua zona eleitoral para o exterior e participar das eleições presidenciais a cada 4 anos (não é possível votar para outros cargos). Neste caso você precisará solicitar um pré-atendimento no TSE ([veja mais detalhes no site do consulado brasileiro do Porto](http://porto.itamaraty.gov.br/pt-br/servicos_eleitorais.xml)) e comparecer ao consulado brasileiro da sua região ([Lisboa](http://lisboa.itamaraty.gov.br/pt-br/consulados_brasileiros_em_portugal.xml), [Porto](http://porto.itamaraty.gov.br/pt-br/servicos_eleitorais.xml) ou [Faro](http://faro.itamaraty.gov.br/pt-br/eleitoral.xml)) para a mudança do título. Feito isso posteriormente poderá votar presencialmente no Consulado da sua região no dia das eleições presidenciais, para primeiro e segundo turno, se houver. Devido às eleições municipais de 2020, os serviços de mudança de zona eleitoral estão suspensos até 03 de novembro de 2020, de forma que você precisará neste ano justificar as eleições municipais (primeiro e segundo turno, se hovuer) e só após mudar o título para as eleições presidenciais de 2022.
 
 Custo: 0.
 
