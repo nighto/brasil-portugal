@@ -242,7 +242,7 @@ Seu cônjuge e filhos, se houver, precisarão da seguinte lista de documentos do
 #### 1. Certidão de Antecedentes Criminais
 Emitida na Polícia Federal, ou no país aonde você viver há pelo menos 1 ano se não for o Brasil. Para filhos, somente se maiores de 16 anos. Deve ter sido emitida há no máximo 3 meses da data da viagem, e deve ser apostilada. Veja mais detalhes neste item na seção anterior.
 
-Note que a data que o agendamento foi pedido, não quando será de fato o atendimento. Em outras palavras: como eles sabem que o agendamento demora, contam a validade como sendo a do dia em que você pediu o agendamento (que, portanto, será logo depois da sua chegada em Portugal).
+Note que a data que conta é o dia em que o agendamento foi feito, não quando de fato será o atendimento.
 
 - Custo: R\$ 0
 - Apostilamento: ~R\$ 50.
