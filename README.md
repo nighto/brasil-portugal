@@ -146,6 +146,8 @@ Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apo
 
 O Certificado de Direito a Assitência Médica, também conhecido como PB4, é um acordo entre Portugal, Brasil, Itália e Cabo Verde que permite a utilização de hospitais públicos dos 4 países por seus cidadãos. Os hospitais públicos em Portugal, ao contrário do Brasil, são pagos para turistas, e mesmo para cidadãos alguns procedimentos não-emergenciais podem ter uma cobrança (taxa moderadora). Antigamente este documento era obtido presencialmente junto ao Ministério da Saúde, mas desde 2020 pode ser gerado online no portal gov.br: [Obter o Certificado de Direito à Assistência Médica (CDAM)](https://www.gov.br/pt-br/servicos/obter-certificado-de-direito-a-assistencia-medica).
 
+Caso vá com cônjuge e/ou filhos, inclua-os no certificado.
+
 - Custo: R\$ 0.
 
 #### 5. Diploma universitário + apostilamento
@@ -255,7 +257,7 @@ Note que a data que conta é o dia em que o agendamento foi feito, não quando d
 - Apostilamento: ~R\$ 50.
 
 #### 3. Certidão de Nascimento (para menores)
-**Deve ser emitida e menos de 12 meses da data da viagem para Portugal**. Se seu filho tem mais que 1 ano, será preciso pedir uma segunda via. O valor varia por idade. É necessário apostilar.
+**Deve ser emitida a menos de 12 meses da data da viagem para Portugal**. Se seu filho tem mais que 1 ano, será preciso pedir uma segunda via. O valor varia por idade. É necessário apostilar.
 
 - Custo da segunda via: varia por cartório e por idade, ~R\$ 50
 - Apostilamento: ~R\$ 50.
