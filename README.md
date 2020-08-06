@@ -33,6 +33,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [Água e esgoto](#água-e-esgoto)
   - [Supermercados](#supermercados)
   - [Assinaturas](#assinaturas)
+    - [Globo](#globo)
   - [VPN](#vpn)
   - [App Store](#app-store)
 * [Extras](#extras)
@@ -514,10 +515,12 @@ Outro programa de fidelidade similar para restaurantes é o app [Vitaminas](http
 
 Em geral, serviços como Spotify, Netflix, YouTube Premium, PSN Plus etc. tem preços mais vantajosos no Brasil do que em Portugal por se adequar mais à renda do consumidor médio. Manter assinaturas brasileiras em todos os serviços com um cartão de crédito português funciona sem problemas.
 
-Caso você tenha interesse em acompanhar conteúdos da Globo, como telejornalismo, séries etc., recomendo a assinatura do Globo Play no Brasil. Especificamente quanto ao Globo Play, dependendo do conteúdo você poderá ter alguma perda de praticidade e/ou a necessidade de VPN, veja na relação a seguir:
+### Globo
 
-- conteúdos produzidos pela Globo que não sejam ao vivo (jornais, novelas etc.): assiste normalmente no celular ou Smart TV;
-- conteúdos produzidos pela Globo que sejam de marcas licenciadas (Big Brother Brasil, por ex.) e que não sejam ao vivo: precisa de VPN no Brasil para iniciar a reprodução, mas pode compartilhar com Smart TV ou Chromecast que não esteja na VPN;
+Caso você tenha interesse em acompanhar conteúdos da Globo, como telejornalismo, séries etc., recomendo a assinatura do Globo Play no Brasil, porque o canal Globo oferecido nos pacotes de TV por Assinatura não é o mesmo do Brasil e só passa novelas antigas. Na utilização do Globo Play dependendo do conteúdo você poderá ter alguma perda de praticidade e/ou a necessidade de VPN, veja na relação a seguir:
+
+- conteúdos produzidos pela Globo que não sejam ao vivo (jornais, novelas etc.): assiste normalmente no celular ou Smart TV/Chromecast;
+- conteúdos produzidos pela Globo que sejam de marcas licenciadas (Big Brother Brasil, por ex.) e que não sejam ao vivo: precisa de VPN no Brasil para iniciar a reprodução no celular, mas pode compartilhar com Smart TV ou Chromecast ainda que este dispositivo não esteja na VPN;
 - conteúdos ao vivo: não funciona pelo celular, precisa se conectar a uma VPN e ligar o computador na TV com cabo HDMI.
 
 O que nos leva ao ponto seguinte:
