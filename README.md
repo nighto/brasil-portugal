@@ -12,6 +12,8 @@ Este repositório contém informações e dicas do processo de visto para brasil
   * [Após o visto ter sido aprovado, ainda no Brasil](#ap%C3%B3s-o-visto-ter-sido-aprovado-ainda-no-brasil)
     - [Documentos para Autorização de Residência](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia)
     - [Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar-para-seu-c%C3%B4njuge-eou-filhos)
+  * [Outros Documentos do Brasil](#outros-documentos-do-brasil)
+    - [Diploma e Histórico Escolar do Cônjuge e/ou Filhos](#diploma-e-histórico-escolar-do-cônjuge-eou-filhos)
 * [Em Portugal](#em-portugal)
   - [1. NIF](#1-nif)
   - [2. Conta Bancária](#2-conta-banc%C3%A1ria)
@@ -153,12 +155,13 @@ Caso vá com cônjuge e/ou filhos, inclua-os no certificado.
 
 #### 5. Diploma universitário + apostilamento
 
-Como o visto D3 é para trabalhadores _altamente qualificados_, é necessário anexar ao processo seu diploma universitário (pode ser tecnólogo, que era uma dúvida que eu tinha). Será necessário fazer o apostilamento do documento.
+Como o visto D3 é para trabalhadores _altamente qualificados_, é necessário anexar ao processo seu diploma universitário (que, aliás, pode ser tecnólogo, uma dúvida que eu tinha). Será necessário reconhecer firma de quem assina o diploma e fazer o apostilamento do documento, nessa ordem.
 
-Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, também é aceito uma certidão de colação de grau / conclusão de curso (tipicamente emitidas após colar grau e antes da entrega do diploma).
+Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, também é aceito uma certidão de colação de grau / conclusão de curso (tipicamente emitidas após colar grau e antes da entrega do diploma). Neste caso, o pedido do visto será feito com o certificado, mas ao receber o diploma - muito provavelmente enquanto aguarda o visto sair - não deixe de reconhecer firma e apostilar.
 
 Dica: caso você tenha recém concluído seu curso mas ainda não tenha colado grau, verifique com a universidade a possibilidade de uma _colação de grau antecipada_. No meu caso, levei à reitoria a carta convite fornecida pela empresa. A UFF exigiu que a carta convite tivesse uma data limite para disponibilização da vaga, sugerindo a data de um mês para que o processo ocorresse de maneira célere. Apenas para dar uma ideia da velocidade: fui à UFF dia 02/08/2019, colei grau dia 07/08/2019 (numa cerimônia específica para quem pediu antecipação, com meia dúzia de alunos de outros cursos) e recebi o diploma dia 20/08/2019.
 
+- Reconhecimento de firma: ~R\$ 10.
 - Apostilamento: ~R\$ 50.
 
 #### 6. Comprovantes de Renda brasileiros
@@ -262,6 +265,27 @@ Note que a data que conta é o dia em que o agendamento foi feito, não quando d
 
 - Custo da segunda via: varia por cartório e por idade, ~R\$ 50
 - Apostilamento: ~R\$ 50.
+
+## Outros Documentos do Brasil
+
+Esta seção lista procedimentos que não são necessários para tirar o visto, mas que são recomendados para fazer enquanto ainda está no Brasil para evitar futuras dores de cabeça.
+
+### Diploma e Histórico escolar do cônjuge e/ou filhos
+
+Uma vez que para pedir o Visto D3 você precisará apostilar seu diploma de curso universitário, esta recomendação se aplica ao seu cônjuge e/ou filhos, se houver. 
+
+No caso dos filhos, o histórico escolar é a comprovação do ensino que a criança teve. Para se matricular numa escola portuguesa será preciso fazer junto à escola portuguesa um procedimento chamado Equivalência escolar, e para tal será necessário o histórico escolar apostilado no Brasil. Mais detalhes na seção correspondente.
+
+No caso do cônjuge, ainda que não tenha curso superior nem a pretensão de fazê-lo, recomendo que reconheça firma e apostile o diploma do ensino médio e histórico escolar. Isto porque, fora cursos universitários, mesmo para participar de cursos livres oferecidos pelo [Instituto do Emprego e Formação Profissional](https://www.iefp.pt/) e iniciativas similares, tais como o [UPskill](https://upskill.pt/), será necessário comprovar a escolaridade, passando pelo mesmo procedimento de Equivalência escolar e ainda por um procedimento de Declaração de Escala de Notas, que converterá as notas brasileiras para o sistema português.
+
+É importante reconhecer firma e depois apostilar o(s) documento(s) nessa ordem - e não o inverso - uma vez que o apostilamento autenticará o reconhecimento da assinatura internacionalmente.
+
+Caso você não faça isto e tenha trazido o histórico escolar e/ou o diploma consigo sem essa autenticação, será preciso enviá-lo de volta para o Brasil, pedir para alguém ir no cartório reconhecer firma e apostilar para depois enviar de volta para Portugal, uma vez que não é possível apostilar documentos brasileiros em Portugal. Note ainda que pode ser mais barato/rápido pedir uma segunda via direto na escola do que enviar o documento daqui de Portugal e esperar chegar no Brasil.
+
+Posteriormente em Portugal, será necessário fazer um procedimento de equivalência do histórico escolar. Veja mais detalhes abaixo.
+
+- Reconhecimento de firma: ~R$ 10 por documento.
+- Apostilamento: ~R$ 50 por documento.
 
 # Em Portugal
 
@@ -417,7 +441,6 @@ Também é possível mudar a sua zona eleitoral para o exterior e participar das
 
 Custo: 0.
 
-
 # Dicas
 
 Nessa seção listo algumas dicas para as coisas que não sejam burocracias governamentais relativas à mudança.
@@ -518,6 +541,8 @@ O processo de autenticar uma cópia de documento envolve ir num cartório que pr
 ## Reconhecimento de firma
 
 _Firma_ neste contexto significa assinatura, é um processo similar ao da autenticação de cópia tambem oferecido pelos cartórios. O cartório tem um papel com a assinatura original da pessoa que você precisa reconhecer firma, e confere se a assinatura no seu papel se parece com a assinatura que tem em seus registros, colando um selo de autenticidade no seu documento.
+
+Para fazer o reconhecimento de firma de uma assinatura sua, você precisará _abrir firma_, isto é, registrar a sua assinatura em um cartório. Para fazer o reconhecimento de firma de outra pessoa (por exemplo, o reitor que assina o diploma universitário) será preciso ir ao cartório em que o mesmo tem _firma aberta_, isto é, que ele registrou a assinatura. Verifique o cartório correspondente na secretaria do local que emitiu o documento.
 
 ## Apostila da Haia
 
