@@ -527,7 +527,7 @@ O que nos leva ao ponto seguinte:
 
 ## VPN
 
-Por questões de licenciamento de conteúdos, alguns conteúdos do Brasil podem não estar disponíveis em Portugal. Caso você esbarre com essa necessidade, recomendo os serviços da [NordVPN](https://nordvpn.com). O plano de 3 anos custa US$ 2.99/mês (cobrança a cada 3 anos de US$ 107.55).
+Por questões de licenciamento de conteúdos, alguns conteúdos do Brasil podem não estar disponíveis em Portugal. Além disso, o acesso a determinados sites de compartilhamento de arquivos (por ex. The Pirate Bay) é bloqueado. Caso você esbarre com essa necessidade, recomendo os serviços da [NordVPN](https://nordvpn.com). O plano de 3 anos custa US$ 2.99/mês (cobrança a cada 3 anos de US$ 107.55).
 
 ## App Store
 
