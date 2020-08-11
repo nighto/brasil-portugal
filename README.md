@@ -551,6 +551,6 @@ Para fazer o reconhecimento de firma de uma assinatura sua, você precisará _ab
 
 Apostilamento é basicamente uma autenticação de documento reconhecida internacionalmente. Este serviço é oferecido por alguns cartórios, que cadastram o documento em um sistema online, e colam um adesivo atestando a sua autenticidade. O valor do apostilamento varia de estado para estado. [Veja mais detalhes aqui](http://www.cnj.jus.br/haia).
 
-### Procuração
+## Procuração
 
 Procuração é um termo emitido em um cartório que permite que uma terceira pessoa de confiança - um amigo ou familiar - se responda por você. Ela pode ser emitida com propósitos específicos, como assinar a compra ou venda de um imóvel, movimentar ou fechar uma conta bancária etc., ou ser de _plenos poderes_, que permite que a pessoa faça (quase) qualquer coisa. Pode ser uma forma de evitar dores de cabeça (fechar uma conta bancária que você tenha se esquecido de fechar, por exemplo), e será necessária anualmente para a renovação do PB4.
