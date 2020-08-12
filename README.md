@@ -23,6 +23,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [6. Número de Utente](#6-n%C3%BAmero-de-utente)
   - [7. Cartão Europeu Seguro Doença](#7-cartão-europeu-seguro-doença)
   - [8. Justiça Eleitoral](#8-justiça-eleitoral)
+  - [9. Carteira de Motorista](#9-carteira-de-motorista)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -442,6 +443,26 @@ Mesmo morando fora do Brasil, os brasileiros continuam com as obrigações eleit
 Também é possível mudar a sua zona eleitoral para o exterior e participar das eleições presidenciais a cada 4 anos (não é possível votar para outros cargos). Neste caso você precisará solicitar um pré-atendimento no TSE ([veja mais detalhes no site do consulado brasileiro do Porto](http://porto.itamaraty.gov.br/pt-br/servicos_eleitorais.xml)) e comparecer ao consulado brasileiro da sua região ([Lisboa](http://lisboa.itamaraty.gov.br/pt-br/consulados_brasileiros_em_portugal.xml), [Porto](http://porto.itamaraty.gov.br/pt-br/servicos_eleitorais.xml) ou [Faro](http://faro.itamaraty.gov.br/pt-br/eleitoral.xml)) para a mudança do título. Feito isso posteriormente poderá votar presencialmente no Consulado da sua região no dia das eleições presidenciais, para primeiro e segundo turno, se houver. Devido às eleições municipais de 2020, os serviços de mudança de zona eleitoral estão suspensos até 03 de novembro de 2020, de forma que você precisará neste ano justificar as eleições municipais (primeiro e segundo turno, se hovuer) e só após mudar o título para as eleições presidenciais de 2022.
 
 Custo: 0.
+
+## 9. Carteira de Motorista
+
+### Troca da Carteira de Motorista Brasileira pela Carta de Condução Portuguesa
+
+Para quem tem Carteira de Motorista brasileira (CNH), existem dois prazos importantes. É possível dirigir em Portugal com a CNH brasileira - não é exigida a Permissão Internacional para Dirigir - num prazo de **183 dias após a chegada ao país**.
+
+Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos**. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized). O procedimento é:
+
+1. Obter junto ao Consulado Brasileiro da sua região (Lisboa, Porto ou Faro) a **Declaração de Autenticidade da Carteira Nacional de Habilitação**. Mais informações na página do consulado: [Porto](http://porto.itamaraty.gov.br/pt-br/cnh_-_declaracao_de_autenticidade.xml) / [Faro](http://faro.itamaraty.gov.br/pt-br/cnh.xml) (não encontrei uma página correspondente no consulado de Lisboa). Custo: €15 + correios.
+
+2. Fazer um exame médico para obter um atestado médico de aptidão a condução de veículos. Note que mesmo se optar por fazer este exame em hospital particular, será necessário ter antes feito o Número de Utente no Centro de Saúde público. Mais detalhes na seção [Número de Utente](#6-n%C3%BAmero-de-utente). Custo: € 4,50 na rede pública / a partir de € 25 na rede privada (podendo ser menos caso tenha plano de saúde).
+
+3. Após ter recebido a declaração, agendar a troca no [IMT](http://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/IMTHome.aspx) (Instituto da Mobilidade e dos Transportes, equivalente dos Detran brasileiros). Veja os documentos necessários: [IMT - Condutores > Troca de título de condução estrangeiro > Outras Situações](http://www.imt-ip.pt/sites/IMTT/Portugues/Condutores/TrocaCartaConducao/OutrasSituacoes/Paginas/OutrasSituacoes.aspx). Custo: € 30.
+
+Notas:
+
+1. é preciso entregar a carteira brasileira para a troca pela carteira portuguesa, você não fica com as duas, sua CNH será enviada para o Detran brasileiro.
+
+2. não é possível trocar a permissão de dirigir temporária (obtida após passar na prova do Detran), somente a definitiva (emitida após 1 ano).
 
 # Dicas
 
