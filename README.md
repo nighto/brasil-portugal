@@ -468,42 +468,46 @@ Notas:
 
 ## 10. IRS
 
-Uma das obrigações anuais que temos, assim como no Brasil, é a Declaração do Imposto de Renda, aqui chamado de IRS - Imposto sobre o Rendimento de pessoas Singulares. Tipicamente nos contratos com pessoa física - similar aos contratos de carteira assinada no Brasil - já é descontado o percentual do salário bruto referente ao IRS, e com a declaração anual feita é possível ter um valor de restituição do imposto.
+Uma das obrigações anuais que temos, assim como no Brasil, é a Declaração do Imposto de Renda, aqui chamado de IRS - Imposto sobre o Rendimento de pessoas Singulares. Assim como no Brasil, tipicamente nos contratos com pessoa física - similar aos contratos de carteira assinada brasileiros - já é descontado o percentual do salário bruto referente ao IRS, de forma com a declaração anual feita é possível ter um valor de restituição do imposto de renda.
 
-As alíquotas de imposto tem bem mais variações do que no Brasil (que eram de 0, 15 e 27,5% dependendo do valor do salário). Variam igualmente com o valor do salário, mas tem graduações mais granulares, variando entre 0 a 41,8%, mas também há variações se a pessoa for casada (imposto menor), se somente um ou os dois casados trabalham (imposto maior), se tem filhos (imposto menor), se é jovem (dos 18 a 26 anos), se tem alguma deficiência, se mora no Continente ou nas regiões autônomas de Açores ou Madeira etc. Confira no site da Autoridade Tributária a [Tabela de Retenção de IRS](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/tabela_ret_doclib/Pages/default.aspx), e sugiro este artigo explicativo: [Taxas de IRS 2020: consulte os escalões de IRS - Economias](https://www.economias.pt/taxas-de-irs/).
+As alíquotas de imposto tem bem mais variações do que no Brasil (que são de 0, 15 e 27,5% dependendo do valor do salário no ano). Variam igualmente com o valor do salário, mas tem graduações mais granulares, variando entre 0 a 41,8%, mas também há variações se a pessoa for casada (imposto menor), se somente um ou os dois casados trabalham (imposto maior), se tem filhos, se é jovem (dos 18 a 26 anos), se tem alguma deficiência, se mora no Continente ou nas regiões autônomas de Açores ou Madeira etc. Confira no site da Autoridade Tributária a [Tabela de Retenção de IRS](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/tabela_ret_doclib/Pages/default.aspx), e sugiro este artigo explicativo: [Taxas de IRS 2020: consulte os escalões de IRS - Economias](https://www.economias.pt/taxas-de-irs/), assim como este [Simulador Salário Líquido 2020](https://www.doutorfinancas.pt/simulador-salario-liquido-2020/).
 
-Ao contrário da Declaração do Imposto de Renda do Brasil, em que é preciso baixar um programa, a declaração do IRS português é feita online, direto no [site das Finanças - IRS](https://irs.portaldasfinancas.gov.pt/home.action). É preciso ter um código de acesso para o portal, que é recebido por carta, conforme [detalhado na seção anterior sobre o NIF](#1-nif). Os dados já vem pré-preenchidos, basta conferir, corrigir alguma eventual discrepância e entregar a declaração.
+Ao contrário da Declaração do Imposto de Renda do Brasil, em que é preciso baixar um programa, instalar o Java etc., a declaração do IRS português é feita online, direto no [site das Finanças - IRS](https://irs.portaldasfinancas.gov.pt/home.action). É preciso ter um código de acesso para o portal, que é recebido por carta, conforme [detalhado na seção anterior sobre o NIF](#1-nif). Os dados já vem pré-preenchidos, basta conferir, corrigir alguma eventual discrepância e entregar a declaração.
 
 ### Deduções
 
-De forma similar às deduções do imposto de renda do Brasil, que abrangiam basicamente saúde e educação privadas, aqui há mais despesas que são dedutíveis, conforme a lista a seguir.
+De forma similar às deduções do imposto de renda do Brasil, que abrangiam basicamente despesas com saúde e educação, aqui há mais despesas que são dedutíveis, conforme a lista a seguir.
 
 Aviso: não sou contador/contabilista, então se necessário confira as informações com um profissional da área.
 
-> - 35% das despesas gerais familiares (por exemplo, despesas com água, luz, gás, telecomunicações, combustíveis, supermercado, vestuário), até ao máximo dedutível de 250 euros por sujeito passivo. Recorde-se que para as famílias monoparentais a percentagem sobe para 45%,com o limite de 335 euros;
+> - 35% das despesas gerais familiares (por exemplo, despesas com água, luz, gás, telecomunicações, combustíveis, supermercado, vestuário), até ao máximo dedutível de 250 euros por sujeito passivo. Recorde-se que para as famílias monoparentais a percentagem sobe para 45%, com o limite de 335 euros;
 > - 30% das despesas de educação (que inclui rendas de estudantes deslocados), até um máximo dedutível de 800 euros. É dedutível, a título de rendas, um valor máximo de 300 euros anuais, sendo o limite global das despesas de educação de 800 euros aumentado em 200 euros, quando a diferença seja relativa a rendas. Assim, os agregados familiares que atinjam o limite de 800 euros de dedução com despesas de educação podem ver este limite acrescido em 200 euros, quando a diferença corresponda a rendas, ficando assim o limite global de mil euros, no que diz respeito às despesas de educação e formação profissional.
 > - 15% das despesas de saúde, até um máximo dedutível de mil euros;
 > - 15% do IVA suportado em cada fatura relativa a despesas nos setores da restauração e hotelaria, cabeleireiros e reparações de automóveis e de motociclos, e despesas com veterinários, e 100% do IVA suportado com despesas em passes sociais, com um limite global de 250 euros por agregado familiar;
 > - 15% das despesas com rendas, até um máximo dedutível de 502 euros; e 15% das despesas com juros de empréstimo à habitação, para contratos celebrados até 31/12/2011, até um máximo dedutível de 296 euros;
 > - 25% das despesas com lares, até um máximo dedutível de 403,75 euros;
 > - 20% das pensões de alimentos, sem limite.
+
 via: [Deduções no IRS: novidades fiscais em 2020](https://www.cgd.pt/Site/Saldo-Positivo/leis-e-impostos/Pages/deducoes-no-irs.aspx)
 
 Ou seja: sempre peça o contribuinte na nota para que essas despesas sejam lançadas atreladas ao seu NIF e você tenha o máximo de restituição possível.
 
-A partir dessa tabela, é possível calcular o valor em gasto que seria necessário para atingir o teto de restituição em cada categoria:
+A partir dessa tabela, é possível calcular o valor em gasto que seria necessário para atingir o __teto de restituição__ em cada categoria. Dividindo em duas partes, as despesas que são por família:
 
-- Despesas gerais familiares: 35%, até 250€ por pessoa, portanto 250 / 0,35 = € 714,29 por ano
+- Rendas: 15%, até 502€ por família, portanto 502 / 0,15 = € 3.346,67 por ano, o que dá € 278,89 por mês (bem abaixo do valor típico de aluguel...)
 - Educação: 30%, até 800€ por família, portanto 800 / 0,3 = € 2.666,67 por ano, o que dá € 222,22 por mês (pagando uma creche ou escola particular chega-se a esse valor)
 - Saúde: 15%, até 1.000€ por família, portanto 1.000 / 0,15 = € 6.666,67 por ano, o que dá € 555,56 por mês (dificilmente se chegaria a esse valor uma vez que o teto é alto)
-- IVA: 15%, até 250€ por pessoa. Este é mais difícil de calcular pois o IVA tipicamente varia entre 6 a 23% dependendo do produto comprado, supondo 23% para facilitar o cálculo (valor típico em restaurantes): 250 / 0,15 = € 1.666 de IVA / 0,23 = € 7.244 de compras por ano, o que dá € 603,67 por mês.
-- Rendas: 15%, até 502€ por família, portanto 502 / 0,15 = € 3.346,67 por ano, o que dá € 278,89 por mês (bem abaixo do valor típico de aluguel...)
+
+E as despesas que são por pessoa:
+
+- Despesas gerais familiares: 35%, até 250€ por pessoa, portanto 250 / 0,35 = € 714,29 por ano
+- IVA: 15%, até 250€ por pessoa. Este é mais difícil de calcular pois o IVA (Imposto sobre o valor acrescentado) tipicamente varia entre 6 a 23% dependendo do produto comprado, supondo 23% para facilitar o cálculo (maior alíquota possível): 250 / 0,15 = € 1.666 __de IVA__ / 0,23 = € 7.244 de compras em restaurantes e afins por ano, o que dá € 603,67 por mês.
 
 É possível verificar no portal e-Fatura as [Deduções Provisórias em IRS](https://faturas.portaldasfinancas.gov.pt/painelAdquirente.action), o que recomendo que você faça __mesmo no primeiro ano com alguma frequência__ (uma vez por mês ou algo assim), afim de garantir que as suas despesas estejam entrando nas categorias corretas. É possível atribuir as faturas às categorias manualmente, se necessário. Caso você tenha se esquecido de incluir o NIF em uma fatura, ou se a loja não tiver comunicado a sua compra a Autoridade Financeira - _acontece!_ - é possível incluir manualmente a fatura.
 
 __Dicas importantes:__
 
-- caso você seja casado e/ou tenha filhos, divida as despesas informando o NIF de todos os membros da família, especialmente nas categorias de desespesas gerais familiares (contas de serviços, supermercado) e restituição de IVA (restaurantes etc.), mesmo que somente você trabalhe / tenha rendimentos, uma vez que essas categorias tem limite de dedução __por pessoa__. Uma forma simples de fazer isto, para uma família de duas pessoas, seria informar o NIF de um na primeira metade e o NIF do outro na segunda metade do ano, e assim sucessivamente, e quanto as contas, colocar a conta de luz e gás no nome de uma pessoa e a de água e internet na outra, por exemplo. Você pode acessar a página de Deduções Provisórias em IRS mencionada anteriormente para verificar o quão perto do limite está e se precisa ou não se preocupar com isso.
+- caso você seja casado e/ou tenha filhos, divida as despesas informando o NIF de todos os membros da família, especialmente nas categorias de despesas gerais familiares (contas de serviços, supermercado) e restituição de IVA (restaurantes etc.), mesmo que somente você trabalhe / tenha rendimentos, uma vez que essas categorias tem limite de dedução __por pessoa__. Uma forma simples de fazer isto, para uma família de duas pessoas, seria informar o NIF de um na primeira metade e o NIF do outro na segunda metade do ano, e assim sucessivamente, e quanto as contas, colocar a conta de luz e gás no nome de uma pessoa e a de água e internet na outra, por exemplo. Você pode acessar a página de Deduções Provisórias em IRS mencionada anteriormente para verificar o quão perto do limite está e se precisa ou não se preocupar com isso.
 - despesas de saúde podem ter restituição maior caso o remédio comprado tenha sido indicado por conta de uma receita médica. O portal dá a opção de associar uma receita a uma fatura de despesa de saúde.
 - despesas com escolas de condução (para tirar carta de condução / carteira de motorista) __não__ podem entrar na categoria "Educação", mas podem compor o valor de restituição na categoria "Despesas Gerais Familiares".
 
@@ -511,9 +515,9 @@ Tendo passado o primeiro ano, e antes (ou mesmo depois) da declaração, é poss
 
 ## 11. Estatuto de Igualdade
 
-É possivel ter o Cartão do Cidadão Português mesmo não sendo português, através do [Tratado de Porto Seguro](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=86), o qual provê igualdade de direitos para quem o solicitar.
+É possível ter o Cartão do Cidadão Português mesmo não sendo português, através do [Tratado de Porto Seguro](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=86), o qual provê igualdade de direitos para quem o solicitar.
 
-O Estatuto de Igualdade provê duas modalidades distintas, o __Estatuto de Igualdade de Direitos e Deveres__ e o __Estatuto de Igualdade de Direitos Políticos__. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando da obrigação de votar no Brasil e foge do escopo deste guia. A primeira traz como principal vantagem a obtenção do Cartão Cidadão, o que traz duas vantagens principais:
+O Estatuto de Igualdade provê duas modalidades distintas, o __Estatuto de Igualdade de Direitos e Deveres__ e o __Estatuto de Igualdade de Direitos Políticos__. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando da obrigação de votar no Brasil e foge do escopo deste guia. O primeiro traz como principal benefício a obtenção do Cartão Cidadão, o que traz duas vantagens principais:
 
 - facilita financiamento de casa/carro (podendo assim financiar em até 90% a casa e 100% o carro);
 - se quiser fazer mestrado/doutorado vai pagar a mesma propina (mensalidade) que portugueses;
