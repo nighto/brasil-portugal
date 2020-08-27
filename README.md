@@ -25,7 +25,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [8. Justiça Eleitoral](#8-justiça-eleitoral)
   - [9. Carteira de Motorista](#9-carteira-de-motorista)
   - [10. IRS](#10-irs)
-  - [10. Estatuto de Igualdade](#11-estatuto-de-igualdade)
+  - [11. Estatuto de Igualdade](#11-estatuto-de-igualdade)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
