@@ -513,21 +513,32 @@ Tendo passado o primeiro ano, e antes (ou mesmo depois) da declaração, é poss
 
 É possivel ter o Cartão do Cidadão Português mesmo não sendo português, através do [Tratado de Porto Seguro](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=86), o qual provê igualdade de direitos para quem o solicitar.
 
+O Estatuto de Igualdade provê duas modalidades distintas, o __Estatuto de Igualdade de Direitos e Deveres__ e o __Estatuto de Igualdade de Direitos Políticos__. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando da obrigação de votar no Brasil e foge do escopo deste guia. A primeira traz como principal vantagem a obtenção do Cartão Cidadão, o que traz duas vantagens principais:
+
+- facilita financiamento de casa/carro (podendo assim financiar em até 90% a casa e 100% o carro);
+- se quiser fazer mestrado/doutorado vai pagar a mesma propina (mensalidade) que portugueses;
+
+e outras pequenas facilidades, tais como:
+
+- marcação de consultas no Sistema Nacional de Saúde online, sem precisar ligar para o Centro de Saúde;
+- autenticação de documentos online com a chave privada associada ao cartão;
+- login facilitado nas plataformas online do governo.
+
 ### Documentos necessários:
 
 1. Uma cópia do Título de Residência - Válido;
-2. Declaração de nacionalidade Brasileira para o Tratado de Porto Seguro, obtido no consulado (grátis, mediante agendamento);
+2. Declaração de nacionalidade Brasileira para o Tratado de Porto Seguro, obtido no consulado brasileiro (grátis, mediante agendamento);
 3. [Formulário de solicitação do SEF](https://imigrante.sef.pt/wp-content/uploads/Requerimento_DireitosDeveres_DD_PT.pdf). Imprima e preencha da forma mais legível possível.
-4. Mande para o endereço da imagem abaixo:
-![image](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)
+4. Mande pelos Correios o formulário do SEF, a declaração do Consulado e uma fotocópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):  
+  
+> Departamento de Nacionalidades  
+> Avenida do Casal de Cabanas  
+> Urbanização Cabanas Golf, nº 1  
+> 2734-506 Barcarena
+  
 5. Espere até 5 meses para receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português);
-6. Va ao IRN (loja do cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar.
+6. Vá ao IRN (Loja do Cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar.
 7. Pegue em 1 semana (média)
-
-### _Vantagens:_
-
-- Facilita financiamento de casa/carro (podendo assim financiar em até 90% a casa e 100% o carro);
-- Se quiser fazer mestrado/doutorado vai pagar a mesma propina (mensalidade) que portugueses.
 
 # Dicas
 
