@@ -25,6 +25,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [8. Justiça Eleitoral](#8-justiça-eleitoral)
   - [9. Carteira de Motorista](#9-carteira-de-motorista)
   - [10. IRS](#10-irs)
+  - [10. Estatuto de Igualdade](#11-estatuto-de-igualdade)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -472,6 +473,25 @@ Uma das obrigações anuais que temos, assim como no Brasil, é a Declaração d
 As alíquotas de imposto tem bem mais variações do que no Brasil (que eram de 0, 15 e 27,5% dependendo do valor do salário). Variam igualmente com o valor do salário, mas tem graduações mais granulares, variando entre 0 a 41,8%, mas também há variações se a pessoa for casada (imposto menor), se somente um ou os dois casados trabalham (imposto maior), se tem filhos (imposto menor), se é jovem (dos 18 a 26 anos), se tem alguma deficiência, se mora no Continente ou nas regiões autônomas de Açores ou Madeira etc. Confira no site da Autoridade Tributária a [Tabela de Retenção de IRS](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/tabela_ret_doclib/Pages/default.aspx), e sugiro este artigo explicativo: [Taxas de IRS 2020: consulte os escalões de IRS - Economias](https://www.economias.pt/taxas-de-irs/).
 
 Ao contrário da Declaração do Imposto de Renda do Brasil, em que é preciso baixar um programa, a declaração do IRS português é feita online, direto no [site das Finanças - IRS](https://irs.portaldasfinancas.gov.pt/home.action). É preciso ter um código de acesso para o portal, que é recebido por carta, conforme [detalhado na seção anterior sobre o NIF](#1-nif). Os dados já vem pré-preenchidos, basta conferir, corrigir alguma eventual discrepância e entregar a declaração.
+
+## 11. Estatuto de Igualdade
+É possivel ter o Cartão do Cidadão Portugues mesmo não sendo Portugues, através do Tratado de Porto Seguro, o qual provê igualdade de direitos para quem o solicitar.
+
+### Documentos necessários:
+
+1. Uma cópia do Título de Residência - Válido.;
+2. Declaração de nacionalidade Brasileira para o tratado de porto seguro, obtido no consulado (grátis, mediante agendamento);
+3.  [Fromulário de solicitação do SEF](https://imigrante.sef.pt/wp-content/uploads/Requerimento_DireitosDeveres_DD_PT.pdf). Imprima e preencha da forma mais legivel possível.
+4. Mande para o endereço da imagem abaixo:
+![image](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)
+5. Espere até 5 meses para receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial tuga);
+6. Va ao IRN (loja do cidadão) com os papéis que chegaram + seus documentos (titulo, nif, niss, utente - todos vão ser adicionados no cartao do cidadão) - uns 40 euros pra solicitar.
+7. Pegue em 1 semana (média)
+
+### _Vantagens:_
+
+- Facilita financiamento de casa/carro (podendo assim financiar em até 90% a casa e 100% o carro);
+- Se quiser fazer mestrado/doutorado vai pagar a mesma propina (mensalidade) que tugas.
 
 ### Deduções
 
