@@ -45,6 +45,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [Reconhecimento de firma](#reconhecimento-de-firma)
   - [Apostila da Haia](#apostila-da-haia)
   - [Procuração](#procura%C3%A7%C3%A3o)
+  - [Consulado ou Embaixada?](#consulado-ou-embaixada)
 
 # Introdução
 
@@ -672,3 +673,11 @@ Apostilamento é basicamente uma autenticação de documento reconhecida interna
 ## Procuração
 
 Procuração é um termo emitido em um cartório que permite que uma terceira pessoa de confiança - um amigo ou familiar - se responda por você. Ela pode ser emitida com propósitos específicos, como assinar a compra ou venda de um imóvel, movimentar ou fechar uma conta bancária etc., ou ser de _plenos poderes_, que permite que a pessoa faça (quase) qualquer coisa. Pode ser uma forma de evitar dores de cabeça, como por exemplo fechar uma conta bancária que você tenha se esquecido de fechar.
+
+## Consulado ou Embaixada?
+
+O Brasil tem uma [embaixada](http://lisboa.itamaraty.gov.br/pt-br/) e três consulados em Portugal. Em geral as interações para solicitações de documentos são todas com os consulados, à exceção dos [assuntos educacionais](http://lisboa.itamaraty.gov.br/pt-br/assuntos_educacionais.xml).
+
+A embaixada fica em Lisboa, e os três consulados ficam em [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/), [Porto](http://porto.itamaraty.gov.br/pt-br/) e [Faro](http://faro.itamaraty.gov.br/pt-br/). __Note que você somente poderá fazer solicitações de documentos ao consulado que atende a sua região de residência.__
+
+![Jurisdição dos consulados brasileiros em Portugal](https://user-images.githubusercontent.com/397851/91711541-f7db3880-eb7d-11ea-80d6-99514a1fa35e.png)
