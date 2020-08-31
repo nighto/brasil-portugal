@@ -570,9 +570,9 @@ Tipicamente se anota no contrato o valor dos relógios de água, luz e gás, par
 
 ### Transporte Público
 
-#### Transporte Público no Porto
-
 Nessa seção detalho o transporte público da região do Porto, PRs com detalhes de Lisboa e outras regiões são bem-vindos :)
+
+#### Transporte Público no Porto
 
 No Porto existe o [Metro do Porto](https://www.metrodoporto.pt/) com 6 linhas de metrô/VLT, a [CP Comboios de Portugal](https://www.cp.pt/passageiros/pt) com 4 linhas de trens suburbanos, além de uma rede extensa de autocarros (ônibus) operados pela [STCP](https://www.stcp.pt/) e empresas locais, como a [Maré de Matosinhos](https://maredematosinhos.pt/), além de 3 linhas de eléctrico (bonde) e outros transportes turísticos.
 
@@ -582,11 +582,19 @@ Quanto às tarifas, a cidade tem um [sistema de zonas tarifárias](https://www.l
 
 Cada bilhete possui uma duração de validade (Z2 e Z3 1 hora, Z4 1h15 e assim sucessivamente) e é possível pegar vários transportes pagando uma só passagem dentro desse horário. Se mudar de veículo ou linha, valide novamente o título de transporte (por exemplo, se trocar de linha no Metro). A validade do tempo que conta é da última validação, não da desembarque do veículo, ou seja: você pode ir e voltar com o mesmo bilhete, desde que valide a volta antes de completar os 60 minutos, mesmo que fique mais tempo dentro do trem. Alternativamente, é possível pagar os autocarros com dinheiro trocado, comprando a passagem com o motorista, mas nesse caso o valor será mais alto (€2 na STCP, €1,50 na Maré de Matosinhos etc.) e não é possível fazer baldeação.
 
-Além ao uso dos bilhetes eventuais, é possível comprar passes diários e semanais (com valores variados a depender das zonas), ou ainda um passe mensal, que custa € 30 para andar em 3 zonas (determinadas, não quaisquer) ou € 40 para andar em toda a região metropolitana e com isso não se preocupar mais com as zonas tarifárias. Os passes diários e semanais podem ser comprados direto nas máquinas de venda de bilhetes, mas para comprar o passe mensal é preciso ir a uma [Loja Andante](https://www.linhandante.com/ondesecompra.asp) com passaporte e comprar um cartão Andante prateado, de plástico, com nome e foto (tirada na hora), que custa € 6 e tem validade de 10 anos. A validade do bilhete mensal é _até o final do mês_ (não são 30 dias, atenção para não jogar dinheiro fora) e a recarga pode ser feita em qualquer máquina de venda de bilhetes do Metro, além das lojas Andante. Também há uma opção de [passe mensal familiar](https://www.linhandante.com/noticias-det.asp?noticiaid=165) a € 60 (3 zonas) / € 80 (metropolitano).
+Além ao uso dos bilhetes eventuais, é possível comprar passes diários e semanais (com valores variados a depender das zonas), ou ainda um passe mensal, que custa € 30 para andar em 3 zonas (determinadas, não quaisquer) ou € 40 para andar em toda a região metropolitana e com isso não se preocupar mais com as zonas tarifárias. Os passes diários e semanais podem ser comprados direto nas máquinas de venda de bilhetes de papel.
+
+Para comprar o passe mensal é preciso ir a uma [Loja Andante](https://www.linhandante.com/ondesecompra.asp) com documento de identificação (passaporte ou título de residência) e comprar um cartão Andante prateado, de plástico, com nome e foto (tirada na hora), que custa € 6 e tem validade de 10 anos. A validade do bilhete mensal é _até o final do mês_ (não são 30 dias, atenção para não jogar dinheiro fora) e a recarga pode ser feita em qualquer máquina de venda de bilhetes do Metro, além das lojas Andante. Caso você tenha ativado o passe metropolitano ou de 3 zonas e quiser trocar de opção, é preciso voltar à Loja Andante. Também há uma opção de [passe mensal familiar](https://www.linhandante.com/noticias-det.asp?noticiaid=165) a € 60 (3 zonas) / € 80 (metropolitano).
 
 Crianças com menos de 4 anos não pagam passagem; com menos de 13 anos pagam passagem, mas é possível adquirir na Loja Andante um cartão Sub-13 para não pagar ([mais detalhes aqui](https://www.linhandante.com/noticias-det.asp?noticiaid=157)); e dos 13 aos 18 anos há um cartão com desconto no valor da passagem.
 
 Tenho um vídeo explicando a rede do metro e a bilhetagem, pode ajudar a entender melhor: [Porto - Panorama do Metro, autocarros e bilhetagem](https://youtu.be/voYF50pe_9k).
+
+Mapa do Metro do Porto  
+![Mapa do Metro do Porto](https://user-images.githubusercontent.com/397851/91712983-c4e67400-eb80-11ea-97f0-8553cb91ce5a.jpg)
+
+Mapa dos Comboios Urbanos do Porto  
+![Mapa dos Comboios Urbanos do Porto](https://user-images.githubusercontent.com/397851/91713203-345c6380-eb81-11ea-8618-fe95a82217c0.jpg)
 
 ### Aplicativos
 
