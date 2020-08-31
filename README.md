@@ -532,7 +532,10 @@ e outras pequenas facilidades, tais como:
 ### Documentos necessários:
 
 1. Uma cópia do Título de Residência - Válido;
-2. Declaração de nacionalidade Brasileira para o Tratado de Porto Seguro, obtido no consulado brasileiro (grátis, mediante agendamento);
+2. Declaração de nacionalidade Brasileira para o Tratado de Porto Seguro, obtido no consulado brasileiro da sua região. Note que há dois tipos, a "Declaração de Nacionalidade" e a "Declaração de Nacionalidade e Estado Civil", para este processo basta a primeira;
+  - [Consulado de Faro](http://faro.itamaraty.gov.br/pt-br/nacionalidade.xml) - faz-se um agendamento e é preciso apresentar o passaporte e RG ou certidão de nascimento, verifique o link para mais detalhes
+  - [Consulado de Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/:::_certificado.xml) - faz-se a solicitação com envio dos documentos online e há um agendamento para pegar o documento
+  - [Consulado do Porto](http://porto.itamaraty.gov.br/pt-br/atestado_de_nacionalidade.xml) - No Consulado do Porto, o processo é por correio, exige cópia de certidão de nascimento ou casamento emitida há menos de 6 meses e o pagamento de €15 uma vez que não há diferenciação entre a "Declaração de Nacionalidade" e a "Declaração de Nacionalidde e Estado Civil". [Note que não é possível ser atendido nos consulados das outras jurisdições](https://github.com/nighto/brasil-portugal#consulado-ou-embaixada).
 3. [Formulário de solicitação do SEF](https://imigrante.sef.pt/wp-content/uploads/Requerimento_DireitosDeveres_DD_PT.pdf). Imprima e preencha da forma mais legível possível.
 4. Mande pelos Correios o formulário do SEF, a declaração do Consulado e uma fotocópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):  
   
