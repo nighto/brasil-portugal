@@ -453,7 +453,7 @@ Custo: 0.
 
 Para quem tem Carteira de Motorista brasileira (CNH), existem dois prazos importantes. É possível dirigir em Portugal com a CNH brasileira - não é exigida a Permissão Internacional para Dirigir - num prazo de **183 dias após a chegada ao país**.
 
-Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos**. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized). O procedimento é:
+Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos** a partir da data de chegada. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized). O procedimento é:
 
 1. Obter junto ao Consulado Brasileiro da sua região (Lisboa, Porto ou Faro) a **Declaração de Autenticidade da Carteira Nacional de Habilitação**. Mais informações na página do consulado: [Porto](http://porto.itamaraty.gov.br/pt-br/cnh_-_declaracao_de_autenticidade.xml) / [Faro](http://faro.itamaraty.gov.br/pt-br/cnh.xml) (não encontrei uma página correspondente no consulado de Lisboa). Custo: €15 + correios.
 
@@ -466,6 +466,14 @@ Notas:
 1. é preciso entregar a carteira brasileira para a troca pela carteira portuguesa, você não fica com as duas, sua CNH será enviada para o Detran brasileiro.
 
 2. não é possível trocar a permissão de dirigir temporária (obtida após passar na prova do Detran), somente a definitiva (emitida após 1 ano).
+
+### Tirar Carta de Condução do zero
+
+Caso você não tenha carteira de motorista brasileira e tenha interesse em tirar a carta de condução portuguesa, o processo é similar ao brasileiro. Pela regra portuguesa, para conduzir ligeiros (carros de passeio) é preciso ter 28 horas de aulas teóricas e 32 horas de aulas práticas. Veja mais detalhes: [Escola de condução - perguntas frequentes | ACP](https://www.acp.pt/servicos/carta-de-conducao/tirar-carta-de-conducao-no-acp/questoes-frequentes).
+
+Assim como no procedimento para a troca de carteira de motorista, você precisará de um atestado médico e portanto ter feito o número de utente. Mais detalhes no item anterior.
+
+Após ter o atestado emitido pode ir a uma escola de condução e contratar o serviço, com valores que variam de 450 a 850€ (no Porto em agosto de 2020). Estou fazendo no [Grupo ArtDrive](https://www.grupoartdrive.pt/), que tem aulas teóricas online.
 
 ## 10. IRS
 
@@ -683,7 +691,7 @@ Apostilamento é basicamente uma autenticação de documento reconhecida interna
 
 ## Procuração
 
-Procuração é um termo emitido em um cartório que permite que uma terceira pessoa de confiança - um amigo ou familiar - se responda por você. Ela pode ser emitida com propósitos específicos, como assinar a compra ou venda de um imóvel, movimentar ou fechar uma conta bancária etc., ou ser de _plenos poderes_, que permite que a pessoa faça (quase) qualquer coisa. Pode ser uma forma de evitar dores de cabeça, como por exemplo fechar uma conta bancária que você tenha se esquecido de fechar.
+Procuração é um termo emitido em um cartório que permite que uma terceira pessoa de confiança - um amigo ou familiar - responda por você. Ela pode ser emitida com propósitos específicos, como assinar a compra ou venda de um imóvel, movimentar ou fechar uma conta bancária etc., ou ser de _plenos poderes_, que permite que a pessoa faça (quase) qualquer coisa. Pode ser uma forma de evitar dores de cabeça, como por exemplo fechar uma conta bancária que você tenha se esquecido de fechar.
 
 ## Consulado ou Embaixada?
 
