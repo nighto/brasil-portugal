@@ -529,7 +529,7 @@ Tendo passado o primeiro ano, e antes (ou mesmo depois) da declaração, é poss
 
 É possível ter o Cartão do Cidadão Português mesmo não sendo português, através do [Tratado de Porto Seguro](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=86), o qual provê igualdade de direitos para quem o solicitar.
 
-O Estatuto de Igualdade provê duas modalidades distintas, o __Estatuto de Igualdade de Direitos e Deveres__ e o __Estatuto de Igualdade de Direitos Políticos__. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando da obrigação de votar no Brasil e foge do escopo deste guia. O primeiro traz como principal benefício a obtenção do Cartão Cidadão, o que traz duas vantagens principais:
+O Estatuto de Igualdade provê três modalidades distintas, o __Estatuto de Igualdade de Direitos e Deveres__, o __Estatuto de Igualdade de Direitos Políticos__, e o __Estatuto de Igualdade de Direitos e Deveres e de Direitos Políticos__ que é a junção das duas primeiras. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando da obrigação de votar no Brasil, só está disponível para brasileiros com residência portuguesa há 3 anos e foge do escopo deste guia. Por outro lado, o primeiro traz como principal benefício a obtenção do __Cartão Cidadão__, e pode ser pedido assim que recebemos o Título de Residência. Isto traz duas vantagens principais:
 
 - facilita financiamento de casa/carro (podendo assim financiar em até 90% a casa e 100% o carro);
 - se quiser fazer mestrado/doutorado vai pagar a mesma propina (mensalidade) que portugueses;
@@ -540,13 +540,15 @@ e outras pequenas facilidades, tais como:
 - autenticação de documentos online com a chave privada associada ao cartão;
 - login facilitado nas plataformas online do governo.
 
+Note que, ao contrário do Cartão Cidadão português e assim como o Título de Residência, o cartão cidadão para estrangeiros não é aceito como documento válido de viagens, então mesmo em viagens dentro do Espaço Schengen você irá precisar do seu passaporte.
+
 ### Documentos necessários:
 
 1. Uma cópia do Título de Residência - Válido;
-2. Declaração de nacionalidade Brasileira para o Tratado de Porto Seguro, obtido no consulado brasileiro da sua região. Note que há dois tipos, a "Declaração de Nacionalidade" e a "Declaração de Nacionalidade e Estado Civil", para este processo basta a primeira;
-  - [Consulado de Faro](http://faro.itamaraty.gov.br/pt-br/nacionalidade.xml) - faz-se um agendamento e é preciso apresentar o passaporte e RG ou certidão de nascimento, verifique o link para mais detalhes
-  - [Consulado de Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/:::_certificado.xml) - faz-se a solicitação com envio dos documentos online e há um agendamento para pegar o documento
-  - [Consulado do Porto](http://porto.itamaraty.gov.br/pt-br/atestado_de_nacionalidade.xml) - No Consulado do Porto, o processo é por correio, exige cópia de certidão de nascimento ou casamento emitida há menos de 6 meses e o pagamento de €15 uma vez que não há diferenciação entre a "Declaração de Nacionalidade" e a "Declaração de Nacionalidde e Estado Civil". [Note que não é possível ser atendido nos consulados das outras jurisdições](https://github.com/nighto/brasil-portugal#consulado-ou-embaixada).
+2. Certificado de Nacionalidade para Estatuto de Igualdade, obtido no consulado brasileiro da sua região. Cada consulado tem o seu procedimento, conforme a lista a seguir:
+  - [Consulado de Faro](http://faro.itamaraty.gov.br/pt-br/nacionalidade.xml) - faz-se um agendamento e é preciso apresentar o passaporte e a cédula de identidade (RG) ou certidão de nascimento, verifique o link para mais detalhes;
+  - [Consulado de Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/:::_certificado.xml) - faz-se a solicitação com envio dos documentos online e há um agendamento para pegar o documento;
+  - [Consulado do Porto](http://porto.itamaraty.gov.br/pt-br/atestado_de_nacionalidade.xml) - No Consulado do Porto, o processo é por correio, exige cópia do passaporte ou RG (que comprove nome completo, naturalidade e filiação), o preenchimento de um formulário impresso e a compra de um vale postal para envio do documento de volta a você pelos Correios. [Note que não é possível ser atendido nos consulados das outras jurisdições](https://github.com/nighto/brasil-portugal#consulado-ou-embaixada).
 3. [Formulário de solicitação do SEF](https://imigrante.sef.pt/wp-content/uploads/Requerimento_DireitosDeveres_DD_PT.pdf). Imprima e preencha da forma mais legível possível.
 4. Mande pelos Correios o formulário do SEF, a declaração do Consulado e uma fotocópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):  
   
