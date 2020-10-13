@@ -26,6 +26,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [9. Carteira de Motorista](#9-carteira-de-motorista)
   - [10. IRS](#10-irs)
   - [11. Estatuto de Igualdade](#11-estatuto-de-igualdade)
+  - [12. Certificado de Equivalência do Ensino Médio](#12-certificado-de-equivalência-do-ensino-médio)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -463,9 +464,11 @@ Após este prazo, há um segundo prazo para realizar a conversão da carteira br
 
 Notas:
 
-1. é preciso entregar a carteira brasileira para a troca pela carteira portuguesa, você não fica com as duas, sua CNH será enviada para o Detran brasileiro.
+1. é preciso entregar a carteira brasileira para a troca pela carteira portuguesa, você não fica com as duas, sua CNH será enviada para o Detran brasileiro;
 
-2. não é possível trocar a permissão de dirigir temporária (obtida após passar na prova do Detran), somente a definitiva (emitida após 1 ano).
+2. numa futura viagem de férias para o Brasil, você poderá dirigir com a carteira portuguesa, mas caso queira pode ir no Detran e fazer uma segunda via para ter as duas;
+
+3. não é possível trocar a permissão de dirigir temporária brasileira (obtida logo após passar na prova do Detran), somente a definitiva (emitida após 1 ano).
 
 ### Tirar Carta de Condução do zero
 
@@ -555,6 +558,28 @@ e outras pequenas facilidades, tais como:
 5. Espere até 5 meses para receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português);
 6. Vá ao IRN (Loja do Cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar.
 7. Pegue em 1 semana (média)
+
+## 12. Certificado de Equivalência do Ensino Médio
+
+Esta seção se aplica caso você ou seu cônjuge não tenha ensino superior. Para ter o diploma de Ensino Médio reconhecido em Portugal como Ensino Secundário, você irá além do histórico escolar apostilado, fazer um procedimento numa escola secundária da sua região. Recomendo fazer mesmo que você ou seu cônjuge não pretenda seguir no ensino superior em Portugal, porque pode ser útil em algumas ocasiões, como comprovar o nível educacional para um processo seletivo, ou para participar de cursos oferecidos pelo governo.
+
+Caso você ou seu cônjuge tenham vindo para Portugal sem o histórico do ensino médio apostilado (foi o caso da minha esposa), ou caso ele não tenha uma escala de notas definida, você irá precisar pedir para um amigo ou familiar ir na escola de ensino médio aonde fez o último ano, para emitir uma segunda via do diploma do ensino médio. No caso do histórico escolar dela, as notas eram definidas com letras de A a E, de forma que pedimos para a funcionária da secretaria incluir uma informação no rodapé do histórico. Ficou da seguinte forma:
+
+> Escala de Avaliação: "A partir de 2007 - Escala numérica de 0 (zero) a 10 (dez) com patamar indicativo de desempenho escolar satisfatório, a nota igual ou superior a 05 (cinco) nos termos da Resolução SE - 61, de 24/9/2007.
+>
+> Observações: OS RESULTADOS EM MENÇÕES PARA IDENTIFICAR A AVALIAÇÃO DO ALUNO TEM A SEGUINTE CONFORMIDADE : MENÇÃO __A__ - 9,0 A 10,0 / MENÇÃO __B__ - 7,0 A 8,5 / MENÇÃO __C__ - 5,0 A 6,5 / MENÇÃO __D__ - 2,5 A 4,5 / MENÇÃO __E__ - 0 A 2,0.
+
+Uma vez tendo o histórico escolar apostilado e com notas de 0 a 10, basta ir numa Escola Secundária que atenda a sua região (dica: procure no Google Maps por "EB2") e peça um Certificado de Equivalência do Ensino Secundário. Você irá precisar levar:
+
+- o histórico escolar;
+- título de residência;
+- passaporte (pois o certificado precisa constar o nome dos pais e o título de residência não tem essa informação);
+- comprovante de residência (para verificar se realmente a escola em questão é a escola secundária da sua região).
+
+Não custa nada e fica pronto em alguns dias.
+
+Mais informações na [página de assuntos educacionais da embaixada brasileira em Lisboa](http://lisboa.itamaraty.gov.br/pt-br/assuntos_educacionais.xml).
+
 
 # Dicas
 
