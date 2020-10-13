@@ -517,6 +517,22 @@ E as despesas que são por pessoa:
 
 É possível verificar no portal e-Fatura as [Deduções Provisórias em IRS](https://faturas.portaldasfinancas.gov.pt/painelAdquirente.action), o que recomendo que você faça __mesmo no primeiro ano com alguma frequência__ (uma vez por mês ou algo assim), afim de garantir que as suas despesas estejam entrando nas categorias corretas. É possível atribuir as faturas às categorias manualmente, se necessário. Caso você tenha se esquecido de incluir o NIF em uma fatura, ou se a loja não tiver comunicado a sua compra a Autoridade Financeira - _acontece!_ - é possível incluir manualmente a fatura.
 
+Para incluir manualmente uma fatura, acesse o Portal no link acima, clique no botão __Registar Faturas__ e inclua as informações de acordo com o exemplo:
+
+![Fatura impressa](https://user-images.githubusercontent.com/397851/95866620-0cefdd80-0d60-11eb-9211-3b9767f9cbfb.jpeg)
+
+1. __NIF do Comerciante__;
+2. __Tipo de Fatura__: escolha entre _Fatura_, _Fatura simplificada_ e _Fatura-recibo_, essa informação vem escrita na fatura; preencha também o __Número da Fatura__;
+3. __Data de Emissão__;
+4. __Código de Controlo__: são 4 caracteres que ficam _em algum lugar_ na fatura (já encontrei no final, no meio, basta procurar por 4 letras ou números);
+5. __Total de Itens por valor de IVA__: não é preciso adicionar todos os itens da fatura um por um, basta adicionar os totais por faixa de IVA cobrado. Se necessário, clique no botão _Adicionar Linha_ para criar mais linhas. No exemplo da fatura acima, será preciso duas linhas.
+
+![Captura de tela do portal e-Fatura com as informações digitadas](https://user-images.githubusercontent.com/397851/95867560-30ffee80-0d61-11eb-8ce2-27853aa55d75.png)
+
+Após guardar a fatura, é preciso escolher a __Atividade de Realização da Aquisição__, uma vez que diferentes categorias de serviços tem cotas diferentes de reembolso. Neste exemplo, uma padaria, a atividade é _Alojamento, restauração e similares_ (restauração = restaurantes).
+
+![Tipo da fatura](https://user-images.githubusercontent.com/397851/95867799-758b8a00-0d61-11eb-8fc5-fa92a91a477b.png)
+
 __Dicas importantes:__
 
 - caso você seja casado e/ou tenha filhos, divida as despesas informando o NIF de todos os membros da família, especialmente nas categorias de despesas gerais familiares (contas de serviços, supermercado) e restituição de IVA (restaurantes etc.), mesmo que somente você trabalhe / tenha rendimentos, uma vez que essas categorias tem limite de dedução __por pessoa__. Uma forma simples de fazer isto, para uma família de duas pessoas, seria informar o NIF de um na primeira metade e o NIF do outro na segunda metade do ano, e assim sucessivamente, e quanto as contas, colocar a conta de luz e gás no nome de uma pessoa e a de água e internet na outra, por exemplo. Você pode acessar a página de Deduções Provisórias em IRS mencionada anteriormente para verificar o quão perto do limite está e se precisa ou não se preocupar com isso.
