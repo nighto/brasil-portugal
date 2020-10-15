@@ -587,7 +587,7 @@ Caso você ou seu cônjuge tenham vindo para Portugal sem o histórico do ensino
 >
 > Observações: OS RESULTADOS EM MENÇÕES PARA IDENTIFICAR A AVALIAÇÃO DO ALUNO TEM A SEGUINTE CONFORMIDADE : MENÇÃO __A__ - 9,0 A 10,0 / MENÇÃO __B__ - 7,0 A 8,5 / MENÇÃO __C__ - 5,0 A 6,5 / MENÇÃO __D__ - 2,5 A 4,5 / MENÇÃO __E__ - 0 A 2,0.
 
-Uma vez tendo o histórico escolar apostilado e com notas de 0 a 10, basta ir numa Escola Secundária que atenda a sua região (dica: procure no Google Maps por "EB2") e peça um Certificado de Equivalência do Ensino Secundário. Você irá precisar levar:
+Uma vez tendo o histórico escolar apostilado e com notas de 0 a 10, basta ir numa Escola Secundária que atenda a sua região e peça um Certificado de Equivalência do Ensino Secundário. Você irá precisar levar:
 
 - o histórico escolar;
 - título de residência;
