@@ -41,6 +41,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
     - [Globo](#globo)
   - [VPN](#vpn)
   - [App Store](#app-store)
+  - [Preenchimento de envelopes de cartas](#preenchimento-de-envelopes-de-cartas)
 * [Extras](#extras)
   - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
   - [Reconhecimento de firma](#reconhecimento-de-firma)
@@ -577,6 +578,8 @@ Note que, ao contrário do Cartão Cidadão português e assim como o Título de
 6. Vá ao IRN (Loja do Cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar.
 7. Pegue em 1 semana (média)
 
+Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](#preenchimento-de-envelopes-de-cartas).
+
 ## 12. Certificado de Equivalência do Ensino Médio
 
 Esta seção se aplica caso você ou seu cônjuge não tenha ensino superior. Para ter o diploma de Ensino Médio reconhecido em Portugal como Ensino Secundário, você irá além do histórico escolar apostilado, fazer um procedimento numa escola secundária da sua região. Recomendo fazer mesmo que você ou seu cônjuge não pretenda seguir no ensino superior em Portugal, porque pode ser útil em algumas ocasiões, como comprovar o nível educacional para um processo seletivo, ou para participar de cursos oferecidos pelo governo.
@@ -714,7 +717,20 @@ Para uso gratuito, pode-se usar a VPN integrada no Navegador Opera, com essa VPN
 
 Ao contrário do [Android que permite login na Play Store com múltiplas contas](https://support.google.com/googleplay/answer/2521798?hl=pt), a App Store dos iPhones só permite login em uma conta por vez. Note que só é possível fazer a mudança do país caso não haja assinaturas ativas associadas à conta da Apple, tais como: Apple Arcade, Globo Play etc. Note que não basta cancelar os serviços, é preciso esperar que o prazo contratado transcorra, então caso você postergue a mudança pode se ver "trancado do lado de fora" numa eventual necessidade e ter de passar pelo transtorno de ter de criar outra conta. Recomendo a mudança o quanto antes, uma vez que aplicativos diversos podem ser disponibilizados somente no país, desde apps bancários até, por exemplo, o app do McDonald's, que é um no Brasil e outro em Portugal, e o brasileiro não é compatível com os restaurantes locais.
 
-Para alterar o país da App Store, siga o link: [Alterar o país ou a região do ID Apple - Suporte Apple](https://support.apple.com/pt-pt/HT201389). 
+Para alterar o país da App Store, siga o link: [Alterar o país ou a região do ID Apple - Suporte Apple](https://support.apple.com/pt-pt/HT201389).
+
+## Preenchimento de Envelopes de Cartas
+
+No Brasil os envelopes de cartas tipicamente são preenchidos com o destinatário na frente e o remetente atrás, desta forma:
+
+![Envelope de carta brasileiro](https://user-images.githubusercontent.com/397851/96967517-8bd6da00-1507-11eb-936c-ba8529790234.png)
+
+Em Portugal, o padrão é diferente e envelopes de cartas no padrão brasileiro terão seu envio recusado pela CTT. O padrão é preencher desta forma, conforme explicado pelo Consulado-Geral brasileiro (considere que o campo "destinatário" é o que aparece como do consulado-geral na imagem):
+
+![Instruções de preenchimento de envelope no site do Consulado-Geral do Brasil](https://user-images.githubusercontent.com/397851/96967824-fa1b9c80-1507-11eb-8238-e29d4ba0a53f.jpg)
+
+[Veja mais informações no site do Consulado-Geral do Brasil no Porto](http://porto.itamaraty.gov.br/pt-br/servicos_por_correio.xml).
+
 
 # Extras
 
