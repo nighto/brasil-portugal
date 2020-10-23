@@ -26,7 +26,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [9. Carteira de Motorista](#9-carteira-de-motorista)
   - [10. IRS](#10-irs)
   - [11. Estatuto de Igualdade](#11-estatuto-de-igualdade)
-  - [12. Certificado de Equivalência do Ensino Médio](#12-certificado-de-equivalência-do-ensino-médio)
+  - [12. Certificado de Conclusão do Ensino Secundário](#12-certificado-de-conclusão-do-ensino-secundário)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -580,7 +580,7 @@ Note que, ao contrário do Cartão Cidadão português e assim como o Título de
 
 Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](#preenchimento-de-envelopes-de-cartas).
 
-## 12. Certificado de Equivalência do Ensino Médio
+## 12. Certificado de Conclusão do Ensino Secundário
 
 Esta seção se aplica caso você ou seu cônjuge não tenha ensino superior. Para ter o diploma de Ensino Médio reconhecido em Portugal como Ensino Secundário, você irá além do histórico escolar apostilado, fazer um procedimento numa escola secundária da sua região. Recomendo fazer mesmo que você ou seu cônjuge não pretenda seguir no ensino superior em Portugal, porque pode ser útil em algumas ocasiões, como comprovar o nível educacional para um processo seletivo, ou para participar de cursos oferecidos pelo governo.
 
@@ -600,6 +600,8 @@ Uma vez tendo o histórico escolar apostilado e com notas de 0 a 10, basta ir nu
 Não custa nada e fica pronto em alguns dias.
 
 Mais informações na [página de assuntos educacionais da embaixada brasileira em Lisboa](http://lisboa.itamaraty.gov.br/pt-br/assuntos_educacionais.xml).
+
+Nota: o certificado de conclusão será emitido com as notas mínimas para aprovação (12 de 20), caso seja necessário um certificado com as notas, verifique o link acima para fazer a equivalência.
 
 
 # Dicas
