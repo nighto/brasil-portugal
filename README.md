@@ -400,10 +400,10 @@ Formulário fornecido e preenchido no ato.
 __9. Seguro Saúde__  
 PB4 apostilado.
 
-__10. Declaração da Escola comprovando frequência no ano letivo em curso__
+__10. Declaração da Escola comprovando frequência no ano letivo em curso__. 
 Para crianças a partir dos 5 anos de idade.
 
-__11. Declaração do pai ou mãe não residente__
+__11. Declaração do pai ou mãe não residente__. 
 Se for o caso, é claro.
 
 __12. Documento comprovando a ligação__  
