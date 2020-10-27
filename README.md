@@ -465,7 +465,7 @@ Após este prazo, há um segundo prazo para realizar a conversão da carteira br
 
 Notas:
 
-1. é preciso entregar a carteira brasileira para a troca pela carteira portuguesa, você não fica com as duas, sua CNH será enviada para o Detran brasileiro;
+1. é preciso entregar a carteira brasileira para a troca pela carteira portuguesa, você não fica com as duas, sua CNH será enviada para o Detran brasileiro. Como alternativa, sugiro a instalação da [CNH Digital](https://servicos.serpro.gov.br/cnh-digital/) no seu celular, bem como ter uma foto da sua CNH brasileira caso você precise de alguma informação dela;
 
 2. numa futura viagem de férias para o Brasil, você poderá dirigir com a carteira portuguesa, mas caso queira pode ir no Detran e fazer uma segunda via para ter as duas;
 
