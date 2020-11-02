@@ -550,7 +550,7 @@ Tendo passado o primeiro ano, e antes (ou mesmo depois) da declaração, é poss
 
 É possível ter o Cartão do Cidadão Português mesmo não sendo português, através do [Tratado de Porto Seguro](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=86), o qual provê igualdade de direitos para quem o solicitar.
 
-O Estatuto de Igualdade provê três modalidades distintas, o __Estatuto de Igualdade de Direitos e Deveres__, o __Estatuto de Igualdade de Direitos Políticos__, e o __Estatuto de Igualdade de Direitos e Deveres e de Direitos Políticos__ que é a junção das duas primeiras. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando da obrigação de votar no Brasil, só está disponível para brasileiros com residência portuguesa há 3 anos e foge do escopo deste guia. Por outro lado, o primeiro traz como principal benefício a obtenção do __Cartão Cidadão__, e pode ser pedido assim que recebemos o Título de Residência. Isto traz duas vantagens principais:
+O Estatuto de Igualdade provê três modalidades distintas, o __Estatuto de Igualdade de Direitos e Deveres__, o __Estatuto de Igualdade de Direitos Políticos__, e o __Estatuto de Igualdade de Direitos e Deveres e de Direitos Políticos__ que é a junção das duas primeiras. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando da obrigação de votar no Brasil, só está disponível para brasileiros com residência portuguesa há 3 anos e foge do escopo deste guia. Por outro lado, o primeiro traz como principal benefício a obtenção do __Cartão Cidadão__ e pode ser pedido assim que recebemos o Título de Residência. Isto traz duas vantagens principais:
 
 - facilita financiamento de casa/carro (podendo assim financiar em até 90% a casa e 100% o carro);
 - se quiser fazer mestrado/doutorado vai pagar a mesma propina (mensalidade) que portugueses;
@@ -562,6 +562,8 @@ e outras pequenas facilidades, tais como:
 - login facilitado nas plataformas online do governo.
 
 Note que, ao contrário do Cartão Cidadão português e assim como o Título de Residência, o cartão cidadão para estrangeiros não é aceito como documento válido de viagens, então mesmo em viagens dentro do Espaço Schengen você irá precisar do seu passaporte.
+
+Observação importante: é preciso ser maior de idade para pedir Estatuto de Igualdade, de forma que não é possível fazer o procedimento para filhos menores de idade.
 
 ### Documentos necessários:
 
@@ -578,7 +580,7 @@ Note que, ao contrário do Cartão Cidadão português e assim como o Título de
 > Urbanização Cabanas Golf, nº 1  
 > 2734-506 Barcarena
   
-5. Espere até 5 meses para receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português);
+5. Espere até 5 meses para receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://dre.pt/web/guest/pesquisa-avancada/-/asearch/advanced/maximized?types=SERIEII&sumario=Concede+o+estatuto+de+igualdade+de+direitos+e+deveres+a+vários+cidadãos+brasileiros&tipo=%22Despacho%22&emissor=%22Administração+Interna+-+Serviço+de+Estrangeiros+e+Fronteiras%22&dataPublicacaoInicio=2020-10-01&dataPublicacaoFim=2020-11-02&parte=C+-+Governo+e+Administração+direta+e+indireta+do+Estado_II&anoDR=2020&sortOrder=ASC&advanced.search=Pesquisa+Avançada&fpb=dHJ1ZQ%3D%3D));
 6. Vá ao IRN (Loja do Cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar.
 7. Pegue em 1 semana (média)
 
