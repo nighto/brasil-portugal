@@ -28,6 +28,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [11. Estatuto de Igualdade](#11-estatuto-de-igualdade)
   - [12. Certificado de Conclusão do Ensino Secundário](#12-certificado-de-conclusão-do-ensino-secundário)
   - [13. Abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens)
+  - [14. Matrícula em Escola Pública](#14-matrícula-em-escola-pública)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -618,6 +619,19 @@ O [Abono de Família para Crianças e Jovens](http://www.seg-social.pt/abono-de-
 Para solicitar, é preciso primeiro [ter o NISS e ter acesso à Segurança Social Direta](#3-niss), ou solicitar diretamente nos postos de atendimento da Segurança Social, através do [formulário RP5045-DGSS](http://www.seg-social.pt/formularios?kw=RP5045-DGSS). Para tal, é preciso agendar atendimento através do telefone [300 502 502](tel:+351300502502).
 
 Também há um [abono de família pré-natal](http://www.seg-social.pt/abono-de-familia-pre-natal2), destinado a mulheres grávidas, ou cuja criança tenha até 6 meses de idade.
+
+## 14. Matrícula em Escolas Públicas
+
+As matrículas em creches, pré-escolas (jardins de infância), escolas primárias (equivalente ao ensino fundamental brasileiro) e secundárias (equivalente ao ensino médio) são feitas através do [Portal das Matrículas](https://portaldasmatriculas.edu.gov.pt). Você escolhe até 5 escolas públicas da sua região e o sistema automaticamente atribui uma vaga em uma das cinco escolas.
+
+Para acessar o sistema, é preciso autenticar com o seu NIF através do sistema da Autoridade Tributária, o e-Finanças. Para isso, acesse o Portal das Finanças e solicite o acesso. Veja mais detalhes na seção sobre [NIF](#1-nif).
+
+No cadastro, há uma pegadinha. No primeiro passo, há uma série de perguntas, que verificam a sua anuência ao compartilhamento de dados entre diferentes sistemas do governo, incluindo Segurança Social. É preciso responder que **não autoriza** o compartilhamento com o sistema da Segurança Social, uma vez que, respondendo positivamente a esta pergunta, passa a ser obrigatório informar NISS para crianças; tipicamente crianças só tem NISS se os pais solicitaram abono de família pré-natal e/ou [abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens). Respondendo não a esta autorização, o NISS deixa de ser obrigatório e se faz possível prosseguir o pedido da vaga sem ter este número.
+
+Uma vez feito o cadastro, basta aguardar a disponibilização das vagas. O ano letivo começa em setembro, e a disponibilização das vagas se dá próximo a essa data. (Quando exatamente?)
+
+**Observação importante: não há nenhum tipo de comunicação da disponibilização da vaga, seja por telefone, email ou carta, é preciso verificar nas escolas a divulgação da lista de aprovados, mais ou menos como se fazia antigamente no Brasil com a lista de aprovados do vestibular.**
+
 
 # Dicas
 
