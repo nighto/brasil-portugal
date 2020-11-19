@@ -620,7 +620,7 @@ Para solicitar, é preciso primeiro [ter o NISS e ter acesso à Segurança Socia
 
 Também há um [abono de família pré-natal](http://www.seg-social.pt/abono-de-familia-pre-natal2), destinado a mulheres grávidas, ou cuja criança tenha até 6 meses de idade.
 
-## 14. Matrícula em Escolas Públicas
+## 14. Matrícula em Escola Pública
 
 As matrículas em creches, pré-escolas (jardins de infância), escolas primárias (equivalente ao ensino fundamental brasileiro) e secundárias (equivalente ao ensino médio) são feitas através do [Portal das Matrículas](https://portaldasmatriculas.edu.gov.pt). Você escolhe até 5 escolas públicas da sua região e o sistema automaticamente atribui uma vaga em uma das cinco escolas.
 
