@@ -626,7 +626,9 @@ As matrículas em creches, pré-escolas (jardins de infância), escolas primári
 
 Para acessar o sistema, é preciso autenticar com o seu NIF através do sistema da Autoridade Tributária, o e-Finanças. Para isso, acesse o Portal das Finanças e solicite o acesso. Veja mais detalhes na seção sobre [NIF](#1-nif).
 
-No cadastro, há uma pegadinha. No primeiro passo, há uma série de perguntas, que verificam a sua anuência ao compartilhamento de dados entre diferentes sistemas do governo, incluindo Segurança Social. É preciso responder que **não autoriza** o compartilhamento com o sistema da Segurança Social, uma vez que, respondendo positivamente a esta pergunta, passa a ser obrigatório informar NISS para crianças; tipicamente crianças só tem NISS se os pais solicitaram abono de família pré-natal e/ou [abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens). Respondendo não a esta autorização, o NISS deixa de ser obrigatório e se faz possível prosseguir o pedido da vaga sem ter este número.
+No cadastro, há uma pegadinha. No primeiro passo, há uma série de perguntas, que verificam a sua anuência ao compartilhamento de dados entre diferentes sistemas do governo, incluindo Segurança Social. É preciso responder que **Não Autoriza** o compartilhamento com o sistema da Segurança Social, uma vez que, respondendo positivamente a esta pergunta, passa a ser obrigatório informar NISS para crianças; tipicamente crianças só tem NISS se os pais solicitaram abono de família pré-natal e/ou [abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens). Note que ambas as perguntas se referem a crianças que recebem benefícios da Segurança Social.
+
+![captura de tela do Portal das Matrículas](https://user-images.githubusercontent.com/397851/99706732-66e86f00-2a93-11eb-9d74-3a9338f9f7b7.png)
 
 Uma vez feito o cadastro, basta aguardar a disponibilização das vagas. O ano letivo começa em setembro, e a disponibilização das vagas se dá próximo a essa data. (Quando exatamente?)
 
