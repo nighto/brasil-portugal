@@ -27,6 +27,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [10. IRS](#10-irs)
   - [11. Estatuto de Igualdade](#11-estatuto-de-igualdade)
   - [12. Certificado de Conclusão do Ensino Secundário](#12-certificado-de-conclusão-do-ensino-secundário)
+  - [13. Abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -610,6 +611,13 @@ Mais informações na [página de assuntos educacionais da embaixada brasileira 
 
 Nota: o certificado de conclusão será emitido com as notas mínimas para aprovação (12 de 20), caso seja necessário um certificado com as notas, verifique o link acima para fazer a equivalência.
 
+## 13. Abono de Família para Crianças e Jovens
+
+O [Abono de Família para Crianças e Jovens](http://www.seg-social.pt/abono-de-familia-para-criancas-e-jovens) é um valor pago pela Segurança Social para pais de crianças e jovens até 24 anos. O valor pago depende do escalão de rendimentos, referentes ao valor declarado no ano anterior. Tipicamente os salários de TI não se encaixam no valor para pagamento, mas uma vez que o valor declarado no anterior, no caso de brasileiros recém chegados, é o valor declarado para a Receita no Brasil, convertido para euro, torna-se possível pedir ao menos no primeiro ano.
+
+Para solicitar, é preciso primeiro [ter o NISS e ter acesso à Segurança Social Direta](#3-niss), ou solicitar diretamente nos postos de atendimento da Segurança Social, através do [formulário RP5045-DGSS](http://www.seg-social.pt/formularios?kw=RP5045-DGSS). Para tal, é preciso agendar atendimento através do telefone [300 502 502](tel:+351300502502).
+
+Também há um [abono de família pré-natal](http://www.seg-social.pt/abono-de-familia-pre-natal2), destinado a mulheres grávidas, ou cuja criança tenha até 6 meses de idade.
 
 # Dicas
 
