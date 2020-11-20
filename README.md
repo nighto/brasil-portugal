@@ -615,7 +615,7 @@ Nota: o certificado de conclusão será emitido com as notas mínimas para aprov
 
 ## 13. Abono de Família para Crianças e Jovens
 
-O [Abono de Família para Crianças e Jovens](http://www.seg-social.pt/abono-de-familia-para-criancas-e-jovens) é um valor pago pela Segurança Social para pais de crianças e jovens até 24 anos. O valor pago depende do escalão de rendimentos, referentes ao valor declarado no ano anterior. Tipicamente os salários de TI não se encaixam no valor para pagamento, mas uma vez que o valor declarado no anterior, no caso de brasileiros recém chegados, é o valor declarado para a Receita no Brasil, convertido para euro, torna-se possível pedir ao menos no primeiro ano.
+O [Abono de Família para Crianças e Jovens](http://www.seg-social.pt/abono-de-familia-para-criancas-e-jovens) é um valor pago pela Segurança Social para pais de crianças e jovens até 24 anos. O valor pago depende do escalão de rendimentos, calculados a partir do valor declarado no imposto de renda no ano anterior e no número de filhos. Tipicamente os salários de TI não se encaixam no valor para pagamento para pais com um único filho, mas uma vez que o valor declarado no anterior, no caso de brasileiros recém chegados, é o valor declarado para a Receita no Brasil, convertido para euro, torna-se possível pedir ao menos no primeiro ano.
 
 Para solicitar, é preciso primeiro [ter o NISS e ter acesso à Segurança Social Direta](#3-niss), ou solicitar diretamente nos postos de atendimento da Segurança Social, através do [formulário RP5045-DGSS](http://www.seg-social.pt/formularios?kw=RP5045-DGSS). Para tal, é preciso agendar atendimento através do telefone [300 502 502](tel:+351300502502).
 
