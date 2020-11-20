@@ -706,7 +706,9 @@ Dica 2: uma pegadinha é que a fidelidade tem renovação automática, ou seja, 
 
 ## Energia elétrica e gás
 
-Ao contrário do Brasil, que tipicamente possui apenas um provedor de energia elétrica e de gás encanado por região, em Portugal há diversas empresas e você pode fazer portabilidade entre elas, bem parecido com o que acontece com a telefonia. Assim, é possível fechar pacotes vantajosos. Uma das empresas, chamada [Galp](https://galp.com/pt/), também tem parceria com a Worten e é possível assinar energia elétrica e gás com eles, tendo até 12% de desconto, além de descontos para compra de combustível para automóveis nos postos da marca.
+Ao contrário do Brasil, que tipicamente possui apenas um provedor de energia elétrica e de gás encanado por região, em Portugal há diversas empresas e você pode fazer portabilidade entre elas, bem parecido com o que acontece com a telefonia. Assim, é possível fechar pacotes vantajosos. [Veja um comparador de preços das diferentes empresas](https://www.comparamais.pt/luz-e-gas).
+
+Uma das empresas, chamada [Galp](https://galp.com/pt/), também tem parceria com a Worten e é possível assinar energia elétrica e gás com eles, tendo até 12% de desconto, além de descontos para compra de combustível para automóveis nos postos da marca.
 
 Veja mais detalhes em: [Planos Galp Gás e Galp Energia - Contrate nas Lojas Worten](https://www.worten.pt/planos-galp-eletricidade-gas).
 
