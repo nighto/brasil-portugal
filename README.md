@@ -38,6 +38,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [Internet](#internet)
   - [Energia elétrica e gás](#energia-elétrica-e-gás)
   - [Água e esgoto](#água-e-esgoto)
+  - [IPTV](#iptv)
   - [Supermercados](#supermercados)
   - [Assinaturas](#assinaturas)
     - [Globo](#globo)
@@ -719,6 +720,10 @@ Dica: em geral os relógios não fazem leitura automática e um funcionário faz
 Por outro lado, a ligação à rede de água e esgoto é feita por uma única empresa por região e deve ser pedida na Loja do Cidadão da sua região. Por exemplo, meu contrato de água é com a [Indaqua](https://www.indaqua.pt/pt/) e para assinar o serviço foi preciso ir até a [Loja do Cidadão de Matosinhos](https://www.cm-matosinhos.pt/municipe/espacos-cidadao).
 
 De forma similar a Galp, também é possível enviar leituras, porém na Indaqua as leituras devem ser enviadas por ligação telefônica, então nunca faço isso.
+
+## IPTV
+
+Como uma alternativa à contratação do pacote de TV, é possível configurar na sua box Android (ou mesmo em aplicações no PC) uma série de canais abertos portugueses, de forma legal e gratuita. O site [IPTV Portugal](https://ptiptv.tk) traz uma playlist com os canais e EPG (programação dos futuros episódios).
 
 ## Supermercados
 
