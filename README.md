@@ -636,7 +636,7 @@ A tabela de escalões é:
 
 Supondo uma família aonde um adulto ganhe 2.000€ bruto por mês, o outro adulto não trabalhe, e tenha um filho. Neste caso, a conta é: `(2.000 + 0) * 14 / 1 + 1 = 14.000`. Neste caso, o rendimento corresponde ao 4º escalão, que só dá direito ao auxílio caso o filho tenha 4 anos ou menos.
 
-Fazendo a conta invertida - do limite do escalão para o salário bruto mensal, para um filho, o limite do 4º escalão é `15.358,35 * (1 + 1) / 14 = 2.194,05€` (para filho com 4 anos ou menos) e o do 3º escalão é `9.215,01 * (1 + 1) / 14 = 1.316,43€` (um filho com mais de 4 anos); ou ainda, considerando dois filhos: `15.358,35 * (1 + 1) / 14 = 3.291,07€` (dois filhos sendo pelo menos um com 4 anos ou menos), ou `9.215,01 * (1 + 1) / 14 = 1.974,64€` (dois filhos com mais de 4 anos).
+Fazendo a conta invertida - do limite do escalão para o salário bruto mensal, para um filho, o limite do 4º escalão é `15.358,35 * (1 + 1) / 14 = 2.194,05€` (para filho com 4 anos ou menos) e o do 3º escalão é `9.215,01 * (1 + 1) / 14 = 1.316,43€` (um filho com mais de 4 anos); ou ainda, considerando dois filhos: `15.358,35 * (2 + 1) / 14 = 3.291,07€` (dois filhos sendo pelo menos um com 4 anos ou menos), ou `9.215,01 * (2 + 1) / 14 = 1.974,64€` (dois filhos com mais de 4 anos).
 
 Os valores pagos estão descritos na tabela a seguir:
 
