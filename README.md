@@ -45,6 +45,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [VPN](#vpn)
   - [App Store](#app-store)
   - [Preenchimento de envelopes de cartas](#preenchimento-de-envelopes-de-cartas)
+  - [Publicidade não endereçada](#publicidade-não-endereçada)
 * [Extras](#extras)
   - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
   - [Reconhecimento de firma](#reconhecimento-de-firma)
@@ -797,6 +798,21 @@ Em Portugal, o padrão é diferente e envelopes de cartas no padrão brasileiro 
 ![Instruções de preenchimento de envelope no site do Consulado-Geral do Brasil](https://user-images.githubusercontent.com/397851/96967824-fa1b9c80-1507-11eb-8238-e29d4ba0a53f.jpg)
 
 [Veja mais informações no site do Consulado-Geral do Brasil no Porto](http://porto.itamaraty.gov.br/pt-br/servicos_por_correio.xml).
+
+## Publicidade Não Endereçada
+
+Em Portugal é bastante comum que as empresas coloquem papeis de publicidade "não endereçada" nas caixas de correio das casas e apartamentos, isto é, uma espécie de "spam" com folhetos diversos. Há uma [lei (nº 6/1999)](https://dre.pt/pesquisa/-/search/180023/details/maximized) que define as regras que as empresas devem seguir, de forma que caso haja um adesivo solicitando que as empresas não coloquem na sua caixa de correio, as empresas devem respeitar.
+
+![Exemplo de Autocolante de Publicidade Não Endereçada](https://user-images.githubusercontent.com/397851/101919774-419adc80-3bcb-11eb-9443-2d0632f7c12c.png)
+
+É possível solicitar um adesivo (autocolante) gratuitamente, basta enviar um email para [dgc@dg.consumidor.pt](mailto:dgc@dg.consumidor.pt):
+
+> "Solicitar Dístico"
+> 
+> Olá,  
+> Gostava de solicitar o autocolante do dístico de publicidade nao endereçada para ser enviado à minha morada: **<seu endereço completo>**
+
+Os adesivos devem chegar em aproximadamente uma semana.
 
 
 # Extras
