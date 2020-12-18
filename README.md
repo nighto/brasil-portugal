@@ -46,6 +46,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [App Store](#app-store)
   - [Preenchimento de envelopes de cartas](#preenchimento-de-envelopes-de-cartas)
   - [Publicidade não endereçada](#publicidade-não-endereçada)
+  - [Jogos em mídia física](#jogos-em-mídia-física)
 * [Extras](#extras)
   - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
   - [Reconhecimento de firma](#reconhecimento-de-firma)
@@ -814,6 +815,13 @@ Em Portugal é bastante comum que as empresas coloquem papeis de publicidade "n�
 
 Os adesivos devem chegar em aproximadamente uma semana.
 
+## Jogos em Mídia Física
+
+Os jogos de videogame em mídia física vem com um adesivo do Ministério da Cultura - Inspeção-Geral das Atividades Culturais, similar ao que acontece com garrafa de bebidas alcoólicas destiladas no Brasil, conforme a foto:
+
+![foto do adesivo dos jogos de videogames](https://user-images.githubusercontent.com/397851/102640985-3f003000-4153-11eb-99c3-f440b249e4ba.jpg)
+
+Sugere-se recortar e guardar este adesivo do plástico que envolve a embalagem, uma vez que caso você decida vender o jogo no futuro, lojas que compram jogos usados não compram sem o adesivo, ainda que o jogo tenha sido comprado legalmente em Portugal.
 
 # Extras
 
