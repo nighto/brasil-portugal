@@ -29,6 +29,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [12. Certificado de Conclusão do Ensino Secundário](#12-certificado-de-conclusão-do-ensino-secundário)
   - [13. Abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens)
   - [14. Matrícula em Escola Pública](#14-matrícula-em-escola-pública)
+  - [15. Renovação do Título de Residência](#15-renovação-do-título-de-residência)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -663,6 +664,12 @@ No cadastro, há uma pegadinha. No primeiro passo, há uma série de perguntas, 
 Uma vez feito o cadastro, basta aguardar a disponibilização das vagas. O ano letivo começa em setembro, e a disponibilização das vagas se dá próximo a essa data. (Quando exatamente?)
 
 **Observação importante: não há nenhum tipo de comunicação da disponibilização da vaga, seja por telefone, email ou carta, é preciso verificar nas escolas a divulgação da lista de aprovados, mais ou menos como se fazia antigamente no Brasil com a lista de aprovados do vestibular.**
+
+## 15. Renovação do Título de Residência
+
+Alguns meses antes do vencimento do Título de Residência, é preciso solicitar a renovação. O processo é feito online no site do SEF desde que não haja nenhuma mudança em seus dados (por exemplo, de endereço). Basta [acessar a opção Renovação Automática na área logada](https://www.sef.pt/pt/mySEF/Pages/renovacao-automatica.aspx), confirmar o número do título (os 9 caracteres no canto superior direito do documento) e confirmar que seus dados se mantém os mesmos. O valor para emissão do novo título é de 50 €.
+
+Note que ao fazer o pedido, o site menciona que só é possível fazer o pagamento **a partir de** 48h após a sua emissão (não é **até** 48h, então não adianta tentar pagar imediatamente que não vai funcionar).
 
 
 # Dicas
