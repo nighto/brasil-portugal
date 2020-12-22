@@ -63,7 +63,7 @@ Este texto foi originalmente escrito por [Arlindo Pereira](http://github.com/nig
 
 O SEF - Serviço de Estrangeiros e Fronteiras, com atribuições similares à Polícia Federal brasileira no tocante ao controle migratório - possui um site que lista e comenta a legislação portuguesa para os tipos de visto, sendo de leitura recomendada mesmo para quem não for da área do direito: [LEGISPÉDIA SEF](https://sites.google.com/site/leximigratoria/).
 
-Existem alguns tipos de vistos possíveis para trabalhar de forma legal em Portugal [(veja a legislação que define os tipos)](https://sites.google.com/site/leximigratoria/lei-de-estrangeiros-alterada/cap-vi---residencia-em-territorio-nacional/seccao-ii---autorizacao-de-residencia/subseccao-i---autorizacao-de-residencia-para-exercicio-de-atividade-profissional). Em linhas gerais, há os seguintes tipos de vistos de trabalho (os links vão para a Legispédia do SEF para mais detalhes):
+Existem alguns tipos de vistos possíveis para trabalhar de forma legal em Portugal [(veja a legislação que define os tipos, os artigos 58 a 61 desta lei)](https://sites.google.com/site/leximigratoria/lei-de-estrangeiros---indice). Em linhas gerais, há os seguintes tipos de vistos de trabalho (os links vão para a Legispédia do SEF para mais detalhes):
 
 - [**D3** - _"Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado"_](https://sites.google.com/site/leximigratoria/artigo-61-o-a---visto-de-residencia-para-atividade-altamente-qualificada-exercida-por-trabalhador-subordinado), para trabalhadores especializados com contrato, parecido com a nossa **"carteira assinada"**;
   - [Tech Visa](<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx>) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf). Os pedidos de vistos D3 **podem ou não** ser associados a uma posição em empresa que faz parte do programa Tech Visa. O Tech Visa é apenas um facilitador para obter o visto, de forma que a sua utilização é opcional.
@@ -75,9 +75,11 @@ No meu caso, fiz o **D3 (sem Tech Visa)**, então para detalhes sobre os outros 
 
 É possível requerer o visto D3 com ou sem Tech Visa. Inicialmente tive problemas para conseguir dar entrada no pedido de visto D3 sem o Tech Visa por este ser um programa novo, mas foi rapidamente resolvido. [Conto mais detalhes neste vídeo](https://youtu.be/YfVdu11ljp8).
 
-Os vistos de trabalho são emitidos com um prazo de 4 meses, e já vem com um agendamento marcado em Portugal para a solicitação da Autorização de Residência, válida por 2 anos e renovável. Vistos de trabalho não são emitidos para familiares, que podem entrar como turistas (eventualmente precisando comprovar viagem de retorno ao Brasil na imigração) e precisam solicitar junto ao SEF em Portugal a [Autorização de Residência por Reagrupamento Familiar](https://sites.google.com/site/leximigratoria/lei-de-estrangeiros-alterada/cap-vi---residencia-em-territorio-nacional/seccao-ii---autorizacao-de-residencia/subseccao-iv---autorizacao-de-residencia-para-reagrupamento-familiar). Uma vez a AR dos familiares sendo emitida, o que pode levar alguns meses (para minha esposa levou 6), poderão trabalhar normalmente. Darei mais detalhes abaixo sobre a documentação necessária e o passo a passo.
+Os vistos de trabalho são emitidos com um prazo de 4 meses, e já vem com um agendamento marcado em Portugal para a solicitação da Autorização de Residência, válida por 2 anos e renovável. Vistos de trabalho não são emitidos para familiares, que podem entrar como turistas (eventualmente precisando comprovar viagem de retorno ao Brasil na imigração) e precisam solicitar junto ao SEF em Portugal a [Autorização de Residência por Reagrupamento Familiar](https://sites.google.com/site/leximigratoria/lei-de-estrangeiros---indice). Veja mais detalhes no link acima, artigos 98 a 108. Uma vez a AR dos familiares sendo emitida, o que pode levar alguns meses (para minha esposa levou 6), poderão trabalhar normalmente. Darei mais detalhes abaixo sobre a documentação necessária e o passo a passo.
 
-Note que, para quem fará a mudança com cônjuge, pode levar alguns meses para que o cônjuge obtenha a Autorização de Residência por Reagrupamento Familiar, o que significa duas coisas importantes: primeiro, não estará imediatamente legalizada para fins de trabalho formal; e segundo, findo o prazo de 90 dias para viagens de turismo no [Espaço Schengen](https://pt.wikipedia.org/wiki/Acordo_de_Schengen) e até que receba a AR, a pessoa não poderá viajar pela Europa, e se voltar para o Brasil, terá de esperar um prazo de 180 dias (a partir da primeira entrada na Europa) para poder voltar a Portugal. É importante observar que o cônjuge e os filhos **não** ficam ilegais enquanto a AR não é emitida, mas terão temporariamente essa restrição quanto ao trabalho e ao deslocamento.
+Num contexto de pandemia, as viagens de turismo estão proibidas, mas ainda assim familiares diretos (cônjuge e filhos) podem entrar no país, desde que comprovando na imigração a ligação com o titular do visto, apresentando a certidão de nascimento ou casamento apostilada.
+
+Note que, para quem fará a mudança com cônjuge, pode levar alguns meses para que o cônjuge obtenha a Autorização de Residência por Reagrupamento Familiar, o que significa duas coisas importantes: primeiro, não estará imediatamente legalizada para fins de trabalho formal; e segundo, findo o prazo de 90 dias para viagens de turismo no [Espaço Schengen](https://pt.wikipedia.org/wiki/Acordo_de_Schengen) e até que receba a AR, a pessoa não poderá viajar pela Europa, e se voltar para o Brasil, terá de esperar um prazo de 180 dias (a partir da primeira entrada na Europa) para poder voltar a Portugal. É importante observar que o cônjuge e os filhos **não** ficam ilegais enquanto a AR não é emitida, mas terão temporariamente essa restrição quanto ao trabalho e ao deslocamento. É uma espécie de "limbo jurídico".
 
 Fora o procedimento de obtenção de visto, é possível ainda ir para Portugal como turista e permanecer além do prazo legal para turismo (90 dias) caso você consiga um trabalho nesse período fazendo um processo chamado Manifestação de Interesse, mas recomendo fortemente que você **não faça isso**. Veja mais detalhes neste gist do [@gmmcal](https://github.com/gmmcal) sobre porque vir como turista é uma péssima ideia: [Razões pra não ir pra Portugal como turista](https://gist.github.com/gmmcal/3d1ef4c2a9a71a9163fdae1abbb31e42).
 
@@ -90,7 +92,7 @@ Para tirar este visto de trabalho, você precisará reunir diversos documentos e
 
 A VFS Global possui escritórios em cinco capitais: Rio, São Paulo, Belo Horizonte, Brasília e Salvador. Além da entrega presencial dos documentos - o que recomendo, pois os atendentes verificam criteriosamente antes de aceitar a solicitação, informando de eventuais faltas de documentos -, também é possível enviar pelos Correios (o que pode valer mais a pena caso você não more próximo a um dos 5 escritórios).
 
-Alguns documentos devem ser apresentados no original, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará fazer o _apostilamento_. Verifique o anexo no final sobre mais detalhes desses procedimentos.
+Alguns documentos devem ser apresentados no original, outros basta cópia simples / impressão, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará fazer o _apostilamento_. Verifique o [anexo](#extras) no final sobre mais detalhes desses procedimentos.
 
 Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de visto de trabalho; os demais familiares farão um pedido de _Autorização de Residência por Reagrupamento Familiar_ só em Portugal - isto é, entram como turistas (e portanto precisam comprovar passagem de volta) e só então fazem o processo. Mais abaixo listo os documentos necessários para tal.
 
@@ -119,7 +121,7 @@ A **Declaração da Empresa** é um papel timbrado, datado e assinado pelo geren
 >
 > Por todas estas razões, e ponderado todo o enquadramento acima referido, a **Empresa XPTO** optou então pela contratação de um colaborador brasileiro para os seus quadros.
 
-A carta convite é um documento descrevendo seus benefícios contratuais: qual o valor mensal ou anual de salário, quantos dias de férias, quanto de auxílio-alimentação etc.
+A **Carta Convite** é um documento descrevendo seus benefícios contratuais: qual o valor mensal ou anual de salário, quantos dias de férias, quanto de auxílio-alimentação etc.
 
 Por fim o **Termo de Responsabilidade** é uma declaração datada e assinada em papel timbrado nessas linhas gerais:
 
@@ -131,15 +133,15 @@ Na minha opinião pessoal a empresa que está oferecendo o contrato deve disponi
 
 #### 1. Passaporte + cópia autenticada
 
-Obviamente para viajar para fora do país o primeiro passo é ter um passaporte com data de validade válida. Os passaportes atuais tipicamente são emitidos com validade de 10 anos. Se você já tem um passaporte, faça uma cópia autenticada das páginas com seus dados e pule para a próxima seção.
+Obviamente para viajar para fora do país o primeiro passo é ter um passaporte com data de validade válida. Os passaportes atuais tipicamente são emitidos com validade de 10 anos. Se você já tem um passaporte, faça uma cópia autenticada das páginas com seus dados e pule para a próxima seção. Se não, veja os detalhes no site da [Polícia Federal](https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro).
 
 No meu caso, já tinha passaportes mas eles estavam vencidos, então precisei renovar para mim e para minha família.
 
-Se você é do interior, precisará viajar até um [posto da Polícia Federal do seu estado](http://www.pf.gov.br/servicos-pf/passaporte/unidades-mobile/estados#mobile) para a emissão do passaporte. Será preciso ir duas vezes: uma para levar os documentos, tirar foto e coletar as digitais e outra para pegar o documento.
+O passo inicial é [preencher um formulário online](https://www.gov.br/pf/pt-br/assuntos/passaporte/passaporte.html?dispatch=formulario). Se você é do interior, precisará viajar até um posto da Polícia Federal do seu estado para a emissão do passaporte. Será preciso ir duas vezes: uma para levar os documentos, tirar foto e coletar as digitais e outra para pegar o documento.
 
-O site da Polícia Federal informa a [lista de documentos necessários](http://www.pf.gov.br/servicos-pf/passaporte/documentacao-necessaria/documentacao-para-passaporte-comum). É preciso estar em dia com a Justiça Eleitoral (ter votado na última eleição, justificado ou pago a multa) e, para os homens, estar em quite com o serviço militar obrigatório. Não é necessário levar título de eleitor ou certificado de reservista, as verificações são feitas pela PF online.
+O site da Polícia Federal informa a [lista de documentos necessários](https://www.gov.br/pf/pt-br/assuntos/passaporte/passaporte.html?dispatch=documentos). É preciso estar em dia com a Justiça Eleitoral (ter votado na última eleição, justificado ou pago a multa) e, para os homens, estar em quite com o serviço militar obrigatório. Não é necessário levar título de eleitor ou certificado de reservista, as verificações são feitas pela PF online.
 
-Se você tem filhos, [verifique na página de dúvidas frequentes da Polícia Federal a tabela de validade por idade](http://www.pf.gov.br/servicos-pf/passaporte/duvidas-frequentes) especialmente se a data de aniversário estiver próxima, pode ser interessante esperar algum tempo para ter uma validade maior, como o passaporte leva apenas alguns dias para ficar pronto enquanto o visto pode levar alguns meses, você pode fazer o documento dos filhos mais próximo da data da viagem para ter uma validade potencialmente maior. Note que os filhos precisam estar presentes nas duas visitas ao posto da Polícia Federal, ou seja tanto para dar entrada quanto para retirar o documento.
+Se você tem filhos entre 0 e 4 anos, [verifique na página de dúvidas frequentes da Polícia Federal a tabela de validade por idade](https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro), uma vez que se a data de aniversário estiver próxima, pode ser interessante esperar passar o aniversário para ter uma validade maior. Como o passaporte leva apenas alguns dias para ficar pronto enquanto o visto pode levar alguns meses (e você não precisa apresentar o passaporte dos filhos para dar entrada no visto), você pode fazer o documento dos filhos mais próximo da data da viagem para ter uma validade potencialmente maior. Note que os filhos precisam estar presentes nas duas visitas ao posto da Polícia Federal, ou seja tanto para dar entrada quanto para retirar o documento.
 
 - Custo: R\$ 257,25 por pessoa;
 - Autenticação: ~R\$ 8.
@@ -181,7 +183,7 @@ Dica: caso você tenha recém concluído seu curso mas ainda não tenha colado g
 
 #### 6. Comprovantes de Renda brasileiros
 
-É preciso comprovar renda no Brasil. É exigido a declaração de Imposto de Renda do último ano, assim como os 3 últimos contra-cheques. Não é necessário autenticar ou apostilar.
+É preciso comprovar renda no Brasil. É exigido uma cópia simples da declaração de Imposto de Renda do último ano, assim como dos 3 últimos contra-cheques. Não é necessário autenticar ou apostilar.
 
 #### 7. Comprovantes de casamento/união estável/certidão de nascimento
 
@@ -210,11 +212,11 @@ Um documento assinado por você declarando que não irá viajar para Portugal se
 
 #### 12. Declaração de Próprio Punho
 
-Um documento assinado por você declarando seus motivos para requerer o visto, no modelo a seguir.
+Um documento impresso e assinado por você declarando seus motivos para requerer o visto, no modelo a seguir.
 
 > **DECLARAÇÃO**
 >
-> Eu, _**nome completo em negrito**_, estado civil _tal_, residente em _seu endereço completo_, titulo do passaporte n.º _AB123456_, e válido até _DD.MM.YYYY_, pela Universidade _tal_, sou atualmente especializado na área de _preencha_. Irei para Portugal, pelo período de _tanto tempo_, trabalhar na empresa _razão social da empresa_, para desempenhar as seguintes funções: _preencha_.
+> Eu, _**nome completo em negrito**_, estado civil _tal_, residente em _seu endereço completo_, titulo do passaporte n.º _AB123456_, e válido até _DD.MM.YYYY_, com diploma de _tal_ pela Universidade _tal_, sou atualmente especializado na área de _preencha_. Irei para Portugal, pelo período de _tanto tempo_, trabalhar na empresa _razão social da empresa_, para desempenhar as seguintes funções: _preencha_.
 >
 > Pela minha formação e experiência profissional, irei contribuir com _preencha_, serei responsável por _preencha_, e farei parte do projeto _preencha_.
 >
@@ -246,9 +248,9 @@ Feito isto, será marcado um dia para a visita à VFS Global, empresa que faz a 
 
 ## Após o visto ter sido aprovado, ainda no Brasil
 
-Após algum tempo de ansiedade e incertezas, num prazo que pode levar de 15 dias a 6 meses (o meu saiu em 2 meses), você teve o visto aprovado! Com isto a empresa já irá comprar a passagem para um dia a sua escolha, se isto estiver no seu pacote de contratação, ou você mesmo poderá comprá-la, para uma data de até **4 meses** após a emissão do visto. O visto de trabalho D3 é válido por este período, e já vem com um agendamento para pedido de Autorização de Residência (AR) junto ao SEF. Veja mais detalhes sobre este processo numa seção mais abaixo.
+Após algum tempo de ansiedade e incertezas, num prazo que pode levar de 15 dias a 6 meses (o meu saiu em 2 meses), você teve o visto aprovado! Com isto a empresa já irá comprar a passagem para um dia a sua escolha, se isto estiver no seu pacote de contratação, ou você mesmo poderá comprá-la, para uma data de até **4 meses** após a emissão do visto. A data de emissão e validade vem impressa no visto, que é um papel que é colado numa página do seu passaporte. O visto de trabalho D3 é válido por este período, e já vem com um agendamento para pedido de Autorização de Residência (AR) junto ao SEF. Veja mais detalhes sobre este processo numa seção mais abaixo.
 
-Note que o agendamento marcado pode ser num prazo superior aos 4 meses de duração do visto, não há problema. **Você não ficará ilegal neste período.** Porém neste período - entre a data final do visto de trabalho, e o recebimento da Autorização de Residência - você não poderá viajar entre os países da Europa (leia-se [Espaço Schengen](https://pt.wikipedia.org/wiki/Acordo_de_Schengen)), somente permanecer em Portugal. Ao menos em teoria, uma vez que não há controle migratório entre os países do Espaço Schengen - em geral sequer se mostra o passaporte -, mas convém não arriscar.
+Note que o agendamento marcado pode ser num prazo superior aos 4 meses de duração do visto, não há problema. **Você não ficará ilegal neste período.** Porém neste intervalo - entre a data final do visto de trabalho, e o recebimento da Autorização de Residência - você não poderá viajar entre os países da Europa (leia-se [Espaço Schengen](https://pt.wikipedia.org/wiki/Acordo_de_Schengen)), somente permanecer em Portugal. Ao menos em teoria, uma vez que não há controle migratório entre os países do Espaço Schengen, mas convém não arriscar.
 
 Dica: dependendo da cidade que se vá trabalhar, a marcação pode levar um bom tempo (por exemplo, meu visto foi emitido em 27/12/2019 e a visita ao SEF do Porto estava marcada para 10/07/2020). É possível ligar para o SEF e marcar em outra cidade com um prazo menor. No meu caso, consegui agendamento para o SEF em Braga em 20/02/2020.
 
@@ -261,7 +263,7 @@ Os únicos documentos brasileiros necessários para pedir a AR são o passaporte
 Seu cônjuge e filhos, se houver, precisarão da seguinte lista de documentos do Brasil para fazer pedir AR por Reagrupamento Familiar:
 
 #### 1. Certidão de Antecedentes Criminais
-Emitida na Polícia Federal, ou no país aonde você viver há pelo menos 1 ano se não for o Brasil. Para filhos, somente se maiores de 16 anos. Deve ter sido emitida há no máximo 3 meses da data da viagem, e deve ser apostilada. Veja mais detalhes neste item na seção anterior.
+Emitida na Polícia Federal, ou no país aonde você vive há pelo menos 1 ano se não for o Brasil. Para filhos, somente se maiores de 16 anos. Deve ter sido emitida há no máximo 3 meses da data da viagem, e deve ser apostilada. Veja mais detalhes neste item na seção anterior.
 
 Note que a data que conta é o dia em que o agendamento foi feito, não quando de fato será o atendimento.
 
@@ -276,7 +278,7 @@ Note que a data que conta é o dia em que o agendamento foi feito, não quando d
 - Apostilamento: ~R\$ 50.
 
 #### 3. Certidão de Nascimento (para menores)
-**Deve ser emitida a menos de 12 meses da data da viagem para Portugal**. Se seu filho tem mais que 1 ano, será preciso pedir uma segunda via. O valor varia por idade. É necessário apostilar.
+**Deve ser emitida a menos de 12 meses da data da viagem para Portugal**. Ou seja, se seu filho tem mais que 1 ano, será preciso pedir uma segunda via. O valor varia por cartório e por idade. É necessário apostilar.
 
 - Custo da segunda via: varia por cartório e por idade, ~R\$ 50
 - Apostilamento: ~R\$ 50.
@@ -293,9 +295,9 @@ No caso dos filhos, o histórico escolar é a comprovação do ensino que a cria
 
 No caso do cônjuge, ainda que não tenha curso superior nem a pretensão de fazê-lo, recomendo que reconheça firma e apostile o diploma do ensino médio e histórico escolar. Isto porque, fora cursos universitários, mesmo para participar de cursos livres oferecidos pelo [Instituto do Emprego e Formação Profissional](https://www.iefp.pt/) e iniciativas similares, tais como o [UPskill](https://upskill.pt/), será necessário comprovar a escolaridade, passando pelo mesmo procedimento de Equivalência escolar e ainda por um procedimento de Declaração de Escala de Notas, que converterá as notas brasileiras para o sistema português.
 
-É importante reconhecer firma e depois apostilar o(s) documento(s) nessa ordem - e não o inverso - uma vez que o apostilamento autenticará o reconhecimento da assinatura internacionalmente.
+É importante reconhecer firma e depois apostilar o(s) documento(s), nessa ordem - e não o inverso - uma vez que o apostilamento autenticará não só o documento mas também o reconhecimento da assinatura internacionalmente.
 
-Caso você não faça isto e tenha trazido o histórico escolar e/ou o diploma consigo sem essa autenticação, será preciso enviá-lo de volta para o Brasil, pedir para alguém ir no cartório reconhecer firma e apostilar para depois enviar de volta para Portugal, uma vez que não é possível apostilar documentos brasileiros em Portugal. Note ainda que pode ser mais barato/rápido pedir uma segunda via direto na escola do que enviar o documento daqui de Portugal e esperar chegar no Brasil.
+Caso você não faça isto e tenha trazido o histórico escolar e/ou o diploma consigo sem essa autenticação, será preciso enviá-lo de volta para o Brasil, pedir para alguém ir no cartório reconhecer firma e apostilar para depois enviar de volta para Portugal, uma vez que não é possível apostilar documentos brasileiros em Portugal. Note que pode ser mais barato e rápido pedir uma segunda via direto na escola através de algum amigou ou familiar do que enviar o documento daqui de Portugal e esperar chegar no Brasil.
 
 Posteriormente em Portugal, será necessário fazer um procedimento de equivalência do histórico escolar. Veja mais detalhes abaixo.
 
@@ -308,9 +310,9 @@ Você chegou a Portugal, parabéns! Ainda há diversas burocracias para fazer do
 
 ## 1. NIF
 
-O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF e CNPJ (empresas também tem NIF). Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que _pode ser feito mesmo sem ter visto de trabalho_. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "\[Fatura com número de\] contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
+O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF e CNPJ. Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que _pode ser feito mesmo sem ter visto de trabalho_. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "\[Fatura com número de\] contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
 
-Para abrir um NIF sem ter residência em Portugal, você precisará do passaporte, comprovante de residência do Brasil e ir junto com um "representante fiscal" (que pode ser um cidadão português - um funcionário do RH da empresa, como foi meu caso, por exemplo - ou um estrangeiro com residência permanente) até um centro de atendimento dos Serviços de Finanças (loja própria ou dentro de uma das Lojas do Cidadão) com estes documentos (não precisa de cópias) e fazer o pagamento de uma taxa de € 10,20. Caso você tenha cônjuge e/ou filhos morando em Portugal, é necessário criar um NIF para eles também. Não é necessário agendamento prévio, pega senha para atendimento na hora.
+Para abrir um NIF sem ter residência em Portugal, você precisará do passaporte, comprovante de residência do Brasil e ir junto com um "representante fiscal" (que pode ser um cidadão português - um funcionário do RH da empresa, como foi meu caso, por exemplo - ou um estrangeiro com residência permanente) até um centro de atendimento dos Serviços de Finanças (loja própria ou dentro de uma das Lojas do Cidadão) com estes documentos (não precisa de cópias) e fazer o pagamento de uma taxa de € 10,20. Antes da pandemia não era necessário agendamento prévio, bastava pegar senha para atendimento na hora, mas no momento é preciso ligar para agendar o atendimento presencial.
 
 Veja mais detalhes no site [Euro Dicas](https://www.eurodicas.com.br/nif-portugal/).
 
@@ -330,7 +332,7 @@ Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recome
 
 ## 3. NISS
 
-O **NISS** (Número de Identificação de Segurança Social) é equivalente ao nosso PIS. É criado preenchendo um formulário impresso e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. A emissão do NISS é gratuita, mas a fotocópia certificada custa 18 €. Veja mais detalhes [na página do CTT](https://www.ctt.pt/faq/pontos-ctt/servicos-de-apoio-ao-cidadao/certificacao-de-fotocopias.html).
+O **NISS** (Número de Identificação de Segurança Social) é equivalente ao nosso PIS. É criado preenchendo um formulário impresso e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. A emissão do NISS é gratuita, mas a fotocópia certificada custa 18 €. Veja mais detalhes [na página do CTT](https://www.online24.pt/autenticacao-de-documentos-nos-ctt/).
 
 Uma vez recebido o número por email é possível acessar o [site do NISS, registrar acesso e solicitar senha de acesso por carta](https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin), o que recomendo que já seja feito o quanto antes pois será necessário para outros pedidos, como o do Cartão Europeu Seguro Doença (mais detalhes sobre isso abaixo).
 
@@ -340,7 +342,7 @@ Uma vez recebido o número por email é possível acessar o [site do NISS, regis
 
 ## 4. Autorização de Residência (AR)
 
-O pedido de **AR** (Autorização de Residência) é o próximo grande passo burocrático após a chegada em Portugal. Consiste de uma visita a um posto do **SEF** (Serviço de Estrangeiros e Fronteiras, com atribuições similares às da nossa Polícia Federal) numa data agendada, levando uma série de documentos. Mais recentemente, a data do agendamento já vem numa URL impressa no próprio visto de trabalho colado no passaporte, mas sempre é possível tentar ligar para o SEF e conseguir uma data mais próxima em alguma cidade vizinha menor. No meu caso, trabalho e moro no Porto, mas consegui um agendamento em Braga (1h de trem) por ter data mais próxima.
+O pedido de **AR** (Autorização de Residência) é o próximo grande passo burocrático após a chegada em Portugal. Consiste de uma visita a um posto do **SEF** (Serviço de Estrangeiros e Fronteiras, com atribuições similares às da nossa Polícia Federal) numa data agendada, levando uma série de documentos. Mais recentemente, a data do agendamento já vem numa URL impressa no próprio visto de trabalho colado no passaporte, mas sempre é possível tentar ligar para o SEF e conseguir uma data mais próxima em alguma cidade vizinha menor. No meu caso, moro e trabalho no Porto, mas consegui um agendamento em Braga (1h de trem) por ter data mais próxima.
 
 A lista de documentos para o pedido de AR é a seguinte:
 
@@ -368,7 +370,11 @@ Levei os dois e foi pedido apenas o PB4.
 
 Uma vez aprovado, o documento - Título de Residência, em um cartão plástico - vem por carta, sendo entregue na residência, num prazo de 3 semanas. Caso não haja ninguém disponível para receber a carta (é preciso assinar o recebimento) o carteiro deixa um papel indicando que é preciso pegar na agência do CTT (Correios português) num prazo de 6 dias. Caso não pegue neste prazo, o documento volta para o SEF e será preciso pegar com eles. Já adiantando uma dúvida que tinha, no Título de Residência há dois números; o número do título é o do canto superior direito do documento (9 caracteres).
 
-A validade da Autorização de Residência é de dois anos (até 2019 era somente um ano), e findo este prazo é preciso renová-la. Antes essa renovação era preciso ser feita presencialmente, através de novo agendamento no SEF; desde o segundo semestre de 2020 a [renovação está sendo feita online](https://imigrante.sef.pt/renovar-residencia/renovacoes-automaticas-perguntas-frequentes/).
+Veja a aparência do cartão, frente e verso:
+![Foto de um título de residência, frente](https://user-images.githubusercontent.com/397851/102904422-9ced8a00-4469-11eb-874b-09c539b98504.png)
+![Foto de um título de residência, verso](https://user-images.githubusercontent.com/397851/102905100-914e9300-446a-11eb-8c64-5eb197ac5881.png)
+
+A validade da Autorização de Residência é de dois anos (até 2019 era somente um ano), e findo este prazo é preciso renová-la. Antes essa renovação era preciso ser feita presencialmente, através de novo agendamento no SEF; desde o segundo semestre de 2020 a [renovação está sendo feita online](https://imigrante.sef.pt/renovar-residencia/renovacoes-automaticas-perguntas-frequentes/), com o pedido liberado poucos meses antes da data de vencimento.
 
 O Título de Residência é similar ao nosso RG e com isso você deixa de precisar andar com o passaporte, exceto para viagens (mesmo dentro da Europa), uma vez que ele não serve como documento de viagem.
 
@@ -416,14 +422,14 @@ Se for o caso, é claro.
 __12. Documento comprovando a ligação__  
 Certidão de casamento ou união estável, para cônjuges, ou certidão de nascimento, para filhos, em ambos os casos apostilada.
 
-Nota: de forma similar ao processo de pedido do visto, há a exigência de que as certidões sejam recentes (emitida há no máximo 6 meses para casamento e 12 meses para nascimento), mas a data que importa é a que o agendamento foi feito, não a data do atendimento em si. Portanto as certidões emitidas no Brasil antes da viagem deverão ser suficientes, mesmo que o agendamento seja vários meses depois da chegada.
+Nota: de forma similar ao processo de pedido do visto, há a exigência de que as certidões sejam recentes (emitida há no máximo 6 meses para casamento e 12 meses para nascimento), mas a data que importa é a que o agendamento foi feito, não a data do atendimento em si. Portanto as certidões emitidas no Brasil antes da viagem deverão ser suficientes, mesmo que o atendimento seja vários meses depois da chegada.
 
 __13. Certidão de Antecedentes Criminais da Polícia Federal__  
 Para maiores de 16 anos, apostilada.
 
 ## 6. Número de Utente
 
-"Utente" quer dizer "Paciente", e é um número atribuído pelo Sistema Nacional de Saúde, que o identifica como paciente tanto na rede pública quanto na privada. Ao fazer consultas, exames etc., todo o histórico fica associado ao Número de Utente, e ele será necessário em alguns casos como por exemplo para fazer a matrícula de crianças na escola, tirar carteira de motorista, etc. Veja mais detalhes nesta página do portal ePortugal: [PEDIR O NÚMERO DE UTENTE DO SNS](https://eportugal.gov.pt/servicos/pedir-o-numero-de-utente-do-sns). Veja que excepcionalmente não é preciso aguardar a AR chegar, pode confirmar residência somente com o agendamento de autorização de residência junto ao SEF.
+"Utente" quer dizer "Paciente", e é um número atribuído pelo Sistema Nacional de Saúde, que o identifica como paciente tanto na rede pública quanto na privada. Ao fazer consultas, exames etc., todo o histórico fica associado ao Número de Utente, e ele será necessário em alguns casos como por exemplo para fazer a matrícula de crianças na escola, tirar carteira de motorista, etc., ainda que o atendimento seja feito em hospital particular. Veja mais detalhes nesta página do portal ePortugal: [PEDIR O NÚMERO DE UTENTE DO SNS](https://eportugal.gov.pt/servicos/pedir-o-numero-de-utente-do-sns). Veja que excepcionalmente não é preciso aguardar a AR chegar, pode confirmar residência somente com o agendamento de autorização de residência junto ao SEF.
 
 O site menciona que deve-se fazer o pedido pessoalmente, porém devido ao contexto da pandemia essa solicitação está sendo feita online, por email. Primeiro você deve localizar o Centro de Saúde da sua região (procurando no Google Maps, por exemplo), depois deve acessar a página do Ministério da Saúde do Centro de Saúde em questão para enviar o email. Note que devido a pandemia alguns centros de saúde estão funcionando exclusivamente para atender pacientes de Covid-19, de forma que se você não tiver resposta em um ou dois dias pode enviar email para outro centro de saúde próximo da sua residência. Consegui resposta em menos de 24 horas através do email __ucsp.matosinhos@ulsm.min-saude.pt__.
 
@@ -451,6 +457,9 @@ Para familiares que não contribuam com a Segurança Social (cônjuge que não t
 Veja mais detalhes em: [Cartão Europeu de Seguro de Doença - seg-social.pt](http://www.seg-social.pt/pedido-cartao-europeu-seguro-doenca).
 
 Custo: 0.
+
+Esta é a aparência do CESD:
+![Exemplo do CESD](https://user-images.githubusercontent.com/397851/102905995-e50dac00-446b-11eb-9388-95fbd4f6a0d5.png)
 
 ## 8. Justiça Eleitoral
 
@@ -494,7 +503,7 @@ Após ter o atestado emitido pode ir a uma escola de condução e contratar o se
 
 Uma das obrigações anuais que temos, assim como no Brasil, é a Declaração do Imposto de Renda, aqui chamado de IRS - Imposto sobre o Rendimento de pessoas Singulares. Assim como no Brasil, tipicamente nos contratos com pessoa física - similar aos contratos de carteira assinada brasileiros - já é descontado o percentual do salário bruto referente ao IRS, de forma com a declaração anual feita é possível ter um valor de restituição do imposto de renda.
 
-As alíquotas de imposto tem bem mais variações do que no Brasil (que são de 0, 15 e 27,5% dependendo do valor do salário no ano). Variam igualmente com o valor do salário, mas tem graduações mais granulares, variando entre 0 a 41,8%, mas também há variações se a pessoa for casada (imposto menor), se somente um ou os dois casados trabalham (imposto maior), se tem filhos, se é jovem (dos 18 a 26 anos), se tem alguma deficiência, se mora no Continente ou nas regiões autônomas de Açores ou Madeira etc. Confira no site da Autoridade Tributária a [Tabela de Retenção de IRS](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/tabela_ret_doclib/Pages/default.aspx), e sugiro este artigo explicativo: [Taxas de IRS 2020: consulte os escalões de IRS - Economias](https://www.economias.pt/taxas-de-irs/), assim como este [Simulador Salário Líquido 2020](https://www.doutorfinancas.pt/simulador-salario-liquido-2020/).
+As alíquotas de imposto tem bem mais variações do que no Brasil (que são de 0, 15 e 27,5% dependendo da soma dos valores recebidos ao longo do ano). Variam igualmente com o valor do salário, mas tem graduações mais granulares, variando entre 0 a 41,8%, mas também há variações se a pessoa for casada (imposto menor), se somente um ou os dois casados trabalham (imposto maior), se tem filhos, se é jovem (dos 18 a 26 anos), se tem alguma deficiência, se mora no Continente ou nas regiões autônomas de Açores ou Madeira etc. Confira no site da Autoridade Tributária a [Tabela de Retenção de IRS](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/tabela_ret_doclib/Pages/default.aspx), e sugiro este artigo explicativo: [Taxas de IRS 2020: consulte os escalões de IRS - Economias](https://www.economias.pt/taxas-de-irs/), assim como este [Simulador Salário Líquido 2020](https://www.doutorfinancas.pt/simulador-salario-liquido-2020/).
 
 Ao contrário da Declaração do Imposto de Renda do Brasil, em que é preciso baixar um programa, instalar o Java etc., a declaração do IRS português é feita online, direto no [site das Finanças - IRS](https://irs.portaldasfinancas.gov.pt/home.action). É preciso ter um código de acesso para o portal, que é recebido por carta, conforme [detalhado na seção anterior sobre o NIF](#1-nif). Os dados já vem pré-preenchidos, basta conferir, corrigir alguma eventual discrepância e entregar a declaração.
 
@@ -550,6 +559,7 @@ __Dicas importantes:__
 - caso você seja casado e/ou tenha filhos, divida as despesas informando o NIF de todos os membros da família, especialmente nas categorias de despesas gerais familiares (contas de serviços, supermercado) e restituição de IVA (restaurantes etc.), mesmo que somente você trabalhe / tenha rendimentos, uma vez que essas categorias tem limite de dedução __por pessoa__. Uma forma simples de fazer isto, para uma família de duas pessoas, seria informar o NIF de um na primeira metade e o NIF do outro na segunda metade do ano, e assim sucessivamente, e quanto as contas, colocar a conta de luz e gás no nome de uma pessoa e a de água e internet na outra, por exemplo. Você pode acessar a página de Deduções Provisórias em IRS mencionada anteriormente para verificar o quão perto do limite está e se precisa ou não se preocupar com isso.
 - despesas de saúde podem ter restituição maior caso o remédio comprado tenha sido indicado por conta de uma receita médica. O portal dá a opção de associar uma receita a uma fatura de despesa de saúde.
 - despesas com escolas de condução (para tirar carta de condução / carteira de motorista) __não__ podem entrar na categoria "Educação", mas podem compor o valor de restituição na categoria "Despesas Gerais Familiares".
+- atividades como ginásio (academia), natação etc. __não__ podem entrar na categoria "Saúde", __a menos__ que tenham sido indicadas por um médico.
 
 Tendo passado o primeiro ano, e antes (ou mesmo depois) da declaração, é possível [Consultar Despesas para Deduções à Coleta](https://irs.portaldasfinancas.gov.pt/consultarDespesasDeducoes.action), ou seja, quanto valou acumulou de deduções em cada categoria.
 
@@ -610,7 +620,7 @@ Uma vez tendo o histórico escolar apostilado e com notas de 0 a 10, basta ir nu
 - passaporte (pois o certificado precisa constar o nome dos pais e o título de residência não tem essa informação);
 - comprovante de residência (para verificar se realmente a escola em questão é a escola secundária da sua região).
 
-Não custa nada e fica pronto em alguns dias.
+Não tem cuto e fica pronto em alguns dias.
 
 Mais informações na [página de assuntos educacionais da embaixada brasileira em Lisboa](http://lisboa.itamaraty.gov.br/pt-br/assuntos_educacionais.xml).
 
@@ -637,7 +647,7 @@ A tabela de escalões é:
 
 ![Tabela de escalões para abono de família](https://user-images.githubusercontent.com/397851/100439536-943caa80-309b-11eb-9594-53624879f792.png)
 
-Supondo uma família aonde um adulto ganhe 2.000€ bruto por mês, o outro adulto não trabalhe, e tenha um filho. Neste caso, a conta é: `(2.000 + 0) * 14 / 1 + 1 = 14.000`. Neste caso, o rendimento corresponde ao 4º escalão, que só dá direito ao auxílio caso o filho tenha 4 anos ou menos.
+Supondo uma família aonde um adulto ganhe 2.000€ bruto por mês, em 14 salários por ano, o outro adulto não trabalhe, e tenha um filho. Neste caso, a conta é: `(2.000 + 0) * 14 / 1 + 1 = 14.000`. Neste caso, o rendimento corresponde ao 4º escalão, que só dá direito ao auxílio caso o filho tenha 4 anos ou menos.
 
 Fazendo a conta invertida - do limite do escalão para o salário bruto mensal, para um filho, o limite do 4º escalão é `15.358,35 * (1 + 1) / 14 = 2.194,05€` (para filho com 4 anos ou menos) e o do 3º escalão é `9.215,01 * (1 + 1) / 14 = 1.316,43€` (um filho com mais de 4 anos); ou ainda, considerando dois filhos: `15.358,35 * (2 + 1) / 14 = 3.291,07€` (dois filhos sendo pelo menos um com 4 anos ou menos), ou `9.215,01 * (2 + 1) / 14 = 1.974,64€` (dois filhos com mais de 4 anos).
 
@@ -657,7 +667,7 @@ As matrículas em creches, pré-escolas (jardins de infância), escolas primári
 
 Para acessar o sistema, é preciso autenticar com o seu NIF através do sistema da Autoridade Tributária, o e-Finanças. Para isso, acesse o Portal das Finanças e solicite o acesso. Veja mais detalhes na seção sobre [NIF](#1-nif).
 
-No cadastro, há uma pegadinha. No primeiro passo, há uma série de perguntas, que verificam a sua anuência ao compartilhamento de dados entre diferentes sistemas do governo, incluindo Segurança Social. É preciso responder que **Não Autoriza** o compartilhamento com o sistema da Segurança Social, uma vez que, respondendo positivamente a esta pergunta, passa a ser obrigatório informar NISS para crianças; tipicamente crianças só tem NISS se os pais solicitaram abono de família pré-natal e/ou [abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens). Note que ambas as perguntas se referem a crianças que recebem benefícios da Segurança Social.
+No formulário, há uma pegadinha. No primeiro passo, há uma série de perguntas, que verificam a sua anuência ao compartilhamento de dados entre diferentes sistemas do governo, incluindo Segurança Social. É preciso responder que **Não Autoriza** o compartilhamento com o sistema da Segurança Social, uma vez que, respondendo positivamente a esta pergunta, passa a ser obrigatório informar NISS para crianças; tipicamente crianças só tem NISS se os pais solicitaram abono de família pré-natal e/ou [abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens). Note que ambas as perguntas se referem a crianças que recebem benefícios da Segurança Social.
 
 ![captura de tela do Portal das Matrículas](https://user-images.githubusercontent.com/397851/99706732-66e86f00-2a93-11eb-9d74-3a9338f9f7b7.png)
 
@@ -682,7 +692,7 @@ Uma das principais despesas após a mudança será o aluguel, ou como se diz em 
 
 Alguns sites para verificar ofertas de imóveis disponíveis para arrendamento: [Imovirtual](https://www.imovirtual.com/), [Idealista](https://www.idealista.pt/), [RE/MAX](https://www.remax.pt/), [OLX](https://www.olx.pt/).
 
-Em Portugal utiliza-se uma [tipologia com siglas](https://portuguese.stackexchange.com/questions/3071/que-significa-o-t-em-apartamento-t0-t1-t2-t3), sendo **T1** uma casa ou apartamento com um quarto, **T2** com dois quartos e assim sucessivamente, enquanto **T0** são as kitchenettes.
+Em Portugal utiliza-se uma [tipologia com siglas](https://portuguese.stackexchange.com/questions/3071/que-significa-o-t-em-apartamento-t0-t1-t2-t3), sendo **T1** uma casa ou apartamento com um quarto, **T2** com dois quartos e assim sucessivamente, enquanto **T0** são as kitchenettes. Além disso há o **+1** que significa um quarto sem janelas, ou seja a subdivisão de um cômodo maior. Por exemplo, um **T1+1** seria uma casa ou apartamento com um quarto comum e um quarto sem janelas, que poderia ser utilizado como escritório por exemplo.
 
 Para fazer o arrendamento do imóvel você precisará do passaporte, tirar o NIF e dinheiro suficiente para atender as exigências do proprietário, que pela lei pode ser apenas 2 meses de depósito mas frequentemente são 6 meses ou mais, em regime de pré-pagamento das rendas (alugueis) dos meses seguintes.
 
@@ -704,7 +714,7 @@ Para acessar essa rede, você irá precisar de um [cartão Andante](https://www.
 
 Quanto às tarifas, a cidade tem um [sistema de zonas tarifárias](https://www.linhandante.com/uploadFiles/Mapa_Zonamento_andante_png.png), de forma que bilhetes para viagens curtas são mais baratos que bilhetes para viagens longas. O bilhete com a menor distância (Z2, 2 zonas) custa € 1,20, o Z3 custa € 1,60 e assim sucessivamente. Mesmo que seu deslocamento seja em apenas uma zona, é preciso um bilhete de duas zonas, uma vez que não existe bilhete Z1.
 
-Cada bilhete possui uma duração de validade (Z2 e Z3 1 hora, Z4 1h15 e assim sucessivamente) e é possível pegar vários transportes pagando uma só passagem dentro desse horário. Se mudar de veículo ou linha, valide novamente o título de transporte (por exemplo, se trocar de linha no Metro). A validade do tempo que conta é da última validação, não da desembarque do veículo, ou seja: você pode ir e voltar com o mesmo bilhete, desde que valide a volta antes de completar os 60 minutos, mesmo que fique mais tempo dentro do trem. Alternativamente, é possível pagar os autocarros com dinheiro trocado, comprando a passagem com o motorista, mas nesse caso o valor será mais alto (€2 na STCP, €1,50 na Maré de Matosinhos etc.) e não é possível fazer baldeação.
+Cada bilhete possui uma duração de validade (Z2 e Z3 1 hora, Z4 1h15 e assim sucessivamente) e é possível pegar vários transportes pagando uma só passagem dentro desse horário. Se mudar de veículo ou linha, valide novamente o título de transporte (por exemplo, se trocar de linha no Metro, ou se sair do Metro e pegar um autocarro). A validade do tempo que conta é da última validação, não do desembarque do veículo, ou seja: você pode ir e voltar com o mesmo bilhete, desde que valide a volta antes de completar os 60 minutos, mesmo que fique mais tempo dentro do trem. Alternativamente, é possível pagar os autocarros com dinheiro trocado, comprando a passagem com o motorista, mas nesse caso o valor será mais alto (€2 na STCP, €1,50 na Maré de Matosinhos etc.) e não é possível fazer baldeação.
 
 Além ao uso dos bilhetes eventuais, é possível comprar passes diários e semanais (com valores variados a depender das zonas), ou ainda um passe mensal, que custa € 30 para andar em 3 zonas (determinadas, não quaisquer) ou € 40 para andar em toda a região metropolitana e com isso não se preocupar mais com as zonas tarifárias. Os passes diários e semanais podem ser comprados direto nas máquinas de venda de bilhetes de papel.
 
@@ -735,7 +745,7 @@ O link do Bolt já tem um código de convite com € 1,60 de desconto, no Free N
 
 Existem diversos provedores de internet fixa, como Vodafone, MEO, NOS, Nowo, e em geral fechando um pacote com fidelidade - que costuma ser de 2 anos - há alguma oferta, como descontos expressivos (que podem chegar a 100% dependendo do plano contratado) para a compra de itens como celular, TV, geladeira etc. Além disso, há uma loja de eletroeletrônicos chamada [Worten](https://www.worten.pt), que seria algo similar a uma Ricardo Eletro, que oferece ainda uma oferta secundária, fora a oferta da operadora. Por exemplo, fechei um contrato de 2 anos de internet fixa, telefone fixo e duas linhas móveis e ganhei uma TV 43" 4K da Vodafone e uma 32" Full HD da Worten.
 
-Veja mais detalhes incluindo um simulador para verificar as opções de planos e valores: [Pacotes TV Net Voz Móvel: Vodafone, NOS, MEO e Nowo - Worten](https://www.worten.pt/smartphones-e-comunicacoes/tv-net-voz-movel/tudo-sobre-pacotes-tv-net-voz-movel).
+Veja mais detalhes incluindo um simulador para verificar as opções de planos e valores, acessando o site da [Worten](https://www.worten.pt) e navegando no menu **Promoções** e **Pacotes Tv Net Voz Móvel**.
 
 Dica: como os preços costumam ser bem parecidos, recomendo a escolha da Vodafone pelo simples fato da empresa ter uma loja no Aeroporto do Porto, de forma que assim que chegar de viagem você já pode comprar um cartão pré-pago, sair usando e manter o mesmo número quando for fechar o plano.
 
@@ -771,7 +781,7 @@ Outro programa de fidelidade similar para restaurantes é o app [Vitaminas](http
 
 ## Assinaturas
 
-Em geral, serviços como Spotify, Netflix, YouTube Premium, PSN Plus etc. tem preços mais vantajosos no Brasil do que em Portugal por se adequar mais à renda do consumidor médio. Manter assinaturas brasileiras em todos os serviços com um cartão de crédito português funciona sem problemas.
+Em geral, serviços como Spotify, Netflix, YouTube Premium, PSN Plus etc. tem preços mais vantajosos no Brasil do que em Portugal por se adequar mais à renda do consumidor médio. Manter assinaturas brasileiras em todos os serviços com um cartão português funciona sem problemas.
 
 ### Globo
 
@@ -844,7 +854,7 @@ Para fazer o reconhecimento de firma de uma assinatura sua, você precisará _ab
 
 ## Apostila da Haia
 
-Apostilamento é basicamente uma autenticação de documento reconhecida internacionalmente. Este serviço é oferecido por alguns cartórios, que cadastram o documento em um sistema online, e colam um adesivo atestando a sua autenticidade. O valor do apostilamento varia de estado para estado. [Veja mais detalhes aqui](http://www.cnj.jus.br/haia).
+Apostilamento é basicamente uma autenticação de documento reconhecida internacionalmente. Este serviço é oferecido por alguns cartórios, que cadastram o documento em um sistema online, e colam um adesivo atestando a sua autenticidade. O valor do apostilamento varia de estado para estado. [Veja mais detalhes aqui](https://www.cnj.jus.br/poder-judiciario/relacoes-internacionais/apostila-da-haia/).
 
 ## Procuração
 
