@@ -2,58 +2,58 @@
 
 Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal, um passo a passo com os procedimentos associados e dicas não relacionadas mas que podem ser úteis.
 
--   [Introdução](#introdu%C3%A7%C3%A3o)
--   [Tipos de visto](#tipos-de-visto)
--   [Visto D3 - Documentação Necessária](#visto-d3---documenta%C3%A7%C3%A3o-necess%C3%A1ria)
-    -   [Antes de pedir o visto](#antes-de-pedir-o-visto)
-        -   [Documentos da empresa](#documentos-da-empresa)
-        -   [Documentos pessoais](#documentos-pessoais)
-        -   [Agendamento](#agendamento)
-    -   [Após o visto ter sido aprovado, ainda no Brasil](#ap%C3%B3s-o-visto-ter-sido-aprovado-ainda-no-brasil)
-        -   [Documentos para Autorização de Residência](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia)
-        -   [Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar-para-seu-c%C3%B4njuge-eou-filhos)
-    -   [Outros Documentos do Brasil](#outros-documentos-do-brasil)
-        -   [Diploma e Histórico Escolar do Cônjuge e/ou Filhos](#diploma-e-histórico-escolar-do-cônjuge-eou-filhos)
--   [Em Portugal](#em-portugal)
-    -   [1. NIF](#1-nif)
-    -   [2. Conta Bancária](#2-conta-banc%C3%A1ria)
-    -   [3. NISS](#3-niss)
-    -   [4. Autorização de Residência (AR)](#4-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-ar)
-    -   [5. Autorização de Residência por Reagrupamento Familiar](#5-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar)
-    -   [6. Número de Utente](#6-n%C3%BAmero-de-utente)
-    -   [7. Cartão Europeu Seguro Doença](#7-cartão-europeu-seguro-doença)
-    -   [8. Justiça Eleitoral](#8-justiça-eleitoral)
-    -   [9. Carteira de Motorista](#9-carteira-de-motorista)
-    -   [10. IRS](#10-irs)
-    -   [11. Estatuto de Igualdade](#11-estatuto-de-igualdade)
-    -   [12. Certificado de Conclusão do Ensino Secundário](#12-certificado-de-conclusão-do-ensino-secundário)
-    -   [13. Abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens)
-    -   [14. Matrícula em Escola Pública](#14-matrícula-em-escola-pública)
-    -   [15. Renovação do Título de Residência](#15-renovação-do-título-de-residência)
--   [Dicas](#dicas)
-    -   [Moradia](#moradia)
-    -   [Transporte](#transporte)
-        -   [Transporte público](#transporte-público)
-            -   [Transporte público no Porto](#transporte-público-no-porto)
-        -   [Aplicativos](#aplicativos)
-    *   [Internet](#internet)
-    *   [Energia elétrica e gás](#energia-elétrica-e-gás)
-    *   [Água e esgoto](#água-e-esgoto)
-    *   [IPTV](#iptv)
-    *   [Supermercados](#supermercados)
-    *   [Assinaturas](#assinaturas)
-        -   [Globo](#globo)
-    *   [VPN](#vpn)
-    *   [App Store](#app-store)
-    *   [Preenchimento de envelopes de cartas](#preenchimento-de-envelopes-de-cartas)
-    *   [Publicidade não endereçada](#publicidade-não-endereçada)
-    *   [Jogos em mídia física](#jogos-em-mídia-física)
--   [Extras](#extras)
-    -   [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
-    -   [Reconhecimento de firma](#reconhecimento-de-firma)
-    -   [Apostila da Haia](#apostila-da-haia)
-    -   [Procuração](#procura%C3%A7%C3%A3o)
-    -   [Consulado ou Embaixada?](#consulado-ou-embaixada)
+* [Introdução](#introdu%C3%A7%C3%A3o)
+* [Tipos de visto](#tipos-de-visto)
+* [Visto D3 - Documentação Necessária](#visto-d3---documenta%C3%A7%C3%A3o-necess%C3%A1ria)
+  * [Antes de pedir o visto](#antes-de-pedir-o-visto)
+    - [Documentos da empresa](#documentos-da-empresa)
+    - [Documentos pessoais](#documentos-pessoais)
+    - [Agendamento](#agendamento)
+  * [Após o visto ter sido aprovado, ainda no Brasil](#ap%C3%B3s-o-visto-ter-sido-aprovado-ainda-no-brasil)
+    - [Documentos para Autorização de Residência](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia)
+    - [Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar-para-seu-c%C3%B4njuge-eou-filhos)
+  * [Outros Documentos do Brasil](#outros-documentos-do-brasil)
+    - [Diploma e Histórico Escolar do Cônjuge e/ou Filhos](#diploma-e-histórico-escolar-do-cônjuge-eou-filhos)
+* [Em Portugal](#em-portugal)
+  - [1. NIF](#1-nif)
+  - [2. Conta Bancária](#2-conta-banc%C3%A1ria)
+  - [3. NISS](#3-niss)
+  - [4. Autorização de Residência (AR)](#4-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-ar)
+  - [5. Autorização de Residência por Reagrupamento Familiar](#5-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar)
+  - [6. Número de Utente](#6-n%C3%BAmero-de-utente)
+  - [7. Cartão Europeu Seguro Doença](#7-cartão-europeu-seguro-doença)
+  - [8. Justiça Eleitoral](#8-justiça-eleitoral)
+  - [9. Carteira de Motorista](#9-carteira-de-motorista)
+  - [10. IRS](#10-irs)
+  - [11. Estatuto de Igualdade](#11-estatuto-de-igualdade)
+  - [12. Certificado de Conclusão do Ensino Secundário](#12-certificado-de-conclusão-do-ensino-secundário)
+  - [13. Abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens)
+  - [14. Matrícula em Escola Pública](#14-matrícula-em-escola-pública)
+  - [15. Renovação do Título de Residência](#15-renovação-do-título-de-residência)
+* [Dicas](#dicas)
+  * [Moradia](#moradia)
+  * [Transporte](#transporte)
+    - [Transporte público](#transporte-público)
+      - [Transporte público no Porto](#transporte-público-no-porto)
+    - [Aplicativos](#aplicativos)
+  - [Internet](#internet)
+  - [Energia elétrica e gás](#energia-elétrica-e-gás)
+  - [Água e esgoto](#água-e-esgoto)
+  - [IPTV](#iptv)
+  - [Supermercados](#supermercados)
+  - [Assinaturas](#assinaturas)
+    - [Globo](#globo)
+  - [VPN](#vpn)
+  - [App Store](#app-store)
+  - [Preenchimento de envelopes de cartas](#preenchimento-de-envelopes-de-cartas)
+  - [Publicidade não endereçada](#publicidade-não-endereçada)
+  - [Jogos em mídia física](#jogos-em-mídia-física)
+* [Extras](#extras)
+  - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
+  - [Reconhecimento de firma](#reconhecimento-de-firma)
+  - [Apostila da Haia](#apostila-da-haia)
+  - [Procuração](#procura%C3%A7%C3%A3o)
+  - [Consulado ou Embaixada?](#consulado-ou-embaixada)
 
 # Introdução
 
@@ -65,11 +65,11 @@ O SEF - Serviço de Estrangeiros e Fronteiras, com atribuições similares à Po
 
 Existem alguns tipos de vistos possíveis para trabalhar de forma legal em Portugal [(veja a legislação que define os tipos)](https://sites.google.com/site/leximigratoria/lei-de-estrangeiros-alterada/cap-vi---residencia-em-territorio-nacional/seccao-ii---autorizacao-de-residencia/subseccao-i---autorizacao-de-residencia-para-exercicio-de-atividade-profissional). Em linhas gerais, há os seguintes tipos de vistos de trabalho (os links vão para a Legispédia do SEF para mais detalhes):
 
--   [**D3** - _"Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado"_](https://sites.google.com/site/leximigratoria/artigo-61-o-a---visto-de-residencia-para-atividade-altamente-qualificada-exercida-por-trabalhador-subordinado), para trabalhadores especializados com contrato, parecido com a nossa **"carteira assinada"**;
-    -   [Tech Visa](<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx>) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf). Os pedidos de vistos D3 **podem ou não** ser associados a uma posição em empresa que faz parte do programa Tech Visa. O Tech Visa é apenas um facilitador para obter o visto, de forma que a sua utilização é opcional.
--   [**D2** - _"Visto de residência para exercício de atividade profissional independente ou para imigrantes empreendedores"_](https://sites.google.com/site/leximigratoria/artigo-60-o-visto-de-residencia-para-exercicio-de-atividade-profissional-independente-ou-para-imigrantes-empreendedores), para quem vai trabalhar como "recibos verdes", **"como PJ"**
--   [**D1** - _"Visto de residência para exercício de atividade profissional subordinada"_](https://sites.google.com/site/leximigratoria/artigo-59-o-visto-de-residencia-para-exercicio-de-atividade-profissional-subordinada), similar ao D3 porém para áreas que não sejam "altamente qualificadas". Em outras palavras, quem irá trabalhar com tecnologia pode escolher pelo visto D1 ou D3.
--   **Familiar de Cidadão Europeu** não precisa de visto, apenas o passaporte válido do cidadão europeu, o passaporte do(s) familiar(es) válido(s) e certidão de casamento apostilada (no caso de cônjuges) e de nascimento apostilada (no caso de filhos). Não há necessidade da certidão de casamento ou nascimento estar registrada no estado de origem da cidadania europeia, a certidão de casamento/nascimento emitida no Brasil e apostilada serve para entrada em Portugal.
+- [**D3** - _"Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado"_](https://sites.google.com/site/leximigratoria/artigo-61-o-a---visto-de-residencia-para-atividade-altamente-qualificada-exercida-por-trabalhador-subordinado), para trabalhadores especializados com contrato, parecido com a nossa **"carteira assinada"**;
+  - [Tech Visa](<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx>) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf). Os pedidos de vistos D3 **podem ou não** ser associados a uma posição em empresa que faz parte do programa Tech Visa. O Tech Visa é apenas um facilitador para obter o visto, de forma que a sua utilização é opcional.
+- [**D2** - _"Visto de residência para exercício de atividade profissional independente ou para imigrantes empreendedores"_](https://sites.google.com/site/leximigratoria/artigo-60-o-visto-de-residencia-para-exercicio-de-atividade-profissional-independente-ou-para-imigrantes-empreendedores), para quem vai trabalhar como "recibos verdes", **"como PJ"**
+- [**D1** - _"Visto de residência para exercício de atividade profissional subordinada"_](https://sites.google.com/site/leximigratoria/artigo-59-o-visto-de-residencia-para-exercicio-de-atividade-profissional-subordinada), similar ao D3 porém para áreas que não sejam "altamente qualificadas". Em outras palavras, quem irá trabalhar com tecnologia pode escolher pelo visto D1 ou D3.
+- **Familiar de Cidadão Europeu** não precisa de visto, apenas o passaporte válido do cidadão europeu, o passaporte do(s) familiar(es) válido(s) e certidão de casamento apostilada (no caso de cônjuges) e de nascimento apostilada (no caso de filhos). Não há necessidade da certidão de casamento ou nascimento estar registrada no estado de origem da cidadania europeia, a certidão de casamento/nascimento emitida no Brasil e apostilada serve para entrada em Portugal.
 
 No meu caso, fiz o **D3 (sem Tech Visa)**, então para detalhes sobre os outros tipos de visto, **pull requests são bem-vindos**.
 
@@ -82,6 +82,7 @@ Note que, para quem fará a mudança com cônjuge, pode levar alguns meses para 
 Fora o procedimento de obtenção de visto, é possível ainda ir para Portugal como turista e permanecer além do prazo legal para turismo (90 dias) caso você consiga um trabalho nesse período fazendo um processo chamado Manifestação de Interesse, mas recomendo fortemente que você **não faça isso**. Veja mais detalhes neste gist do [@gmmcal](https://github.com/gmmcal) sobre porque vir como turista é uma péssima ideia: [Razões pra não ir pra Portugal como turista](https://gist.github.com/gmmcal/3d1ef4c2a9a71a9163fdae1abbb31e42).
 
 Outra forma de emigrar que talvez seja mais interessante, especificamente se você for filho, neto ou bisneto de portugueses, é através da obtenção da dupla cidadania, efetivamente se tornando cidadão português. Não é meu caso então não sei mais detalhes, mas caso você tenha essa possibilidade, verifique o processo e adicione aqui. PRs são bem-vindos! :)
+
 
 # Visto D3 - Documentação Necessária
 
@@ -110,9 +111,9 @@ A **Declaração da Empresa** é um papel timbrado, datado e assinado pelo geren
 
 > A **Empresa XPTO** é uma empresa Portuguesa na área da tecnologia informática, etc e tal. (...) Devido ao seu exponencial cresimento, a **Empresa XPTO** procura mão-de-obra que (i) já tenha desenvolvido vários projetos nesta área e (ii) saiba utilizar os meios informáticos anteriormente desenvolvidos. Contratar colaboradores experientes no sector, a quem não seja necessário prestar uma formação intensiva, constitui uma enorme mais-valia para a **Empresa XPTO**. (...) Por todas as razões acima identificadas, considerou a **Empresa XPTO** essencial contratar um colaborador brasileiro, o qual reúne todas as características acima evidenciadas.
 >
-> É neste sentido que o requerente _seu nome completo_ é contratado pela empresa, com a categorial profissional de _o que você irá fazer_.
+> É neste sentido que o requerente *seu nome completo* é contratado pela empresa, com a categorial profissional de *o que você irá fazer*.
 >
-> O Requerente irá desempenhar as seguintes funções principais: _descrição técnica do que você irá fazer._
+> O Requerente irá desempenhar as seguintes funções principais: *descrição técnica do que você irá fazer.*
 >
 > Sucede ainda que, após um enorme esforço de muita procura, a área de recursos humanos da **Empresa XPTO** não logrou identificar qualquer colaborador que se revelasse, não só pelas suas qualificações, como pela sua experiência e formação, ser tão adequado para o cargo que o colaborador em causa vai desempenhar.
 >
@@ -122,7 +123,7 @@ A carta convite é um documento descrevendo seus benefícios contratuais: qual o
 
 Por fim o **Termo de Responsabilidade** é uma declaração datada e assinada em papel timbrado nessas linhas gerais:
 
-> **Empresa XPTO**, com o NIF _123456789_ com sede na _Rua tal, CP tal, cidade tal, Portugal_, neste ato representada por _Fulano de tal_, na qualidade de _cargo do gente boa_, titular do cartão cidadão n° _tal_, válido até _tal data_, na qualidade de empresa anfitriã de **seu nome**, de nacionalidade _brasileira_, nascido a _data tal_, titular do passporte n° _tal_, emitido em _data tal_ e válido até _tal data_, declara para os devidos efeitos que ser responsabiliza por todas as despesas inerentes à estada daquele colaborador em Portugal, nomeadamente no que diz respeito a saúde e repatriamento, se necessário.
+> **Empresa XPTO**, com o NIF *123456789* com sede na *Rua tal, CP tal, cidade tal, Portugal*, neste ato representada por *Fulano de tal*, na qualidade de *cargo do gente boa*, titular do cartão cidadão n° *tal*, válido até *tal data*, na qualidade de empresa anfitriã de **seu nome**, de nacionalidade *brasileira*, nascido a *data tal*, titular do passporte n° *tal*, emitido em *data tal* e válido até *tal data*, declara para os devidos efeitos que ser responsabiliza por todas as despesas inerentes à estada daquele colaborador em Portugal, nomeadamente no que diz respeito a saúde e repatriamento, se necessário.
 
 Na minha opinião pessoal a empresa que está oferecendo o contrato deve disponibilizar toda essa documentação sem que você tenha que _correr atrás_ - pelo menos foi assim comigo -, então essa seção é de caráter meramente informativo.
 
@@ -140,15 +141,15 @@ O site da Polícia Federal informa a [lista de documentos necessários](http://w
 
 Se você tem filhos, [verifique na página de dúvidas frequentes da Polícia Federal a tabela de validade por idade](http://www.pf.gov.br/servicos-pf/passaporte/duvidas-frequentes) especialmente se a data de aniversário estiver próxima, pode ser interessante esperar algum tempo para ter uma validade maior, como o passaporte leva apenas alguns dias para ficar pronto enquanto o visto pode levar alguns meses, você pode fazer o documento dos filhos mais próximo da data da viagem para ter uma validade potencialmente maior. Note que os filhos precisam estar presentes nas duas visitas ao posto da Polícia Federal, ou seja tanto para dar entrada quanto para retirar o documento.
 
--   Custo: R\$ 257,25 por pessoa;
--   Autenticação: ~R\$ 8.
+- Custo: R\$ 257,25 por pessoa;
+- Autenticação: ~R\$ 8.
 
 #### 2. RG ou Carteira de Motorista + cópia autenticada
 
 Dica: se você for do RJ, desde abril de 2019 há um [**novo modelo de identidade civil**](http://www.detran.rj.gov.br/_monta_aplicacoes.asp?doc=10777&cod=14&tipo=exibe_noticias&pag_noticias=true) emitida pelo Detran que condensa dados de diversos documentos: título de eleitor, carteira de trabalho, certificado de reservista, número do SUS e até tipo sanguíneo. Se a sua identidade estiver velha você pode aproveitar para pedir uma segunda via, que aqui no Rio custa R\$ 38,58. [Veja mais detalhes no site do Detran-RJ](http://www.detran.rj.gov.br/_documento.asp?cod=160).
 Dica da dica: para incluir o tipo sanguíneo é necessário apresentar um exame (não basta auto-declaração).
 
--   Autenticação: ~R\$ 8.
+- Autenticação: ~R\$ 8.
 
 #### 3. Antecedentes Criminais na Polícia Federal + apostilamento
 
@@ -156,8 +157,8 @@ Dica da dica: para incluir o tipo sanguíneo é necessário apresentar um exame 
 
 Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos, do contrário pagará pelo apostilamento de um documento que não terá mais valor no decorrer do processo.
 
--   Custo: R\$ 0;
--   Apostilamento: ~R\$ 50.
+- Custo: R\$ 0;
+- Apostilamento: ~R\$ 50.
 
 #### 4. CDAM/PB4 e Seguro Saúde
 
@@ -165,7 +166,7 @@ O Certificado de Direito a Assitência Médica, também conhecido como PB4, é u
 
 Caso vá com cônjuge e/ou filhos, inclua-os no certificado.
 
--   Custo: R\$ 0.
+- Custo: R\$ 0.
 
 #### 5. Diploma universitário + apostilamento
 
@@ -175,8 +176,8 @@ Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, tam
 
 Dica: caso você tenha recém concluído seu curso mas ainda não tenha colado grau, verifique com a universidade a possibilidade de uma _colação de grau antecipada_. No meu caso, levei à reitoria a carta convite fornecida pela empresa. A UFF exigiu que a carta convite tivesse uma data limite para disponibilização da vaga, sugerindo a data de um mês para que o processo ocorresse de maneira célere. Apenas para dar uma ideia da velocidade: fui à UFF dia 02/08/2019, colei grau dia 07/08/2019 (numa cerimônia específica para quem pediu antecipação, com meia dúzia de alunos de outros cursos) e recebi o diploma dia 20/08/2019.
 
--   Reconhecimento de firma: ~R\$ 10.
--   Apostilamento: ~R\$ 50.
+- Reconhecimento de firma: ~R\$ 10.
+- Apostilamento: ~R\$ 50.
 
 #### 6. Comprovantes de Renda brasileiros
 
@@ -188,8 +189,8 @@ Caso você vá se mudar para Portugal com cônjuge ou filhos, será necessário 
 
 Se você vive em um matrimônio não-oficializado, precisará de um documento comprovativo para seu cônjuge poder se mudar com você para Portugal. Como é aceito tanto união estável quanto casamento, sugiro que faça união estável por esta ser mais barata que o casamento. Os valores variam de cartório para cartório, mas os valores aproximados são: ~R$ 300 para união estável e ~R$ 800 para casamento civil.
 
--   Custo: (varia de cartório para cartório);
--   Autenticação: ~R\$ 8 por certidão.
+- Custo: (varia de cartório para cartório);
+- Autenticação: ~R\$ 8 por certidão.
 
 #### 8. Comprovante de Residência
 
@@ -233,15 +234,13 @@ Um documento assinado por você declarando seus motivos para requerer o visto, n
 
 [Veja aqui mais detalhes sobre a especificação das fotografias, basta clicar na tab "Especificações para Fotografias"](https://www.vfsglobal.com/portugal/Brazil/residency-visa.html).
 
-O tamanho é o padrão 3x4, com fundo branco, boa resolução e nada que comprometa a visualização do rosto inteiro, como bonés, chapéus, brincos, etc.
-
 ### Agendamento
 
 Após ter reunido todos os documentos, faça o agendamento no site do [Ministério de Negócios Estrangeiros](https://www.vistos.mne.pt/pt/pedido-de-visto/solicitar-pedido-de-visto) português.
 
 Além dos documentos especificados anteriormente, é preciso pagar a taxa do visto e levar o comprovante.
 
--   Custo: € 60.
+- Custo: € 60.
 
 Feito isto, será marcado um dia para a visita à VFS Global, empresa que faz a coleta dos documentos para o consulado português.
 
@@ -262,27 +261,25 @@ Os únicos documentos brasileiros necessários para pedir a AR são o passaporte
 Seu cônjuge e filhos, se houver, precisarão da seguinte lista de documentos do Brasil para fazer pedir AR por Reagrupamento Familiar:
 
 #### 1. Certidão de Antecedentes Criminais
-
 Emitida na Polícia Federal, ou no país aonde você viver há pelo menos 1 ano se não for o Brasil. Para filhos, somente se maiores de 16 anos. Deve ter sido emitida há no máximo 3 meses da data da viagem, e deve ser apostilada. Veja mais detalhes neste item na seção anterior.
 
 Note que a data que conta é o dia em que o agendamento foi feito, não quando de fato será o atendimento.
 
--   Custo: R\$ 0
--   Apostilamento: ~R\$ 50.
+- Custo: R\$ 0
+- Apostilamento: ~R\$ 50.
 
 #### 2. Certidão de União Estável ou Casamento
 
 **Deve ser emitida a menos de 6 meses da data da viagem para Portugal**. Caso você seja casado ou unido estavelmente a mais tempo, será preciso pedir uma segunda via. É necessário apostilar.
 
--   Custo da segunda via: varia por cartório, ~R\$ 50
--   Apostilamento: ~R\$ 50.
+- Custo da segunda via: varia por cartório, ~R\$ 50
+- Apostilamento: ~R\$ 50.
 
 #### 3. Certidão de Nascimento (para menores)
-
 **Deve ser emitida a menos de 12 meses da data da viagem para Portugal**. Se seu filho tem mais que 1 ano, será preciso pedir uma segunda via. O valor varia por idade. É necessário apostilar.
 
--   Custo da segunda via: varia por cartório e por idade, ~R\$ 50
--   Apostilamento: ~R\$ 50.
+- Custo da segunda via: varia por cartório e por idade, ~R\$ 50
+- Apostilamento: ~R\$ 50.
 
 ## Outros Documentos do Brasil
 
@@ -290,7 +287,7 @@ Esta seção lista procedimentos que não são necessários para tirar o visto, 
 
 ### Diploma e Histórico escolar do cônjuge e/ou filhos
 
-Uma vez que para pedir o Visto D3 você precisará apostilar seu diploma de curso universitário, esta recomendação se aplica ao seu cônjuge e/ou filhos, se houver.
+Uma vez que para pedir o Visto D3 você precisará apostilar seu diploma de curso universitário, esta recomendação se aplica ao seu cônjuge e/ou filhos, se houver. 
 
 No caso dos filhos, o histórico escolar é a comprovação do ensino que a criança teve. Para se matricular numa escola portuguesa será preciso fazer junto à escola portuguesa um procedimento chamado Equivalência escolar, e para tal será necessário o histórico escolar apostilado no Brasil. Mais detalhes na seção correspondente.
 
@@ -302,8 +299,8 @@ Caso você não faça isto e tenha trazido o histórico escolar e/ou o diploma c
 
 Posteriormente em Portugal, será necessário fazer um procedimento de equivalência do histórico escolar. Veja mais detalhes abaixo.
 
--   Reconhecimento de firma: ~R$ 10 por documento.
--   Apostilamento: ~R$ 50 por documento.
+- Reconhecimento de firma: ~R$ 10 por documento.
+- Apostilamento: ~R$ 50 por documento.
 
 # Em Portugal
 
@@ -317,7 +314,7 @@ Para abrir um NIF sem ter residência em Portugal, você precisará do passaport
 
 Veja mais detalhes no site [Euro Dicas](https://www.eurodicas.com.br/nif-portugal/).
 
--   Custo: 10,20 € por pessoa.
+- Custo: 10,20 € por pessoa.
 
 Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento - é preciso voltar às Finanças para atualizar sua morada fiscal. Neste caso, você deixa de precisar do representante fiscal e passa a poder ser o representante fiscal de seu cônjuge e/ou filhos. Alternativamente, para pessoas que não tem um contrato de arrendamento no próprio nome por dividir apartamento etc., é possível obter um Comprovativo de Morada junto a Freguesia, mas não sei mais detalhes porque usei o contrato de arrendamento.
 
@@ -329,7 +326,7 @@ Uma vez tendo recebido a AR, é possível acessar o [Portal das Finanças](https
 
 Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 500 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, declaração de imposto de renda (brasileiro) e NIF abre-se a conta na hora e também já é fornecido no ato o cartão de débito. Não precisa tirar cópias pois eles fazem no banco. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário. Assim como o NIF, a conta bancária também pode ser aberta sem um visto, caso você faça um _onboarding_ presencial antes da emissão do visto.
 
--   Custo: 500 € (podendo sacar ou transferir imediatamente após a abertura da conta).
+- Custo: 500 € (podendo sacar ou transferir imediatamente após a abertura da conta).
 
 ## 3. NISS
 
@@ -339,7 +336,7 @@ Uma vez recebido o número por email é possível acessar o [site do NISS, regis
 
 [Veja mais detalhes sobre o NISS neste artigo no site do Euro Dicas](https://www.eurodicas.com.br/niss-como-fazer/).
 
--   Custo: 18 €
+- Custo: 18 €
 
 ## 4. Autorização de Residência (AR)
 
@@ -347,26 +344,26 @@ O pedido de **AR** (Autorização de Residência) é o próximo grande passo bur
 
 A lista de documentos para o pedido de AR é a seguinte:
 
-**1. Formulário devidamente preenchido** (é fornecido por eles)
+__1. Formulário devidamente preenchido__ (é fornecido por eles)
 
-**2. Passaporte válido com visto**
+__2. Passaporte válido com visto__
 
-**3. Comprovativo de meios de subsistência**  
+__3. Comprovativo de meios de subsistência__  
 Contrato de trabalho + três últimos recibos de vencimento + declaração comprovativa da atualidade da relação laboral, com o valor de salário mensal/anual, devidamente assinada e carimbada pela empresa (emitido numa data próxima ao agendamento).
 
 No meu caso, o agendamento foi realizado no mesmo mês do início do contrato de trabalho, então não apresentei os últimos recibos de vencimento, sem nenhum problema.
 
-**4. Comprovativo de alojamento**  
+__4. Comprovativo de alojamento__  
 Contrato de arrendamento, 3 últimos recibos de pagamento e registro do contrato de arrendamento nas Finanças **ou** Atestado de Residência emitido pela Junta da Freguesia da área de residência (emitido numa data próxima ao agendamento).
 
 No meu caso, levei contrato assinado, recibos de pagamento e registro do contrato nas Finanças mas somente este último foi pedido.
 
-**5. NIF**
+__5. NIF__
 
-**6. NISS**  
+__6. NISS__  
 Basta o email impresso mencionando o número do NISS.
 
-**7. Seguro de saúde (PB4 ou da empresa)**  
+__7. Seguro de saúde (PB4 ou da empresa)__  
 Levei os dois e foi pedido apenas o PB4.
 
 Uma vez aprovado, o documento - Título de Residência, em um cartão plástico - vem por carta, sendo entregue na residência, num prazo de 3 semanas. Caso não haja ninguém disponível para receber a carta (é preciso assinar o recebimento) o carteiro deixa um papel indicando que é preciso pegar na agência do CTT (Correios português) num prazo de 6 dias. Caso não pegue neste prazo, o documento volta para o SEF e será preciso pegar com eles. Já adiantando uma dúvida que tinha, no Título de Residência há dois números; o número do título é o do canto superior direito do documento (9 caracteres).
@@ -375,7 +372,7 @@ A validade da Autorização de Residência é de dois anos (até 2019 era soment
 
 O Título de Residência é similar ao nosso RG e com isso você deixa de precisar andar com o passaporte, exceto para viagens (mesmo dentro da Europa), uma vez que ele não serve como documento de viagem.
 
--   Custo: 47,60 €
+- Custo: 47,60 €
 
 ## 5. Autorização de Residência por Reagrupamento Familiar
 
@@ -385,43 +382,43 @@ Ao contrário da AR para você, que atualmente já vem marcada no visto, é prec
 
 Além dos documentos brasileiros dos familiares mencionados na seção anterior, são preciso mais estes documentos:
 
-**1. Formulário fornecido e preenchido no ato**
+__1. Formulário fornecido e preenchido no ato__
 
-**2. Passaporte válido**
+__2. Passaporte válido__
 
-**3. Comprovativo de entrada legal em Portugal**  
+__3. Comprovativo de entrada legal em Portugal__  
 No caso, o carimbo de entrada no passaporte é o suficiente.
 
-**4. Visto de Residência ou Cartão de Autorização de Residência do Principal**  
+__4. Visto de Residência ou Cartão de Autorização de Residência do Principal__  
 Principal é você, no caso.
 
-**5. Comprovativo de meios de subsistência do Principal**  
+__5. Comprovativo de meios de subsistência do Principal__  
 Contrato de trabalho + 3 últimos recibos de vencimento.
 
-**6. Comprovativo de alojamento**  
+__6. Comprovativo de alojamento__  
 Contrato de arrendamento, 3 últimos recibos de pagamento e registro do contrato de arrendamento nas Finanças **ou** Atestado de Residência emitido pela Junta da Freguesia da área de residência (emitido numa data próxima ao agendamento).
 
-**7. NIF**  
+__7. NIF__  
 Seu, do cônjuge e dos filhos.
 
-**8. Autorização para Consulta do Registro Criminal pelo SEF**  
+__8. Autorização para Consulta do Registro Criminal pelo SEF__  
 Formulário fornecido e preenchido no ato.
 
-**9. Seguro Saúde**  
+__9. Seguro Saúde__  
 PB4 apostilado.
 
-**10. Declaração da Escola comprovando frequência no ano letivo em curso**.
+__10. Declaração da Escola comprovando frequência no ano letivo em curso__. 
 Para crianças a partir dos 5 anos de idade.
 
-**11. Declaração do pai ou mãe não residente**.
+__11. Declaração do pai ou mãe não residente__. 
 Se for o caso, é claro.
 
-**12. Documento comprovando a ligação**  
+__12. Documento comprovando a ligação__  
 Certidão de casamento ou união estável, para cônjuges, ou certidão de nascimento, para filhos, em ambos os casos apostilada.
 
 Nota: de forma similar ao processo de pedido do visto, há a exigência de que as certidões sejam recentes (emitida há no máximo 6 meses para casamento e 12 meses para nascimento), mas a data que importa é a que o agendamento foi feito, não a data do atendimento em si. Portanto as certidões emitidas no Brasil antes da viagem deverão ser suficientes, mesmo que o agendamento seja vários meses depois da chegada.
 
-**13. Certidão de Antecedentes Criminais da Polícia Federal**  
+__13. Certidão de Antecedentes Criminais da Polícia Federal__  
 Para maiores de 16 anos, apostilada.
 
 ## 6. Número de Utente
@@ -432,24 +429,24 @@ O site menciona que deve-se fazer o pedido pessoalmente, porém devido ao contex
 
 É preciso enviar um email seguindo o modelo, anexando foto do (título de residência ou agendamento de AR junto ao SEF) e do passaporte.
 
-> Olá, boa tarde,
+> Olá, boa tarde, 
 >
 > Gostaria de fazer o cadastro na unidade para consultas e de obter número de utente, para mim e meus familiares. Segue anexo os títulos de residência e os passaportes.
 >
 > Agradeço desde já a atenção.
 >
 > Atenciosamente,
-> **seu nome**
+> __seu nome__
 
 Custo: 0.
 
 ## 7. Cartão Europeu Seguro Doença
 
-O **Cartão Europeu Seguro Doença** ou CESD é um cartão plástico que garante atendimento nos hospitais públicos em todos os países da União Europeia com mesmos direitos de cidadãos portugueses, isto é, pagando a mesma taxa moderadora que você pagaria em Portugal. Em alguns casos, você paga o valor que os habitantes do país que você está visitando pagariam, e a Segurança Social faz o ressarcimento do valor pago a mais em relação às regras portuguesas.
+O __Cartão Europeu Seguro Doença__ ou CESD é um cartão plástico que garante atendimento nos hospitais públicos em todos os países da União Europeia com mesmos direitos de cidadãos portugueses, isto é, pagando a mesma taxa moderadora que você pagaria em Portugal. Em alguns casos, você paga o valor que os habitantes do país que você está visitando pagariam, e a Segurança Social faz o ressarcimento do valor pago a mais em relação às regras portuguesas.
 
 Dessa forma é uma boa ideia tirar o CESD para eventuais utilizações emergenciais em viagens pela Europa, ainda que você tenha plano de saúde pago pela empresa (uma vez que em geral os planos de saúde portugueses são por coparticipação e a taxa será maior que a taxa moderadora do hospital público). Para quem tem NISS / contribui com a segurança social é possível pedir online (após pedir acesso à Segurança Social direta e receber o código por carta).
 
-Para familiares que não contribuam com a Segurança Social (cônjuge que não trabalhe e/ou filho), é possível pedir presencialmente uma vez que utentes do Serviço Nacional de Saúde também estão cobertos. Para isso, peça primeiro o Número de Utente (veja o item anterior), depois preencha e imprima o [**Formulário GIT53-DGSS**](http://www.seg-social.pt/documents/10152/37938/GIT_53_DGSS/b32f3c97-421a-41ba-8014-529b7d2c90f4), imprima uma cópia do Número de Utente e do seu Título de Residência e entregue tudop numa [loja da Segurança Social](http://www.seg-social.pt/servicos-de-atendimento); não é preciso marcar agendamento. A Segurança Social envia o cartão para a sua residência num prazo de 10 dias úteis.
+Para familiares que não contribuam com a Segurança Social (cônjuge que não trabalhe e/ou filho), é possível pedir presencialmente uma vez que utentes do Serviço Nacional de Saúde também estão cobertos. Para isso, peça primeiro o Número de Utente (veja o item anterior), depois preencha e imprima o [__Formulário GIT53-DGSS__](http://www.seg-social.pt/documents/10152/37938/GIT_53_DGSS/b32f3c97-421a-41ba-8014-529b7d2c90f4), imprima uma cópia do Número de Utente e do seu Título de Residência e entregue tudop numa [loja da Segurança Social](http://www.seg-social.pt/servicos-de-atendimento); não é preciso marcar agendamento. A Segurança Social envia o cartão para a sua residência num prazo de 10 dias úteis.
 
 Veja mais detalhes em: [Cartão Europeu de Seguro de Doença - seg-social.pt](http://www.seg-social.pt/pedido-cartao-europeu-seguro-doenca).
 
@@ -507,52 +504,52 @@ De forma similar às deduções do imposto de renda do Brasil, que abrangiam bas
 
 Aviso: não sou contador/contabilista, então se necessário confira as informações com um profissional da área.
 
-> -   35% das despesas gerais familiares (por exemplo, despesas com água, luz, gás, telecomunicações, combustíveis, supermercado, vestuário), até ao máximo dedutível de 250 euros por sujeito passivo. Recorde-se que para as famílias monoparentais a percentagem sobe para 45%, com o limite de 335 euros;
-> -   30% das despesas de educação (que inclui rendas de estudantes deslocados), até um máximo dedutível de 800 euros. É dedutível, a título de rendas, um valor máximo de 300 euros anuais, sendo o limite global das despesas de educação de 800 euros aumentado em 200 euros, quando a diferença seja relativa a rendas. Assim, os agregados familiares que atinjam o limite de 800 euros de dedução com despesas de educação podem ver este limite acrescido em 200 euros, quando a diferença corresponda a rendas, ficando assim o limite global de mil euros, no que diz respeito às despesas de educação e formação profissional.
-> -   15% das despesas de saúde, até um máximo dedutível de mil euros;
-> -   15% do IVA suportado em cada fatura relativa a despesas nos setores da restauração e hotelaria, cabeleireiros e reparações de automóveis e de motociclos, e despesas com veterinários, e 100% do IVA suportado com despesas em passes sociais, com um limite global de 250 euros por agregado familiar;
-> -   15% das despesas com rendas, até um máximo dedutível de 502 euros; e 15% das despesas com juros de empréstimo à habitação, para contratos celebrados até 31/12/2011, até um máximo dedutível de 296 euros;
-> -   25% das despesas com lares, até um máximo dedutível de 403,75 euros;
-> -   20% das pensões de alimentos, sem limite.
+> - 35% das despesas gerais familiares (por exemplo, despesas com água, luz, gás, telecomunicações, combustíveis, supermercado, vestuário), até ao máximo dedutível de 250 euros por sujeito passivo. Recorde-se que para as famílias monoparentais a percentagem sobe para 45%, com o limite de 335 euros;
+> - 30% das despesas de educação (que inclui rendas de estudantes deslocados), até um máximo dedutível de 800 euros. É dedutível, a título de rendas, um valor máximo de 300 euros anuais, sendo o limite global das despesas de educação de 800 euros aumentado em 200 euros, quando a diferença seja relativa a rendas. Assim, os agregados familiares que atinjam o limite de 800 euros de dedução com despesas de educação podem ver este limite acrescido em 200 euros, quando a diferença corresponda a rendas, ficando assim o limite global de mil euros, no que diz respeito às despesas de educação e formação profissional.
+> - 15% das despesas de saúde, até um máximo dedutível de mil euros;
+> - 15% do IVA suportado em cada fatura relativa a despesas nos setores da restauração e hotelaria, cabeleireiros e reparações de automóveis e de motociclos, e despesas com veterinários, e 100% do IVA suportado com despesas em passes sociais, com um limite global de 250 euros por agregado familiar;
+> - 15% das despesas com rendas, até um máximo dedutível de 502 euros; e 15% das despesas com juros de empréstimo à habitação, para contratos celebrados até 31/12/2011, até um máximo dedutível de 296 euros;
+> - 25% das despesas com lares, até um máximo dedutível de 403,75 euros;
+> - 20% das pensões de alimentos, sem limite.
 
 via: [Deduções no IRS: novidades fiscais em 2020](https://www.cgd.pt/Site/Saldo-Positivo/leis-e-impostos/Pages/deducoes-no-irs.aspx)
 
 Ou seja: sempre peça o contribuinte na nota para que essas despesas sejam lançadas atreladas ao seu NIF e você tenha o máximo de restituição possível.
 
-A partir dessa tabela, é possível calcular o valor em gasto que seria necessário para atingir o **teto de restituição** em cada categoria. Dividindo em duas partes, as despesas que são por família:
+A partir dessa tabela, é possível calcular o valor em gasto que seria necessário para atingir o __teto de restituição__ em cada categoria. Dividindo em duas partes, as despesas que são por família:
 
--   Rendas: 15%, até 502€ por família, portanto 502 / 0,15 = € 3.346,67 por ano, o que dá € 278,89 por mês (bem abaixo do valor típico de aluguel...)
--   Educação: 30%, até 800€ por família, portanto 800 / 0,3 = € 2.666,67 por ano, o que dá € 222,22 por mês (pagando uma creche ou escola particular chega-se a esse valor)
--   Saúde: 15%, até 1.000€ por família, portanto 1.000 / 0,15 = € 6.666,67 por ano, o que dá € 555,56 por mês (dificilmente se chegaria a esse valor uma vez que o teto é alto)
+- Rendas: 15%, até 502€ por família, portanto 502 / 0,15 = € 3.346,67 por ano, o que dá € 278,89 por mês (bem abaixo do valor típico de aluguel...)
+- Educação: 30%, até 800€ por família, portanto 800 / 0,3 = € 2.666,67 por ano, o que dá € 222,22 por mês (pagando uma creche ou escola particular chega-se a esse valor)
+- Saúde: 15%, até 1.000€ por família, portanto 1.000 / 0,15 = € 6.666,67 por ano, o que dá € 555,56 por mês (dificilmente se chegaria a esse valor uma vez que o teto é alto)
 
 E as despesas que são por pessoa:
 
--   Despesas gerais familiares: 35%, até 250€ por pessoa, portanto 250 / 0,35 = € 714,29 por ano
--   IVA: 15%, até 250€ por pessoa. Este é mais difícil de calcular pois o IVA (Imposto sobre o valor acrescentado) tipicamente varia entre 6 a 23% dependendo do produto comprado, supondo 23% para facilitar o cálculo (maior alíquota possível): 250 / 0,15 = € 1.666 **de IVA** / 0,23 = € 7.244 de compras em restaurantes e afins por ano, o que dá € 603,67 por mês.
+- Despesas gerais familiares: 35%, até 250€ por pessoa, portanto 250 / 0,35 = € 714,29 por ano
+- IVA: 15%, até 250€ por pessoa. Este é mais difícil de calcular pois o IVA (Imposto sobre o valor acrescentado) tipicamente varia entre 6 a 23% dependendo do produto comprado, supondo 23% para facilitar o cálculo (maior alíquota possível): 250 / 0,15 = € 1.666 __de IVA__ / 0,23 = € 7.244 de compras em restaurantes e afins por ano, o que dá € 603,67 por mês.
 
-É possível verificar no portal e-Fatura as [Deduções Provisórias em IRS](https://faturas.portaldasfinancas.gov.pt/painelAdquirente.action), o que recomendo que você faça **mesmo no primeiro ano com alguma frequência** (uma vez por mês ou algo assim), afim de garantir que as suas despesas estejam entrando nas categorias corretas. É possível atribuir as faturas às categorias manualmente, se necessário. Caso você tenha se esquecido de incluir o NIF em uma fatura, ou se a loja não tiver comunicado a sua compra a Autoridade Financeira - _acontece!_ - é possível incluir manualmente a fatura.
+É possível verificar no portal e-Fatura as [Deduções Provisórias em IRS](https://faturas.portaldasfinancas.gov.pt/painelAdquirente.action), o que recomendo que você faça __mesmo no primeiro ano com alguma frequência__ (uma vez por mês ou algo assim), afim de garantir que as suas despesas estejam entrando nas categorias corretas. É possível atribuir as faturas às categorias manualmente, se necessário. Caso você tenha se esquecido de incluir o NIF em uma fatura, ou se a loja não tiver comunicado a sua compra a Autoridade Financeira - _acontece!_ - é possível incluir manualmente a fatura.
 
-Para incluir manualmente uma fatura, acesse o Portal no link acima, clique no botão **Registar Faturas** e inclua as informações de acordo com o exemplo:
+Para incluir manualmente uma fatura, acesse o Portal no link acima, clique no botão __Registar Faturas__ e inclua as informações de acordo com o exemplo:
 
 ![Fatura impressa](https://user-images.githubusercontent.com/397851/95866620-0cefdd80-0d60-11eb-9211-3b9767f9cbfb.jpeg)
 
-1. **NIF do Comerciante**;
-2. **Tipo de Fatura**: escolha entre _Fatura_, _Fatura simplificada_ e _Fatura-recibo_, essa informação vem escrita na fatura; preencha também o **Número da Fatura**;
-3. **Data de Emissão**;
-4. **Código de Controlo**: são 4 caracteres que ficam _em algum lugar_ na fatura (já encontrei no final, no meio, basta procurar por 4 letras ou números);
-5. **Total de Itens por valor de IVA**: não é preciso adicionar todos os itens da fatura um por um, basta adicionar os totais por faixa de IVA cobrado. Se necessário, clique no botão _Adicionar Linha_ para criar mais linhas. No exemplo da fatura acima, será preciso duas linhas.
+1. __NIF do Comerciante__;
+2. __Tipo de Fatura__: escolha entre _Fatura_, _Fatura simplificada_ e _Fatura-recibo_, essa informação vem escrita na fatura; preencha também o __Número da Fatura__;
+3. __Data de Emissão__;
+4. __Código de Controlo__: são 4 caracteres que ficam _em algum lugar_ na fatura (já encontrei no final, no meio, basta procurar por 4 letras ou números);
+5. __Total de Itens por valor de IVA__: não é preciso adicionar todos os itens da fatura um por um, basta adicionar os totais por faixa de IVA cobrado. Se necessário, clique no botão _Adicionar Linha_ para criar mais linhas. No exemplo da fatura acima, será preciso duas linhas.
 
 ![Captura de tela do portal e-Fatura com as informações digitadas](https://user-images.githubusercontent.com/397851/95867560-30ffee80-0d61-11eb-8ce2-27853aa55d75.png)
 
-Após guardar a fatura, é preciso escolher a **Atividade de Realização da Aquisição**, uma vez que diferentes categorias de serviços tem cotas diferentes de reembolso. Neste exemplo, uma padaria, a atividade é _Alojamento, restauração e similares_ (restauração = restaurantes).
+Após guardar a fatura, é preciso escolher a __Atividade de Realização da Aquisição__, uma vez que diferentes categorias de serviços tem cotas diferentes de reembolso. Neste exemplo, uma padaria, a atividade é _Alojamento, restauração e similares_ (restauração = restaurantes).
 
 ![Tipo da fatura](https://user-images.githubusercontent.com/397851/95867799-758b8a00-0d61-11eb-8fc5-fa92a91a477b.png)
 
-**Dicas importantes:**
+__Dicas importantes:__
 
--   caso você seja casado e/ou tenha filhos, divida as despesas informando o NIF de todos os membros da família, especialmente nas categorias de despesas gerais familiares (contas de serviços, supermercado) e restituição de IVA (restaurantes etc.), mesmo que somente você trabalhe / tenha rendimentos, uma vez que essas categorias tem limite de dedução **por pessoa**. Uma forma simples de fazer isto, para uma família de duas pessoas, seria informar o NIF de um na primeira metade e o NIF do outro na segunda metade do ano, e assim sucessivamente, e quanto as contas, colocar a conta de luz e gás no nome de uma pessoa e a de água e internet na outra, por exemplo. Você pode acessar a página de Deduções Provisórias em IRS mencionada anteriormente para verificar o quão perto do limite está e se precisa ou não se preocupar com isso.
--   despesas de saúde podem ter restituição maior caso o remédio comprado tenha sido indicado por conta de uma receita médica. O portal dá a opção de associar uma receita a uma fatura de despesa de saúde.
--   despesas com escolas de condução (para tirar carta de condução / carteira de motorista) **não** podem entrar na categoria "Educação", mas podem compor o valor de restituição na categoria "Despesas Gerais Familiares".
+- caso você seja casado e/ou tenha filhos, divida as despesas informando o NIF de todos os membros da família, especialmente nas categorias de despesas gerais familiares (contas de serviços, supermercado) e restituição de IVA (restaurantes etc.), mesmo que somente você trabalhe / tenha rendimentos, uma vez que essas categorias tem limite de dedução __por pessoa__. Uma forma simples de fazer isto, para uma família de duas pessoas, seria informar o NIF de um na primeira metade e o NIF do outro na segunda metade do ano, e assim sucessivamente, e quanto as contas, colocar a conta de luz e gás no nome de uma pessoa e a de água e internet na outra, por exemplo. Você pode acessar a página de Deduções Provisórias em IRS mencionada anteriormente para verificar o quão perto do limite está e se precisa ou não se preocupar com isso.
+- despesas de saúde podem ter restituição maior caso o remédio comprado tenha sido indicado por conta de uma receita médica. O portal dá a opção de associar uma receita a uma fatura de despesa de saúde.
+- despesas com escolas de condução (para tirar carta de condução / carteira de motorista) __não__ podem entrar na categoria "Educação", mas podem compor o valor de restituição na categoria "Despesas Gerais Familiares".
 
 Tendo passado o primeiro ano, e antes (ou mesmo depois) da declaração, é possível [Consultar Despesas para Deduções à Coleta](https://irs.portaldasfinancas.gov.pt/consultarDespesasDeducoes.action), ou seja, quanto valou acumulou de deduções em cada categoria.
 
@@ -560,16 +557,16 @@ Tendo passado o primeiro ano, e antes (ou mesmo depois) da declaração, é poss
 
 É possível ter o Cartão do Cidadão Português mesmo não sendo português, através do [Tratado de Porto Seguro](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=86), o qual provê igualdade de direitos para quem o solicitar.
 
-O Estatuto de Igualdade provê três modalidades distintas, o **Estatuto de Igualdade de Direitos e Deveres**, o **Estatuto de Igualdade de Direitos Políticos**, e o **Estatuto de Igualdade de Direitos e Deveres e de Direitos Políticos** que é a junção das duas primeiras. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando da obrigação de votar no Brasil, só está disponível para brasileiros com residência portuguesa há 3 anos e foge do escopo deste guia. Por outro lado, o primeiro traz como principal benefício a obtenção do **Cartão Cidadão** e pode ser pedido assim que recebemos o Título de Residência. Isto traz duas vantagens principais:
+O Estatuto de Igualdade provê três modalidades distintas, o __Estatuto de Igualdade de Direitos e Deveres__, o __Estatuto de Igualdade de Direitos Políticos__, e o __Estatuto de Igualdade de Direitos e Deveres e de Direitos Políticos__ que é a junção das duas primeiras. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando da obrigação de votar no Brasil, só está disponível para brasileiros com residência portuguesa há 3 anos e foge do escopo deste guia. Por outro lado, o primeiro traz como principal benefício a obtenção do __Cartão Cidadão__ e pode ser pedido assim que recebemos o Título de Residência. Isto traz duas vantagens principais:
 
--   facilita financiamento de casa/carro (podendo assim financiar em até 90% a casa e 100% o carro);
--   se quiser fazer mestrado/doutorado vai pagar a mesma propina (mensalidade) que portugueses;
+- facilita financiamento de casa/carro (podendo assim financiar em até 90% a casa e 100% o carro);
+- se quiser fazer mestrado/doutorado vai pagar a mesma propina (mensalidade) que portugueses;
 
 e outras pequenas facilidades, tais como:
 
--   marcação de consultas no Sistema Nacional de Saúde online, sem precisar ligar para o Centro de Saúde;
--   autenticação de documentos online com a chave privada associada ao cartão;
--   login facilitado nas plataformas online do governo.
+- marcação de consultas no Sistema Nacional de Saúde online, sem precisar ligar para o Centro de Saúde;
+- autenticação de documentos online com a chave privada associada ao cartão;
+- login facilitado nas plataformas online do governo.
 
 Note que, ao contrário do Cartão Cidadão português e assim como o Título de Residência, o cartão cidadão para estrangeiros não é aceito como documento válido de viagens, então mesmo em viagens dentro do Espaço Schengen você irá precisar do seu passaporte.
 
@@ -579,19 +576,17 @@ Observação importante: é preciso ser maior de idade para pedir Estatuto de Ig
 
 1. Uma cópia do Título de Residência - Válido;
 2. Certificado de Nacionalidade para Estatuto de Igualdade, obtido no consulado brasileiro da sua região. Cada consulado tem o seu procedimento, conforme a lista a seguir:
-
--   [Consulado de Faro](http://faro.itamaraty.gov.br/pt-br/nacionalidade.xml) - faz-se um agendamento e é preciso apresentar o passaporte e a cédula de identidade (RG) ou certidão de nascimento, verifique o link para mais detalhes;
--   [Consulado de Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/:::_certificado.xml) - faz-se a solicitação com envio dos documentos online e há um agendamento para pegar o documento;
--   [Consulado do Porto](http://porto.itamaraty.gov.br/pt-br/certificado_de_nacionalidade_-_estatuto_de_igualdade.xml) - No Consulado do Porto, o processo é por correio, exige cópia do passaporte ou RG (que comprove nome completo, naturalidade e filiação), o preenchimento de um formulário impresso e a compra de um vale postal para envio do documento de volta a você pelos Correios. [Note que não é possível ser atendido nos consulados das outras jurisdições](https://github.com/nighto/brasil-portugal#consulado-ou-embaixada).
-
+  - [Consulado de Faro](http://faro.itamaraty.gov.br/pt-br/nacionalidade.xml) - faz-se um agendamento e é preciso apresentar o passaporte e a cédula de identidade (RG) ou certidão de nascimento, verifique o link para mais detalhes;
+  - [Consulado de Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/:::_certificado.xml) - faz-se a solicitação com envio dos documentos online e há um agendamento para pegar o documento;
+  - [Consulado do Porto](http://porto.itamaraty.gov.br/pt-br/certificado_de_nacionalidade_-_estatuto_de_igualdade.xml) - No Consulado do Porto, o processo é por correio, exige cópia do passaporte ou RG (que comprove nome completo, naturalidade e filiação), o preenchimento de um formulário impresso e a compra de um vale postal para envio do documento de volta a você pelos Correios. [Note que não é possível ser atendido nos consulados das outras jurisdições](https://github.com/nighto/brasil-portugal#consulado-ou-embaixada).
 3. [Formulário de solicitação do SEF](https://imigrante.sef.pt/wp-content/uploads/Requerimento_DireitosDeveres_DD_PT.pdf). Imprima e preencha da forma mais legível possível.
-4. Mande pelos Correios o formulário do SEF, a declaração do Consulado e uma fotocópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):
-
+4. Mande pelos Correios o formulário do SEF, a declaração do Consulado e uma fotocópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):  
+  
 > Departamento de Nacionalidades  
 > Avenida do Casal de Cabanas  
 > Urbanização Cabanas Golf, nº 1  
 > 2734-506 Barcarena
-
+  
 5. Espere até 5 meses para receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://dre.pt/web/guest/pesquisa-avancada/-/asearch/advanced/maximized?types=SERIEII&sumario=Concede+o+estatuto+de+igualdade+de+direitos+e+deveres+a+vários+cidadãos+brasileiros&tipo=%22Despacho%22&emissor=%22Administração+Interna+-+Serviço+de+Estrangeiros+e+Fronteiras%22&dataPublicacaoInicio=2020-10-01&dataPublicacaoFim=2020-11-02&parte=C+-+Governo+e+Administração+direta+e+indireta+do+Estado_II&anoDR=2020&sortOrder=ASC&advanced.search=Pesquisa+Avançada&fpb=dHJ1ZQ%3D%3D));
 6. Vá ao IRN (Loja do Cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar.
 7. Pegue em 1 semana (média)
@@ -606,14 +601,14 @@ Caso você ou seu cônjuge tenham vindo para Portugal sem o histórico do ensino
 
 > Escala de Avaliação: "A partir de 2007 - Escala numérica de 0 (zero) a 10 (dez) com patamar indicativo de desempenho escolar satisfatório, a nota igual ou superior a 05 (cinco) nos termos da Resolução SE - 61, de 24/9/2007.
 >
-> Observações: OS RESULTADOS EM MENÇÕES PARA IDENTIFICAR A AVALIAÇÃO DO ALUNO TEM A SEGUINTE CONFORMIDADE : MENÇÃO **A** - 9,0 A 10,0 / MENÇÃO **B** - 7,0 A 8,5 / MENÇÃO **C** - 5,0 A 6,5 / MENÇÃO **D** - 2,5 A 4,5 / MENÇÃO **E** - 0 A 2,0.
+> Observações: OS RESULTADOS EM MENÇÕES PARA IDENTIFICAR A AVALIAÇÃO DO ALUNO TEM A SEGUINTE CONFORMIDADE : MENÇÃO __A__ - 9,0 A 10,0 / MENÇÃO __B__ - 7,0 A 8,5 / MENÇÃO __C__ - 5,0 A 6,5 / MENÇÃO __D__ - 2,5 A 4,5 / MENÇÃO __E__ - 0 A 2,0.
 
 Uma vez tendo o histórico escolar apostilado e com notas de 0 a 10, basta ir numa Escola Secundária que atenda a sua região e peça um Certificado de Equivalência do Ensino Secundário. Você irá precisar levar:
 
--   o histórico escolar;
--   título de residência;
--   passaporte (pois o certificado precisa constar o nome dos pais e o título de residência não tem essa informação);
--   comprovante de residência (para verificar se realmente a escola em questão é a escola secundária da sua região).
+- o histórico escolar;
+- título de residência;
+- passaporte (pois o certificado precisa constar o nome dos pais e o título de residência não tem essa informação);
+- comprovante de residência (para verificar se realmente a escola em questão é a escola secundária da sua região).
 
 Não custa nada e fica pronto em alguns dias.
 
@@ -636,7 +631,7 @@ Copiando os trechos mais relevantes (o destaque é meu):
 > (...)  
 > Na determinação do total dos rendimentos do agregado familiar são considerados os seguintes rendimentos:  
 > Rendimentos de trabalho dependente  
-> Rendimentos anuais **ilíquidos** provenientes de trabalho dependente
+> Rendimentos anuais **ilíquidos** provenientes de trabalho dependente  
 
 A tabela de escalões é:
 
@@ -675,6 +670,7 @@ Uma vez feito o cadastro, basta aguardar a disponibilização das vagas. O ano l
 Alguns meses antes do vencimento do Título de Residência, é preciso solicitar a renovação. O processo é feito online no site do SEF desde que não haja nenhuma mudança em seus dados (por exemplo, de endereço). Basta [acessar a opção Renovação Automática na área logada](https://www.sef.pt/pt/mySEF/Pages/renovacao-automatica.aspx), confirmar o número do título (os 9 caracteres no canto superior direito do documento) e confirmar que seus dados se mantém os mesmos. O valor para emissão do novo título é de 50 €.
 
 Note que ao fazer o pedido, o site menciona que só é possível fazer o pagamento **a partir de** 48h após a sua emissão (não é **até** 48h, então não adianta tentar pagar imediatamente que não vai funcionar).
+
 
 # Dicas
 
@@ -732,7 +728,8 @@ Para quem tem crianças de 3 anos ou mais: é frequente que os motoristas tenham
 
 O Free Now além de ter motoristas de aplicativo e taxistas, também pode ser utilizado para aluguel de trotinetes eléctricos (patinetes elétricos) e bicicletas _dockless_.
 
-O link do Bolt já tem um código de convite com € 1,60 de desconto, no Free Now você pode usar o código **2a0twwxbe** para ter 2€ de desconto. ;-)
+O link do Bolt já tem um código de convite com € 1,60 de desconto, no Free Now você pode usar o código __2a0twwxbe__ para ter 2€ de desconto. ;-)
+
 
 ## Internet
 
@@ -780,9 +777,9 @@ Em geral, serviços como Spotify, Netflix, YouTube Premium, PSN Plus etc. tem pr
 
 Caso você tenha interesse em acompanhar conteúdos da Globo, como telejornalismo, séries etc., recomendo a assinatura do Globo Play no Brasil, porque o canal Globo oferecido nos pacotes de TV por Assinatura não é o mesmo do Brasil e só passa novelas antigas. Na utilização do Globo Play dependendo do conteúdo você poderá ter alguma perda de praticidade e/ou a necessidade de VPN, veja na relação a seguir:
 
--   conteúdos produzidos pela Globo que não sejam ao vivo (jornais, novelas etc.): assiste normalmente no celular ou Smart TV/Chromecast;
--   conteúdos produzidos pela Globo que sejam de marcas licenciadas (Big Brother Brasil, por ex.) e que não sejam ao vivo: precisa de VPN no Brasil para iniciar a reprodução no celular, mas pode compartilhar com Smart TV ou Chromecast ainda que este dispositivo não esteja na VPN;
--   conteúdos ao vivo: não funciona pelo celular, precisa se conectar a uma VPN e ligar o computador na TV com cabo HDMI.
+- conteúdos produzidos pela Globo que não sejam ao vivo (jornais, novelas etc.): assiste normalmente no celular ou Smart TV/Chromecast;
+- conteúdos produzidos pela Globo que sejam de marcas licenciadas (Big Brother Brasil, por ex.) e que não sejam ao vivo: precisa de VPN no Brasil para iniciar a reprodução no celular, mas pode compartilhar com Smart TV ou Chromecast ainda que este dispositivo não esteja na VPN;
+- conteúdos ao vivo: não funciona pelo celular, precisa se conectar a uma VPN e ligar o computador na TV com cabo HDMI.
 
 O que nos leva ao ponto seguinte:
 
@@ -819,7 +816,7 @@ Em Portugal é bastante comum que as empresas coloquem papeis de publicidade "n�
 É possível solicitar um adesivo (autocolante) gratuitamente, basta enviar um email para [dgc@dg.consumidor.pt](mailto:dgc@dg.consumidor.pt):
 
 > "Solicitar Dístico"
->
+> 
 > Olá,  
 > Gostava de solicitar o autocolante do dístico de publicidade nao endereçada para ser enviado à minha morada: **<seu endereço completo>**
 
@@ -857,6 +854,6 @@ Procuração é um termo emitido em um cartório que permite que uma terceira pe
 
 O Brasil tem uma [embaixada](http://lisboa.itamaraty.gov.br/pt-br/) e três consulados em Portugal. Em geral as interações para solicitações de documentos são todas com os consulados, à exceção dos [assuntos educacionais](http://lisboa.itamaraty.gov.br/pt-br/assuntos_educacionais.xml).
 
-A embaixada fica em Lisboa, e os três consulados ficam em [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/), [Porto](http://porto.itamaraty.gov.br/pt-br/) e [Faro](http://faro.itamaraty.gov.br/pt-br/). **Note que você somente poderá fazer solicitações de documentos ao consulado que atende a sua região de residência.**
+A embaixada fica em Lisboa, e os três consulados ficam em [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/), [Porto](http://porto.itamaraty.gov.br/pt-br/) e [Faro](http://faro.itamaraty.gov.br/pt-br/). __Note que você somente poderá fazer solicitações de documentos ao consulado que atende a sua região de residência.__
 
 ![Jurisdição dos consulados brasileiros em Portugal](https://user-images.githubusercontent.com/397851/91711541-f7db3880-eb7d-11ea-80d6-99514a1fa35e.png)
