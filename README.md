@@ -230,9 +230,9 @@ Um documento assinado por você declarando seus motivos para requerer o visto, n
 
 [Este PDF](https://www.vistos.mne.pt/images/schengen/formularios/pedido_de_visto_de_longa_duracao_pt.pdf). Sugiro levar uma cópia adicional em branco caso seja necessário corrigir alguma informação equivocada.
 
-#### 14. Duas fotos 3,5 x 4,5cm
+#### 14. Duas fotos 3x4cm
 
-[Veja aqui mais detalhes sobre a especificação das fotografias](https://www.vfsglobal.com/portugal/Brazil/work-visa.html). Note que o tamanho não é 3x4, é 3,5x4,5.
+[Veja aqui mais detalhes sobre a especificação das fotografias, basta clicar na tab "Especificações para Fotografias"](https://www.vfsglobal.com/portugal/Brazil/residency-visa.html). A foto deve ser no formato 3x4cm convencional, com fundo branco, boa resolução e sem nenhum elemento que obstrua o rosto, como chapéus ou bonés.
 
 ### Agendamento
 
