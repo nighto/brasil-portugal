@@ -545,7 +545,7 @@ Para incluir manualmente uma fatura, acesse o Portal no link acima, clique no bo
 1. __NIF do Comerciante__;
 2. __Tipo de Fatura__: escolha entre _Fatura_, _Fatura simplificada_ e _Fatura-recibo_, essa informação vem escrita na fatura; preencha também o __Número da Fatura__;
 3. __Data de Emissão__;
-4. __Código de Controlo__: são 4 caracteres que ficam _em algum lugar_ na fatura (já encontrei no final, no meio, basta procurar por 4 letras ou números);
+4. __Código de Controlo__: são 4 caracteres que ficam junto da frase `Processado por programa certificado` e que ficam _em algum lugar_ na fatura (já encontrei no final, no meio, basta procurar por 4 letras ou números);
 5. __Total de Itens por valor de IVA__: não é preciso adicionar todos os itens da fatura um por um, basta adicionar os totais por faixa de IVA cobrado. Se necessário, clique no botão _Adicionar Linha_ para criar mais linhas. No exemplo da fatura acima, será preciso duas linhas.
 
 ![Captura de tela do portal e-Fatura com as informações digitadas](https://user-images.githubusercontent.com/397851/95867560-30ffee80-0d61-11eb-8ce2-27853aa55d75.png)
