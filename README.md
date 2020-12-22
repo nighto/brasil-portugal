@@ -232,7 +232,7 @@ Um documento assinado por você declarando seus motivos para requerer o visto, n
 
 #### 14. Duas fotos 3x4cm
 
-[Veja aqui mais detalhes sobre a especificação das fotografias, basta clicar na tab "Especificações para Fotografias"](https://www.vfsglobal.com/portugal/Brazil/residency-visa.html).
+[Veja aqui mais detalhes sobre a especificação das fotografias, basta clicar na tab "Especificações para Fotografias"](https://www.vfsglobal.com/portugal/Brazil/residency-visa.html). A foto deve ser no formato 3x4cm convencional, com fundo branco, boa resolução e sem nenhum elemento que obstrua o rosto, como chapéus ou bonés.
 
 ### Agendamento
 
