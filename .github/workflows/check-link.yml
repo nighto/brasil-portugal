@@ -2,7 +2,7 @@ name: Checar se os links estão disponíveis
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * 0"
   workflow_dispatch:
   push:
   pull_request:
