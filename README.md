@@ -30,6 +30,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [13. Abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens)
   - [14. Matrícula em Escola Pública](#14-matrícula-em-escola-pública)
   - [15. Renovação do Título de Residência](#15-renovação-do-título-de-residência)
+  - [16. Comunicação de Saída Definitiva do País](#16-comunição-de-saída-definitiva-do-país)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -680,6 +681,27 @@ Uma vez feito o cadastro, basta aguardar a disponibilização das vagas. O ano l
 Alguns meses antes do vencimento do Título de Residência, é preciso solicitar a renovação. O processo é feito online no site do SEF desde que não haja nenhuma mudança em seus dados (por exemplo, de endereço). Basta [acessar a opção Renovação Automática na área logada](https://www.sef.pt/pt/mySEF/Pages/renovacao-automatica.aspx), confirmar o número do título (os 9 caracteres no canto superior direito do documento) e confirmar que seus dados se mantém os mesmos. O valor para emissão do novo título é de 50 €.
 
 Note que ao fazer o pedido, o site menciona que só é possível fazer o pagamento **a partir de** 48h após a sua emissão (não é **até** 48h, então não adianta tentar pagar imediatamente que não vai funcionar).
+
+## 16. Comunicação de Saída Definitiva do País
+
+A [Comunicação de Saída Definitiva do País ou simplesmente **CSDP**](http://www.csdp.receita.fazenda.gov.br/csdp/index.xhtml) é basicamente é um indicativo para a Receita Federal de que você não vive mais no país. [Brasil e Portugal tem um acordo para evitar a dupla tributação](https://receita.economia.gov.br/acesso-rapido/legislacao/acordos-internacionais/acordos-para-evitar-a-dupla-tributacao/portugal/decreto-no-4-012-de-13-de-novembro-de-2001), de forma que você não irá pagar imposto de renda no Brasil sobre o seu salário em Portugal (e vice-versa), mas é um passo importante caso, no futuro, você queira voltar ao Brasil, e precisa demonstrar que o seu ganho de capital (ou seja, o dinheiro que você acumulou enquanto vivia fora do Brasil) já foi tributado no exterior. A lei especifica duas possibilidades:
+
+- saída com caráter __permanente__: a comunicação deve ser feita da data de saída do Brasil até o último dia do mês de fevereiro do ano subsequente;
+- saída com caráter __temporário__: a comunicação deve ser feita a partir do dia seguinte em que se complete 1 ano da de saída do Brasil (podendo ser feita antes, especificando a data futura) até o último dia do mês de fevereiro do ano seguinte.
+
+**No meu entendimento (atenção, não sou advogado!)** mesmo se mudando para Portugal vendendo seus móveis, entregando apartamento alugado etc., não se trata de uma saída com caráter permanente, uma vez que a saída é feita com um visto de residência de 4 meses e é preciso renovar o título de residência português várias vezes até obter a residência permanente 5 anos depois. Isto é, se não desse certo, você voltaria pro Brasil, não caracterizando portanto uma saída permanente. Dessa forma, poderia ser escolhida a opção de saída com caráter **temporário** mesmo indo para Portugal "de mala e cuia". A lei não define critérios objetivos para a definição do caráter da saída, de forma que eu entendo que seja subjetivo.
+
+Veja mais detalhes em [Orientações Gerais CSDP Multiexercício](http://receita.economia.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/dirpf/comunicacao-de-saida-definitiva-do-pais/orientacoes-gerais).
+
+O formulário é de preenchimento simples, sendo necessário preencher o seu CPF e o de seus dependentes (se houver), o número da sua última Declaração do Imposto de Renda Pessoa Física (DIRPF), título de eleitor e data de nascimento.
+
+O passo seguinte é fazer a Declaração de Saída Definitiva do País - **DSDP**, que é uma declaração de imposto de renda normal, acrescida da informação de sua saída do país. O prazo para tal é o último dia útil de abril do ano-calendário seguinte à saída do país, se em caráter permanente, ou da data de caracterização da condição de não-permanente, se em caráter temporário.
+
+Por exemplo:
+- se você saiu do Brasil em 22/01/2020 em caráter **permanente**, a **CSDP** deve ser feita de 22/01/2020 a 28/02/2021 e a **DSDP** deve ser feita até 30/04/2021.
+- se você saiu do Brasil em 22/01/2020 em caráter **temporário**, a **CSDP** deve ser feita de 22/01/2020 a 28/02/2022 e a **DSDP** deve ser feita até 30/04/2022. Note que neste caso você declarará IRPF em 2021 normalmente.
+
+Nota importante: não tenho bens no Brasil, como imóveis, investimentos etc., assim como financiamentos etc., então não sei como fica nessas situações. Caso seja o seu caso, sugiro contactar um contador para tirar a dúvida antes de fazer a CSDP - e neste caso PRs com as respostas serão muito bem-vindos. :)
 
 
 # Dicas
