@@ -30,7 +30,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [13. Abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens)
   - [14. Matrícula em Escola Pública](#14-matrícula-em-escola-pública)
   - [15. Renovação do Título de Residência](#15-renovação-do-título-de-residência)
-  - [16. Comunicação de Saída Definitiva do País](#16-comunição-de-saída-definitiva-do-país)
+  - [16. Comunicação de Saída Definitiva do País](#16-comunicação-de-saída-definitiva-do-país)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -684,7 +684,7 @@ Note que ao fazer o pedido, o site menciona que só é possível fazer o pagamen
 
 ## 16. Comunicação de Saída Definitiva do País
 
-A [Comunicação de Saída Definitiva do País ou simplesmente **CSDP**](http://www.csdp.receita.fazenda.gov.br/csdp/index.xhtml) é basicamente é um indicativo para a Receita Federal de que você não vive mais no país. [Brasil e Portugal tem um acordo para evitar a dupla tributação](https://receita.economia.gov.br/acesso-rapido/legislacao/acordos-internacionais/acordos-para-evitar-a-dupla-tributacao/portugal/decreto-no-4-012-de-13-de-novembro-de-2001), de forma que você não irá pagar imposto de renda no Brasil sobre o seu salário em Portugal (e vice-versa), mas é um passo importante caso, no futuro, você queira voltar ao Brasil, e precisa demonstrar que o seu ganho de capital (ou seja, o dinheiro que você acumulou enquanto vivia fora do Brasil) já foi tributado no exterior. A lei especifica duas possibilidades:
+A [Comunicação de Saída Definitiva do País ou simplesmente **CSDP**](http://www.csdp.receita.fazenda.gov.br/csdp/index.xhtml) é basicamente é um indicativo para a Receita Federal de que você não vive mais no país. [Brasil e Portugal tem um acordo para evitar a dupla tributação](https://receita.economia.gov.br/acesso-rapido/legislacao/acordos-internacionais/acordos-para-evitar-a-dupla-tributacao/portugal/decreto-no-4-012-de-13-de-novembro-de-2001), de forma que você não irá pagar imposto de renda no Brasil sobre seus rendimentos em Portugal e vice-versa, de forma que __não é obrigatório__ fazer a CSDP, mas você pode fazer caso queira não ter mais que declarar imposto de renda anualmente no Brasil. A lei especifica duas possibilidades:
 
 - saída com caráter __permanente__: a comunicação deve ser feita da data de saída do Brasil até o último dia do mês de fevereiro do ano subsequente;
 - saída com caráter __temporário__: a comunicação deve ser feita a partir do dia seguinte em que se complete 1 ano da de saída do Brasil (podendo ser feita antes, especificando a data futura) até o último dia do mês de fevereiro do ano seguinte.
