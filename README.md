@@ -2,7 +2,6 @@
 
 Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal, um passo a passo com os procedimentos associados e dicas não relacionadas mas que podem ser úteis.
 
-* [Introdução](#introdu%C3%A7%C3%A3o)
 * [Tipos de visto](#tipos-de-visto)
 * [Visto D3 - Documentação Necessária](#visto-d3---documenta%C3%A7%C3%A3o-necess%C3%A1ria)
   * [Antes de pedir o visto](#antes-de-pedir-o-visto)
@@ -621,7 +620,7 @@ Uma vez tendo o histórico escolar apostilado e com notas de 0 a 10, basta ir nu
 - passaporte (pois o certificado precisa constar o nome dos pais e o título de residência não tem essa informação);
 - comprovante de residência (para verificar se realmente a escola em questão é a escola secundária da sua região).
 
-Não tem cuto e fica pronto em alguns dias.
+Não tem custo e fica pronto em alguns dias.
 
 Mais informações na [página de assuntos educacionais da embaixada brasileira em Lisboa](http://lisboa.itamaraty.gov.br/pt-br/assuntos_educacionais.xml).
 
