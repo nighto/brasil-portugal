@@ -263,12 +263,9 @@ Os únicos documentos brasileiros necessários para pedir a AR são o passaporte
 Seu cônjuge e filhos, se houver, precisarão da seguinte lista de documentos do Brasil para fazer pedir AR por Reagrupamento Familiar:
 
 #### 1. Certidão de Antecedentes Criminais
-Emitida na Polícia Federal, ou no país aonde você vive há pelo menos 1 ano se não for o Brasil. Para filhos, somente se maiores de 16 anos. Deve ter sido emitida há no máximo 3 meses da data da viagem, e deve ser apostilada. Veja mais detalhes neste item na seção anterior.
-
-Note que a data que conta é o dia em que o agendamento foi feito, não quando de fato será o atendimento.
+Emitida na Polícia Federal, ou no país aonde você vive há pelo menos 1 ano se não for o Brasil. Para filhos, somente se maiores de 16 anos. Pode ser emitida online e [para brasileiros não é necessário apostilar, de acordo com o site do consulado brasileiro no Porto](http://porto.itamaraty.gov.br/pt-br/certidao_de_antecedentes_criminais.xml).
 
 - Custo: R\$ 0
-- Apostilamento: ~R\$ 50.
 
 #### 2. Certidão de União Estável ou Casamento
 
