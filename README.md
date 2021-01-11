@@ -159,6 +159,7 @@ Dica da dica: para incluir o tipo sanguíneo é necessário apresentar um exame 
 
 Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos, do contrário pagará pelo apostilamento de um documento que não terá mais valor no decorrer do processo.
 
+
 - Custo: R\$ 0;
 - Apostilamento: ~R\$ 50.
 
