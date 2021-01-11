@@ -599,7 +599,7 @@ Observação importante: é preciso ser maior de idade para pedir Estatuto de Ig
 > 2734-506 Barcarena
   
 5. Espere até 5 meses para receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://dre.pt/web/guest/pesquisa-avancada/-/asearch/advanced/maximized?types=SERIEII&sumario=Concede+o+estatuto+de+igualdade+de+direitos+e+deveres+a+vários+cidadãos+brasileiros&tipo=%22Despacho%22&emissor=%22Administração+Interna+-+Serviço+de+Estrangeiros+e+Fronteiras%22&dataPublicacaoInicio=2020-10-01&dataPublicacaoFim=2020-11-02&parte=C+-+Governo+e+Administração+direta+e+indireta+do+Estado_II&anoDR=2020&sortOrder=ASC&advanced.search=Pesquisa+Avançada&fpb=dHJ1ZQ%3D%3D));
-6. Vá ao IRN (Loja do Cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar.
+6. Vá ao IRN (Loja do Cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar. Número para marcação: [210 990 111](tel:+351210990111), ou agendamento no site https://agendamento.irn.mj.pt/. Dica: no site é possível preencher o número do cartão cidadão para agendamento com zeros (informação confirmada com o atendente).
 7. Pegue em 1 semana (média)
 
 Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](#preenchimento-de-envelopes-de-cartas).
