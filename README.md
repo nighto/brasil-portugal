@@ -315,7 +315,7 @@ Para abrir um NIF sem ter residência em Portugal, você precisará do passaport
 
 Veja mais detalhes no site [Euro Dicas](https://www.eurodicas.com.br/nif-portugal/).
 
-- Custo: 10,20 € por pessoa.
+- Custo: Gratuito.
 
 Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento - é preciso voltar às Finanças para atualizar sua morada fiscal. Neste caso, você deixa de precisar do representante fiscal e passa a poder ser o representante fiscal de seu cônjuge e/ou filhos. Alternativamente, para pessoas que não tem um contrato de arrendamento no próprio nome por dividir apartamento etc., é possível obter um Comprovativo de Morada junto a Freguesia, mas não sei mais detalhes porque usei o contrato de arrendamento.
 
