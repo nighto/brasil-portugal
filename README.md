@@ -14,22 +14,23 @@ Este repositório contém informações e dicas do processo de visto para brasil
   * [Outros Documentos do Brasil](#outros-documentos-do-brasil)
     - [Diploma e Histórico Escolar do Cônjuge e/ou Filhos](#diploma-e-histórico-escolar-do-cônjuge-eou-filhos)
 * [Em Portugal](#em-portugal)
-  - [1. NIF](#1-nif)
-  - [2. Conta Bancária](#2-conta-banc%C3%A1ria)
-  - [3. NISS](#3-niss)
-  - [4. Autorização de Residência (AR)](#4-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-ar)
-  - [5. Autorização de Residência por Reagrupamento Familiar](#5-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar)
-  - [6. Número de Utente](#6-n%C3%BAmero-de-utente)
-  - [7. Cartão Europeu Seguro Doença](#7-cartão-europeu-seguro-doença)
-  - [8. Justiça Eleitoral](#8-justiça-eleitoral)
-  - [9. Carteira de Motorista](#9-carteira-de-motorista)
-  - [10. IRS](#10-irs)
-  - [11. Estatuto de Igualdade](#11-estatuto-de-igualdade)
-  - [12. Certificado de Conclusão do Ensino Secundário](#12-certificado-de-conclusão-do-ensino-secundário)
-  - [13. Abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens)
-  - [14. Matrícula em Escola Pública](#14-matrícula-em-escola-pública)
-  - [15. Renovação do Título de Residência](#15-renovação-do-título-de-residência)
-  - [16. Comunicação de Saída Definitiva do País](#16-comunicação-de-saída-definitiva-do-país)
+  - [NIF](#nif)
+  - [Conta Bancária](#conta-banc%C3%A1ria)
+  - [NISS](#niss)
+  - [Autorização de Residência (AR)](#autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-ar)
+  - [Autorização de Residência por Reagrupamento Familiar](#autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar)
+  - [Número de Utente](#n%C3%BAmero-de-utente)
+  - [Cartão Europeu Seguro Doença](#cartão-europeu-seguro-doença)
+  - [Residente Não Habitual](#residente-não-habitual)
+  - [Justiça Eleitoral](#justiça-eleitoral)
+  - [Carteira de Motorista](#carteira-de-motorista)
+  - [IRS](#irs)
+  - [Estatuto de Igualdade](#estatuto-de-igualdade)
+  - [Certificado de Conclusão do Ensino Secundário](#certificado-de-conclusão-do-ensino-secundário)
+  - [Abono de família para crianças e jovens](#abono-de-família-para-crianças-e-jovens)
+  - [Matrícula em Escola Pública](#matrícula-em-escola-pública)
+  - [Renovação do Título de Residência](#renovação-do-título-de-residência)
+  - [Comunicação de Saída Definitiva do País](#comunicação-de-saída-definitiva-do-país)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -307,7 +308,7 @@ Posteriormente em Portugal, será necessário fazer um procedimento de equivalê
 
 Você chegou a Portugal, parabéns! Ainda há diversas burocracias para fazer do lado de cá. Algumas delas poderão ser feitas mesmo antes do visto sair (caso você visite a empresa num processo de _onboarding_ antes de solicitar o visto, por exemplo), outras só após a entrada definitiva. Vamos a lista:
 
-## 1. NIF
+## NIF
 
 O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF e CNPJ. Você precisará de um NIF para abrir conta bancária, alugar residência, declarar imposto de renda etc., de forma que é uma das primeiras coisas a se fazer quando se chega ao país, e é algo que _pode ser feito mesmo sem ter visto de trabalho_. O NIF também é usado em diversos estabelecimentos como supermercados, restaurantes etc. para atrelar a compra a você, como o "CPF na nota?" comum em alguns estados brasileiros (os atendentes costumam perguntar "\[Fatura com número de\] contribuinte?"). Isto é interessante para ter deduções no IRS (imposto de renda), além de participar de sorteios.
 
@@ -323,13 +324,13 @@ Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento
 
 Uma vez tendo recebido a AR, é possível acessar o [Portal das Finanças](https://www.portaldasfinancas.gov.pt/) e solicitar acesso, recebendo um código por carta. Este acesso será necessário para fazer a declaração do imposto de renda a partir do próximo ano, então convém já deixar o acesso pronto para agilizar.
 
-## 2. Conta Bancária
+## Conta Bancária
 
 Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 500 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, declaração de imposto de renda (brasileiro) e NIF abre-se a conta na hora e também já é fornecido no ato o cartão de débito. Não precisa tirar cópias pois eles fazem no banco. Caso você já tenha um contrato de trabalho válido pode levar também, mas não é necessário. Assim como o NIF, a conta bancária também pode ser aberta sem um visto, caso você faça um _onboarding_ presencial antes da emissão do visto.
 
 - Custo: 500 € (podendo sacar ou transferir imediatamente após a abertura da conta).
 
-## 3. NISS
+## NISS
 
 O **NISS** (Número de Identificação de Segurança Social) é equivalente ao nosso PIS. É criado preenchendo um formulário impresso e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. A emissão do NISS é gratuita, mas a fotocópia certificada custa 18 €. Veja mais detalhes [na página do CTT](https://www.online24.pt/autenticacao-de-documentos-nos-ctt/).
 
@@ -339,7 +340,7 @@ Uma vez recebido o número por email é possível acessar o [site do NISS, regis
 
 - Custo: 18 €
 
-## 4. Autorização de Residência (AR)
+## Autorização de Residência (AR)
 
 O pedido de **AR** (Autorização de Residência) é o próximo grande passo burocrático após a chegada em Portugal. Consiste de uma visita a um posto do **SEF** (Serviço de Estrangeiros e Fronteiras, com atribuições similares às da nossa Polícia Federal) numa data agendada, levando uma série de documentos. Mais recentemente, a data do agendamento já vem numa URL impressa no próprio visto de trabalho colado no passaporte, mas sempre é possível tentar ligar para o SEF e conseguir uma data mais próxima em alguma cidade vizinha menor. No meu caso, moro e trabalho no Porto, mas consegui um agendamento em Braga (1h de trem) por ter data mais próxima.
 
@@ -379,7 +380,7 @@ O Título de Residência é similar ao nosso RG e com isso você deixa de precis
 
 - Custo: 47,60 €
 
-## 5. Autorização de Residência por Reagrupamento Familiar
+## Autorização de Residência por Reagrupamento Familiar
 
 Esta seção se aplica a seu cônjuge e filhos, se houver.
 
@@ -426,7 +427,7 @@ Nota: de forma similar ao processo de pedido do visto, há a exigência de que a
 __13. Certidão de Antecedentes Criminais da Polícia Federal__  
 Para maiores de 16 anos, apostilada.
 
-## 6. Número de Utente
+## Número de Utente
 
 "Utente" quer dizer "Paciente", e é um número atribuído pelo Sistema Nacional de Saúde, que o identifica como paciente tanto na rede pública quanto na privada. Ao fazer consultas, exames etc., todo o histórico fica associado ao Número de Utente, e ele será necessário em alguns casos como por exemplo para fazer a matrícula de crianças na escola, tirar carteira de motorista, etc., ainda que o atendimento seja feito em hospital particular. Veja mais detalhes nesta página do portal ePortugal: [PEDIR O NÚMERO DE UTENTE DO SNS](https://eportugal.gov.pt/servicos/pedir-o-numero-de-utente-do-sns). Veja que excepcionalmente não é preciso aguardar a AR chegar, pode confirmar residência somente com o agendamento de autorização de residência junto ao SEF.
 
@@ -445,7 +446,7 @@ O site menciona que deve-se fazer o pedido pessoalmente, porém devido ao contex
 
 Custo: 0.
 
-## 7. Cartão Europeu Seguro Doença
+## Cartão Europeu Seguro Doença
 
 O __Cartão Europeu Seguro Doença__ ou CESD é um cartão plástico que garante atendimento nos hospitais públicos em todos os países da União Europeia com mesmos direitos de cidadãos portugueses, isto é, pagando a mesma taxa moderadora que você pagaria em Portugal. Em alguns casos, você paga o valor que os habitantes do país que você está visitando pagariam, e a Segurança Social faz o ressarcimento do valor pago a mais em relação às regras portuguesas.
 
@@ -460,7 +461,19 @@ Custo: 0.
 Esta é a aparência do CESD:
 ![Exemplo do CESD](https://user-images.githubusercontent.com/397851/102905995-e50dac00-446b-11eb-9388-95fbd4f6a0d5.png)
 
-## 8. Justiça Eleitoral
+## Residente Não Habitual
+
+Residente Não Habitual ou simplesmente __RNH__ é um direito que os imigrantes têm de serem taxados no [IRS (Imposto de Renda)](#irs) num regime diferenciado (20%) nos primeiros 10 anos em que morem em Portugal. Dependendo dos seus gastos e das categorias que você teria direito na restituição do IRS, pode ser que o RNH não valha a pena, porque se paga menos imposto mas também se tem menos categorias de restituição; em todo caso, __a solicitação lhe dá o direito mas não a obrigatoriedade__ de declarar o IRS utilizando o RNH. Para mais detalhes, verifique o [folheto informativo da Autoridade Tributária sobre o RNH](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Folhetos_informativos/Documents/IRS_RNH_PT.pdf).
+
+O prazo importante para se ter em mente é o de limite de solicitação: a data é __31 de março do ano seguinte__ à sua chegada.
+
+Para solicitar, basta acessar [a página de RNH no Portal das Finanças](https://sitfiscal.portaldasfinancas.gov.pt/dados/residentenaohabitual), clicar em _Entregar Pedido_ e preencher o formulário:
+
+![formulário de pedido de RNH](https://user-images.githubusercontent.com/397851/105693652-e5301a00-5ef7-11eb-9fec-fd6a3f30d243.png)
+
+Custo: 0.
+
+## Justiça Eleitoral
 
 Mesmo morando fora do Brasil, os brasileiros continuam tendo as obrigações eleitorais, isto é, caso você esteja fora da cidade da sua zona eleitoral no Brasil será necessário justificar seu voto a cada 2 anos ou sempre que houver uma eleição. Basta usar o [aplicativo e-Título](https://www.tse.jus.br/eleitor/servicos/aplicativo-e-titulo) ou acessar o sistema de [Requerimento de Justificativa Eleitoral no site do TSE](https://justifica.tse.jus.br/) no dia ou em até 60 dias após cada pleito. Note que caso haja segundo turno na cidade associada ao seu título, será necessário justificar nas duas vezes. Veja mais detalhes na página [Justificativa Eleitoral - Tribunal Superior Eleitoral](http://www.tse.jus.br/eleitor/justificativa-eleitoral/justificativa-eleitoral), na seção "Justificativa de eleitores no exterior".
 
@@ -468,7 +481,7 @@ Também é possível mudar a sua zona eleitoral para o exterior e participar das
 
 Custo: 0.
 
-## 9. Carteira de Motorista
+## Carteira de Motorista
 
 ### Troca da Carteira de Motorista Brasileira pela Carta de Condução Portuguesa
 
@@ -478,7 +491,7 @@ Após este prazo, há um segundo prazo para realizar a conversão da carteira br
 
 1. Obter junto ao Consulado Brasileiro da sua região (Lisboa, Porto ou Faro) a **Declaração de Autenticidade da Carteira Nacional de Habilitação**. Mais informações na página do consulado: [Porto](http://porto.itamaraty.gov.br/pt-br/cnh_-_declaracao_de_autenticidade.xml) / [Faro](http://faro.itamaraty.gov.br/pt-br/cnh.xml) (não encontrei uma página correspondente no consulado de Lisboa). Custo: €15 + correios.
 
-2. Fazer um exame médico para obter um atestado médico de aptidão a condução de veículos. Note que mesmo se optar por fazer este exame em hospital particular, será necessário ter antes feito o Número de Utente no Centro de Saúde público. Mais detalhes na seção [Número de Utente](#6-n%C3%BAmero-de-utente). Custo: € 4,50 na rede pública / a partir de € 25 na rede privada (podendo ser menos caso tenha plano de saúde).
+2. Fazer um exame médico para obter um atestado médico de aptidão a condução de veículos. Note que mesmo se optar por fazer este exame em hospital particular, será necessário ter antes feito o Número de Utente no Centro de Saúde público. Mais detalhes na seção [Número de Utente](#n%C3%BAmero-de-utente). Custo: € 4,50 na rede pública / a partir de € 25 na rede privada (podendo ser menos caso tenha plano de saúde).
 
 3. Após ter recebido a declaração, agendar a troca no [IMT](http://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/IMTHome.aspx) (Instituto da Mobilidade e dos Transportes, equivalente dos Detran brasileiros). Veja os documentos necessários: [IMT - Condutores > Troca de título de condução estrangeiro > Outras Situações](http://www.imt-ip.pt/sites/IMTT/Portugues/Condutores/TrocaCartaConducao/OutrasSituacoes/Paginas/OutrasSituacoes.aspx). Custo: € 30.
 
@@ -498,13 +511,13 @@ Assim como no procedimento para a troca de carteira de motorista, você precisar
 
 Após ter o atestado emitido pode ir a uma escola de condução e contratar o serviço, com valores que variam de 450 a 850€ (no Porto em agosto de 2020). Estou fazendo no [Grupo ArtDrive](https://www.grupoartdrive.pt/), que tem aulas teóricas online.
 
-## 10. IRS
+## IRS
 
 Uma das obrigações anuais que temos, assim como no Brasil, é a Declaração do Imposto de Renda, aqui chamado de IRS - Imposto sobre o Rendimento de pessoas Singulares. Assim como no Brasil, tipicamente nos contratos com pessoa física - similar aos contratos de carteira assinada brasileiros - já é descontado o percentual do salário bruto referente ao IRS, de forma com a declaração anual feita é possível ter um valor de restituição do imposto de renda.
 
 As alíquotas de imposto tem bem mais variações do que no Brasil (que são de 0, 15 e 27,5% dependendo da soma dos valores recebidos ao longo do ano). Variam igualmente com o valor do salário, mas tem graduações mais granulares, variando entre 0 a 41,8%, mas também há variações se a pessoa for casada (imposto menor), se somente um ou os dois casados trabalham (imposto maior), se tem filhos, se é jovem (dos 18 a 26 anos), se tem alguma deficiência, se mora no Continente ou nas regiões autônomas de Açores ou Madeira etc. Confira no site da Autoridade Tributária a [Tabela de Retenção de IRS](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/tabela_ret_doclib/Pages/default.aspx), e sugiro este artigo explicativo: [Taxas de IRS 2020: consulte os escalões de IRS - Economias](https://www.economias.pt/taxas-de-irs/), assim como este [Simulador Salário Líquido 2020](https://www.doutorfinancas.pt/simulador-salario-liquido-2020/).
 
-Ao contrário da Declaração do Imposto de Renda do Brasil, em que é preciso baixar um programa, instalar o Java etc., a declaração do IRS português é feita online, direto no [site das Finanças - IRS](https://irs.portaldasfinancas.gov.pt/home.action). É preciso ter um código de acesso para o portal, que é recebido por carta, conforme [detalhado na seção anterior sobre o NIF](#1-nif). Os dados já vem pré-preenchidos, basta conferir, corrigir alguma eventual discrepância e entregar a declaração.
+Ao contrário da Declaração do Imposto de Renda do Brasil, em que é preciso baixar um programa, instalar o Java etc., a declaração do IRS português é feita online, direto no [site das Finanças - IRS](https://irs.portaldasfinancas.gov.pt/home.action). É preciso ter um código de acesso para o portal, que é recebido por carta, conforme [detalhado na seção anterior sobre o NIF](#nif). Os dados já vem pré-preenchidos, basta conferir, corrigir alguma eventual discrepância e entregar a declaração.
 
 ### Deduções
 
@@ -562,7 +575,7 @@ __Dicas importantes:__
 
 Tendo passado o primeiro ano, e antes (ou mesmo depois) da declaração, é possível [Consultar Despesas para Deduções à Coleta](https://irs.portaldasfinancas.gov.pt/consultarDespesasDeducoes.action), ou seja, quanto valou acumulou de deduções em cada categoria.
 
-## 11. Estatuto de Igualdade
+## Estatuto de Igualdade
 
 É possível ter o Cartão do Cidadão Português mesmo não sendo português, através do [Tratado de Porto Seguro](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=86), o qual provê igualdade de direitos para quem o solicitar.
 
@@ -602,7 +615,7 @@ Observação importante: é preciso ser maior de idade para pedir Estatuto de Ig
 
 Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](#preenchimento-de-envelopes-de-cartas).
 
-## 12. Certificado de Conclusão do Ensino Secundário
+## Certificado de Conclusão do Ensino Secundário
 
 Esta seção se aplica caso você ou seu cônjuge não tenha ensino superior. Para ter o diploma de Ensino Médio reconhecido em Portugal como Ensino Secundário, você irá além do histórico escolar apostilado, fazer um procedimento numa escola secundária da sua região. Recomendo fazer mesmo que você ou seu cônjuge não pretenda seguir no ensino superior em Portugal, porque pode ser útil em algumas ocasiões, como comprovar o nível educacional para um processo seletivo, ou para participar de cursos oferecidos pelo governo.
 
@@ -625,7 +638,7 @@ Mais informações na [página de assuntos educacionais da embaixada brasileira 
 
 Nota: o certificado de conclusão será emitido com as notas mínimas para aprovação (12 de 20), caso seja necessário um certificado com as notas, verifique o link acima para fazer a equivalência.
 
-## 13. Abono de Família para Crianças e Jovens
+## Abono de Família para Crianças e Jovens
 
 O [Abono de Família para Crianças e Jovens](http://www.seg-social.pt/abono-de-familia-para-criancas-e-jovens) é um valor pago pela Segurança Social para pais de crianças e jovens até 24 anos. O valor pago depende do escalão de rendimentos, calculados a partir do valor declarado no imposto de renda no ano anterior e no número de filhos. Tipicamente os salários de TI não se encaixam no valor para pagamento para pais com um único filho, mas uma vez que o valor declarado no anterior, no caso de brasileiros recém chegados, é o valor declarado para a Receita no Brasil, convertido para euro, torna-se possível pedir ao menos no primeiro ano.
 
@@ -656,17 +669,17 @@ Os valores pagos estão descritos na tabela a seguir:
 
 Os valores são majorados caso sejam pelo menos 2 filhos com 36 meses ou menos, e em casos de monoparentalidade (caso um dos responsáveis tenha ficado no Brasil, por exemplo).
 
-Para solicitar, é preciso primeiro [ter o NISS e ter acesso à Segurança Social Direta](#3-niss), ou solicitar diretamente nos postos de atendimento da Segurança Social, através do [formulário RP5045-DGSS](http://www.seg-social.pt/formularios?kw=RP5045-DGSS). Para tal, é preciso agendar atendimento através do telefone [300 502 502](tel:+351300502502).
+Para solicitar, é preciso primeiro [ter o NISS e ter acesso à Segurança Social Direta](#niss), ou solicitar diretamente nos postos de atendimento da Segurança Social, através do [formulário RP5045-DGSS](http://www.seg-social.pt/formularios?kw=RP5045-DGSS). Para tal, é preciso agendar atendimento através do telefone [300 502 502](tel:+351300502502).
 
 Também há um [abono de família pré-natal](http://www.seg-social.pt/abono-de-familia-pre-natal2), destinado a pessoas grávidas, ou cuja criança tenha até 6 meses de idade.
 
-## 14. Matrícula em Escola Pública
+## Matrícula em Escola Pública
 
 As matrículas em creches, pré-escolas (jardins de infância), escolas primárias (equivalente ao ensino fundamental brasileiro) e secundárias (equivalente ao ensino médio) são feitas através do [Portal das Matrículas](https://portaldasmatriculas.edu.gov.pt). Você escolhe até 5 escolas públicas da sua região e o sistema automaticamente atribui uma vaga em uma das cinco escolas.
 
-Para acessar o sistema, é preciso autenticar com o seu NIF através do sistema da Autoridade Tributária, o e-Finanças. Para isso, acesse o Portal das Finanças e solicite o acesso. Veja mais detalhes na seção sobre [NIF](#1-nif).
+Para acessar o sistema, é preciso autenticar com o seu NIF através do sistema da Autoridade Tributária, o e-Finanças. Para isso, acesse o Portal das Finanças e solicite o acesso. Veja mais detalhes na seção sobre [NIF](#nif).
 
-No formulário, há uma pegadinha. No primeiro passo, há uma série de perguntas, que verificam a sua anuência ao compartilhamento de dados entre diferentes sistemas do governo, incluindo Segurança Social. É preciso responder que **Não Autoriza** o compartilhamento com o sistema da Segurança Social, uma vez que, respondendo positivamente a esta pergunta, passa a ser obrigatório informar NISS para crianças; tipicamente crianças só tem NISS se os pais solicitaram abono de família pré-natal e/ou [abono de família para crianças e jovens](#13-abono-de-família-para-crianças-e-jovens). Note que ambas as perguntas se referem a crianças que recebem benefícios da Segurança Social.
+No formulário, há uma pegadinha. No primeiro passo, há uma série de perguntas, que verificam a sua anuência ao compartilhamento de dados entre diferentes sistemas do governo, incluindo Segurança Social. É preciso responder que **Não Autoriza** o compartilhamento com o sistema da Segurança Social, uma vez que, respondendo positivamente a esta pergunta, passa a ser obrigatório informar NISS para crianças; tipicamente crianças só tem NISS se os pais solicitaram abono de família pré-natal e/ou [abono de família para crianças e jovens](#abono-de-família-para-crianças-e-jovens). Note que ambas as perguntas se referem a crianças que recebem benefícios da Segurança Social.
 
 ![captura de tela do Portal das Matrículas](https://user-images.githubusercontent.com/397851/99706732-66e86f00-2a93-11eb-9d74-3a9338f9f7b7.png)
 
@@ -674,13 +687,13 @@ Uma vez feito o cadastro, basta aguardar a disponibilização das vagas. O ano l
 
 **Observação importante: não há nenhum tipo de comunicação da disponibilização da vaga, seja por telefone, email ou carta, é preciso verificar nas escolas a divulgação da lista de aprovados, mais ou menos como se fazia antigamente no Brasil com a lista de aprovados do vestibular.**
 
-## 15. Renovação do Título de Residência
+## Renovação do Título de Residência
 
 Alguns meses antes do vencimento do Título de Residência, é preciso solicitar a renovação. O processo é feito online no site do SEF desde que não haja nenhuma mudança em seus dados (por exemplo, de endereço). Basta [acessar a opção Renovação Automática na área logada](https://www.sef.pt/pt/mySEF/Pages/renovacao-automatica.aspx), confirmar o número do título (os 9 caracteres no canto superior direito do documento) e confirmar que seus dados se mantém os mesmos. O valor para emissão do novo título é de 50 €.
 
 Note que ao fazer o pedido, o site menciona que só é possível fazer o pagamento **a partir de** 48h após a sua emissão (não é **até** 48h, então não adianta tentar pagar imediatamente que não vai funcionar).
 
-## 16. Comunicação de Saída Definitiva do País
+## Comunicação de Saída Definitiva do País
 
 A [Comunicação de Saída Definitiva do País ou simplesmente **CSDP**](http://www.csdp.receita.fazenda.gov.br/csdp/index.xhtml) é basicamente é um indicativo para a Receita Federal de que você não vive mais no país. [**Brasil e Portugal tem um acordo para evitar a dupla tributação**](https://receita.economia.gov.br/acesso-rapido/legislacao/acordos-internacionais/acordos-para-evitar-a-dupla-tributacao/portugal/decreto-no-4-012-de-13-de-novembro-de-2001), de forma que você _não_ irá pagar imposto de renda no Brasil sobre seus rendimentos em Portugal e vice-versa, de forma que __não é obrigatório fazer a CSDP__, embora você possa fazer caso queira não ter mais que declarar imposto de renda anualmente no Brasil. ([Veja mais informações neste artigo](http://www.marcelaoliveira.it/pt/declaracao-de-saida-definitiva-do-pais/)).
 
@@ -720,7 +733,7 @@ Em Portugal utiliza-se uma [tipologia com siglas](https://portuguese.stackexchan
 
 Para fazer o arrendamento do imóvel você precisará do passaporte, tirar o NIF e dinheiro suficiente para atender as exigências do proprietário, que pela lei pode ser apenas 2 meses de depósito mas frequentemente são 6 meses ou mais, em regime de pré-pagamento das rendas (alugueis) dos meses seguintes.
 
-Após a assinatura do contrato e transferência dos valores devidos, o passo seguinte é ir ao Balcão das Finanças atualizar seu NIF ([mais detalhes na seção sobre NIF](#1-nif)) e contratar os serviços de [energia elétrica e gás](#energia-elétrica-e-gás) e [água e esgoto](#água-e-esgoto).
+Após a assinatura do contrato e transferência dos valores devidos, o passo seguinte é ir ao Balcão das Finanças atualizar seu NIF ([mais detalhes na seção sobre NIF](#nif)) e contratar os serviços de [energia elétrica e gás](#energia-elétrica-e-gás) e [água e esgoto](#água-e-esgoto).
 
 Tipicamente se anota no contrato o valor dos relógios de água, luz e gás, para que após mudança para o seu nome você pague somente pelo valor consumido a partir daquele momento. Além disso, em geral também se especifica as condições para o término do contrato, como antecedência necessária para aviso prévio etc.
 
