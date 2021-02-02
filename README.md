@@ -46,9 +46,12 @@ Este repositório contém informações e dicas do processo de visto para brasil
     - [Globo](#globo)
   - [VPN](#vpn)
   - [App Store](#app-store)
-  - [Preenchimento de envelopes de cartas](#preenchimento-de-envelopes-de-cartas)
-  - [Publicidade não endereçada](#publicidade-não-endereçada)
+  - [Cartas e encomendas](#cartas-e-encomendas)
+    - [Preenchimento de envelopes de cartas](#preenchimento-de-envelopes-de-cartas)
+    - [Publicidade não endereçada](#publicidade-não-endereçada)
+    - [Vale de Correio](#vale-de-correio)
   - [Jogos em mídia física](#jogos-em-mídia-física)
+  - [Garantia](#garantia)
 * [Extras](#extras)
   - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
   - [Reconhecimento de firma](#reconhecimento-de-firma)
@@ -848,7 +851,9 @@ Ao contrário do [Android que permite login na Play Store com múltiplas contas]
 
 Para alterar o país da App Store, siga o link: [Alterar o país ou a região do ID Apple - Suporte Apple](https://support.apple.com/pt-pt/HT201389).
 
-## Preenchimento de Envelopes de Cartas
+## Cartas e encomendas
+
+### Preenchimento de Envelopes de Cartas
 
 No Brasil os envelopes de cartas tipicamente são preenchidos com o destinatário na frente e o remetente atrás, desta forma:
 
@@ -860,7 +865,7 @@ Em Portugal, o padrão é diferente e envelopes de cartas no padrão brasileiro 
 
 [Veja mais informações no site do Consulado-Geral do Brasil no Porto](http://porto.itamaraty.gov.br/pt-br/servicos_por_correio.xml).
 
-## Publicidade Não Endereçada
+### Publicidade Não Endereçada
 
 Em Portugal é bastante comum que as empresas coloquem papeis de publicidade "não endereçada" nas caixas de correio das casas e apartamentos, isto é, uma espécie de "spam" com folhetos diversos. Há uma [lei (nº 6/1999)](https://dre.pt/pesquisa/-/search/180023/details/maximized) que define as regras que as empresas devem seguir, de forma que caso haja um adesivo solicitando que as empresas não coloquem na sua caixa de correio, as empresas devem respeitar.
 
@@ -875,6 +880,16 @@ Em Portugal é bastante comum que as empresas coloquem papeis de publicidade "n�
 
 Os adesivos devem chegar em aproximadamente uma semana.
 
+### Vale de Correio
+
+O [CTT tem um serviço envio à cobrança](https://www.ctt.pt/ajuda/empresas/enviar-correio-e-encomendas/opcoes-de-envio/enviar-a-cobranca), parecido com o Sedex a cobrar dos Correios brasileiros, com a diferença que o pagamento pode ser feito tanto na agência quanto na própria residência, fazendo o pagamento num POS (maquininha de cartão) do próprio carteiro.
+
+É uma opção especialmente interessante para vendas no OLX. Funciona assim: você fecha a venda com o interessado, opta por pagar o valor do envio online ou na agência mesmo, vai a agência do CTT com a caixa (e se tiver pago online, precisa imprimir uma etiqueta para o envio), a pessoa paga ao receber e alguns dias depois você recebe na sua residência um Vale de Correio, basicamente uma espécie de cheque que você pode sacar na agência CTT ou num agente autorizado da CTT. Essa é a aparência de um Vale de Correio:
+
+![Vale de Correio](https://camo.githubusercontent.com/74116740adcdf2bd85edfa92caeee15ef86d50dd9c437da7b87843c6bf68a439/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f5f4a7a74672d4531326872672f5372664443615f4e4146492f41414141414141414258672f647175716d4c37317463382f73313630302f762b3039362e6a7067)
+
+A dica aqui é: os agentes autorizados da CTT podem ser utilizados para sacar os Vales de Correio, e em geral eles tem __muito__ menos fila do que as agências da CTT. Costumo ir na papelaria Note.
+
 ## Jogos em Mídia Física
 
 Os jogos de videogame em mídia física vem com um adesivo do Ministério da Cultura - Inspeção-Geral das Atividades Culturais, similar ao que acontece com garrafa de bebidas alcoólicas destiladas no Brasil, conforme a foto:
@@ -882,6 +897,10 @@ Os jogos de videogame em mídia física vem com um adesivo do Ministério da Cul
 ![foto do adesivo dos jogos de videogames](https://user-images.githubusercontent.com/397851/102640985-3f003000-4153-11eb-99c3-f440b249e4ba.jpg)
 
 Sugere-se recortar e guardar este adesivo do plástico que envolve a embalagem, uma vez que caso você decida vender o jogo no futuro, lojas que compram jogos usados não compram sem o adesivo, ainda que o jogo tenha sido comprado legalmente em Portugal.
+
+## Garantia
+
+Em Portugal o período padrão de garantia de produtos é de __dois anos__.
 
 # Extras
 
