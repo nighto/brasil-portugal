@@ -44,6 +44,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [Supermercados](#supermercados)
   - [Assinaturas](#assinaturas)
     - [Globo](#globo)
+      - [Globoplay no iPhone](#globoplay-no-iphone)
   - [VPN](#vpn)
   - [App Store](#app-store)
   - [Cartas e encomendas](#cartas-e-encomendas)
@@ -831,23 +832,36 @@ Em geral, serviços como Spotify, Netflix, YouTube Premium, PSN Plus etc. tem pr
 
 ### Globo
 
-Caso você tenha interesse em acompanhar conteúdos da Globo, como telejornalismo, séries etc., recomendo a assinatura do Globo Play no Brasil, porque o canal Globo oferecido nos pacotes de TV por Assinatura não é o mesmo do Brasil e só passa novelas antigas. Na utilização do Globo Play dependendo do conteúdo você poderá ter alguma perda de praticidade e/ou a necessidade de VPN, veja na relação a seguir:
+Caso você tenha interesse em acompanhar conteúdos da Globo, como telejornalismo, séries etc., recomendo a assinatura do Globoplay no Brasil, porque o canal Globo oferecido nos pacotes de TV por Assinatura não é o mesmo do Brasil e só passa novelas antigas. Há inclusive uma opção de assinatura com os canais da Globosat, como GNT, Multishow etc.
 
-- conteúdos produzidos pela Globo que não sejam ao vivo (jornais, novelas etc.): assiste normalmente no celular ou Smart TV/Chromecast;
-- conteúdos produzidos pela Globo que sejam de marcas licenciadas (Big Brother, por ex.) e que não sejam ao vivo: precisa de VPN no Brasil para iniciar a reprodução no celular, mas pode desligar a VPN após começar o vídeo ou compartilhar com Smart TV ou Chromecast ainda que este dispositivo não esteja na VPN;
-- conteúdos ao vivo: não funciona pelo celular, precisa se conectar a uma VPN e ligar o computador na TV com cabo HDMI.
+Há dois problemas que tornam a utilização um pouco chata, mas que são contornáveis: é necessária a utilização de VPN com conexão ao Brasil por questões de licenciamento ([se tentar reproduzir um vídeo sem VPN, aparece esta mensagem de erro](https://user-images.githubusercontent.com/397851/106726914-d1c13500-6602-11eb-9762-53a13c2cdad9.jpeg)) e a aplicação só está disponível no Brasil (o que torna as coisas mais chatas especialmente no caso do iOS).
 
-O que nos leva ao ponto seguinte:
+Para utilizar no celular, é necessário que a VPN esteja ligada no momento do início da reprodução, mas uma vez que o vídeo já esteja tocando é possível desligá-la; além disso, uma vez iniciada a reprodução, é possível compartilhar o vídeo com Smart TV / Chromecast ainda que o dispositivo esteja fora da VPN.
+
+#### Globoplay no iPhone
+
+A aplicação Globoplay só está disponível em contas Apple com endereço no Brasil. Até que a Globo publique a aplicação na App Store portuguesa, você precisará:
+
+1. Sair da sua conta Apple portuguesa e entrar com uma conta brasileira (precisará criar em um email secundário da primeira vez)
+2. Baixar ou atualizar o app
+3. Sair da sua conta Apple brasileira e entrar com a conta portuguesa
+4. Configurar novamente Apple Pay (uma vez que ao deslogar essas configurações são perdidas ao deslogar), incluindo para o Apple Watch.
+
+É um processo chato que leva cerca de 15 a 20 minutos. Após o lançamento de uma versão nova, [a aplicação exibe uma mensagem de erro "Ihhh, essa versão já ficou velhinha!", pedindo para atualizar](https://user-images.githubusercontent.com/397851/106725000-c836cd80-6600-11eb-9a59-da23c88da0f6.jpeg). Por um tempo é possível clicar em "Atualizar depois" e seguir utilizando, mas após algum tempo a sua versão não conseguirá mais acessar, e você precisará repetir os passos acima novamente.
 
 ## VPN
 
-Por questões de licenciamento de conteúdos, alguns conteúdos do Brasil podem não estar disponíveis em Portugal. Além disso, o acesso a determinados sites de compartilhamento de arquivos (por ex. The Pirate Bay) é bloqueado. Caso você esbarre com essa necessidade, recomendo os serviços da [NordVPN](https://nordvpn.com). O plano de 3 anos custa US$ 2.99/mês (cobrança a cada 3 anos de US$ 107.55).
+Por questões de licenciamento de conteúdos, alguns conteúdos do Brasil podem não estar disponíveis em Portugal. Além disso, o acesso a determinados sites de compartilhamento de arquivos (por ex. The Pirate Bay) é bloqueado no país, ao tentar acessar esses sites você verá uma mensagem de erro da operadora. Caso você esbarre com essa necessidade, recomendo os serviços da [NordVPN](https://nordvpn.com). O plano de 3 anos custa US$ 2.99/mês (cobrança a cada 3 anos de US$ 107.55).
 
 Para uso gratuito, pode-se usar a VPN integrada no Navegador Opera, com essa VPN os sites com bloqueio Europeu já ficam com acesso. Mais detalhes [clicando aqui](https://www.opera.com/pt/features/free-vpn).
 
 ## App Store
 
-Ao contrário do [Android que permite login na Play Store com múltiplas contas](https://support.google.com/googleplay/answer/2521798?hl=pt), a App Store dos iPhones só permite login em uma conta por vez. Note que só é possível fazer a mudança do país caso não haja assinaturas ativas associadas à conta da Apple, tais como: Apple Arcade, Globo Play etc. Note que não basta cancelar os serviços, é preciso esperar que o prazo contratado transcorra, então caso você postergue a mudança pode se ver "trancado do lado de fora" numa eventual necessidade e ter de passar pelo transtorno de ter de criar outra conta. Recomendo a mudança o quanto antes, uma vez que aplicativos diversos podem ser disponibilizados somente no país, desde apps bancários até, por exemplo, o app do McDonald's, que é um no Brasil e outro em Portugal, e o brasileiro não é compatível com os restaurantes locais.
+Ao contrário do [Android que permite login na Play Store com múltiplas contas](https://support.google.com/googleplay/answer/2521798?hl=pt), a App Store dos iPhones só permite login em uma conta por vez. Não é preciso criar uma nova conta, é possível alterar o país da sua conta Apple.
+
+Só é possível fazer a mudança do país caso não haja assinaturas ativas associadas à conta da Apple, tais como: Apple Arcade, Apple Music, Globo Play etc. Note que não basta cancelar os serviços, é preciso esperar que o prazo contratado transcorra, então caso você postergue a mudança pode se ver "trancado do lado de fora" numa eventual necessidade e ter de passar pelo transtorno de ter de criar outra conta.
+
+Recomendo a mudança o quanto antes, uma vez que aplicativos diversos podem ser disponibilizados somente no país, desde apps bancários até, por exemplo, o app do McDonald's, que é um no Brasil e outro em Portugal, e o brasileiro não é compatível com os restaurantes locais.
 
 Para alterar o país da App Store, siga o link: [Alterar o país ou a região do ID Apple - Suporte Apple](https://support.apple.com/pt-pt/HT201389).
 
