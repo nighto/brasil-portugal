@@ -311,11 +311,13 @@ Posteriormente em Portugal, será necessário fazer um procedimento de equivalê
 
 # Transferência de Animais Domésticos
 
-Esta seção traz informações sobre os procedimentos necessários para trazer seus animais de estimação do Brasil para Portugal. Não foi meu caso; reproduzo as informações fornecidas por [@alfredocdmiranda](https://github.com/alfredocdmiranda) e [@GianDominoni](https://github.com/GianDominoni).
+Esta seção traz informações sobre os procedimentos necessários para trazer seus animais de estimação do Brasil para Portugal. Não foi meu caso; reproduzo as informações fornecidas por [@alfredocdmiranda](https://github.com/alfredocdmiranda), [@GianDominoni](https://github.com/GianDominoni) e [@rafaellsanto](https://github.com/rafaellsanto).
 
 A transferência de animais do Brasil para Portugal segue alguns passos importantes, sem os quais você não poderá embarcar com seu animal. É importante deixar claro que __todo o processo deve ser feito com antecedência, já que demora no mínimo 4 meses (120 dias)__.
 
 1. __Microchipar__ e __dar a vacina de raiva__. O Ministério da Agricultura pode reclamar se elas forem dadas no mesmo dia, por isso, alguns veterinários podem pedir para que você retorne no outro dia para dar a vacina, outros não concordam com isso e podem simplesmente colocar a diferença de um dia no cartão de vacinação e comprovante de microchipagem. Se seu animal já é microchipado, não é necessário fazê-lo novamente. Outra observação importante é que geralmente __as vacinas dadas pelas prefeituras de forma gratuita não são válidas para isso__, pois não é dado o "selo" que comprova qual a vacina, lote e demais informações sobre. Mesmo que seu cão tenha acabado de se vacinar, se for microchipado depois, a vacina perde validade para o que se pretende aqui e terá que ser vacinado novamente.
+
+Dica: O microchip deve ser do __ISO 11784__ ou __ISO 11785__. Confira se o número do microchip está correto na sorologia de raiva, caractere por caractere (um único número de diferença pode dar problema depois).
 
 2. __No mínimo 30 dias após a vacina__, você deverá fazer o exame de sorologia de raiva em um laboratório [(verifique a lista de laboratórios aceitos neste site da União Europeia)](https://ec.europa.eu/food/animals/pet-movement/approved-labs_en). Alguns veterinários não estão acostumados a fazer esse tipo de procedimento, por isso eles não sabem. Depois você irá se dirigir a um veterinário que irá coletar o sangue e irá enviar para o laboratório. Esse é o passo mais caro.
 
@@ -327,7 +329,9 @@ No geral a regra é: a caixa de transporte no porão deve ser aprovada pela IATA
 
 Cães conhecidos como _braquicefálicos_, como pug e bulldog, tem sido proibido de viajar no porão pelo risco de morte por conta de seus focinhos curtos. Então, antes de comprar a passagem, sempre pergunte sobre as políticas da companhia.
 
-5. Cerca de uma semana antes da viagem, você deverá ir ao seu veterinário e pedir um atestado de saúde do seu animal. Esse atestado tem __validade de 10 dias__.
+Dica: cada companhia tem seu limite de peso no porão e na cabine, convém verificar em mais de uma companhia.
+
+5. Cerca de uma semana antes da viagem, você deverá ir ao seu veterinário e pedir um __atestado de saúde__ do seu animal. No site da vigiagro tem o modelo de atestado veterinário, onde o proprio veterinário deve preencher as informações e assinar. É necessario ter feito desparasitação interna e externa por requerimento da Vigiagro. Esse atestado tem __validade de 10 dias__.
 
 6. Você deve ir num posto da [__Vigiagro__](https://www.gov.br/agricultura/pt-br/assuntos/vigilancia-agropecuaria) com 3 dias de antecedência do vôo (se o vôo é na segunda ou na terça, entre em contato com a Vigiagro para saber como deve proceder). Lá você deverá levar toda a documentação:
 
@@ -346,9 +350,11 @@ O posto da Vigiagro não precisa ser necessariamente o do aeroporto, uma vez que
 
 8. Ao chegar no aeroporto internacional do destino, você deverá passar pela DGAV, onde o veterinário ir ver a documentação, checar o microchip e receber o pagamento. Vale ressaltar que as formas de pagamento podem ser alteradas, então é sempre bom perguntar no email qual a forma de pagamento preferida. Você irá receber um papel certificando a passagem na DGAV (guarde esse papel).
 
+Dica: Dê preferência a pagamento em cartão ou transferência bancária. Se for em dinheiro, deve ser o valor exato (validar o valor no e-mail).
+
 9. Em território português você tem 30 dias após a chegada para ir em um veterinário e fazer o cadastro do microchip no [__SIAC__](https://siac.vet) (Sistema de Informação de Animais de Companhia).
 
-10. Também possui 30 dias para ir na Junta de Freguesia de onde você (e o animal) residem e pagar a licença. (Há discussões sobre se essa licença ainda deva ser paga ou não).
+10. Também possui 30 dias para ir na Junta de Freguesia de onde você (e o animal) residem e pagar a licença. (Há discussões sobre se essa licença ainda deva ser paga ou não). Este último ponto parece que não é mais obrigatório (por [@rafaellsanto](https://github.com/rafaellsanto)).
 
 Há um grupo no Facebook que é bem útil para tirar dúvidas e ficar atualizado quanto a procedimentos: [Transferência de Animais Domésticos para Portugal](https://www.facebook.com/groups/252384808490181). Outro site para verificar informações é o da [IATA (International Air Transport Association)](https://www.iata.org/en/youandiata/travelers/traveling-with-pets/).
 
