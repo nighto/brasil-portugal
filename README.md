@@ -5,8 +5,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
 * [Tipos de visto](#tipos-de-visto)
 * [Visto D3 - Documentação Necessária](#visto-d3---documenta%C3%A7%C3%A3o-necess%C3%A1ria)
   * [Antes de pedir o visto](#antes-de-pedir-o-visto)
-    - [Documentos da empresa](#documentos-da-empresa)
-    - [Documentos pessoais](#documentos-pessoais)
+    - [Documentos necessários](#documentos-necessários)
     - [Agendamento](#agendamento)
   * [Após o visto ter sido aprovado, ainda no Brasil](#ap%C3%B3s-o-visto-ter-sido-aprovado-ainda-no-brasil)
     - [Documentos para Autorização de Residência](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia)
@@ -104,145 +103,122 @@ Alguns documentos devem ser apresentados no original, outros basta cópia simple
 
 Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de visto de trabalho; os demais familiares farão um pedido de _Autorização de Residência por Reagrupamento Familiar_ só em Portugal - isto é, entram como turistas (e portanto precisam comprovar passagem de volta) e só então fazem o processo. Mais abaixo listo os documentos necessários para tal.
 
+Dica importante: os documentos devem ser impressos em papel branco (isto é, não pode ser aquele reciclado), somente de um lado (ou seja, não podem ser frente-e-verso) e não devem ser grampeados, ter clips ou post-its colados.
+
+Veja os documentos necessários para poder solicitar o Visto D3, na ordem do [PDF com os requisitos no site da VFS Global](https://www.vfsglobal.com/portugal/Brazil/pdf/D3.pdf):
+
 ## Antes de pedir o visto
 
-### Documentos da empresa
+### Documentos necessários
 
-1. Contrato de trabalho ou Promessa de Contrato de Trabalho
-2. Declaração da Empresa
-3. Carta Convite
-4. Termo de responsabilidade
+#### 1. Formulário de pedido de visto
 
-O **Contrato de Trabalho** deve ser assinado por você e pela empresa em 3 vias, sendo uma da empresa, uma sua e uma para o consulado. A empresa pode enviar as 3 cópias previamente assinadas pelos Correios e pedir para que você envie de volta uma das cópias, ou te convidar para um processo de _onboarding_ presencial em Portugal, de forma que você assinará e retornará com os documentos para iniciar o processo de visto.
+[Este PDF](https://www.vfsglobal.com/portugal/Brazil/pdf/formulario-de-pedido-de-visto.pdf), impresso **em duas vias**, preenchido com letra de forma, com caneta preta, datado e assinado. Se for fazer o pedido presencialmente, ao invés de enviar pelos Correios, sugiro levar uma cópia adicional em branco caso você erre o preenchimento de algum campo.
 
-A legislação prevê também a possibilidade de aceitar uma _Promessa de Contrato de Trabalho_ mas como a empresa já me ofereceu contrato assinado direto, não sei detalhes de como deve ser esse documento.
+Dica: "apelido" quer dizer "sobrenome" em português de Portugal (pt-pt).
 
-A **Declaração da Empresa** é um papel timbrado, datado e assinado pelo gerente da empresa com um texto nessas linhas gerais:
+#### 2. Duas fotos 3x4
 
-> A **Empresa XPTO** é uma empresa Portuguesa na área da tecnologia informática, etc e tal. (...) Devido ao seu exponencial cresimento, a **Empresa XPTO** procura mão-de-obra que (i) já tenha desenvolvido vários projetos nesta área e (ii) saiba utilizar os meios informáticos anteriormente desenvolvidos. Contratar colaboradores experientes no sector, a quem não seja necessário prestar uma formação intensiva, constitui uma enorme mais-valia para a **Empresa XPTO**. (...) Por todas as razões acima identificadas, considerou a **Empresa XPTO** essencial contratar um colaborador brasileiro, o qual reúne todas as características acima evidenciadas.
->
-> É neste sentido que o requerente *seu nome completo* é contratado pela empresa, com a categorial profissional de *o que você irá fazer*.
->
-> O Requerente irá desempenhar as seguintes funções principais: *descrição técnica do que você irá fazer.*
->
-> Sucede ainda que, após um enorme esforço de muita procura, a área de recursos humanos da **Empresa XPTO** não logrou identificar qualquer colaborador que se revelasse, não só pelas suas qualificações, como pela sua experiência e formação, ser tão adequado para o cargo que o colaborador em causa vai desempenhar.
->
-> Por todas estas razões, e ponderado todo o enquadramento acima referido, a **Empresa XPTO** optou então pela contratação de um colaborador brasileiro para os seus quadros.
+[Veja aqui mais detalhes sobre a especificação das fotografias, basta clicar na tab "Especificações para Fotografias"](https://www.vfsglobal.com/portugal/Brazil/residency-visa.html). Em resumo, a foto deve ser no formato 3x4cm convencional, com fundo branco, boa resolução e sem nenhum elemento que obstrua o rosto, como chapéus ou bonés.
 
-A **Carta Convite** é um documento descrevendo seus benefícios contratuais: qual o valor mensal ou anual de salário, quantos dias de férias, quanto de auxílio-alimentação etc.
+#### 3. Passaporte
 
-Por fim o **Termo de Responsabilidade** é uma declaração datada e assinada em papel timbrado nessas linhas gerais:
+Obviamente para viajar para fora do país o primeiro passo é ter um passaporte com data de validade válida (pelo menos 3 meses após a uma hipotética "data de volta", que pode ser um mês após a chegada em Portugal). Os passaportes atuais tipicamente são emitidos com validade de 10 anos.
 
-> **Empresa XPTO**, com o NIF *123456789* com sede na *Rua tal, CP tal, cidade tal, Portugal*, neste ato representada por *Fulano de tal*, na qualidade de *cargo do gente boa*, titular do cartão cidadão n° *tal*, válido até *tal data*, na qualidade de empresa anfitriã de **seu nome**, de nacionalidade *brasileira*, nascido a *data tal*, titular do passporte n° *tal*, emitido em *data tal* e válido até *tal data*, declara para os devidos efeitos que ser responsabiliza por todas as despesas inerentes à estada daquele colaborador em Portugal, nomeadamente no que diz respeito a saúde e repatriamento, se necessário.
+Dica: é mais barato fazer um passaporte no Brasil do que no consulado de Portugal, então se faltar poucos anos para seu passaporte vencer, sugiro que já faça um novo na mesma.
 
-Na minha opinião pessoal a empresa que está oferecendo o contrato deve disponibilizar toda essa documentação sem que você tenha que _correr atrás_ - pelo menos foi assim comigo -, então essa seção é de caráter meramente informativo.
-
-### Documentos pessoais
-
-#### 1. Passaporte + cópia autenticada
-
-Obviamente para viajar para fora do país o primeiro passo é ter um passaporte com data de validade válida. Os passaportes atuais tipicamente são emitidos com validade de 10 anos. Se você já tem um passaporte, faça uma cópia autenticada das páginas com seus dados e pule para a próxima seção. Se não, veja os detalhes no site da [Polícia Federal](https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro).
+Se você já tem um passaporte válido, será preciso fazer cópia de algumas páginas, pule para o item seguinte. Se não, veja os detalhes no site da [Polícia Federal](https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro).
 
 No meu caso, já tinha passaportes mas eles estavam vencidos, então precisei renovar para mim e para minha família.
 
-O passo inicial é [preencher um formulário online](https://www.gov.br/pf/pt-br/assuntos/passaporte/passaporte.html?dispatch=formulario). Se você é do interior, precisará viajar até um posto da Polícia Federal do seu estado para a emissão do passaporte. Será preciso ir duas vezes: uma para levar os documentos, tirar foto e coletar as digitais e outra para pegar o documento.
+O passo inicial é [preencher um formulário online](https://www.gov.br/pf/pt-br/assuntos/passaporte/passaporte.html?dispatch=formulario). Se você é do interior, precisará viajar até um posto da Polícia Federal do seu estado para a emissão do passaporte. Será preciso ir duas vezes: uma para entregar os documentos, tirar foto e coletar as digitais; e outra para pegar o documento.
 
 O site da Polícia Federal informa a [lista de documentos necessários](https://www.gov.br/pf/pt-br/assuntos/passaporte/passaporte.html?dispatch=documentos). É preciso estar em dia com a Justiça Eleitoral (ter votado na última eleição, justificado ou pago a multa) e, para os homens, estar em quite com o serviço militar obrigatório. Não é necessário levar título de eleitor ou certificado de reservista, as verificações são feitas pela PF online.
 
 Se você tem filhos entre 0 e 4 anos, [verifique na página de dúvidas frequentes da Polícia Federal a tabela de validade por idade](https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro), uma vez que se a data de aniversário estiver próxima, pode ser interessante esperar passar o aniversário para ter uma validade maior. Como o passaporte leva apenas alguns dias para ficar pronto enquanto o visto pode levar alguns meses (e você não precisa apresentar o passaporte dos filhos para dar entrada no visto), você pode fazer o documento dos filhos mais próximo da data da viagem para ter uma validade potencialmente maior. Note que os filhos precisam estar presentes nas duas visitas ao posto da Polícia Federal, ou seja tanto para dar entrada quanto para retirar o documento.
 
-- Custo: R\$ 257,25 por pessoa;
-- Autenticação: ~R\$ 8.
+Enquanto o pedido do visto tramita (o que pode levar de 15 dias a 6 meses, comigo levou pouco menos de 2 meses) seu passaporte ficará retido com eles, então tenha este prazo em mente pois isto impedirá outras viagens para o exterior. Caso você tenha uma viagem marcada, é possível contratar um serviço a parte aonde você apresenta somente a cópia, e uma vez que o visto seja emitido (isto é, fisicamente o adesivo esteja pronto para colar no passaporte) você envia o passaporte para eles por um período de somente alguns dias. Se for a sua necessidade, verifique com a VFS Global esta possibilidade.
 
-#### 2. RG ou Carteira de Motorista + cópia autenticada
+- Custo: R\$ 257,25 por pessoa.
 
-Dica: se você for do RJ, desde abril de 2019 há um [**novo modelo de identidade civil**](http://www.detran.rj.gov.br/_monta_aplicacoes.asp?doc=10777&cod=14&tipo=exibe_noticias&pag_noticias=true) emitida pelo Detran que condensa dados de diversos documentos: título de eleitor, carteira de trabalho, certificado de reservista, número do SUS e até tipo sanguíneo. Se a sua identidade estiver velha você pode aproveitar para pedir uma segunda via, que aqui no Rio custa R\$ 38,58. [Veja mais detalhes no site do Detran-RJ](http://www.detran.rj.gov.br/_documento.asp?cod=160).
-Dica da dica: para incluir o tipo sanguíneo é necessário apresentar um exame (não basta auto-declaração).
+#### 4. Cópia do Passaporte
 
-- Autenticação: ~R\$ 8.
+É preciso tirar uma cópia simples das páginas com seus dados, e de todas as páginas que tiverem carimbos (caso você já tenha viajado para o exterior com esse passaporte).
 
-#### 3. Antecedentes Criminais na Polícia Federal + apostilamento
+#### 5. Para estrangeiros: Comprovativo da situação regular caso seja de outra nacionalidade
+
+"Comprovativo da situação regular caso seja de outra nacionalidade que não a do país onde solicita visto ((Registo Nacional de Estrangeiros – RNE) com validade de 3 meses após data prevista de regresso". **Não se aplica a brasileiros.**
+
+#### 6. CDAM/PB4
+
+O Certificado de Direito a Assitência Médica, também conhecido como PB4, é um acordo entre Portugal, Brasil, Itália e Cabo Verde que permite a utilização de hospitais públicos dos 4 países por seus cidadãos. Os hospitais públicos em Portugal, ao contrário do Brasil, são pagos para turistas, e mesmo para portugueses alguns procedimentos não-emergenciais podem ser cobrados (taxa moderadora). Com o PB4, você poderá ter atendimento nos hospitais públicos portugueses na mesma condições que os cidadãos, isto é, sendo atendido gratuitamente em emergências e pagando a taxa moderadora normal para consultas eletivas.
+
+Antigamente este documento era obtido presencialmente junto ao Ministério da Saúde, mas desde 2020 pode ser gerado online no portal gov.br: **[Obter o Certificado de Direito à Assistência Médica (CDAM)](https://www.gov.br/pt-br/servicos/obter-certificado-de-direito-a-assistencia-medica)**.
+
+Caso vá com cônjuge e/ou filhos, inclua-os no certificado.
+
+O PDF menciona (meu destaque):
+
+> Seguro de viagem válido, que permita cobrir as despesas necessárias por razões médicas, incluindo assistência médica urgente e eventual repatriamento em caso de morte **ou** PB4 emitido pelo Ministério da Saúde do Brasil.
+
+Ou seja, o seguro viagem só é necessário se você não puder emitir o PB4 (por exemplo, se não for brasileiro).
+
+- Custo: R\$ 0.
+
+#### 7. Antecedentes Criminais na Polícia Federal + apostilamento
 
 [A Polícia Federal emite um documento atestando que não há condenações criminais em seu nome.](http://www.pf.gov.br/servicos-pf/antecedentes-criminais) Este documento pode ser emitido online gratuitamente, sai na hora, tem validade de 90 dias e precisa ser apostilado (verifique o anexo o significado deste termo).
 
-Dica: Como ele só é válido por 90 dias, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos, do contrário pagará pelo apostilamento de um documento que não terá mais valor no decorrer do processo.
+O certificado de registro criminal deve ter sido emitido nos últimos 30 dias do pedido.
+
+Dica: Como ele só é válido por 90 dias e sai na hora, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos (isto é, quando você receber o passaporte etc.), para que ele seja válido pelo maior tempo possível.
 
 - Custo: R\$ 0;
 - Apostilamento: ~R\$ 50.
 
-#### 4. CDAM/PB4 e Seguro Saúde
+#### 8. Declaração de autorização de consulta de antecedentes criminais em Portugal
 
-O Certificado de Direito a Assitência Médica, também conhecido como PB4, é um acordo entre Portugal, Brasil, Itália e Cabo Verde que permite a utilização de hospitais públicos dos 4 países por seus cidadãos. Os hospitais públicos em Portugal, ao contrário do Brasil, são pagos para turistas, e mesmo para cidadãos alguns procedimentos não-emergenciais podem ter uma cobrança (taxa moderadora). Antigamente este documento era obtido presencialmente junto ao Ministério da Saúde, mas desde 2020 pode ser gerado online no portal gov.br: [Obter o Certificado de Direito à Assistência Médica (CDAM)](https://www.gov.br/pt-br/servicos/obter-certificado-de-direito-a-assistencia-medica).
+[Este PDF impresso e assinado](https://www.vfsglobal.com/portugal/Brazil/pdf/new-requerimento-l.pdf).
 
-Caso vá com cônjuge e/ou filhos, inclua-os no certificado.
+#### 9. Contrato de Trabalho ou Promessa de Contrato de Trabalho
 
-- Custo: R\$ 0.
+Copiando o PDF:
 
-#### 5. Diploma universitário + apostilamento
+> Contrato de trabalho ou de promessa de contrato de trabalho válidas com, pelo menos, um ano de duração, a que corresponda uma remuneração anual de, pelo menos, 1,5 vezes o salário anual bruto médio nacional ou três vezes o valor indexante de apoios sociais (IAS).
 
-Como o visto D3 é para trabalhadores _altamente qualificados_, é necessário anexar ao processo seu diploma universitário (que, aliás, pode ser tecnólogo, uma dúvida que eu tinha). Será necessário reconhecer firma de quem assina o diploma e fazer o apostilamento do documento, nessa ordem.
+O **Contrato de Trabalho** deve ser assinado por você e pela empresa em 3 vias, sendo uma da empresa, uma sua e uma para o consulado. A empresa pode enviar as 3 cópias previamente assinadas pelos Correios e pedir para que você envie de volta uma das cópias, ou te convidar para um processo de _onboarding_ presencial em Portugal, de forma que você assinará e retornará com os documentos para iniciar o processo de visto.
 
-Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, também é aceito uma certidão de colação de grau / conclusão de curso (tipicamente emitidas após colar grau e antes da entrega do diploma). Neste caso, o pedido do visto será feito com o certificado, mas ao receber o diploma - muito provavelmente enquanto aguarda o visto sair - não deixe de reconhecer firma e apostilar.
+A legislação prevê também a possibilidade de aceitar uma _Promessa de Contrato de Trabalho_ mas como a empresa já me ofereceu contrato assinado direto, não sei detalhes de como deve ser esse documento.
 
-Dica: caso você tenha recém concluído seu curso mas ainda não tenha colado grau, verifique com a universidade a possibilidade de uma _colação de grau antecipada_. No meu caso, levei à reitoria a carta convite fornecida pela empresa. A UFF exigiu que a carta convite tivesse uma data limite para disponibilização da vaga, sugerindo a data de um mês para que o processo ocorresse de maneira célere. Apenas para dar uma ideia da velocidade: fui à UFF dia 02/08/2019, colei grau dia 07/08/2019 (numa cerimônia específica para quem pediu antecipação, com meia dúzia de alunos de outros cursos) e recebi o diploma dia 20/08/2019.
+#### 10. Diploma e Currículo
+
+Copiando o PDF:
+
+>  Profissão não regulamentada: prova de que é ser titular de qualificações profissionais elevadas adequadas à atividade ou setor especificado no contrato / promessa de contrato de trabalho.
+
+Neste passo você deve anexar uma cópia do seu diploma e currículo.
+
+Como o visto D3 é para trabalhadores _altamente qualificados_, é necessário anexar ao processo seu diploma universitário (que, aliás, pode ser tecnólogo, uma dúvida que eu tinha). Será necessário reconhecer firma de quem assina o diploma, fazer o apostilamento do documento, e depois fazer uma cópia autenticada do diploma frente e verso, nessa ordem.
+
+Caso você tenha concluído o curso mas ainda não tenha recebido o diploma, também é aceito uma certidão de colação de grau / conclusão de curso (tipicamente emitidas após colar grau e antes da entrega do diploma). Neste caso, o pedido do visto será feito com o certificado, mas ao receber o diploma - provavelmente enquanto aguarda o visto sair - não deixe de reconhecer firma e apostilar. Verifique com a universidade a possibilidade de receber o diploma antecipadamente devido a sua emigração pendente.
+
+Dica: caso você tenha recém concluído seu curso mas ainda não tenha colado grau, verifique com a universidade a possibilidade de uma _colação de grau antecipada_. No meu caso, levei à reitoria a carta convite fornecida pela empresa. A UFF exigiu que a carta convite tivesse uma data limite para disponibilização da vaga, sugerindo a data de um mês para que o processo ocorresse de maneira célere. Apenas para dar uma ideia da velocidade: fiz o pedido à UFF no dia 02/08/2019, colei grau no dia 07/08/2019 (numa cerimônia específica para quem pediu antecipação, com meia dúzia de alunos de outros cursos) e recebi o diploma no dia 20/08/2019.
 
 - Reconhecimento de firma: ~R\$ 10.
 - Apostilamento: ~R\$ 50.
+- Autenticação de cópia: ~R\$ 8.
 
-#### 6. Comprovantes de Renda brasileiros
+#### 11. Comprovativo de Meios de Subsistência / Termo de Responsabilidade
 
-É preciso comprovar renda no Brasil. É exigido uma cópia simples da declaração de Imposto de Renda do último ano, assim como dos 3 últimos contra-cheques. Não é necessário autenticar ou apostilar.
+O **Termo de Responsabilidade** é uma declaração da empresa, datada, assinada e em papel timbrado nessas linhas gerais:
 
-#### 7. Comprovantes de casamento/união estável/certidão de nascimento
+> **Empresa XPTO**, com o NIF *123456789* com sede na *Rua tal, CP tal, cidade tal, Portugal*, neste ato representada por *Fulano de tal*, na qualidade de *cargo do gente boa*, titular do cartão cidadão n° *tal*, válido até *tal data*, na qualidade de empresa anfitriã de **seu nome**, de nacionalidade *brasileira*, nascido a *data tal*, titular do passporte n° *tal*, emitido em *data tal* e válido até *tal data*, declara para os devidos efeitos que ser responsabiliza por todas as despesas inerentes à estada daquele colaborador em Portugal, nomeadamente no que diz respeito a saúde e repatriamento, se necessário.
 
-Caso você vá se mudar para Portugal com cônjuge ou filhos, será necessário uma cópia autenticada da certidão de casamento, de união estável e/ou de nascimento. **Detalhe importante**: a certidão deve ter sido emitida há **menos de 6 meses** da data da viagem. Portanto você provavelmente precisará solicitar uma segunda via.
+Na minha opinião pessoal a empresa que está oferecendo o contrato deve disponibilizar toda essa documentação sem que você tenha que _correr atrás_ - pelo menos foi assim comigo -, então essa seção assim como a do contrato / promessa de contrato é de caráter meramente informativo.
 
-Se você vive em um matrimônio não-oficializado, precisará de um documento comprovativo para seu cônjuge poder se mudar com você para Portugal. Como é aceito tanto união estável quanto casamento, sugiro que faça união estável por esta ser mais barata que o casamento. Os valores variam de cartório para cartório, mas os valores aproximados são: ~R$ 300 para união estável e ~R$ 800 para casamento civil.
+#### 12. Termo de Consentimento
 
-- Custo: (varia de cartório para cartório);
-- Autenticação: ~R\$ 8 por certidão.
-
-#### 8. Comprovante de Residência
-
-Uma cópia simples de uma conta de água, eletricidade, gás ou telefone em seu nome, de seu cônjuge ou de seu responsável. Não é necessário autenticar ou apostilar.
-
-#### 9. Currículo
-
-Uma cópia do seu CV.
-
-#### 10. Declaração de autorização de consulta de antecedentes criminais em Portugal
-
-[Este PDF impresso e assinado](https://www.vistos.mne.pt/images/schengen/formularios/aut_consulta_rc.pdf).
-
-#### 11. Declaração de Ciência do Fato
-
-Um documento assinado por você declarando que não irá viajar para Portugal sem ter um visto apropriado. [Este PDF impresso, preenchido e assinado](http://consuladoportugalrj.org.br/site2017/wp-content/uploads/2017/02/declaracao-ciente-que-nao-deve-viajar-sem-o-visto.pdf).
-
-#### 12. Declaração de Próprio Punho
-
-Um documento impresso e assinado por você declarando seus motivos para requerer o visto, no modelo a seguir.
-
-> **DECLARAÇÃO**
->
-> Eu, _**nome completo em negrito**_, estado civil _tal_, residente em _seu endereço completo_, titulo do passaporte n.º _AB123456_, e válido até _DD.MM.YYYY_, com diploma de _tal_ pela Universidade _tal_, sou atualmente especializado na área de _preencha_. Irei para Portugal, pelo período de _tanto tempo_, trabalhar na empresa _razão social da empresa_, para desempenhar as seguintes funções: _preencha_.
->
-> Pela minha formação e experiência profissional, irei contribuir com _preencha_, serei responsável por _preencha_, e farei parte do projeto _preencha_.
->
-> Em Portugal irei ficar alojado num hotel durante as primeiras semanas até encontrar um apartamento que possa arrendar pelo período total da minha permanência no país.
->
-> _dd de Mês por Extenso de YYYY_
->
-> _sua assinatura_
->
-> _**nome completo em negrito**_
-
-#### 13. Formulário de pedido de visto impresso, preenchido com letra de forma, caneta preta e assinado
-
-[Este PDF](https://www.vistos.mne.pt/images/schengen/formularios/pedido_de_visto_de_longa_duracao_pt.pdf). Sugiro levar uma cópia adicional em branco caso seja necessário corrigir alguma informação equivocada.
-
-#### 14. Duas fotos 3x4cm
-
-[Veja aqui mais detalhes sobre a especificação das fotografias, basta clicar na tab "Especificações para Fotografias"](https://www.vfsglobal.com/portugal/Brazil/residency-visa.html). A foto deve ser no formato 3x4cm convencional, com fundo branco, boa resolução e sem nenhum elemento que obstrua o rosto, como chapéus ou bonés.
+[Este PDF impresso, datado e assinado](https://www.vfsglobal.com/portugal/Brazil/pdf/consent.pdf).
 
 ### Agendamento
 
@@ -268,7 +244,7 @@ Os únicos documentos brasileiros necessários para pedir a AR são o passaporte
 
 ### Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)
 
-Seu cônjuge e filhos, se houver, precisarão da seguinte lista de documentos do Brasil para fazer pedir AR por Reagrupamento Familiar:
+Seu cônjuge e/ou filhos, se houver, precisarão da seguinte lista de documentos do Brasil para pedir Autorização de Residência por Reagrupamento Familiar:
 
 #### 1. Certidão de Antecedentes Criminais
 Emitida na Polícia Federal, ou no país aonde você vive há pelo menos 1 ano se não for o Brasil. Para filhos, somente se maiores de 16 anos. Pode ser emitida online e [para brasileiros não é necessário apostilar, de acordo com o site do consulado brasileiro no Porto](http://porto.itamaraty.gov.br/pt-br/certidao_de_antecedentes_criminais.xml).
@@ -277,7 +253,9 @@ Emitida na Polícia Federal, ou no país aonde você vive há pelo menos 1 ano s
 
 #### 2. Certidão de União Estável ou Casamento
 
-**Deve ser emitida a menos de 6 meses da data da viagem para Portugal**. Caso você seja casado ou unido estavelmente a mais tempo, será preciso pedir uma segunda via. É necessário apostilar.
+Caso você vá se mudar para Portugal com cônjuge, será necessário certidão de casamento ou de união estável, e o documento deve ser apostilado. **Detalhe importante**: a certidão deve ter sido emitida há **menos de 6 meses** da data da viagem. Portanto você provavelmente precisará solicitar uma segunda via.
+
+Se você vive em um matrimônio não-oficializado, precisará de um documento comprovativo para seu cônjuge poder se mudar com você para Portugal. Como é aceito tanto união estável quanto casamento, sugiro que faça união estável por esta ser mais barata que o casamento. Os valores variam de cartório para cartório, mas os valores aproximados são: ~R$ 300 para união estável e ~R$ 800 para casamento civil.
 
 - Custo da segunda via: varia por cartório, ~R\$ 50
 - Apostilamento: ~R\$ 50.
@@ -298,7 +276,7 @@ Uma vez que para pedir o Visto D3 você precisará apostilar seu diploma de curs
 
 No caso dos filhos, o histórico escolar é a comprovação do ensino que a criança teve. Para se matricular numa escola portuguesa será preciso fazer junto à escola portuguesa um procedimento chamado Equivalência escolar, e para tal será necessário o histórico escolar apostilado no Brasil. Mais detalhes na seção correspondente.
 
-No caso do cônjuge, ainda que não tenha curso superior nem a pretensão de fazê-lo, recomendo que reconheça firma e apostile o diploma do ensino médio e histórico escolar. Isto porque, fora cursos universitários, mesmo para participar de cursos livres oferecidos pelo [Instituto do Emprego e Formação Profissional](https://www.iefp.pt/) e iniciativas similares, tais como o [UPskill](https://upskill.pt/), será necessário comprovar a escolaridade, passando pelo mesmo procedimento de Equivalência escolar e ainda por um procedimento de Declaração de Escala de Notas, que converterá as notas brasileiras para o sistema português.
+No caso do cônjuge, ainda que não tenha curso superior nem pretensão de seguir nos estudos, recomendo que reconheça firma e apostile o diploma do ensino médio e histórico escolar. Isto porque, fora cursos universitários, mesmo para participar de cursos livres oferecidos pelo [Instituto do Emprego e Formação Profissional](https://www.iefp.pt/) e iniciativas similares, tais como o [UPskill](https://upskill.pt/), será necessário comprovar a escolaridade, passando pelo mesmo procedimento de Equivalência escolar e ainda por um procedimento de Declaração de Escala de Notas, que converterá as notas brasileiras para o sistema português.
 
 É importante reconhecer firma e depois apostilar o(s) documento(s), nessa ordem - e não o inverso - uma vez que o apostilamento autenticará não só o documento mas também o reconhecimento da assinatura internacionalmente.
 
@@ -368,7 +346,7 @@ O **NIF** _(Número de Identificação Fiscal)_ é o equivalente do nosso CPF e 
 
 Para abrir um NIF sem ter residência em Portugal, você precisará do passaporte, comprovante de residência do Brasil e ir junto com um "representante fiscal" (que pode ser um cidadão português - um funcionário do RH da empresa, como foi meu caso, por exemplo - ou um estrangeiro com título de residência) até um centro de atendimento dos Serviços de Finanças (loja própria ou dentro de uma das Lojas do Cidadão) com estes documentos (não precisa de cópias). Antes da pandemia não era necessário agendamento prévio, bastava pegar senha para atendimento na hora, mas no momento é preciso ligar para agendar o atendimento presencial.
 
-Veja mais detalhes no site [Euro Dicas](https://www.eurodicas.com.br/nif-portugal/).
+Veja mais detalhes no site ePortugal: [Pedir o Número de Identificação Fiscal para Pessoa Singular](https://eportugal.gov.pt/servicos/pedir-o-numero-de-identificacao-fiscal-para-pessoa-singular).
 
 - Custo: Gratuito.
 
