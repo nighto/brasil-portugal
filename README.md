@@ -25,6 +25,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [Justiça Eleitoral](#justiça-eleitoral)
   - [Carteira de Motorista](#carteira-de-motorista)
   - [IRS](#irs)
+    - [Deduções](#deduções)
   - [Estatuto de Igualdade](#estatuto-de-igualdade)
   - [Certificado de Conclusão do Ensino Secundário](#certificado-de-conclusão-do-ensino-secundário)
   - [Abono de família para crianças e jovens](#abono-de-família-para-crianças-e-jovens)
@@ -145,9 +146,9 @@ Enquanto o pedido do visto tramita (o que pode levar de 15 dias a 6 meses, comig
 
 É preciso tirar uma cópia simples das páginas com seus dados, e de todas as páginas que tiverem carimbos (caso você já tenha viajado para o exterior com esse passaporte).
 
-#### 5. Para estrangeiros: Comprovativo da situação regular caso seja de outra nacionalidade
+#### 5. Para estrangeiros: Comprovativo da situação regular caso seja de outra nacionalidade
 
-"Comprovativo da situação regular caso seja de outra nacionalidade que não a do país onde solicita visto ((Registo Nacional de Estrangeiros – RNE) com validade de 3 meses após data prevista de regresso". **Não se aplica a brasileiros.**
+"Comprovativo da situação regular caso seja de outra nacionalidade que não a do país onde solicita visto ((Registo Nacional de Estrangeiros – RNE) com validade de 3 meses após data prevista de regresso". **Não se aplica a brasileiros.**
 
 #### 6. CDAM/PB4
 
@@ -159,7 +160,7 @@ Caso vá com cônjuge e/ou filhos, inclua-os no certificado.
 
 O PDF menciona (meu destaque):
 
-> Seguro de viagem válido, que permita cobrir as despesas necessárias por razões médicas, incluindo assistência médica urgente e eventual repatriamento em caso de morte **ou** PB4 emitido pelo Ministério da Saúde do Brasil.
+> Seguro de viagem válido, que permita cobrir as despesas necessárias por razões médicas, incluindo assistência médica urgente e eventual repatriamento em caso de morte **ou** PB4 emitido pelo Ministério da Saúde do Brasil.
 
 Ou seja, o seguro viagem só é necessário se você não puder emitir o PB4 (por exemplo, se não for brasileiro).
 
@@ -184,7 +185,7 @@ Dica: Como ele só é válido por 90 dias e sai na hora, deixe para emitir e esp
 
 Copiando o PDF:
 
-> Contrato de trabalho ou de promessa de contrato de trabalho válidas com, pelo menos, um ano de duração, a que corresponda uma remuneração anual de, pelo menos, 1,5 vezes o salário anual bruto médio nacional ou três vezes o valor indexante de apoios sociais (IAS).
+> Contrato de trabalho ou de promessa de contrato de trabalho válidas com, pelo menos, um ano de duração, a que corresponda uma remuneração anual de, pelo menos, 1,5 vezes o salário anual bruto médio nacional ou três vezes o valor indexante de apoios sociais (IAS).
 
 O **Contrato de Trabalho** deve ser assinado por você e pela empresa em 3 vias, sendo uma da empresa, uma sua e uma para o consulado. A empresa pode enviar as 3 cópias previamente assinadas pelos Correios e pedir para que você envie de volta uma das cópias, ou te convidar para um processo de _onboarding_ presencial em Portugal, de forma que você assinará e retornará com os documentos para iniciar o processo de visto.
 
@@ -194,7 +195,7 @@ A legislação prevê também a possibilidade de aceitar uma _Promessa de Contra
 
 Copiando o PDF:
 
->  Profissão não regulamentada: prova de que é ser titular de qualificações profissionais elevadas adequadas à atividade ou setor especificado no contrato / promessa de contrato de trabalho.
+>  Profissão não regulamentada: prova de que é ser titular de qualificações profissionais elevadas adequadas à atividade ou setor especificado no contrato / promessa de contrato de trabalho.
 
 Neste passo você deve anexar uma cópia do seu diploma e currículo.
 
@@ -558,6 +559,8 @@ As alíquotas de imposto tem bem mais variações do que no Brasil (que são de 
 Ao contrário da Declaração do Imposto de Renda do Brasil, em que é preciso baixar um programa, instalar o Java etc., a declaração do IRS português é feita online, direto no [site das Finanças - IRS](https://irs.portaldasfinancas.gov.pt/home.action). É preciso ter um código de acesso para o portal, que é recebido por carta, conforme [detalhado na seção anterior sobre o NIF](#nif). Os dados já vem pré-preenchidos, basta conferir, corrigir alguma eventual discrepância e entregar a declaração.
 
 ### Deduções
+
+Nesta seção apresento algumas dicas para que você possa maximizar o seu valor de restituição de imposto de renda.
 
 De forma similar às deduções do imposto de renda do Brasil, que abrangiam basicamente despesas com saúde e educação, aqui há mais despesas que são dedutíveis, conforme a lista a seguir.
 
