@@ -15,6 +15,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
 * [Transferência de Animais Domésticos](#transferência-de-animais-domésticos)
 * [Em Portugal](#em-portugal)
   - [NIF](#nif)
+    - [Acesso ao Portal das Finanças](#acesso-ao-portal-das-finanças)
   - [Conta Bancária](#conta-banc%C3%A1ria)
   - [NISS](#niss)
   - [Autorização de Residência (AR)](#autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-ar)
@@ -355,7 +356,9 @@ Após ter um contrato de arrendamento - isto é, alugado uma casa ou apartamento
 
 É importante tirar o NIF para o cônjuge, ainda que ele não trabalhe, e também para os filhos para efeito de dedução de imposto de renda relativo a dependentes. Para isso, você precisará levar o comprovante de agendamento no SEF e um dos dois documentos: contrato de arrendamento **ou** comprovativo de moradia obtido junto a Freguesia.
 
-Uma vez tendo recebido a AR, é possível acessar o [Portal das Finanças](https://www.portaldasfinancas.gov.pt/) e solicitar acesso, recebendo um código por carta. Este acesso será necessário para fazer a declaração do imposto de renda a partir do próximo ano, então convém já deixar o acesso pronto para agilizar.
+### Acesso ao Portal das Finanças
+
+Uma vez com o NIF e tendo recebido o Título de Residência, é possível [acessar o Portal das Finanças e criar uma conta](https://www.acesso.gov.pt/unauthed/novoUtilizadorForm?partID=PFAP&path=/geral/dashboard). A senha será enviada por carta à morada indicada no seu Título de Residência. Este acesso será necessário para fazer a declaração do imposto de renda a partir do próximo ano, assim como para obter o comprovativo do contrato de arrendamento, então convém já criar a conta para agilizar.
 
 ## Conta Bancária
 
@@ -367,7 +370,7 @@ Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recome
 
 O **NISS** (Número de Identificação de Segurança Social) é equivalente ao nosso PIS. É criado preenchendo um formulário impresso e enviado pelo seu empregador (ao menos foi assim comigo). Você precisará de uma fotocópia certificada do passaporte e página do visto, e poderá fazer isto nas agências do CTT, os Correios de Portugal. A emissão do NISS é gratuita, mas a fotocópia certificada custa 18 €. Veja mais detalhes [na página do CTT](https://www.online24.pt/autenticacao-de-documentos-nos-ctt/).
 
-Uma vez recebido o número por email é possível acessar o [site do NISS, registrar acesso e solicitar senha de acesso por carta](https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin), o que recomendo que já seja feito o quanto antes pois será necessário para outros pedidos, como o do Cartão Europeu Seguro Doença (mais detalhes sobre isso abaixo).
+Uma vez recebido o número por email é possível acessar o [site do NISS, registrar acesso e solicitar senha de acesso por carta](https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin), o que recomendo que já seja feito o quanto antes pois será necessário para outros pedidos, como o do [Cartão Europeu Seguro Doença](#cartão-europeu-seguro-doença).
 
 [Veja mais detalhes sobre o NISS neste artigo no site do Euro Dicas](https://www.eurodicas.com.br/niss-como-fazer/).
 
