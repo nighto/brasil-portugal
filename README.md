@@ -78,7 +78,7 @@ Existem alguns tipos de vistos possíveis para trabalhar de forma legal em Portu
   - [Tech Visa](<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Tech-Visa.aspx>) - um novo tipo de visto específico para profissionais de informática **exclusivo para empresas que aderiram a este programa do governo**. É possível conferir uma lista com as empresas certificadas [aqui](https://pt.teamlyzer.com/static/uploads/blog/EmpresasCertificadasTechVisa.pdf). Os pedidos de vistos D3 **podem ou não** ser associados a uma posição em empresa que faz parte do programa Tech Visa. O Tech Visa é apenas um facilitador para obter o visto, de forma que a sua utilização é **opcional para a emissão de visto D3**.
 - [**D2** - _"Visto de residência para exercício de atividade profissional independente ou para imigrantes empreendedores"_](https://sites.google.com/site/leximigratoria/artigo-60-o-visto-de-residencia-para-exercicio-de-atividade-profissional-independente-ou-para-imigrantes-empreendedores), para quem vai trabalhar como "recibos verdes", **"similar a PJ"**
 - [**D1** - _"Visto de residência para exercício de atividade profissional subordinada"_](https://sites.google.com/site/leximigratoria/artigo-59-o-visto-de-residencia-para-exercicio-de-atividade-profissional-subordinada), similar ao D3 porém para áreas que não sejam "altamente qualificadas". Em outras palavras, quem irá trabalhar com tecnologia pode escolher pelo visto D1 ou D3.
-- **Familiar de Cidadão Europeu** não precisa de visto, apenas o passaporte válido do cidadão europeu, o passaporte do(s) familiar(es) válido(s) e certidão de casamento apostilada (no caso de cônjuges) e de nascimento apostilada (no caso de filhos). Não há necessidade da certidão de casamento ou nascimento estar registrada no estado de origem da cidadania europeia, a certidão de casamento/nascimento emitida no Brasil e apostilada serve para entrada em Portugal.
+- [**Familiar de Cidadão Europeu**](#familiar-de-cidadao-europeu) não precisa de visto, apenas o passaporte válido do cidadão europeu, o passaporte do(s) familiar(es) válido(s) e certidão de casamento apostilada (no caso de cônjuges) e de nascimento apostilada (no caso de filhos). Não há necessidade da certidão de casamento ou nascimento estar registrada no estado de origem da cidadania europeia, a certidão de casamento/nascimento emitida no Brasil e apostilada serve para entrada em Portugal.
 
 No meu caso, fiz o **D3 (sem Tech Visa)**, então para detalhes sobre os outros tipos de visto, **pull requests são bem-vindos**.
 
@@ -288,6 +288,35 @@ Posteriormente em Portugal, será necessário fazer um procedimento de equivalê
 
 - Reconhecimento de firma: ~R$ 10 por documento.
 - Apostilamento: ~R$ 50 por documento.
+
+# Familiar de Cidadão Europeu
+
+O familiar de Cidadão Europeu tem direito a entrar em Portugal sem necessidade de visto. No meu caso, vim com um contrato de promessa de trabalho, certidão de casamento apostilada, passaportes válidos, comprovante de hospedagem e passagem de volta comprada. Na entrada em Portugal (antigo SEF) apresentamos passaportes, certidão de casamento apostilada e apenas dissemos que ficaríamos 20 dias no país. Não foi necessário apresentar extratos bancários de conta corrente ou cartão de crédito que comprovasse que tínhamos como nos manter no país.
+
+Apesar de ter contrato de promessa de trabalho, fomos orientados a não apresentá-lo na entrada a Portugal porque apesar do familiar da união europeia ter direito a trabalhar em Portugal tal qual o membro da união europeia, muitos funcionários do SEF fazem confusão ou não compreendem bem essa lei. Inclusive, quando fui dar entrada no meu título de residência do SEF, me disseram que eu precisaria ter feito manifestação de interesse, o que está incorreto tendo em vista que sou familiar da união europeia. A advogada que me acompanhava explicou a atendende, citou a lei, e ficou tudo resolvido. Porém, Portugal é assim: cada servidor público pode ter a sua opinião que nem sempre é pautada na lei e isso pode prejudicar a sua entrada.
+
+Essencialmente, o familiar de cidadão da união europeia tem livre acesso a Portugal, mas é bom ter os cuidados que mencionei acima em mente.
+
+## Registrando-se em Portugal
+
+### Cidadão da União Europeia
+
+Processo muito fácil. Basta que o cidadão vá com o passaporte europeu até a Câmara Municipal e informe o endereço onde está, pode ser até Airbnb que não exigem nenhum comprovante dele. Ao menos, foi assim em Aveiro e Ílhavo. Minha esposa foi até a câmara, disse que morava no endereço X e na mesma hora recebeu o título de residência de cinco anos.
+
+Com esse título de residência com validade de cinco anos em mãos, o cidadão da união europeia vai até a junta de freguesia da morada e pede um atestado de morada para si mesmo e para o seu conjugê. Dessa forma, constará nesse documento que o cidadão da união europeia reside naquele endereço com o seu esposo/esposa.
+
+Pronto. Processo finalizado para o cidadão da união europeia. O título de residência e o atestado de freguesia são dois diplomas (folhas A4) e ele não recebe qualquer cartão porque ele é de outro país da união europeia. Minha esposa irá providenciar o "cartão cidadão" alemão dela assim que as restrições nos consulados alemães acabarem. Mas isso é só para que ela não precise andar mais com o passaporte alemão dela em Portugal juntamente com essas folhas A4, e sim somente com o "ausweis" (cartão cidadão alemão).
+
+### Cidadão Brasileiro casado com o Cidadão da União Europeia
+
+Junta-se todos os documentos pessoais (se já estiver trabalhando, também o contrato e os recibos de vencimento - contracheques), além do título de residência do cidadão europeu com quem é casado e atestado de morada da junta de freguesia conforme mencionado no tópico anterior. Pronto. Depois de duas ou três semanas você receberá o título de residência com validade de cinco anos.
+
+## O que facilitou a minha vida em Portugal
+
+1. Tirar o NIF para mim e para a esposa quando ainda estava no Brasil através de uma consultoria
+2. Abrir uma conta bancária em Portugal quando ainda estava no Brasil com esse NIF e pedi para enviarem os cartões para agência bancária em Portugal
+
+Dessa forma, no dia seguinte à nossa chegada, fomos ao banco retirar os cartões e pudemos começar a operar a conta bancária, além de ter conseguido transferir dinheiro do Brasil para Portugal enquanto lá estávamos via Transferwise.
 
 # Transferência de Animais Domésticos
 
@@ -761,7 +790,6 @@ Por exemplo:
 - se você saiu do Brasil em 22/01/2020 em caráter **temporário**, a **CSDP** deve ser feita de 22/01/2020 a 28/02/2022 e a **DSDP** deve ser feita até 30/04/2022. Note que neste caso você declarará IRPF em 2021 normalmente.
 
 Nota importante: não tenho bens no Brasil, como imóveis, investimentos etc., assim como financiamentos etc., então não sei como fica nessas situações. Caso seja o seu caso, sugiro contactar um contador para tirar a dúvida antes de fazer a CSDP - e neste caso PRs com as respostas serão muito bem-vindos. :)
-
 
 # Dicas
 
