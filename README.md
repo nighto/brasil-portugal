@@ -291,34 +291,34 @@ Posteriormente em Portugal, será necessário fazer um procedimento de equivalê
 
 # Familiar de Cidadão Europeu
 
-(Contribuição de @rezehnde)
+O familiar de Cidadão Europeu tem direito a entrar em Portugal sem necessidade de visto conforme [consta no site do Ministério dos Negócios Estrangeiros de Portugal](https://www.vistos.mne.pt/pt/destaques/perguntas-frequentes-sobre-viagens-e-covid19#um-cidad%C3%A3o-de-um-pa%C3%ADs-terceiro-que-n%C3%A3o-necessita-habitualmente-de-visto-para-entrar-em-portugal-pode-faz%C3%AA-lo-neste-momento).
 
-O familiar de Cidadão Europeu tem direito a entrar em Portugal sem necessidade de visto. No meu caso, vim com um contrato de promessa de trabalho, certidão de casamento apostilada, passaportes válidos, comprovante de hospedagem e passagem de volta comprada. Na entrada em Portugal (antigo SEF) apresentamos passaportes, certidão de casamento apostilada e apenas dissemos que ficaríamos 20 dias no país. Não foi necessário apresentar extratos bancários de conta corrente ou cartão de crédito que comprovasse que tínhamos como nos manter no país.
+Apesar disso, como em Portugal muitos funcionários públicos têm informações desconexas com a legislação em vigor, é bom vir com passagem de volta comprada e na altura da entrada em Portugal, não mencionar que deseja estabelecer residência ou que está vindo com uma promessa de contrato de trabalho. É melhor falar que está entrando em Portugal como turista e aqui correr atrás da documentação.
 
-Apesar de ter contrato de promessa de trabalho, fomos orientados a não apresentá-lo na entrada a Portugal porque apesar do familiar da união europeia ter direito a trabalhar em Portugal tal qual o membro da união europeia, muitos funcionários do SEF fazem confusão ou não compreendem bem essa lei. Inclusive, quando fui dar entrada no meu título de residência do SEF, me disseram que eu precisaria ter feito manifestação de interesse, o que está incorreto tendo em vista que sou familiar da união europeia. A advogada que me acompanhava explicou a atendente, citou a lei, e ficou tudo resolvido. Porém, Portugal é assim: cada servidor público pode ter a sua opinião que nem sempre é pautada na lei e isso pode prejudicar a sua entrada.
+Não é necessário apresentar extratos bancários de conta corrente ou cartão de crédito que comprovem que tem condições de se manter no país, mas é sempre bom ter essa informação na bagagem.
 
-Essencialmente, o familiar de cidadão da união europeia tem livre acesso a Portugal, mas é bom ter os cuidados que mencionei acima em mente.
+Para dar um exemplo de como as informações podem ser confusas, o [@rezehnde](https://github.com/rezehnde) veio a Portugal como familiar da UE e ao apresentar seus documentos no antigo SEF, foi mencionado que ele deveria ter feito manifestação de interesse na entrada em Portugal, o que não é correto. No caso dele, a advogada que o acompanhava, explicou a atendente, citou a lei, e ficou tudo resolvido. Portugal é assim: cada servidor público pode ter a sua opinião que nem sempre é pautada na lei e isso pode prejudicar a sua entrada no país. É preciso se precaver.
 
 ## Registrando-se em Portugal
 
 ### Cidadão da União Europeia
 
-Processo muito fácil. Basta que o cidadão vá com o passaporte europeu até a Câmara Municipal e informe o endereço onde está, pode ser até Airbnb que não exigem nenhum comprovante dele. Ao menos, foi assim em Aveiro e Ílhavo. Minha esposa foi até a câmara, disse que morava no endereço X e na mesma hora recebeu o título de residência de cinco anos.
+Processo muito fácil. Basta que o cidadão vá com o passaporte europeu até a Câmara Municipal e informe o endereço onde está hospedado/residindo. Pode ser até Airbnb que não exigem nenhum comprovante de morada do cidadão. Ao menos, foi assim em Aveiro e Ílhavo. A esposa do [@rezehnde](https://github.com/rezehnde) foi até a Câmara Municipal, disse que morava no endereço X e na mesma hora recebeu o título de residência com validade de cinco anos.
 
-Com esse título de residência com validade de cinco anos em mãos, o cidadão da união europeia vai até a junta de freguesia da morada e pede um atestado de morada para si mesmo e para o seu cônjuge. Dessa forma, constará nesse documento que o cidadão da união europeia reside naquele endereço com o seu esposo/esposa.
+Com esse título de residência em mãos, o cidadão da união europeia vai até a junta de freguesia da morada e pede um atestado de morada para si próprio e para o seu cônjuge. Assim, constará nesse atestado de morada que o cidadão da união europeia reside naquele endereço com o seu esposo/esposa.
 
-Pronto. Processo finalizado para o cidadão da união europeia. O título de residência e o atestado de freguesia são dois diplomas (folhas A4) e ele não recebe qualquer cartão porque ele é de outro país da união europeia. Minha esposa irá providenciar o "cartão cidadão" alemão dela assim que as restrições nos consulados alemães acabarem. Mas isso é só para que ela não precise andar mais com o passaporte alemão dela em Portugal juntamente com essas folhas A4, e sim somente com o "ausweis" (cartão cidadão alemão).
+Pronto. Processo finalizado para o cidadão da união europeia. O título de residência e o atestado de freguesia são dois diplomas (folhas A4) e ele não recebe qualquer cartão porque ele é de outro país da união europeia. O cidadão deverá providenciar o "cartão cidadão" junto ao consulado do país da sua cidadania (Espanha, Itália, França, Alemanha, etc.) para que não seja necessário andar na rua com o seu passaporte e essas folhas A4, e sim somente com o cartão cidadão do país da EU.
 
-### Cidadão Brasileiro casado com o Cidadão da União Europeia
+### Cidadão Brasileiro casado(a) com o(a) Cidadã(o) da União Europeia
 
-Junta-se todos os documentos pessoais (se já estiver trabalhando, também o contrato e os recibos de vencimento - contracheques), além do título de residência do cidadão europeu com quem é casado e atestado de morada da junta de freguesia conforme mencionado no tópico anterior. Pronto. Depois de duas ou três semanas você receberá o título de residência com validade de cinco anos.
+Junta-se todos os documentos pessoais (se já estiver trabalhando, também o contrato e os recibos de vencimento - contracheques), além do título de residência do cidadão europeu com quem é casado(a) e atestado de morada da junta de freguesia conforme mencionado no tópico anterior. Pronto. Leve tudo ao órgao responssável (correspondente ao SEF) e depois de duas ou três semanas você receberá o título de residência com validade de cinco anos na sua morada. 
 
-## O que facilitou a minha vida em Portugal
+## O que facilita a vida do familiar da união europeia em Portugal?
 
-1. Tirar o NIF para mim e para a esposa quando ainda estava no Brasil através de uma consultoria
-2. Abrir uma conta bancária em Portugal quando ainda estava no Brasil com esse NIF e pedi para enviarem os cartões para agência bancária em Portugal
+1. Tirar o NIF de ambos enquanto quando ainda estão no Brasil através de uma consultoria
+2. Abrir uma conta bancária em Portugal quando ainda estão no Brasil com esse NIF e solicitar o envio dos cartões para agência bancária em Portugal
 
-Dessa forma, no dia seguinte à nossa chegada, fomos ao banco retirar os cartões e pudemos começar a operar a conta bancária, além de ter conseguido transferir dinheiro do Brasil para Portugal enquanto lá estávamos via Transferwise.
+Dessa forma, no dia seguinte à sua chegada, você poderá ir ao banco retirar os cartões e poderá operar a conta bancária. Além disso, a partir do momento em que a conta bancária for aberta, será possível transferir dinheiro do Brasil para Portugal ainda estando no Brasil via Wise ou outro sistema de transferência bancária internacional.
 
 # Transferência de Animais Domésticos
 
