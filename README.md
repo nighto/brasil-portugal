@@ -68,6 +68,8 @@ Este texto foi originalmente escrito por [Arlindo Pereira](http://github.com/nig
 
 Em linhas gerais, você deve ter um visto de residência temporária, que tipicamente tem a duração de 4 meses. Note que não é um visto "de trabalho". Na prática, esse tempo é o intervalo em que vc deve viajar para Portugal. Lá chegando, você irá solicitar a Autorização de Residência \[Temporária\], que tem validade de 2 anos e é renovável, e [após 5 anos você poderá pedir a Autorização de Residência Permanente](https://imigrante.sef.pt/solicitar/residir/art80/).
 
+Caso você prefira assistir o conteúdo deste repositório em vídeo, veja no YouTube: [🇵🇹 VISTO D3 PARA PORTUGAL - INFORMAÇÕES E DICAS](https://youtu.be/PFSFWMzDv8c).
+
 # Tipos de visto
 
 O SEF - Serviço de Estrangeiros e Fronteiras, com atribuições similares à Polícia Federal brasileira no tocante ao controle migratório - possui um site que lista e comenta a legislação portuguesa para os tipos de visto, sendo de leitura recomendada mesmo para quem não for da área do direito: [LEGISPÉDIA SEF](https://sites.google.com/site/leximigratoria/).
