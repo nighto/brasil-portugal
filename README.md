@@ -530,7 +530,7 @@ Esta é a aparência do CESD:
 
 ## Residente Não Habitual
 
-Residente Não Habitual ou simplesmente __RNH__ é um direito que os imigrantes têm de serem taxados no [IRS (Imposto de Renda)](#irs) num regime diferenciado (20%) nos primeiros 10 anos em que morem em Portugal. [Dependendo dos seus gastos e das categorias que você teria direito na restituição do IRS, pode ser que o RNH não valha a pena, porque se paga menos imposto mas se renuncia o direito à restituição de imposto](https://www.idealista.pt/news/financas/economia/2019/07/24/40368-residentes-nao-habituais-que-optam-por-taxa-especial-de-irs-de-20-perdem-deducoes); em todo caso, __a solicitação lhe dá o direito mas não a obrigatoriedade__ de declarar o IRS utilizando o RNH. Para mais detalhes, verifique o [folheto informativo da Autoridade Tributária sobre o RNH](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Folhetos_informativos/Documents/IRS_RNH_PT.pdf).
+Residente Não Habitual ou simplesmente __RNH__ é um direito que os imigrantes têm de serem taxados no [IRS (Imposto de Renda)](#irs) num regime diferenciado (20%) nos primeiros 10 anos em que morem em Portugal. [Dependendo dos seus gastos e das categorias que você teria direito na restituição do IRS, pode ser que o RNH não valha a pena, porque se paga menos imposto mas se renuncia o direito à restituição de imposto](https://www.idealista.pt/news/financas/economia/2019/07/24/40368-residentes-nao-habituais-que-optam-por-taxa-especial-de-irs-de-20-perdem-deducoes); em todo caso, __a solicitação lhe dá o direito mas não a obrigatoriedade__ de declarar o IRS utilizando o RNH, de forma que eu recomendo que você peça o RNH mesmo que não seja vantajoso utilizá-lo para seu salário atual, mas deixe a porta aberta para utilizá-lo no futuro. Para mais detalhes, verifique o [folheto informativo da Autoridade Tributária sobre o RNH](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Folhetos_informativos/Documents/IRS_RNH_PT.pdf).
 
 O prazo importante para se ter em mente é o de limite de solicitação: a data é __31 de março do ano seguinte__ à sua chegada.
 
@@ -543,6 +543,8 @@ Infelizmente a ferramenta de declaração do IRS não gera uma simulação para 
 1. Simular a declaração sem o RNH e anotar o valor de restituição previsto;
 1. Fazer a declaração usando o RNH;
 1. Se o valor recebido for menor do que o previsto sem o RNH, fazer uma declaração retificadora, enviando uma declaração padrão sem utilizar o RNH.
+
+Outro ponto negativo: as transferências dos valores a restituir de declarações feitas com o RNH ficam no final da fila, então se você declarar o IRS sem utilizar o RNH, irá receber o valor de restituição alguns meses antes.
 
 Custo: 0.
 
