@@ -169,13 +169,13 @@ Ou seja, o seguro viagem só é necessário se você não puder emitir o PB4 (po
 
 - Custo: R\$ 0.
 
-#### 7. Antecedentes Criminais na Polícia Federal + apostilamento
+#### 7. Certidão de Antecedentes Criminais na Polícia Federal + apostilamento
 
-[A Polícia Federal emite um documento atestando que não há condenações criminais em seu nome.](http://www.pf.gov.br/servicos-pf/antecedentes-criminais) Este documento pode ser emitido online gratuitamente, sai na hora, tem validade de 90 dias e precisa ser apostilado (verifique o anexo o significado deste termo).
+[A Polícia Federal emite um documento atestando que não há condenações criminais em seu nome](https://www.gov.br/pt-br/servicos/emitir-certidao-de-antecedentes-criminais). Este documento pode ser emitido online gratuitamente, sai na hora, tem validade de 90 dias e precisa ser apostilado (verifique o anexo o significado deste termo).
 
 O certificado de registro criminal deve ter sido emitido nos últimos 30 dias do pedido.
 
-Dica: Como ele só é válido por 90 dias e sai na hora, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos (isto é, quando você receber o passaporte etc.), para que ele seja válido pelo maior tempo possível.
+Dica: Como ele só é válido por 90 dias, deve ter sido emitido nos últimos 30 dias e sai na hora, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos (isto é, quando você receber o passaporte etc.), para que ele seja válido pelo maior tempo possível.
 
 - Custo: R\$ 0;
 - Apostilamento: ~R\$ 50.
