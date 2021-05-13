@@ -802,7 +802,7 @@ Nota importante: não tenho bens no Brasil, como imóveis, investimentos etc., a
 
 Cinco anos após ter recebido a sua primeira Autorização de Residência Temporária (o tempo da emissão do visto de residência até a emissão da primeira AR **não** conta), você tem o direito de pedir a nacionalidade portuguesa. Mais detalhes no site [justiça.gov.pt](https://justica.gov.pt/Registos/Nacionalidade/Nacionalidade-portuguesa).
 
-O primeiro passo é fazer o agendamento no [CNAIM - Centro Nacional de Apoio à Integração de Migrantes](https://www.acm.gov.pt/pt/-/cnai-centro-nacional-de-apoio-ao-imigrante), que tem atendimento presencial em Lisboa, no Porto e no Algarve. O atendimento pode demorar muitos meses, por isso convém agendar com antecedência. O email do CNAIM de Lisboa é rcentrais.cnai.lisboa@irn.mj.pt.
+O primeiro passo é fazer o agendamento no [CNAIM - Centro Nacional de Apoio à Integração de Migrantes](https://www.acm.gov.pt/pt/-/cnai-centro-nacional-de-apoio-ao-imigrante), que tem atendimento presencial em Lisboa, no Porto e no Algarve. O atendimento pode demorar muitos meses, por isso convém agendar com antecedência. Verifique qual dos três possui a data mais próxima, uma vez que independentemente de onde você more, pode ser atendido em qualquer um dos três. O email do CNAIM de Lisboa é rcentrais.cnai.lisboa@irn.mj.pt.
 
 ### Documentos necessários
 
@@ -810,7 +810,7 @@ O primeiro passo é fazer o agendamento no [CNAIM - Centro Nacional de Apoio à 
 1. Título de residência e/ou passaporte em prazo de validade;
 1. [Certidão de Antecedentes Criminais emitida pela Polícia Federal](#7-certidão-de-antecedentes-criminais-na-pol%C3%ADcia-federal--apostilamento). Não precisa apostilar.
 
-Custo: € 250.
+Custo: € 250 (pagos no ato em multibanco).
 
 ### Nota sobre renúncia da nacionalidade brasileira
 
