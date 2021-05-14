@@ -371,6 +371,14 @@ Dica: Dê preferência a pagamento em cartão ou transferência bancária. Se fo
 
 Há um grupo no Facebook que é bem útil para tirar dúvidas e ficar atualizado quanto a procedimentos: [Transferência de Animais Domésticos para Portugal](https://www.facebook.com/groups/252384808490181). Outro site para verificar informações é o da [IATA (International Air Transport Association)](https://www.iata.org/en/youandiata/travelers/traveling-with-pets/).
 
+Também há bastantes tipos de seguros para pets, as vezes vale a pena, pois o custo mensal é baixo comparado com o custo caso haja a necessidade de emergência.
+
+Sites confiáveis para produtos de pets:
+https://www.meganimal.pt/pt
+https://www.tiendanimal.pt/
+https://www.zuonline.pt
+https://www.barkyn.com/
+
 # Em Portugal
 
 Você chegou a Portugal, parabéns! Ainda há diversas burocracias para fazer do lado de cá. Algumas delas poderão ser feitas mesmo antes do visto sair (caso você visite a empresa num processo de _onboarding_ antes de solicitar o visto, por exemplo), outras só após a entrada definitiva. Vamos a lista:
