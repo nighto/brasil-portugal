@@ -33,6 +33,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [Matrícula em Escola Pública](#matrícula-em-escola-pública)
   - [Renovação do Título de Residência](#renovação-do-título-de-residência)
   - [Comunicação de Saída Definitiva do País](#comunicação-de-saída-definitiva-do-país)
+  - [Pedido de Nacionalidade](#pedido-de-nacionalidade)
 * [Dicas](#dicas)
   * [Moradia](#moradia)
   * [Transporte](#transporte)
@@ -804,6 +805,24 @@ Por exemplo:
 - se você saiu do Brasil em 22/01/2020 em caráter **temporário**, a **CSDP** deve ser feita de 22/01/2020 a 28/02/2022 e a **DSDP** deve ser feita até 30/04/2022. Note que neste caso você declarará IRPF em 2021 normalmente.
 
 Nota importante: não tenho bens no Brasil, como imóveis, investimentos etc., assim como financiamentos etc., então não sei como fica nessas situações. Caso seja o seu caso, sugiro contactar um contador para tirar a dúvida antes de fazer a CSDP - e neste caso PRs com as respostas serão muito bem-vindos. :)
+
+## Pedido de Nacionalidade
+
+Cinco anos após ter recebido a sua primeira Autorização de Residência Temporária (o tempo da emissão do visto de residência até a emissão da primeira AR **não** conta), você tem o direito de pedir a nacionalidade portuguesa. Mais detalhes no site [justiça.gov.pt](https://justica.gov.pt/Registos/Nacionalidade/Nacionalidade-portuguesa).
+
+O primeiro passo é fazer o agendamento no [CNAIM - Centro Nacional de Apoio à Integração de Migrantes](https://www.acm.gov.pt/pt/-/cnai-centro-nacional-de-apoio-ao-imigrante), que tem atendimento presencial em Lisboa, no Porto e no Algarve, ou numa Conservatória do Registo Civil. O atendimento pode demorar muitos meses, por isso convém agendar com antecedência. Verifique qual dos três possui a data mais próxima, uma vez que independentemente de onde você more, pode ser atendido em qualquer um dos três. O email do CNAIM de Lisboa é rcentrais.cnai.lisboa@irn.mj.pt. O email da Conservatória do Registo Civil de Benfica é registos.benfica@irn.mj.pt.
+
+### Documentos necessários
+
+1. Certidão de nascimento **de inteiro teor** e **apostilada** - se tira no cartório aonde foi registrado no nascimento. Pai e mãe podem tirar, ou você pode pedir por email ao cartório, transfere o pagamento para o cartório, eles emitem e mandam para algum familiar ou amigo pelos Correios, e essa pessoa envia para você. Ela será retida no processo, então se não quiser perder a original, tire uma segunda via;
+1. Título de residência e/ou passaporte em prazo de validade;
+1. [Certidão de Antecedentes Criminais emitida pela Polícia Federal](#7-certidão-de-antecedentes-criminais-na-pol%C3%ADcia-federal--apostilamento). Não precisa apostilar.
+
+Custo: € 250 (pagos no ato em multibanco).
+
+### Nota sobre renúncia da nacionalidade brasileira
+
+Pela lei brasileira, como a obtenção da nacionalidade portuguesa não é obrigatória, ao menos em princípio ao fazer esse pedido você estaria renunciando a sua nacionalidade brasileira. Na prática, isso parece ser uma questão somente caso a pessoa cometa crimes e se mude de volta para o Brasil, ao que o governo brasileiro não deixaria de extraditar a pessoa. [Mais detalhes neste artigo](https://www.andradepor.com/perda-da-nacionalidade-brasileira-por-aquisicao-da-nacionalidade-portuguesa/).
 
 # Dicas
 
