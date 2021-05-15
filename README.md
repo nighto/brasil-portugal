@@ -808,9 +808,11 @@ Nota importante: não tenho bens no Brasil, como imóveis, investimentos etc., a
 
 ## Pedido de Nacionalidade
 
-Cinco anos após ter recebido a sua primeira Autorização de Residência Temporária (o tempo da emissão do visto de residência até a emissão da primeira AR **não** conta), você tem o direito de pedir a nacionalidade portuguesa. Mais detalhes no site [justiça.gov.pt](https://justica.gov.pt/Registos/Nacionalidade/Nacionalidade-portuguesa).
+Cinco anos após ter recebido a sua primeira Autorização de Residência Temporária (o tempo da emissão do visto de residência até a emissão da primeira AR **não** conta), você tem o direito de pedir a nacionalidade portuguesa. Mais detalhes no site [justiça.gov.pt](https://justica.gov.pt/Registos/Nacionalidade/Nacionalidade-portuguesa). A lei foi recentemente alterada e o prazo diminuiu de seis anos para cinco; eventuais links que você encontre mencionando o prazo de seis anos estão desatualizados.
 
 O primeiro passo é fazer o agendamento no [CNAIM - Centro Nacional de Apoio à Integração de Migrantes](https://www.acm.gov.pt/pt/-/cnai-centro-nacional-de-apoio-ao-imigrante), que tem atendimento presencial em Lisboa, no Porto e no Algarve, ou numa Conservatória do Registo Civil. O atendimento pode demorar muitos meses, por isso convém agendar com antecedência. Verifique qual dos três possui a data mais próxima, uma vez que independentemente de onde você more, pode ser atendido em qualquer um dos três. O email do CNAIM de Lisboa é rcentrais.cnai.lisboa@irn.mj.pt. O email da Conservatória do Registo Civil de Benfica é registos.benfica@irn.mj.pt.
+
+Após dar entrada, o andamento do pedido pode ser verificado em [nacionalidade.justica.gov.pt](https://nacionalidade.justica.gov.pt).
 
 ### Documentos necessários
 
