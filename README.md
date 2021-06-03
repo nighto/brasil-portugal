@@ -12,6 +12,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
     - [Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar-para-seu-c%C3%B4njuge-eou-filhos)
   * [Outros Documentos do Brasil](#outros-documentos-do-brasil)
     - [Diploma e Histórico Escolar do Cônjuge e/ou Filhos](#diploma-e-histórico-escolar-do-cônjuge-eou-filhos)
+* [Familiar de Cidadão Europeu](#familiar-de-cidadão-europeu)
 * [Transferência de Animais Domésticos](#transferência-de-animais-domésticos)
 * [Em Portugal](#em-portugal)
   - [NIF](#nif)
