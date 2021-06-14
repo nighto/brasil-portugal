@@ -260,7 +260,7 @@ Emitida na Polícia Federal, ou no país aonde você vive há pelo menos 1 ano s
 
 #### 2. Certidão de União Estável ou Casamento
 
-Caso você vá se mudar para Portugal com cônjuge, será necessário certidão de casamento ou de união estável, e o documento deve ser apostilado. **Detalhe importante**: a certidão deve ter sido emitida há **menos de 6 meses** da data da viagem. Portanto você provavelmente precisará solicitar uma segunda via.
+Caso você vá se mudar para Portugal com cônjuge, será necessário certidão de casamento ou de união estável, e o documento deve ser apostilado. **Detalhe importante**: a certidão deve ter sido emitida há **menos de 6 meses** da data da viagem. Portanto você provavelmente precisará solicitar uma segunda via do tipo **inteiro teor**.
 
 Se você vive em um matrimônio não-oficializado, precisará de um documento comprovativo para seu cônjuge poder se mudar com você para Portugal. Como é aceito tanto união estável quanto casamento, sugiro que faça união estável por esta ser mais barata que o casamento. Os valores variam de cartório para cartório, mas os valores aproximados são: ~R$ 300 para união estável e ~R$ 800 para casamento civil.
 
@@ -268,7 +268,7 @@ Se você vive em um matrimônio não-oficializado, precisará de um documento co
 - Apostilamento: ~R\$ 50.
 
 #### 3. Certidão de Nascimento (para menores)
-**Deve ser emitida a menos de 12 meses da data da viagem para Portugal**. Ou seja, se seu filho tem mais que 1 ano, será preciso pedir uma segunda via. O valor varia por cartório e por idade. É necessário apostilar.
+**Deve ser emitida a menos de 12 meses da data da viagem para Portugal**. Ou seja, se seu filho tem mais que 1 ano, será preciso pedir uma segunda via do tipo **inteiro teor**. O valor varia por cartório e por idade. É necessário apostilar.
 
 - Custo da segunda via: varia por cartório e por idade, ~R\$ 50
 - Apostilamento: ~R\$ 50.
