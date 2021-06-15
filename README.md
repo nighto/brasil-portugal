@@ -577,7 +577,22 @@ Para quem tem Carteira de Motorista brasileira (CNH), existem dois prazos import
 
 Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos** a partir da data de chegada. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized). O procedimento é:
 
-1. Obter junto ao Consulado Brasileiro da sua região (Lisboa, Porto ou Faro) a **Declaração de Autenticidade da Carteira Nacional de Habilitação**. Mais informações na página do consulado: [Porto](http://porto.itamaraty.gov.br/pt-br/cnh_-_declaracao_de_autenticidade.xml) / [Faro](http://faro.itamaraty.gov.br/pt-br/cnh.xml) (não encontrei uma página correspondente no consulado de Lisboa). Custo: €15 + correios.
+1. Obter junto ao Consulado Brasileiro da sua região (Lisboa, Porto ou Faro) a **Declaração de Autenticidade da Carteira Nacional de Habilitação**. Mais informações na página do consulado: [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/cnh_-_declaracao_de_autenticidade.xml) / [Porto](http://porto.itamaraty.gov.br/pt-br/cnh_-_declaracao_de_autenticidade.xml) / [Faro](http://faro.itamaraty.gov.br/pt-br/cnh.xml). **Atenção: Cada consulado tem o seu procedimento.** Custo: €15 + correios.
+
+    - No consulado do **Porto** a solicitação é feita por via postal. Veja mais detalhes sobre como fazer o preenchimento dos envelopes [na página do Consulado](http://porto.itamaraty.gov.br/pt-br/servicos_por_correio.xml). O passo a passo é:
+      - imprimir, preencher a mão e assinar [este formulário](https://sistemas.mre.gov.br/kitweb/datafiles/Porto/pt-br/file/FORMULÁRIO%20SERVIÇO(3).pdf);
+      - imprimir uma cópia simples da sua CNH e de um comprovante de residência;
+      - comprar um vale postal de € 15;
+      - comprar e preencher dois envelopes ([atenção que o preenchimento dos envelopes em Portugal é feito diferente de como é feito no Brasil](#preenchimento-de-envelopes-de-cartas)):
+        - no primeiro envelope, preencha seu nome e endereço como remetente (canto superior esquerdo da parte da frente do envelope) e o Consulado como destinatário (canto inferior direito da parte da frente do envelope)  
+          > CONSULADO-GERAL DO BRASIL NO PORTO  
+          > AV. DE FRANÇA, 20, 2º ANDAR  
+          > 4050-275 PORTO  
+        - no segundo envelope preencha da forma inversa, ou seja, o consulado como remetente e você como destinatário);
+      - pagar o envio dos dois envelopes (recomendo incluir rastreio);
+      - colocar os documentos, o vale postal e o segundo envelope dentro do primeiro e enviar.
+      - Dica: esses serviços não precisam necessariamente ser feitos nas agências do CTT (que costumam ter bastante fila); podem ir a estabelecimentos terceiros ligados à rede do CTT (agentes postais). Recomendo ir nas Lojas Note que frequentemente não tem fila.
+    - Nos Consulados de Lisboa e Faro o procedimento é feito presencialmente. PRs são bem-vindos com mais detalhes sobre o preenchimento.
 
 2. Fazer um exame médico para obter um atestado médico de aptidão a condução de veículos. Note que mesmo se optar por fazer este exame em hospital particular, será necessário ter antes feito o Número de Utente no Centro de Saúde público. Mais detalhes na seção [Número de Utente](#n%C3%BAmero-de-utente). Custo: € 4,50 na rede pública / a partir de € 25 na rede privada (podendo ser menos caso tenha plano de saúde).
 
