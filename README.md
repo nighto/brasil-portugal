@@ -592,6 +592,7 @@ Após este prazo, há um segundo prazo para realizar a conversão da carteira br
       - pagar o envio dos dois envelopes (recomendo incluir rastreio);
       - colocar os documentos, o vale postal e o segundo envelope dentro do primeiro e enviar.
       - Dica: esses serviços não precisam necessariamente ser feitos nas agências do CTT (que costumam ter bastante fila); podem ir a estabelecimentos terceiros ligados à rede do CTT (agentes postais). Recomendo ir nas Lojas Note que frequentemente não tem fila.
+      - Dica: os mesmos envelopes podem ser aproveitados para fazer o [pedido do Estatuto da Igualdade](#estatuto-de-igualdade), o que é gratuito, então se tiver interesse já pode aproveitar a oportunidade.
     - Nos Consulados de Lisboa e Faro o procedimento é feito presencialmente. PRs são bem-vindos com mais detalhes sobre o preenchimento.
 
 2. Fazer um exame médico para obter um atestado médico de aptidão a condução de veículos. Note que mesmo se optar por fazer este exame em hospital particular, será necessário ter antes feito o Número de Utente no Centro de Saúde público. Mais detalhes na seção [Número de Utente](#n%C3%BAmero-de-utente). Custo: € 4,50 na rede pública / a partir de € 25 na rede privada (podendo ser menos caso tenha plano de saúde).
