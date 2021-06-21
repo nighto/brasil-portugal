@@ -591,7 +591,7 @@ Após este prazo, há um segundo prazo para realizar a conversão da carteira br
         - no segundo envelope preencha da forma inversa, ou seja, o consulado como remetente e você como destinatário);
       - pagar o envio dos dois envelopes (recomendo incluir rastreio);
       - colocar os documentos, o vale postal e o segundo envelope dentro do primeiro e enviar.
-      - Dica: esses serviços não precisam necessariamente ser feitos nas agências do CTT (que costumam ter bastante fila); podem ir a estabelecimentos terceiros ligados à rede do CTT (agentes postais). Recomendo ir nas Lojas Note que frequentemente não tem fila.
+      - Dica: esses serviços não precisam necessariamente ser feitos nas agências do CTT (que costumam ter bastante fila); podem ir a estabelecimentos terceiros ligados à rede do CTT (agentes postais). Recomendo ir nas Lojas Note que frequentemente não tem fila. O pagamento dos serviços postais só pode ser feito em espécie.
       - Dica: os mesmos envelopes podem ser aproveitados para fazer o [pedido do Estatuto da Igualdade](#estatuto-de-igualdade), o que é gratuito, então se tiver interesse já pode aproveitar a oportunidade.
     - Nos Consulados de Lisboa e Faro o procedimento é feito presencialmente. PRs são bem-vindos com mais detalhes sobre o preenchimento.
 
@@ -1026,7 +1026,7 @@ O [CTT tem um serviço envio à cobrança](https://www.ctt.pt/ajuda/empresas/env
 
 ![Vale de Correio](https://camo.githubusercontent.com/74116740adcdf2bd85edfa92caeee15ef86d50dd9c437da7b87843c6bf68a439/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f5f4a7a74672d4531326872672f5372664443615f4e4146492f41414141414141414258672f647175716d4c37317463382f73313630302f762b3039362e6a7067)
 
-A dica aqui é: os agentes autorizados da CTT podem ser utilizados para sacar os Vales de Correio, e em geral eles tem __muito__ menos fila do que as agências da CTT. Costumo ir na papelaria Note.
+A dica aqui é: os agentes autorizados da CTT podem ser utilizados para sacar os Vales de Correio, e em geral eles tem __muito__ menos fila do que as agências da CTT. Costumo ir na papelaria Note. Os serviços postais só podem ser pagos em espécie.
 
 ## Jogos em Mídia Física
 
