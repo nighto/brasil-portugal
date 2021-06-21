@@ -716,8 +716,9 @@ Observação importante: é preciso ser maior de idade para pedir Estatuto de Ig
 > 2734-506 Barcarena
   
 5. Espere até 5 meses para receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://dre.pt/web/guest/pesquisa-avancada/-/asearch/advanced/normal?advanced.search=Pesquisa+Avan%C3%A7ada&_advancedPublicSearch_WAR_drefrontofficeportlet_sort=whenSearchable&_advancedPublicSearch_WAR_drefrontofficeportlet_sortOrder=DESC&sumario=Concede+o+estatuto+de+igualdade+de+direitos+e+deveres+a+v%C3%A1rios+cidad%C3%A3os+brasileiros&tipo=%22Despacho%22&emissor=%22Administra%C3%A7%C3%A3o+Interna+-+Servi%C3%A7o+de+Estrangeiros+e+Fronteiras%22&perPage=200&types=SERIEII&dataPublicacaoInicio=2021-01-01));
-6. Vá ao IRN (Loja do Cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar. Número para marcação: [210 990 111](tel:+351210990111), ou agendamento no site https://agendamento.irn.mj.pt/. Dica: no site é possível preencher o número do cartão cidadão para agendamento com zeros (informação confirmada com o atendente).
-7. Pegue em 1 semana (média)
+6. Vá ao IRN (Loja do Cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar. Número para marcação: [210 990 111](tel:+351210990111), ou agendamento no site https://agendamento.irn.mj.pt/.  
+Dica: no site é possível preencher o número do cartão cidadão para agendamento com zeros (informação confirmada com o atendente). Caso não funcione, utilize esse [gerador de número de cartão cidadão](https://cc.marcosantos.me) copiando somente a parte numérica. (Parece que o número do cartão cidadão é a chave primária para realizar os agendamentos.)
+8. Pegue em 1 semana (média)
 
 Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](#preenchimento-de-envelopes-de-cartas).
 
