@@ -12,6 +12,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
     - [Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar-para-seu-c%C3%B4njuge-eou-filhos)
   * [Outros Documentos do Brasil](#outros-documentos-do-brasil)
     - [Diploma e Histórico Escolar do Cônjuge e/ou Filhos](#diploma-e-histórico-escolar-do-cônjuge-eou-filhos)
+  * [Sugestão de coisas para trazer do Brasil](#sugestão-de-coisas-para-trazer-do-brasil)
 * [Familiar de Cidadão Europeu](#familiar-de-cidadão-europeu)
 * [Transferência de Animais Domésticos](#transferência-de-animais-domésticos)
 * [Em Portugal](#em-portugal)
@@ -293,6 +294,11 @@ Posteriormente em Portugal, será necessário fazer um procedimento de equivalê
 
 - Reconhecimento de firma: ~R$ 10 por documento.
 - Apostilamento: ~R$ 50 por documento.
+
+## Sugestão de coisas para trazer do Brasil
+
+- __Adaptador de tomadas__  
+As tomadas em Portugal são 220V 50Hz, então não adianta trazer equipamentos com motor (secador de cabelo etc.), mas em geral eletrônicos bivolt (carregadores de celular, notebook etc.) funcionam sem problemas. Entretanto, os plugues brasileiros são apenas parcialmente compatíveis com os europeus (padrão Schuko). Tomadas redondas de dois pinos (como geralmente são os carregadores de celular) encaixam sem problemas, mas as de três pinos precisarão de um adaptador. Recomendo trazer alguns adaptadores de tomadas simples (benjamin / "T") para ligar eventuais aparelhos nas tomadas portuguesas.
 
 # Familiar de Cidadão Europeu
 
