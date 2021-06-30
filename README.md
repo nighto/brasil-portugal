@@ -226,7 +226,7 @@ Na minha opinião pessoal a empresa que está oferecendo o contrato deve disponi
 
 #### 12. Termo de Consentimento
 
-[Este PDF impresso, datado e assinado](https://www.vfsglobal.com/Portugal/brazil/pdf/new-consent-form.pdf).
+[Este PDF impresso, datado e assinado em duas vias](https://www.vfsglobal.com/Portugal/brazil/pdf/new-consent-form.pdf).
 
 ### Agendamento
 
