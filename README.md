@@ -717,19 +717,23 @@ Observação importante: é preciso ser maior de idade para pedir Estatuto de Ig
   - [Consulado de Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/:::_certificado.xml) - faz-se a solicitação com envio dos documentos online e há um agendamento para pegar o documento;
   - [Consulado do Porto](http://porto.itamaraty.gov.br/pt-br/certificado_de_nacionalidade_-_estatuto_de_igualdade.xml) - No Consulado do Porto, o processo é por correio, exige cópia do passaporte ou RG (que comprove nome completo, naturalidade e filiação), o preenchimento de um formulário impresso e a compra de um vale postal para envio do documento de volta a você pelos Correios. [Note que não é possível ser atendido nos consulados das outras jurisdições](https://github.com/nighto/brasil-portugal#consulado-ou-embaixada).
 3. [Formulário de solicitação do SEF](https://imigrante.sef.pt/wp-content/uploads/Requerimento_DireitosDeveres_DD_PT.pdf). Imprima e preencha da forma mais legível possível.
-4. Mande pelos Correios o formulário do SEF, a declaração do Consulado e uma fotocópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):  
+
+Após reunir os documentos necessários, mande por carta o formulário do SEF, a declaração do Consulado e uma cópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):  
   
 > Departamento de Nacionalidades  
 > Avenida do Casal de Cabanas  
 > Urbanização Cabanas Golf, nº 1  
-> 2734-506 Barcarena
+> 2734-506 Barcarena  
   
-5. Espere até 5 meses para receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://dre.pt/web/guest/pesquisa-avancada/-/asearch/advanced/normal?advanced.search=Pesquisa+Avan%C3%A7ada&_advancedPublicSearch_WAR_drefrontofficeportlet_sort=whenSearchable&_advancedPublicSearch_WAR_drefrontofficeportlet_sortOrder=DESC&sumario=Concede+o+estatuto+de+igualdade+de+direitos+e+deveres+a+v%C3%A1rios+cidad%C3%A3os+brasileiros&tipo=%22Despacho%22&emissor=%22Administra%C3%A7%C3%A3o+Interna+-+Servi%C3%A7o+de+Estrangeiros+e+Fronteiras%22&perPage=200&types=SERIEII&dataPublicacaoInicio=2021-01-01));
-6. Vá ao IRN (Loja do Cidadão) com os papéis que chegaram + seus documentos (título, NIF, NISS, Número de Utente - todos vão ser adicionados no cartão do cidadão) - uns 40 euros pra solicitar. Número para marcação: [210 990 111](tel:+351210990111), ou agendamento no site https://agendamento.irn.mj.pt/.  
-Dica: no site é possível preencher o número do cartão cidadão para agendamento com zeros (informação confirmada com o atendente). Caso não funcione, utilize esse [gerador de número de cartão cidadão](https://cc.marcosantos.me) copiando somente a parte numérica. (Parece que o número do cartão cidadão é a chave primária para realizar os agendamentos.)
-8. Pegue em 1 semana (média)
+Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](#preenchimento-de-envelopes-de-cartas).  
 
-Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](#preenchimento-de-envelopes-de-cartas).
+Após cerca de __5 meses__ você irá receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://dre.pt/web/guest/pesquisa-avancada/-/asearch/advanced/normal?advanced.search=Pesquisa+Avan%C3%A7ada&_advancedPublicSearch_WAR_drefrontofficeportlet_sort=whenSearchable&_advancedPublicSearch_WAR_drefrontofficeportlet_sortOrder=DESC&sumario=Concede+o+estatuto+de+igualdade+de+direitos+e+deveres+a+v%C3%A1rios+cidad%C3%A3os+brasileiros&tipo=%22Despacho%22&emissor=%22Administra%C3%A7%C3%A3o+Interna+-+Servi%C3%A7o+de+Estrangeiros+e+Fronteiras%22&perPage=200&types=SERIEII&dataPublicacaoInicio=2021-01-01)). A partir desse momento, vem a segunda parte do passo a passo:
+
+1. [Marque o agendamento no site do Instituto dos Registos e Notariado](https://agendamento.irn.mj.pt) ou pelo telefone [210 990 111](tel:+351210990111).  
+Dica: no site é possível preencher o número do cartão cidadão para agendamento com zeros (informação confirmada com o atendente). Caso não funcione, utilize esse [gerador de número de cartão cidadão](https://cc.marcosantos.me) copiando somente a parte numérica. (Parece que o número do cartão cidadão é a chave primária para realizar os agendamentos.)
+2. No dia do atendimento leve os papéis que chegaram e seus documentos - título de residência, NIF, NISS, Número de Utente - todos vão ser adicionados no Cartão Cidadão. Será coletada a sua altura, assinatura e foto, os dados são impressos e você assina.  
+Custo: 15 euros.
+3. Após 7 a 10 dias, você receberá uma carta com um pin. Após receber, volte na Loja do Cidadão aonde foi atendido com a carta e o comprovante para pegar o Cartão Cidadão. Não é necessário agendamento para pegar.
 
 ## Certificado de Conclusão do Ensino Secundário
 
