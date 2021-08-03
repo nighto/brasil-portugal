@@ -228,6 +228,10 @@ Na minha opinião pessoal a empresa que está oferecendo o contrato deve disponi
 
 [Este PDF impresso, datado e assinado em duas vias](https://www.vfsglobal.com/Portugal/brazil/pdf/new-consent-form.pdf).
 
+#### 13. Checklist de documentos em 2 vias
+
+[Esse checklist](https://www.vfsglobal.com/portugal/Brazil/pdf/D3.pdf) contém todos os documentos requeridos no processo e deve ser entregue impresso em 2 vias, com o cabeçalho preenchido.
+
 ### Agendamento
 
 Após ter reunido todos os documentos, faça o agendamento no site do [Ministério de Negócios Estrangeiros](https://www.vistos.mne.pt/pt/pedido-de-visto/solicitar-pedido-de-visto) português.
