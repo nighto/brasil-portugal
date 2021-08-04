@@ -161,11 +161,11 @@ Enquanto o pedido do visto tramita (o que pode levar de 15 dias a 6 meses, comig
 
 O Certificado de Direito a Assitência Médica, também conhecido como PB4, é um acordo entre Portugal, Brasil, Itália e Cabo Verde que permite a utilização de hospitais públicos dos 4 países por seus cidadãos. Os hospitais públicos em Portugal, ao contrário do Brasil, são pagos para turistas, e mesmo para portugueses alguns procedimentos não-emergenciais podem ser cobrados (taxa moderadora). Com o PB4, você poderá ter atendimento nos hospitais públicos portugueses na mesma condições que os cidadãos, isto é, sendo atendido gratuitamente em emergências e pagando a taxa moderadora normal para consultas eletivas.
 
-Antigamente este documento era obtido presencialmente junto ao Ministério da Saúde, mas desde 2020 pode ser gerado online no portal gov.br: **[Obter o Certificado de Direito à Assistência Médica (CDAM)](https://www.gov.br/pt-br/servicos/obter-certificado-de-direito-a-assistencia-medica)**.
+O documento deve ser solicitado no portal gov.br: **[Obter o Certificado de Direito à Assistência Médica (CDAM)](https://www.gov.br/pt-br/servicos/obter-certificado-de-direito-a-assistencia-medica)**. Caso vá com cônjuge e/ou filhos, inclua-os no certificado.
 
-Caso vá com cônjuge e/ou filhos, inclua-os no certificado.
+Dica: o portal gov.br leva em média uma semana para emitir o documento, mas as vezes os processos "se perdem" e podem levar muito tempo. Por isso, se em dez dias você não receber o seu PB4, solicite novamente, pois é possível que o documento da segunda solicitação saia antes da primeira.
 
-O PDF menciona (meu destaque):
+Sobre Seguro Viagem, o PDF menciona (meu destaque):
 
 > Seguro de viagem válido, que permita cobrir as despesas necessárias por razões médicas, incluindo assistência médica urgente e eventual repatriamento em caso de morte **ou** PB4 emitido pelo Ministério da Saúde do Brasil.
 
