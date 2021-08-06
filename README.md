@@ -467,7 +467,7 @@ Veja a aparência do cartão, frente e verso:
 ![Foto de um título de residência, frente](https://user-images.githubusercontent.com/397851/128487879-221ac901-9a64-4712-b996-08a52ea458bd.png)
 ![Foto de um título de residência, verso](https://user-images.githubusercontent.com/397851/128487934-01d0fea7-5b03-453f-b798-e5f42b6c74bf.png)
 
-Apenas como curiosidade, este modelo foi instituído em setembro de 2020. Veja as fotos do modelo antigo: [frente](https://user-images.githubusercontent.com/397851/102904422-9ced8a00-4469-11eb-874b-09c539b98504.png) e [verso](https://user-images.githubusercontent.com/397851/102905100-914e9300-446a-11eb-8c64-5eb197ac5881.png).
+Apenas como curiosidade, [este modelo foi instituído em setembro de 2020](http://www.aecops.pt/index.php?id=56&news=891). Veja as fotos do modelo antigo: [frente](https://user-images.githubusercontent.com/397851/102904422-9ced8a00-4469-11eb-874b-09c539b98504.png) e [verso](https://user-images.githubusercontent.com/397851/102905100-914e9300-446a-11eb-8c64-5eb197ac5881.png).
 
 A validade da Autorização de Residência é de dois anos (até 2019 era somente um ano), e findo este prazo é preciso renová-la. Antes essa renovação era preciso ser feita presencialmente, através de novo agendamento no SEF; desde o segundo semestre de 2020 a [renovação está sendo feita online](https://imigrante.sef.pt/renovar-residencia/renovacoes-automaticas-perguntas-frequentes/), com o pedido liberado poucos meses antes da data de vencimento. Na renovação, o título emitido tem uma numeração diferente do antigo, por isso lembre-se de atualizá-lo junto a cadastros que você tenha (trabalho, escola de condução, bancos etc.).
 
