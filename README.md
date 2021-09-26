@@ -41,6 +41,9 @@ Este repositório contém informações e dicas do processo de visto para brasil
   * [Transporte](#transporte)
     - [Transporte público](#transporte-público)
       - [Transporte público no Porto](#transporte-público-no-porto)
+        - [App Anda](#app-anda)
+          - [Requisitos](#requisitos-do-app-anda)
+          - [Utilização] (#utilização-do-app-anda)
     - [Aplicativos](#aplicativos)
   - [Internet](#internet)
   - [Energia elétrica e gás](#energia-elétrica-e-gás)
@@ -919,6 +922,31 @@ Mapa do Metro do Porto
 
 Mapa dos Comboios Urbanos do Porto  
 ![Mapa dos Comboios Urbanos do Porto](https://user-images.githubusercontent.com/397851/91713203-345c6380-eb81-11ea-8618-fe95a82217c0.jpg)
+
+##### App Anda
+
+O [App Anda](https://www.linhandante.com/anda.asp) é um app utilizado para pagamento de transportes públicos no Porto. Funciona em todos os veículos da rede Andante. A principal vantagem deste app é que ao utilizá-lo não é necessário se preocupar com zonas, recargas ou coisas similares. Todos os cálculos são feitos pelo app de forma a cobrar o valor mais barato ao utilizador. Exemplo:
+
+Em um mês o utilizador fez 28 viagens Z2 e percorreu apenas 3 zonas: 28 viagens x €1.20 (valor da passagem Z2) = €33.60. Porém o passe mensal para 3 zonas custa €30. Logo, o app cobra o valor do passe mensal (€30).
+
+###### Requisitos do App Anda
+
+O App se encontra disponível apenas para o sistema operacional Android. Para utilizar o app é necessário:
+
+ - Smartphone que possua: 
+    - Android versão 5.0 ou superior
+    - NFC
+    - Bluetooth
+ - Baixar o [App Anda](https://play.google.com/store/apps/details?id=pt.opt.anda&hl=en&gl=US)
+ - Conta em banco (o app utiliza debito direto)
+
+###### Utilização do App Anda
+
+Após baixar o app e criar sua conta no mesmo, dirija-se ao multibanco mais próximo e siga as instruções que o app lhe dá para associar sua conta do app à sua conta do banco.
+
+Para utilizar o App anda nos transportes é bastante simples: Basta abrir o app, ativar o Bluetooth e NFC, encostar o celular no terminal de leitura (como faria com o cartão comum) e manter o app aberto durante toda a viagem. O app verifica sua localização e se comunica com alguns dispositivos do veículo em que você se encontra para calcular a duração da sua viagem e saber a estação onde você saiu do veículo, de forma a encerrar a sua viagem e calcular corretamente o valor que deve lhe cobrar. A cobrança é feita em débito direto e ocorre quinzenalmente.
+
+Em caso de fiscal no veículo, o App anda possui uma aba exclusiva para isso. Basta mostrar ao fiscal essa aba e ele saberá exatamente o que fazer.
 
 ### Aplicativos
 
