@@ -43,7 +43,7 @@ Este repositório contém informações e dicas do processo de visto para brasil
       - [Transporte público no Porto](#transporte-público-no-porto)
         - [App Anda](#app-anda)
           - [Requisitos](#requisitos-do-app-anda)
-          - [Utilização] (#utilização-do-app-anda)
+          - [Utilização](#utilização-do-app-anda)
     - [Aplicativos](#aplicativos)
   - [Internet](#internet)
   - [Energia elétrica e gás](#energia-elétrica-e-gás)
