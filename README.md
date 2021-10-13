@@ -629,19 +629,17 @@ Notas:
 
 ### Tirar Carta de Condução do zero
 
-Caso você não tenha carteira de motorista brasileira e tenha interesse em tirar a carta de condução portuguesa, o processo é similar ao brasileiro. Pela regra portuguesa, para conduzir ligeiros (carros de passeio) é preciso ter 28 horas de aulas teóricas e 32 horas de aulas práticas. Veja mais detalhes: [Escola de condução - perguntas frequentes | ACP](https://www.acp.pt/servicos/carta-de-conducao/tirar-carta-de-conducao-no-acp/questoes-frequentes).
+Caso você não tenha carteira de motorista brasileira e tenha interesse em tirar a carta de condução portuguesa, o processo é similar ao brasileiro. Pela regra portuguesa, para conduzir ligeiros de passageiros (carros de passeio) é preciso ter 28 horas de aulas teóricas e 32 horas de aulas práticas. Veja mais detalhes: [Escola de condução - perguntas frequentes | ACP](https://www.acp.pt/servicos/carta-de-conducao/tirar-carta-de-conducao-no-acp/questoes-frequentes).
 
-Assim como no procedimento para a troca de carteira de motorista, você precisará de um atestado médico e portanto ter feito o número de utente. Mais detalhes no item anterior.
+Assim como no procedimento para a troca de carteira de motorista brasileira, você precisará de um atestado médico e portanto ter feito o número de utente. Mais detalhes no item anterior.
 
 Após ter o atestado emitido pode ir a uma escola de condução e contratar o serviço, com valores que variam de 450 a 850€ (no Porto em agosto de 2020). Fiz no [Grupo ArtDrive](https://www.grupoartdrive.pt/), que tem aulas teóricas online.
 
-A quantidade mínima para a categoria Ligeiros de Passageiros (carros comuns, como a categoria B do Brasil) são 28 horas de código (aulas teóricas) e 32 horas de condução (aulas práticas). Em geral as aulas de condução tem a duração de 90 minutos e é possível fazer duas em sequência.
+Os exames teóricos e práticos podem ser feitas no IMT (equivalente do Detran) ou em diversas instituições privadas afiliadas ao IMT. A escola de condução que fiz tem parceria com a ACP (Automóvel Clube do Porto) de forma que o exame foi feito lá.
 
-Os exames teóricos e práticos podem ser feitas em diversas instituições cadastradas no IMT (equivalente do Detran). A escola de condução que fiz tem parceria com a ACP (Automóvel Clube do Porto) de forma que o exame foi feito lá.
+Ao se cadastrar na escola de condução, você recebe um papel azul (Título de Condução) que deve ser levado à ACP no dia do exame teórico, em todas as aulas de condução e no exame final de condução. Em geral as aulas de condução tem a duração de 90 minutos e é possível fazer duas em sequência. Após fazer metade das aulas (isto é, 16 horas de condução) é possível marcar o exame prático. O exame é feito no carro da escola de condução com um examinador do IMT no banco do carona e um funcionário da escola de condução no banco de trás.
 
-Ao se cadastrar na escola de condução, você recebe um papel azul (Título de Condução) que deve ser levado à ACP no dia do exame teórico, assim como em todas as aulas de condução e no exame final. Após fazer metade das aulas (isto é, 16 horas de condução) é possível marcar o exame prático. O exame é feito no carro da escola de condução com um examinador do IMT no banco do carona e um funcionário da escola de condução no banco de trás.
-
-Sendo aprovado, você já sai do ACP logo após o exame com o Título de Condução assinado pelo examinador, o que lhe dá permissão para dirigir (válido somente em Portugal). Após cerca de 10 dias você recebe em casa a carta de condução, válida por 15 anos e aceita também internacionalmente.
+Sendo aprovado, você já sai do ACP logo após o exame com o Título de Condução assinado pelo examinador, o que lhe dá permissão para dirigir por até 30 dias após a data da aprovação no exame de condução (válido somente em Portugal). Após cerca de 10 dias você recebe em casa a carta de condução, válida por 15 anos e aceita também internacionalmente.
 
 Observação importante: a carta de condução só pode ser entregue no endereço que consta no seu título de residência, de forma que caso este esteja desatualizado, você precisará fazer primeiro um agendamento no SEF para retificar o endereço e assim emitir um novo título de residência com o endereço correto.
 
