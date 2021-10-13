@@ -27,6 +27,8 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [Residente Não Habitual](#residente-não-habitual)
   - [Justiça Eleitoral](#justiça-eleitoral)
   - [Carteira de Motorista](#carteira-de-motorista)
+    - [Troca de Carteira de Motorista Brasileira pela Carta de Condução Portuguesa](#troca-da-carteira-de-motorista-brasileira-pela-carta-de-condução-portuguesa)
+    - [Tirar Carta de Condução do zero](#tirar-carta-de-condução-do-zero)
   - [IRS](#irs)
     - [Deduções](#deduções)
   - [Estatuto de Igualdade](#estatuto-de-igualdade)
