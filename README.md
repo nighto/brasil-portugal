@@ -2,20 +2,20 @@
 
 Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal, um passo a passo com os procedimentos associados e dicas não relacionadas mas que podem ser úteis.
 
-* [Tipos de visto](#tipos-de-visto)
-* [Visto D3 - Documentação Necessária](#visto-d3---documenta%C3%A7%C3%A3o-necess%C3%A1ria)
-  * [Antes de pedir o visto](#antes-de-pedir-o-visto)
+- [Tipos de visto](#tipos-de-visto)
+- [Visto D3 - Documentação Necessária](#visto-d3---documenta%C3%A7%C3%A3o-necess%C3%A1ria)
+  - [Antes de pedir o visto](#antes-de-pedir-o-visto)
     - [Documentos necessários](#documentos-necessários)
     - [Agendamento](#agendamento)
-  * [Após o visto ter sido aprovado, ainda no Brasil](#ap%C3%B3s-o-visto-ter-sido-aprovado-ainda-no-brasil)
+  - [Após o visto ter sido aprovado, ainda no Brasil](#ap%C3%B3s-o-visto-ter-sido-aprovado-ainda-no-brasil)
     - [Documentos para Autorização de Residência](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia)
     - [Documentos para Autorização de Residência por Reagrupamento Familiar (para seu cônjuge e/ou filhos)](#documentos-para-autoriza%C3%A7%C3%A3o-de-resid%C3%AAncia-por-reagrupamento-familiar-para-seu-c%C3%B4njuge-eou-filhos)
-  * [Outros Documentos do Brasil](#outros-documentos-do-brasil)
+  - [Outros Documentos do Brasil](#outros-documentos-do-brasil)
     - [Diploma e Histórico Escolar do Cônjuge e/ou Filhos](#diploma-e-histórico-escolar-do-cônjuge-eou-filhos)
-  * [Sugestão de coisas para trazer do Brasil](#sugestão-de-coisas-para-trazer-do-brasil)
-* [Familiar de Cidadão Europeu](#familiar-de-cidadão-europeu)
-* [Transferência de Animais Domésticos](#transferência-de-animais-domésticos)
-* [Em Portugal](#em-portugal)
+  - [Sugestão de coisas para trazer do Brasil](#sugestão-de-coisas-para-trazer-do-brasil)
+- [Familiar de Cidadão Europeu](#familiar-de-cidadão-europeu)
+- [Transferência de Animais Domésticos](#transferência-de-animais-domésticos)
+- [Em Portugal](#em-portugal)
   - [NIF](#nif)
     - [Acesso ao Portal das Finanças](#acesso-ao-portal-das-finanças)
   - [Conta Bancária](#conta-banc%C3%A1ria)
@@ -38,33 +38,33 @@ Este repositório contém informações e dicas do processo de visto para brasil
   - [Renovação do Título de Residência](#renovação-do-título-de-residência)
   - [Comunicação de Saída Definitiva do País](#comunicação-de-saída-definitiva-do-país)
   - [Pedido de Nacionalidade](#pedido-de-nacionalidade)
-* [Dicas](#dicas)
-  * [Moradia](#moradia)
-  * [Transporte](#transporte)
+- [Dicas](#dicas)
+  - [Moradia](#moradia)
+  - [Transporte](#transporte)
     - [Transporte público](#transporte-público)
       - [Transporte público no Porto](#transporte-público-no-porto)
         - [App Anda](#app-anda)
           - [Requisitos](#requisitos-do-app-anda)
           - [Utilização](#utilização-do-app-anda)
     - [Aplicativos](#aplicativos)
-  - [Internet](#internet)
-  - [Energia elétrica e gás](#energia-elétrica-e-gás)
-  - [Água e esgoto](#água-e-esgoto)
-  - [IPTV](#iptv)
-  - [Supermercados](#supermercados)
-  - [Assinaturas](#assinaturas)
+  * [Internet](#internet)
+  * [Energia elétrica e gás](#energia-elétrica-e-gás)
+  * [Água e esgoto](#água-e-esgoto)
+  * [IPTV](#iptv)
+  * [Supermercados](#supermercados)
+  * [Assinaturas](#assinaturas)
     - [Globo](#globo)
       - [Globoplay no iPhone](#globoplay-no-iphone)
-  - [VPN](#vpn)
-  - [App Store](#app-store)
-  - [Cartas e encomendas](#cartas-e-encomendas)
+  * [VPN](#vpn)
+  * [App Store](#app-store)
+  * [Cartas e encomendas](#cartas-e-encomendas)
     - [Preenchimento de envelopes de cartas](#preenchimento-de-envelopes-de-cartas)
     - [Publicidade não endereçada](#publicidade-não-endereçada)
     - [Vale de Correio](#vale-de-correio)
-  - [Jogos em mídia física](#jogos-em-mídia-física)
-  - [Garantia](#garantia)
-  - [Reunião Familiar](#reunião-familiar)
-* [Extras](#extras)
+  * [Jogos em mídia física](#jogos-em-mídia-física)
+  * [Garantia](#garantia)
+  * [Reunião Familiar](#reunião-familiar)
+- [Extras](#extras)
   - [Autenticação de cópia](#autentica%C3%A7%C3%A3o-de-c%C3%B3pia)
   - [Reconhecimento de firma](#reconhecimento-de-firma)
   - [Apostila da Haia](#apostila-da-haia)
@@ -104,7 +104,6 @@ Note que, para quem fará a mudança com cônjuge, pode levar alguns meses para 
 Fora o procedimento de obtenção de visto, era possível ainda ir para Portugal como turista e permanecer além do prazo legal para turismo (90 dias) caso você consiga um trabalho nesse período fazendo um processo chamado Manifestação de Interesse, mas recomendo fortemente que você **não faça isso**. Veja mais detalhes neste gist do [@gmmcal](https://github.com/gmmcal) sobre porque vir como turista é uma péssima ideia: [Razões pra não ir pra Portugal como turista](https://gist.github.com/gmmcal/3d1ef4c2a9a71a9163fdae1abbb31e42).
 
 Outra forma de emigrar se você for filho, neto ou bisneto de portugueses é através da obtenção da dupla cidadania, efetivamente se tornando cidadão português. Não é meu caso então não sei mais detalhes, mas caso você tenha essa possibilidade, verifique o processo e adicione aqui. PRs são bem-vindos! :)
-
 
 # Visto D3 - Documentação Necessária
 
@@ -207,7 +206,7 @@ A legislação prevê também a possibilidade de aceitar uma _Promessa de Contra
 
 Copiando o PDF:
 
->  Profissão não regulamentada: prova de que é ser titular de qualificações profissionais elevadas adequadas à atividade ou setor especificado no contrato / promessa de contrato de trabalho.
+> Profissão não regulamentada: prova de que é ser titular de qualificações profissionais elevadas adequadas à atividade ou setor especificado no contrato / promessa de contrato de trabalho.
 
 Neste passo você deve anexar uma cópia do seu diploma e currículo.
 
@@ -225,7 +224,7 @@ Dica: caso você tenha recém concluído seu curso mas ainda não tenha colado g
 
 O **Termo de Responsabilidade** é uma declaração da empresa, datada, assinada e em papel timbrado nessas linhas gerais:
 
-> **Empresa XPTO**, com o NIF *123456789* com sede na *Rua tal, CP tal, cidade tal, Portugal*, neste ato representada por *Fulano de tal*, na qualidade de *cargo do gente boa*, titular do cartão cidadão n° *tal*, válido até *tal data*, na qualidade de empresa anfitriã de **seu nome**, de nacionalidade *brasileira*, nascido a *data tal*, titular do passporte n° *tal*, emitido em *data tal* e válido até *tal data*, declara para os devidos efeitos que ser responsabiliza por todas as despesas inerentes à estada daquele colaborador em Portugal, nomeadamente no que diz respeito a saúde e repatriamento, se necessário.
+> **Empresa XPTO**, com o NIF _123456789_ com sede na _Rua tal, CP tal, cidade tal, Portugal_, neste ato representada por _Fulano de tal_, na qualidade de _cargo do gente boa_, titular do cartão cidadão n° _tal_, válido até _tal data_, na qualidade de empresa anfitriã de **seu nome**, de nacionalidade _brasileira_, nascido a _data tal_, titular do passporte n° _tal_, emitido em _data tal_ e válido até _tal data_, declara para os devidos efeitos que ser responsabiliza por todas as despesas inerentes à estada daquele colaborador em Portugal, nomeadamente no que diz respeito a saúde e repatriamento, se necessário.
 
 Na minha opinião pessoal a empresa que está oferecendo o contrato deve disponibilizar toda essa documentação sem que você tenha que _correr atrás_ - pelo menos foi assim comigo -, então essa seção assim como a do contrato / promessa de contrato é de caráter meramente informativo.
 
@@ -242,6 +241,8 @@ Na minha opinião pessoal a empresa que está oferecendo o contrato deve disponi
 Após ter reunido todos os documentos, faça o agendamento no site do [Ministério de Negócios Estrangeiros](https://www.vistos.mne.pt/pt/pedido-de-visto/solicitar-pedido-de-visto) português.
 
 Além dos documentos especificados anteriormente, é preciso pagar a taxa do visto e levar o comprovante.
+
+> ATENÇÃO: Os vistos de Residência para atividade docente, altamente qualificada ou cultural e atividade altamente qualificada exercida por trabalhador subordinado serão isentos do pagamento de taxa consular a partir do dia **14/09/2021**. Pagamentos já efetuados e repassados ao posto Consular em datas anteriores não serão devolvidos. **Custo R\$162,90 (taxa de transferência R\$15,27 + taxa de processamento R\$147,63)**
 
 - Custo: € 60.
 
@@ -264,6 +265,7 @@ Os únicos documentos brasileiros necessários para pedir a AR são o passaporte
 Seu cônjuge e/ou filhos, se houver, precisarão da seguinte lista de documentos do Brasil para pedir Autorização de Residência por Reagrupamento Familiar:
 
 #### 1. Certidão de Antecedentes Criminais
+
 Emitida na Polícia Federal, ou no país aonde você vive há pelo menos 1 ano se não for o Brasil. Para filhos, somente se maiores de 16 anos. Pode ser emitida online e [para brasileiros não é necessário apostilar, de acordo com o site do consulado brasileiro no Porto](http://porto.itamaraty.gov.br/pt-br/certidao_de_antecedentes_criminais.xml).
 
 - Custo: R\$ 0
@@ -278,6 +280,7 @@ Se você vive em um matrimônio não-oficializado, precisará de um documento co
 - Apostilamento: ~R\$ 50.
 
 #### 3. Certidão de Nascimento (para menores)
+
 **Deve ser emitida a menos de 12 meses da data da viagem para Portugal**. Ou seja, se seu filho tem mais que 1 ano, será preciso pedir uma segunda via do tipo **inteiro teor**. O valor varia por cartório e por idade. É necessário apostilar.
 
 - Custo da segunda via: varia por cartório e por idade, ~R\$ 50
@@ -289,7 +292,7 @@ Esta seção lista procedimentos que não são necessários para tirar o visto, 
 
 ### Diploma e Histórico escolar do cônjuge e/ou filhos
 
-Uma vez que para pedir o Visto D3 você precisará apostilar seu diploma de curso universitário, esta recomendação se aplica ao seu cônjuge e/ou filhos, se houver. 
+Uma vez que para pedir o Visto D3 você precisará apostilar seu diploma de curso universitário, esta recomendação se aplica ao seu cônjuge e/ou filhos, se houver.
 
 No caso dos filhos, o histórico escolar é a comprovação do ensino que a criança teve. Para se matricular numa escola portuguesa será preciso fazer junto à escola portuguesa um procedimento chamado Equivalência escolar, e para tal será necessário o histórico escolar apostilado no Brasil. Mais detalhes na seção correspondente.
 
@@ -306,11 +309,11 @@ Posteriormente em Portugal, será necessário fazer um procedimento de equivalê
 
 ## Sugestão de coisas para trazer do Brasil
 
-- __Papel com seu nome, endereço, telefone e email em todas as malas__  
-Essa dica vale para quaisquer viagens aonde você leve malas. Caso sua mala seja extraviada, caso a etiqueta solte no transporte etc., é sempre útil ter um papel dentro da mala com seus contatos, caso uma situação desse tipo aconteça, a companhia aérea possa saber de quem é a mala (acredite, acontece bastante). Coloque inclusive na mala de mão, uma vez que caso a aeronave esteja muito cheia, a companhia aérea pode solicitar que malas de mão sejam transportadas no porão da aeronave (nesse caso, sem custo adicional).
+- **Papel com seu nome, endereço, telefone e email em todas as malas**  
+  Essa dica vale para quaisquer viagens aonde você leve malas. Caso sua mala seja extraviada, caso a etiqueta solte no transporte etc., é sempre útil ter um papel dentro da mala com seus contatos, caso uma situação desse tipo aconteça, a companhia aérea possa saber de quem é a mala (acredite, acontece bastante). Coloque inclusive na mala de mão, uma vez que caso a aeronave esteja muito cheia, a companhia aérea pode solicitar que malas de mão sejam transportadas no porão da aeronave (nesse caso, sem custo adicional).
 
-- __Adaptador de tomadas__  
-As tomadas em Portugal são 220V 50Hz, então não adianta trazer equipamentos com motor (secador de cabelo etc.), mas em geral eletrônicos bivolt (carregadores de celular, notebook etc.) funcionam sem problemas. Entretanto, os plugues brasileiros são apenas parcialmente compatíveis com os europeus (padrão Schuko). Tomadas redondas de dois pinos (como geralmente são os carregadores de celular) encaixam sem problemas, mas as de três pinos precisarão de um adaptador. Recomendo trazer alguns adaptadores de tomadas simples (benjamin / "T") para ligar eventuais aparelhos nas tomadas portuguesas.
+- **Adaptador de tomadas**  
+  As tomadas em Portugal são 220V 50Hz, então não adianta trazer equipamentos com motor (secador de cabelo etc.), mas em geral eletrônicos bivolt (carregadores de celular, notebook etc.) funcionam sem problemas. Entretanto, os plugues brasileiros são apenas parcialmente compatíveis com os europeus (padrão Schuko). Tomadas redondas de dois pinos (como geralmente são os carregadores de celular) encaixam sem problemas, mas as de três pinos precisarão de um adaptador. Recomendo trazer alguns adaptadores de tomadas simples (benjamin / "T") para ligar eventuais aparelhos nas tomadas portuguesas.
 
 # Familiar de Cidadão Europeu
 
@@ -334,7 +337,7 @@ Pronto. Processo finalizado para o cidadão da união europeia. O título de res
 
 ### Cidadão Brasileiro casado(a) com o(a) Cidadã(o) da União Europeia
 
-Junta-se todos os documentos pessoais (se já estiver trabalhando, também o contrato e os recibos de vencimento - contracheques), além do título de residência do cidadão europeu com quem é casado(a) e atestado de morada da junta de freguesia conforme mencionado no tópico anterior. Pronto. Leve tudo ao órgao responssável (correspondente ao SEF) e depois de duas ou três semanas você receberá o título de residência com validade de cinco anos na sua morada. 
+Junta-se todos os documentos pessoais (se já estiver trabalhando, também o contrato e os recibos de vencimento - contracheques), além do título de residência do cidadão europeu com quem é casado(a) e atestado de morada da junta de freguesia conforme mencionado no tópico anterior. Pronto. Leve tudo ao órgao responssável (correspondente ao SEF) e depois de duas ou três semanas você receberá o título de residência com validade de cinco anos na sua morada.
 
 ## O que facilita a vida do familiar da união europeia em Portugal?
 
@@ -347,17 +350,17 @@ Dessa forma, no dia seguinte à sua chegada, você poderá ir ao banco retirar o
 
 Esta seção traz informações sobre os procedimentos necessários para trazer seus animais de estimação do Brasil para Portugal. Não foi meu caso; reproduzo as informações fornecidas por [@alfredocdmiranda](https://github.com/alfredocdmiranda), [@GianDominoni](https://github.com/GianDominoni) e [@rafaellsanto](https://github.com/rafaellsanto).
 
-A transferência de animais do Brasil para Portugal segue alguns passos importantes, sem os quais você não poderá embarcar com seu animal. É importante deixar claro que __todo o processo deve ser feito com antecedência, já que demora no mínimo 4 meses (120 dias)__.
+A transferência de animais do Brasil para Portugal segue alguns passos importantes, sem os quais você não poderá embarcar com seu animal. É importante deixar claro que **todo o processo deve ser feito com antecedência, já que demora no mínimo 4 meses (120 dias)**.
 
-1. __Microchipar__ e __dar a vacina de raiva__. O Ministério da Agricultura pode reclamar se elas forem dadas no mesmo dia, por isso, alguns veterinários podem pedir para que você retorne no outro dia para dar a vacina, outros não concordam com isso e podem simplesmente colocar a diferença de um dia no cartão de vacinação e comprovante de microchipagem. Se seu animal já é microchipado, não é necessário fazê-lo novamente. Outra observação importante é que geralmente __as vacinas dadas pelas prefeituras de forma gratuita não são válidas para isso__, pois não é dado o "selo" que comprova qual a vacina, lote e demais informações sobre. Mesmo que seu cão tenha acabado de se vacinar, se for microchipado depois, a vacina perde validade para o que se pretende aqui e terá que ser vacinado novamente.
+1. **Microchipar** e **dar a vacina de raiva**. O Ministério da Agricultura pode reclamar se elas forem dadas no mesmo dia, por isso, alguns veterinários podem pedir para que você retorne no outro dia para dar a vacina, outros não concordam com isso e podem simplesmente colocar a diferença de um dia no cartão de vacinação e comprovante de microchipagem. Se seu animal já é microchipado, não é necessário fazê-lo novamente. Outra observação importante é que geralmente **as vacinas dadas pelas prefeituras de forma gratuita não são válidas para isso**, pois não é dado o "selo" que comprova qual a vacina, lote e demais informações sobre. Mesmo que seu cão tenha acabado de se vacinar, se for microchipado depois, a vacina perde validade para o que se pretende aqui e terá que ser vacinado novamente.
 
-Dica: O microchip deve ser do __ISO 11784__ ou __ISO 11785__. Confira se o número do microchip está correto na sorologia de raiva, caractere por caractere (um único número de diferença pode dar problema depois).
+Dica: O microchip deve ser do **ISO 11784** ou **ISO 11785**. Confira se o número do microchip está correto na sorologia de raiva, caractere por caractere (um único número de diferença pode dar problema depois).
 
-2. __No mínimo 30 dias após a vacina__, você deverá fazer o exame de sorologia de raiva em um laboratório [(verifique a lista de laboratórios aceitos neste site da União Europeia)](https://ec.europa.eu/food/animals/pet-movement/approved-labs_en). Alguns veterinários não estão acostumados a fazer esse tipo de procedimento, por isso eles não sabem. Depois você irá se dirigir a um veterinário que irá coletar o sangue e irá enviar para o laboratório. Esse é o passo mais caro.
+2. **No mínimo 30 dias após a vacina**, você deverá fazer o exame de sorologia de raiva em um laboratório [(verifique a lista de laboratórios aceitos neste site da União Europeia)](https://ec.europa.eu/food/animals/pet-movement/approved-labs_en). Alguns veterinários não estão acostumados a fazer esse tipo de procedimento, por isso eles não sabem. Depois você irá se dirigir a um veterinário que irá coletar o sangue e irá enviar para o laboratório. Esse é o passo mais caro.
 
-3. Você deverá __aguardar 90 dias__ a partir do colhimento do sangue para estar apto a viajar, assumindo que o resultado do teste foi positivo.
+3. Você deverá **aguardar 90 dias** a partir do colhimento do sangue para estar apto a viajar, assumindo que o resultado do teste foi positivo.
 
-4. __Antes de fazer a compra da sua passagem__, ligue para a companhia aérea para verificar se há vagas para o transporte de animais no voo desejado, pedir para aguardar na linha enquanto compra a passagem online e logo após comprá-la, já __reservar a passagem do seu animal__. Você provavelmente irá encontrar as informações de qual caixa utilizar, quanto custa a passagem e demais informações nos sites da companhia.
+4. **Antes de fazer a compra da sua passagem**, ligue para a companhia aérea para verificar se há vagas para o transporte de animais no voo desejado, pedir para aguardar na linha enquanto compra a passagem online e logo após comprá-la, já **reservar a passagem do seu animal**. Você provavelmente irá encontrar as informações de qual caixa utilizar, quanto custa a passagem e demais informações nos sites da companhia.
 
 No geral a regra é: a caixa de transporte no porão deve ser aprovada pela IATA, o animal deve poder fazer um giro dentro da caixa e ficar de pé (para evitar maiores dores de cabeça, acho que vale o investimento em uma caixa boa). Se seu animal é pequeno, ele poderá ir na cabine, os limites de peso rodam em média 6/7kg com a bolsa de transporte. No caso de levar na cabine é uma bolsa daquelas maleáveis (também possui limite de tamanho).
 
@@ -365,9 +368,9 @@ Cães conhecidos como _braquicefálicos_, como pug e bulldog, tem sido proibido 
 
 Dica: cada companhia tem seu limite de peso no porão e na cabine, convém verificar em mais de uma companhia.
 
-5. Cerca de uma semana antes da viagem, você deverá ir ao seu veterinário e pedir um __atestado de saúde__ do seu animal. No site da vigiagro tem o modelo de atestado veterinário, onde o proprio veterinário deve preencher as informações e assinar. É necessario ter feito desparasitação interna e externa por requerimento da Vigiagro. Esse atestado tem __validade de 10 dias__.
+5. Cerca de uma semana antes da viagem, você deverá ir ao seu veterinário e pedir um **atestado de saúde** do seu animal. No site da vigiagro tem o modelo de atestado veterinário, onde o proprio veterinário deve preencher as informações e assinar. É necessario ter feito desparasitação interna e externa por requerimento da Vigiagro. Esse atestado tem **validade de 10 dias**.
 
-6. Você deve ir num posto da [__Vigiagro__](https://www.gov.br/agricultura/pt-br/assuntos/vigilancia-agropecuaria) com 3 dias de antecedência do vôo (se o vôo é na segunda ou na terça, entre em contato com a Vigiagro para saber como deve proceder). Lá você deverá levar toda a documentação:
+6. Você deve ir num posto da [**Vigiagro**](https://www.gov.br/agricultura/pt-br/assuntos/vigilancia-agropecuaria) com 3 dias de antecedência do vôo (se o vôo é na segunda ou na terça, entre em contato com a Vigiagro para saber como deve proceder). Lá você deverá levar toda a documentação:
 
 - Certificado de microchipagem
 - Carteira de vacinação
@@ -375,7 +378,7 @@ Dica: cada companhia tem seu limite de peso no porão e na cabine, convém verif
 
 O posto da Vigiagro não precisa ser necessariamente o do aeroporto, uma vez que só aeroportos com voos internacionais tem essa estrutura; também há postos em portos, o que pode ser mais conveniente.
 
-7. Com todos os documentos em mãos, você deverá enviar os documentos para o posto do [__DGAV__](http://www.dgv.min-agricultura.pt) (Direção-Geral de Alimentação e Veterinária) do aeroporto que seu vôo internacional irá chegar. Você deverá informar qual o vôo, dia e horário.
+7. Com todos os documentos em mãos, você deverá enviar os documentos para o posto do [**DGAV**](http://www.dgv.min-agricultura.pt) (Direção-Geral de Alimentação e Veterinária) do aeroporto que seu vôo internacional irá chegar. Você deverá informar qual o vôo, dia e horário.
 
 - Aeroporto de Lisboa: pcflisboaa@dgav.pt
 - Aeroporto do Porto: pcfportoa@dgav.pt
@@ -386,7 +389,7 @@ O posto da Vigiagro não precisa ser necessariamente o do aeroporto, uma vez que
 
 Dica: Dê preferência a pagamento em cartão ou transferência bancária. Se for em dinheiro, deve ser o valor exato (validar o valor no e-mail).
 
-9. Em território português você tem 30 dias após a chegada para ir em um veterinário e fazer o cadastro do microchip no [__SIAC__](https://siac.vet) (Sistema de Informação de Animais de Companhia).
+9. Em território português você tem 30 dias após a chegada para ir em um veterinário e fazer o cadastro do microchip no [**SIAC**](https://siac.vet) (Sistema de Informação de Animais de Companhia).
 
 10. Também possui 30 dias para ir na Junta de Freguesia de onde você (e o animal) residem e pagar a licença. (Há discussões sobre se essa licença ainda deva ser paga ou não). Este último ponto parece que não é mais obrigatório (por [@rafaellsanto](https://github.com/rafaellsanto)).
 
@@ -444,26 +447,26 @@ O pedido de **AR** (Autorização de Residência) é o próximo grande passo bur
 
 A lista de documentos para o pedido de AR é a seguinte:
 
-__1. Formulário devidamente preenchido__ (é fornecido por eles)
+**1. Formulário devidamente preenchido** (é fornecido por eles)
 
-__2. Passaporte válido com visto__
+**2. Passaporte válido com visto**
 
-__3. Comprovativo de meios de subsistência__  
+**3. Comprovativo de meios de subsistência**  
 Contrato de trabalho + três últimos recibos de vencimento + declaração comprovativa da atualidade da relação laboral, com o valor de salário mensal/anual, devidamente assinada e carimbada pela empresa (emitido numa data próxima ao agendamento).
 
 No meu caso, o agendamento foi realizado no mesmo mês do início do contrato de trabalho, então não apresentei os últimos recibos de vencimento, sem nenhum problema.
 
-__4. Comprovativo de alojamento__  
+**4. Comprovativo de alojamento**  
 Contrato de arrendamento, 3 últimos recibos de pagamento e registro do contrato de arrendamento nas Finanças **ou** Atestado de Residência emitido pela Junta da Freguesia da área de residência (emitido numa data próxima ao agendamento).
 
 No meu caso, levei contrato assinado, recibos de pagamento e registro do contrato nas Finanças mas somente este último foi pedido.
 
-__5. NIF__
+**5. NIF**
 
-__6. NISS__  
+**6. NISS**  
 Basta o email impresso mencionando o número do NISS.
 
-__7. Seguro de saúde (PB4 ou da empresa)__  
+**7. Seguro de saúde (PB4 ou da empresa)**  
 Levei os dois e foi pedido apenas o PB4.
 
 Uma vez aprovado, o documento - Título de Residência, em um cartão plástico - vem por carta, sendo entregue na residência, num prazo de 3 semanas. Caso não haja ninguém disponível para receber a carta (é preciso assinar o recebimento) o carteiro deixa um papel indicando que é preciso pegar na agência do CTT (Correios português) num prazo de 6 dias. Caso não pegue neste prazo, o documento volta para o SEF e será preciso pegar com eles. Já adiantando uma dúvida que tinha, no Título de Residência há dois números; o número do título é o do canto superior direito do documento (9 caracteres).
@@ -488,43 +491,43 @@ Ao contrário da AR para você, que atualmente já vem marcada no visto, é prec
 
 Além dos documentos brasileiros dos familiares mencionados na seção anterior, são preciso mais estes documentos:
 
-__1. Formulário fornecido e preenchido no ato__
+**1. Formulário fornecido e preenchido no ato**
 
-__2. Passaporte válido__
+**2. Passaporte válido**
 
-__3. Comprovativo de entrada legal em Portugal__  
+**3. Comprovativo de entrada legal em Portugal**  
 No caso, o carimbo de entrada no passaporte é o suficiente.
 
-__4. Visto de Residência ou Cartão de Autorização de Residência do Principal__  
+**4. Visto de Residência ou Cartão de Autorização de Residência do Principal**  
 Principal é você, no caso.
 
-__5. Comprovativo de meios de subsistência do Principal__  
+**5. Comprovativo de meios de subsistência do Principal**  
 Contrato de trabalho + 3 últimos recibos de vencimento.
 
-__6. Comprovativo de alojamento__  
+**6. Comprovativo de alojamento**  
 Contrato de arrendamento, 3 últimos recibos de pagamento e registro do contrato de arrendamento nas Finanças **ou** Atestado de Residência emitido pela Junta da Freguesia da área de residência (emitido numa data próxima ao agendamento).
 
-__7. NIF__  
+**7. NIF**  
 Seu, do cônjuge e dos filhos.
 
-__8. Autorização para Consulta do Registro Criminal pelo SEF__  
+**8. Autorização para Consulta do Registro Criminal pelo SEF**  
 Formulário fornecido e preenchido no ato.
 
-__9. Seguro Saúde__  
+**9. Seguro Saúde**  
 PB4 apostilado.
 
-__10. Declaração da Escola comprovando frequência no ano letivo em curso__. 
+**10. Declaração da Escola comprovando frequência no ano letivo em curso**.
 Para crianças a partir dos 5 anos de idade.
 
-__11. Declaração do pai ou mãe não residente__. 
+**11. Declaração do pai ou mãe não residente**.
 Se for o caso, é claro.
 
-__12. Documento comprovando a ligação__  
+**12. Documento comprovando a ligação**  
 Certidão de casamento ou união estável, para cônjuges, ou certidão de nascimento, para filhos, em ambos os casos apostilada.
 
 Nota: de forma similar ao processo de pedido do visto, há a exigência de que as certidões sejam recentes (emitida há no máximo 6 meses para casamento e 12 meses para nascimento), mas a data que importa é a que o agendamento foi feito, não a data do atendimento em si. Portanto as certidões emitidas no Brasil antes da viagem deverão ser suficientes, mesmo que o atendimento seja vários meses depois da chegada.
 
-__13. Certidão de Antecedentes Criminais da Polícia Federal__  
+**13. Certidão de Antecedentes Criminais da Polícia Federal**  
 Para maiores de 16 anos, apostilada.
 
 ## Número de Utente
@@ -535,24 +538,24 @@ O site menciona que deve-se fazer o pedido pessoalmente, porém devido ao contex
 
 É preciso enviar um email seguindo o modelo, anexando foto do (título de residência ou agendamento de AR junto ao SEF) e do passaporte.
 
-> Olá, boa tarde, 
+> Olá, boa tarde,
 >
 > Gostaria de fazer o cadastro na unidade para consultas e de obter número de utente, para mim e meus familiares. Segue anexo os títulos de residência e os passaportes.
 >
 > Agradeço desde já a atenção.
 >
 > Atenciosamente,
-> __seu nome__
+> **seu nome**
 
 Custo: 0.
 
 ## Cartão Europeu Seguro Doença
 
-O __Cartão Europeu Seguro Doença__ ou CESD é um cartão plástico que garante atendimento nos hospitais públicos em todos os países da União Europeia com mesmos direitos de cidadãos portugueses, isto é, pagando a mesma taxa moderadora que você pagaria em Portugal. Em alguns casos, você paga o valor que os habitantes do país que você está visitando pagariam, e a Segurança Social faz o ressarcimento do valor pago a mais em relação às regras portuguesas.
+O **Cartão Europeu Seguro Doença** ou CESD é um cartão plástico que garante atendimento nos hospitais públicos em todos os países da União Europeia com mesmos direitos de cidadãos portugueses, isto é, pagando a mesma taxa moderadora que você pagaria em Portugal. Em alguns casos, você paga o valor que os habitantes do país que você está visitando pagariam, e a Segurança Social faz o ressarcimento do valor pago a mais em relação às regras portuguesas.
 
 Dessa forma é uma boa ideia tirar o CESD para eventuais utilizações emergenciais em viagens pela Europa, ainda que você tenha plano de saúde pago pela empresa (uma vez que em geral os planos de saúde portugueses são por coparticipação e a taxa será maior que a taxa moderadora do hospital público). Para quem tem NISS / contribui com a segurança social é possível pedir online (após pedir acesso à Segurança Social direta e receber o código por carta).
 
-Para familiares que não contribuam com a Segurança Social (cônjuge que não trabalhe e/ou filho), é possível pedir presencialmente uma vez que utentes do Serviço Nacional de Saúde também estão cobertos. Para isso, peça primeiro o Número de Utente (veja o item anterior), depois preencha e imprima o [__Formulário GIT53-DGSS__](http://www.seg-social.pt/documents/10152/37938/GIT_53_DGSS/b32f3c97-421a-41ba-8014-529b7d2c90f4), imprima uma cópia do Número de Utente e do seu Título de Residência e entregue tudop numa [loja da Segurança Social](http://www.seg-social.pt/servicos-de-atendimento); não é preciso marcar agendamento. A Segurança Social envia o cartão para a sua residência num prazo de 10 dias úteis.
+Para familiares que não contribuam com a Segurança Social (cônjuge que não trabalhe e/ou filho), é possível pedir presencialmente uma vez que utentes do Serviço Nacional de Saúde também estão cobertos. Para isso, peça primeiro o Número de Utente (veja o item anterior), depois preencha e imprima o [**Formulário GIT53-DGSS**](http://www.seg-social.pt/documents/10152/37938/GIT_53_DGSS/b32f3c97-421a-41ba-8014-529b7d2c90f4), imprima uma cópia do Número de Utente e do seu Título de Residência e entregue tudop numa [loja da Segurança Social](http://www.seg-social.pt/servicos-de-atendimento); não é preciso marcar agendamento. A Segurança Social envia o cartão para a sua residência num prazo de 10 dias úteis.
 
 Veja mais detalhes em: [Cartão Europeu de Seguro de Doença - seg-social.pt](http://www.seg-social.pt/pedido-cartao-europeu-seguro-doenca).
 
@@ -563,9 +566,9 @@ Esta é a aparência do CESD:
 
 ## Residente Não Habitual
 
-Residente Não Habitual ou simplesmente __RNH__ é um direito que os imigrantes têm de serem taxados no [IRS (Imposto de Renda)](#irs) num regime diferenciado (20%) nos primeiros 10 anos em que morem em Portugal. [Dependendo dos seus gastos e das categorias que você teria direito na restituição do IRS, pode ser que o RNH não valha a pena, porque se paga menos imposto mas se renuncia o direito à restituição de imposto](https://www.idealista.pt/news/financas/economia/2019/07/24/40368-residentes-nao-habituais-que-optam-por-taxa-especial-de-irs-de-20-perdem-deducoes); em todo caso, __a solicitação lhe dá o direito mas não a obrigatoriedade__ de declarar o IRS utilizando o RNH, de forma que eu recomendo que você peça o RNH mesmo que não seja vantajoso utilizá-lo para seu salário atual, mas deixe a porta aberta para utilizá-lo no futuro. Para mais detalhes, verifique o [folheto informativo da Autoridade Tributária sobre o RNH](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Folhetos_informativos/Documents/IRS_RNH_PT.pdf).
+Residente Não Habitual ou simplesmente **RNH** é um direito que os imigrantes têm de serem taxados no [IRS (Imposto de Renda)](#irs) num regime diferenciado (20%) nos primeiros 10 anos em que morem em Portugal. [Dependendo dos seus gastos e das categorias que você teria direito na restituição do IRS, pode ser que o RNH não valha a pena, porque se paga menos imposto mas se renuncia o direito à restituição de imposto](https://www.idealista.pt/news/financas/economia/2019/07/24/40368-residentes-nao-habituais-que-optam-por-taxa-especial-de-irs-de-20-perdem-deducoes); em todo caso, **a solicitação lhe dá o direito mas não a obrigatoriedade** de declarar o IRS utilizando o RNH, de forma que eu recomendo que você peça o RNH mesmo que não seja vantajoso utilizá-lo para seu salário atual, mas deixe a porta aberta para utilizá-lo no futuro. Para mais detalhes, verifique o [folheto informativo da Autoridade Tributária sobre o RNH](https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Folhetos_informativos/Documents/IRS_RNH_PT.pdf).
 
-O prazo importante para se ter em mente é o de limite de solicitação: a data é __31 de março do ano seguinte__ à sua chegada.
+O prazo importante para se ter em mente é o de limite de solicitação: a data é **31 de março do ano seguinte** à sua chegada.
 
 Para solicitar, basta acessar [a página de RNH no Portal das Finanças](https://sitfiscal.portaldasfinancas.gov.pt/dados/residentenaohabitual), clicar em _Entregar Pedido_ e preencher o formulário:
 
@@ -599,21 +602,21 @@ Após este prazo, há um segundo prazo para realizar a conversão da carteira br
 
 1. Obter junto ao Consulado Brasileiro da sua região (Lisboa, Porto ou Faro) a **Declaração de Autenticidade da Carteira Nacional de Habilitação**. Mais informações na página do consulado: [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/cnh_-_declaracao_de_autenticidade.xml) / [Porto](http://porto.itamaraty.gov.br/pt-br/cnh_-_declaracao_de_autenticidade.xml) / [Faro](http://faro.itamaraty.gov.br/pt-br/cnh.xml). **Atenção: Cada consulado tem o seu procedimento.** Custo: €15 + correios.
 
-    - No consulado do **Porto** a solicitação é feita por via postal. Veja mais detalhes sobre como fazer o preenchimento dos envelopes [na página do Consulado](http://porto.itamaraty.gov.br/pt-br/servicos_por_correio.xml). O passo a passo é:
-      - imprimir, preencher a mão e assinar [este formulário](https://sistemas.mre.gov.br/kitweb/datafiles/Porto/pt-br/file/FORMULÁRIO%20SERVIÇO(3).pdf);
-      - imprimir uma cópia simples da sua CNH e de um comprovante de residência;
-      - comprar um vale postal de € 15;
-      - comprar e preencher dois envelopes ([atenção que o preenchimento dos envelopes em Portugal é feito diferente de como é feito no Brasil](#preenchimento-de-envelopes-de-cartas)):
-        - no primeiro envelope, preencha seu nome e endereço como remetente (canto superior esquerdo da parte da frente do envelope) e o Consulado como destinatário (canto inferior direito da parte da frente do envelope)  
-          > CONSULADO-GERAL DO BRASIL NO PORTO  
-          > AV. DE FRANÇA, 20, 2º ANDAR  
-          > 4050-275 PORTO  
-        - no segundo envelope preencha da forma inversa, ou seja, o consulado como remetente e você como destinatário);
-      - pagar o envio dos dois envelopes (recomendo incluir rastreio);
-      - colocar os documentos, o vale postal e o segundo envelope dentro do primeiro e enviar.
-      - Dica: esses serviços não precisam necessariamente ser feitos nas agências do CTT (que costumam ter bastante fila); podem ir a estabelecimentos terceiros ligados à rede do CTT (agentes postais). Recomendo ir nas Lojas Note que frequentemente não tem fila. O pagamento dos serviços postais só pode ser feito em espécie.
-      - Dica: os mesmos envelopes podem ser aproveitados para fazer o [pedido do Estatuto da Igualdade](#estatuto-de-igualdade), o que é gratuito, então se tiver interesse já pode aproveitar a oportunidade.
-    - Nos Consulados de Lisboa e Faro o procedimento é feito presencialmente. PRs são bem-vindos com mais detalhes sobre o preenchimento.
+   - No consulado do **Porto** a solicitação é feita por via postal. Veja mais detalhes sobre como fazer o preenchimento dos envelopes [na página do Consulado](http://porto.itamaraty.gov.br/pt-br/servicos_por_correio.xml). O passo a passo é:
+     - imprimir, preencher a mão e assinar [este formulário](<https://sistemas.mre.gov.br/kitweb/datafiles/Porto/pt-br/file/FORMULÁRIO%20SERVIÇO(3).pdf>);
+     - imprimir uma cópia simples da sua CNH e de um comprovante de residência;
+     - comprar um vale postal de € 15;
+     - comprar e preencher dois envelopes ([atenção que o preenchimento dos envelopes em Portugal é feito diferente de como é feito no Brasil](#preenchimento-de-envelopes-de-cartas)):
+       - no primeiro envelope, preencha seu nome e endereço como remetente (canto superior esquerdo da parte da frente do envelope) e o Consulado como destinatário (canto inferior direito da parte da frente do envelope)
+         > CONSULADO-GERAL DO BRASIL NO PORTO  
+         > AV. DE FRANÇA, 20, 2º ANDAR  
+         > 4050-275 PORTO
+       - no segundo envelope preencha da forma inversa, ou seja, o consulado como remetente e você como destinatário);
+     - pagar o envio dos dois envelopes (recomendo incluir rastreio);
+     - colocar os documentos, o vale postal e o segundo envelope dentro do primeiro e enviar.
+     - Dica: esses serviços não precisam necessariamente ser feitos nas agências do CTT (que costumam ter bastante fila); podem ir a estabelecimentos terceiros ligados à rede do CTT (agentes postais). Recomendo ir nas Lojas Note que frequentemente não tem fila. O pagamento dos serviços postais só pode ser feito em espécie.
+     - Dica: os mesmos envelopes podem ser aproveitados para fazer o [pedido do Estatuto da Igualdade](#estatuto-de-igualdade), o que é gratuito, então se tiver interesse já pode aproveitar a oportunidade.
+   - Nos Consulados de Lisboa e Faro o procedimento é feito presencialmente. PRs são bem-vindos com mais detalhes sobre o preenchimento.
 
 2. Fazer um exame médico para obter um atestado médico de aptidão a condução de veículos. Note que mesmo se optar por fazer este exame em hospital particular, será necessário ter antes feito o Número de Utente no Centro de Saúde público. Mais detalhes na seção [Número de Utente](#n%C3%BAmero-de-utente). Custo: € 4,50 na rede pública / a partir de € 25 na rede privada (podendo ser menos caso tenha plano de saúde).
 
@@ -671,7 +674,7 @@ via: [Deduções no IRS: novidades fiscais em 2020](https://www.cgd.pt/Site/Sald
 
 Ou seja: sempre peça o contribuinte na nota para que essas despesas sejam lançadas atreladas ao seu NIF e você tenha o máximo de restituição possível.
 
-A partir dessa tabela, é possível calcular o valor em gasto que seria necessário para atingir o __teto de restituição__ em cada categoria. Dividindo em duas partes, as despesas que são por família:
+A partir dessa tabela, é possível calcular o valor em gasto que seria necessário para atingir o **teto de restituição** em cada categoria. Dividindo em duas partes, as despesas que são por família:
 
 - Rendas: 15%, até 502€ por família, portanto 502 / 0,15 = € 3.346,67 por ano, o que dá € 278,89 por mês (bem abaixo do valor típico de aluguel...)
 - Educação: 30%, até 800€ por família, portanto 800 / 0,3 = € 2.666,67 por ano, o que dá € 222,22 por mês (pagando uma creche ou escola particular chega-se a esse valor)
@@ -680,32 +683,32 @@ A partir dessa tabela, é possível calcular o valor em gasto que seria necessá
 E as despesas que são por pessoa:
 
 - Despesas gerais familiares: 35%, até 250€ por pessoa, portanto 250 / 0,35 = € 714,29 por ano
-- IVA: 15%, até 250€ por pessoa. Este é mais difícil de calcular pois o IVA (Imposto sobre o valor acrescentado) tipicamente varia entre 6 a 23% dependendo do produto comprado, supondo 23% para facilitar o cálculo (maior alíquota possível): 250 / 0,15 = € 1.666 __de IVA__ / 0,23 = € 7.244 de compras em restaurantes e afins por ano, o que dá € 603,67 por mês.
+- IVA: 15%, até 250€ por pessoa. Este é mais difícil de calcular pois o IVA (Imposto sobre o valor acrescentado) tipicamente varia entre 6 a 23% dependendo do produto comprado, supondo 23% para facilitar o cálculo (maior alíquota possível): 250 / 0,15 = € 1.666 **de IVA** / 0,23 = € 7.244 de compras em restaurantes e afins por ano, o que dá € 603,67 por mês.
 
-É possível verificar no portal e-Fatura as [Deduções Provisórias em IRS](https://faturas.portaldasfinancas.gov.pt/painelAdquirente.action), o que recomendo que você faça __mesmo no primeiro ano com alguma frequência__ (uma vez por mês no começo do mês, uma vez que só é possível registar faturas até o dia 12 do mês seguinte), afim de garantir que as suas despesas estejam entrando nas categorias corretas. É possível atribuir as faturas às categorias manualmente, se necessário. Caso você tenha se esquecido de incluir o NIF em uma fatura, ou se a loja não tiver comunicado a sua compra a Autoridade Financeira - _acontece!_ - é possível incluir manualmente a fatura.
+É possível verificar no portal e-Fatura as [Deduções Provisórias em IRS](https://faturas.portaldasfinancas.gov.pt/painelAdquirente.action), o que recomendo que você faça **mesmo no primeiro ano com alguma frequência** (uma vez por mês no começo do mês, uma vez que só é possível registar faturas até o dia 12 do mês seguinte), afim de garantir que as suas despesas estejam entrando nas categorias corretas. É possível atribuir as faturas às categorias manualmente, se necessário. Caso você tenha se esquecido de incluir o NIF em uma fatura, ou se a loja não tiver comunicado a sua compra a Autoridade Financeira - _acontece!_ - é possível incluir manualmente a fatura.
 
-Para incluir manualmente uma fatura, acesse o Portal no link acima, clique no botão __Registar Faturas__ e inclua as informações de acordo com o exemplo:
+Para incluir manualmente uma fatura, acesse o Portal no link acima, clique no botão **Registar Faturas** e inclua as informações de acordo com o exemplo:
 
 ![Fatura impressa](https://user-images.githubusercontent.com/397851/95866620-0cefdd80-0d60-11eb-9211-3b9767f9cbfb.jpeg)
 
-1. __NIF do Comerciante__;
-2. __Tipo de Fatura__: escolha entre _Fatura_, _Fatura simplificada_ e _Fatura-recibo_, essa informação vem escrita na fatura; preencha também o __Número da Fatura__;
-3. __Data de Emissão__;
-4. __Código de Controlo__: são 4 caracteres que ficam junto da frase `Processado por programa certificado` e que ficam _em algum lugar_ na fatura (já encontrei no final, no meio, basta procurar por 4 letras ou números);
-5. __Total de Itens por valor de IVA__: não é preciso adicionar todos os itens da fatura um por um, basta adicionar os totais por faixa de IVA cobrado. Se necessário, clique no botão _Adicionar Linha_ para criar mais linhas. No exemplo da fatura acima, será preciso duas linhas.
+1. **NIF do Comerciante**;
+2. **Tipo de Fatura**: escolha entre _Fatura_, _Fatura simplificada_ e _Fatura-recibo_, essa informação vem escrita na fatura; preencha também o **Número da Fatura**;
+3. **Data de Emissão**;
+4. **Código de Controlo**: são 4 caracteres que ficam junto da frase `Processado por programa certificado` e que ficam _em algum lugar_ na fatura (já encontrei no final, no meio, basta procurar por 4 letras ou números);
+5. **Total de Itens por valor de IVA**: não é preciso adicionar todos os itens da fatura um por um, basta adicionar os totais por faixa de IVA cobrado. Se necessário, clique no botão _Adicionar Linha_ para criar mais linhas. No exemplo da fatura acima, será preciso duas linhas.
 
 ![Captura de tela do portal e-Fatura com as informações digitadas](https://user-images.githubusercontent.com/397851/95867560-30ffee80-0d61-11eb-8ce2-27853aa55d75.png)
 
-Após guardar a fatura, é preciso escolher a __Atividade de Realização da Aquisição__, uma vez que diferentes categorias de serviços tem cotas diferentes de reembolso. Neste exemplo, uma padaria, a atividade é _Alojamento, restauração e similares_ (restauração = restaurantes).
+Após guardar a fatura, é preciso escolher a **Atividade de Realização da Aquisição**, uma vez que diferentes categorias de serviços tem cotas diferentes de reembolso. Neste exemplo, uma padaria, a atividade é _Alojamento, restauração e similares_ (restauração = restaurantes).
 
 ![Tipo da fatura](https://user-images.githubusercontent.com/397851/95867799-758b8a00-0d61-11eb-8fc5-fa92a91a477b.png)
 
-__Dicas importantes:__
+**Dicas importantes:**
 
-- caso você seja casado e/ou tenha filhos, divida as despesas informando o NIF de todos os membros da família, especialmente nas categorias de despesas gerais familiares (contas de serviços, supermercado) e restituição de IVA (restaurantes etc.), mesmo que somente você trabalhe / tenha rendimentos, uma vez que essas categorias tem limite de dedução __por pessoa__. Uma forma simples de fazer isto, para uma família de duas pessoas, seria informar o NIF de um na primeira metade e o NIF do outro na segunda metade do ano, e assim sucessivamente, e quanto as contas, colocar a conta de luz e gás no nome de uma pessoa e a de água e internet na outra, por exemplo. Você pode acessar a página de Deduções Provisórias em IRS mencionada anteriormente para verificar o quão perto do limite está e se precisa ou não se preocupar com isso.
+- caso você seja casado e/ou tenha filhos, divida as despesas informando o NIF de todos os membros da família, especialmente nas categorias de despesas gerais familiares (contas de serviços, supermercado) e restituição de IVA (restaurantes etc.), mesmo que somente você trabalhe / tenha rendimentos, uma vez que essas categorias tem limite de dedução **por pessoa**. Uma forma simples de fazer isto, para uma família de duas pessoas, seria informar o NIF de um na primeira metade e o NIF do outro na segunda metade do ano, e assim sucessivamente, e quanto as contas, colocar a conta de luz e gás no nome de uma pessoa e a de água e internet na outra, por exemplo. Você pode acessar a página de Deduções Provisórias em IRS mencionada anteriormente para verificar o quão perto do limite está e se precisa ou não se preocupar com isso.
 - despesas de saúde podem ter restituição maior caso o remédio comprado tenha sido indicado por conta de uma receita médica. O portal dá a opção de associar uma receita a uma fatura de despesa de saúde.
-- despesas com escolas de condução (para tirar carta de condução / carteira de motorista) __não__ podem entrar na categoria "Educação", mas podem compor o valor de restituição na categoria "Despesas Gerais Familiares".
-- atividades como ginásio (academia), natação etc. __não__ podem entrar na categoria "Saúde", __a menos__ que tenham sido indicadas por um médico.
+- despesas com escolas de condução (para tirar carta de condução / carteira de motorista) **não** podem entrar na categoria "Educação", mas podem compor o valor de restituição na categoria "Despesas Gerais Familiares".
+- atividades como ginásio (academia), natação etc. **não** podem entrar na categoria "Saúde", **a menos** que tenham sido indicadas por um médico.
 
 Tendo passado o primeiro ano, e antes (ou mesmo depois) da declaração, é possível [Consultar Despesas para Deduções à Coleta](https://irs.portaldasfinancas.gov.pt/consultarDespesasDeducoes.action), ou seja, quanto valou acumulou de deduções em cada categoria.
 
@@ -713,7 +716,7 @@ Tendo passado o primeiro ano, e antes (ou mesmo depois) da declaração, é poss
 
 É possível ter o Cartão do Cidadão Português mesmo não sendo português, através do [Tratado de Porto Seguro](https://www.sef.pt/pt/pages/conteudo-detalhe.aspx?nID=86), o qual provê igualdade de direitos para quem o solicitar.
 
-O [Estatuto de Igualdade](https://imigrante.sef.pt/solicitar/estatuto/) provê três modalidades distintas, o __Estatuto de Igualdade de Direitos e Deveres__, o __Estatuto de Igualdade de Direitos Políticos__, e o __Estatuto de Igualdade de Direitos e Deveres e de Direitos Políticos__ que é a junção das duas primeiras. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando do direito (e portanto da obrigação) de votar no Brasil, só está disponível para brasileiros com residência portuguesa há 3 anos e foge do escopo deste guia. Por outro lado, o primeiro traz como principal benefício a obtenção do __Cartão Cidadão__ e pode ser pedido assim que recebemos o Título de Residência. Isto traz duas vantagens principais:
+O [Estatuto de Igualdade](https://imigrante.sef.pt/solicitar/estatuto/) provê três modalidades distintas, o **Estatuto de Igualdade de Direitos e Deveres**, o **Estatuto de Igualdade de Direitos Políticos**, e o **Estatuto de Igualdade de Direitos e Deveres e de Direitos Políticos** que é a junção das duas primeiras. O segundo serve para poder votar e ser votado nas eleições portuguesas, renunciando do direito (e portanto da obrigação) de votar no Brasil, só está disponível para brasileiros com residência portuguesa há 3 anos e foge do escopo deste guia. Por outro lado, o primeiro traz como principal benefício a obtenção do **Cartão Cidadão** e pode ser pedido assim que recebemos o Título de Residência. Isto traz duas vantagens principais:
 
 - facilita financiamento de casa/carro (podendo assim financiar em até 90% a casa e 100% o carro);
 - se quiser fazer mestrado/doutorado vai pagar a mesma propina (mensalidade) que portugueses;
@@ -732,26 +735,28 @@ Observação importante: é preciso ser maior de idade para pedir Estatuto de Ig
 
 1. Uma cópia do Título de Residência - Válido;
 2. Certificado de Nacionalidade para Estatuto de Igualdade, obtido no consulado brasileiro da sua região. Cada consulado tem o seu procedimento, conforme a lista a seguir:
-  - [Consulado de Faro](http://faro.itamaraty.gov.br/pt-br/nacionalidade.xml) - faz-se um agendamento e é preciso apresentar o passaporte e a cédula de identidade (RG) ou certidão de nascimento, verifique o link para mais detalhes;
-  - [Consulado de Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/:::_certificado.xml) - faz-se a solicitação com envio dos documentos online e há um agendamento para pegar o documento;
-  - [Consulado do Porto](http://porto.itamaraty.gov.br/pt-br/certificado_de_nacionalidade_-_estatuto_de_igualdade.xml) - No Consulado do Porto, faz-se a solicitação com envio dos documentos online. Após receber e-mail com validação pela autoridade consular deve-se escolher uma data para atendimento presencial. [Note que não é possível ser atendido nos consulados das outras jurisdições](https://github.com/nighto/brasil-portugal#consulado-ou-embaixada).
+
+- [Consulado de Faro](http://faro.itamaraty.gov.br/pt-br/nacionalidade.xml) - faz-se um agendamento e é preciso apresentar o passaporte e a cédula de identidade (RG) ou certidão de nascimento, verifique o link para mais detalhes;
+- [Consulado de Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/:::_certificado.xml) - faz-se a solicitação com envio dos documentos online e há um agendamento para pegar o documento;
+- [Consulado do Porto](http://porto.itamaraty.gov.br/pt-br/certificado_de_nacionalidade_-_estatuto_de_igualdade.xml) - No Consulado do Porto, faz-se a solicitação com envio dos documentos online. Após receber e-mail com validação pela autoridade consular deve-se escolher uma data para atendimento presencial. [Note que não é possível ser atendido nos consulados das outras jurisdições](https://github.com/nighto/brasil-portugal#consulado-ou-embaixada).
+
 3. [Formulário de solicitação do SEF](https://imigrante.sef.pt/wp-content/uploads/Requerimento_DireitosDeveres_DD_PT.pdf). Imprima e preencha da forma mais legível possível.
 
-Após reunir os documentos necessários, o requerimento pode ser entregue nos balcões de atendimento do SEF nas Delegações ou Direções Regionais do SEF, mediante marcação prévia ou pode igualmente ser enviado por correio contendo o formulário do SEF, a declaração do Consulado e uma cópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):  
-  
+Após reunir os documentos necessários, o requerimento pode ser entregue nos balcões de atendimento do SEF nas Delegações ou Direções Regionais do SEF, mediante marcação prévia ou pode igualmente ser enviado por correio contendo o formulário do SEF, a declaração do Consulado e uma cópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):
+
 > Departamento de Nacionalidades  
 > Avenida do Casal de Cabanas  
 > Urbanização Cabanas Golf, nº 1  
-> 2734-506 Barcarena / OEIRAS 
-  
-Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](#preenchimento-de-envelopes-de-cartas).  
+> 2734-506 Barcarena / OEIRAS
 
-Após cerca de __5 meses__ você irá receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://dre.pt/web/guest/pesquisa-avancada/-/asearch/advanced/normal?advanced.search=Pesquisa+Avan%C3%A7ada&_advancedPublicSearch_WAR_drefrontofficeportlet_sort=whenSearchable&_advancedPublicSearch_WAR_drefrontofficeportlet_sortOrder=DESC&sumario=Concede+o+estatuto+de+igualdade+de+direitos+e+deveres+a+v%C3%A1rios+cidad%C3%A3os+brasileiros&tipo=%22Despacho%22&emissor=%22Administra%C3%A7%C3%A3o+Interna+-+Servi%C3%A7o+de+Estrangeiros+e+Fronteiras%22&perPage=200&types=SERIEII&dataPublicacaoInicio=2021-01-01)). A partir desse momento, vem a segunda parte do passo a passo:
+Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](#preenchimento-de-envelopes-de-cartas).
+
+Após cerca de **5 meses** você irá receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://dre.pt/web/guest/pesquisa-avancada/-/asearch/advanced/normal?advanced.search=Pesquisa+Avan%C3%A7ada&_advancedPublicSearch_WAR_drefrontofficeportlet_sort=whenSearchable&_advancedPublicSearch_WAR_drefrontofficeportlet_sortOrder=DESC&sumario=Concede+o+estatuto+de+igualdade+de+direitos+e+deveres+a+v%C3%A1rios+cidad%C3%A3os+brasileiros&tipo=%22Despacho%22&emissor=%22Administra%C3%A7%C3%A3o+Interna+-+Servi%C3%A7o+de+Estrangeiros+e+Fronteiras%22&perPage=200&types=SERIEII&dataPublicacaoInicio=2021-01-01)). A partir desse momento, vem a segunda parte do passo a passo:
 
 1. [Marque o agendamento no site do Instituto dos Registos e Notariado](https://agendamento.irn.mj.pt) ou pelo telefone [210 990 111](tel:+351210990111).  
-Dica: no site é possível preencher o número do cartão cidadão para agendamento com zeros (informação confirmada com o atendente). Caso não funcione, utilize esse [gerador de número de cartão cidadão](https://cc.marcosantos.me) copiando somente a parte numérica. (Parece que o número do cartão cidadão é a chave primária para realizar os agendamentos.)
+   Dica: no site é possível preencher o número do cartão cidadão para agendamento com zeros (informação confirmada com o atendente). Caso não funcione, utilize esse [gerador de número de cartão cidadão](https://cc.marcosantos.me) copiando somente a parte numérica. (Parece que o número do cartão cidadão é a chave primária para realizar os agendamentos.)
 2. No dia do atendimento leve os papéis que chegaram e seus documentos - título de residência, NIF, NISS, Número de Utente - todos vão ser adicionados no Cartão Cidadão. Será coletada a sua altura, assinatura e foto, os dados são impressos e você assina.  
-Custo: 15 euros.
+   Custo: 15 euros.
 3. Após 7 a 10 dias, você receberá uma carta com um pin. Após receber, volte na Loja do Cidadão aonde foi atendido com a carta e o comprovante para pegar o Cartão Cidadão. Não é necessário agendamento para pegar.
 
 ## Certificado de Conclusão do Ensino Secundário
@@ -762,7 +767,7 @@ Caso você ou seu cônjuge tenham vindo para Portugal sem o histórico do ensino
 
 > Escala de Avaliação: "A partir de 2007 - Escala numérica de 0 (zero) a 10 (dez) com patamar indicativo de desempenho escolar satisfatório, a nota igual ou superior a 05 (cinco) nos termos da Resolução SE - 61, de 24/9/2007.
 >
-> Observações: OS RESULTADOS EM MENÇÕES PARA IDENTIFICAR A AVALIAÇÃO DO ALUNO TEM A SEGUINTE CONFORMIDADE : MENÇÃO __A__ - 9,0 A 10,0 / MENÇÃO __B__ - 7,0 A 8,5 / MENÇÃO __C__ - 5,0 A 6,5 / MENÇÃO __D__ - 2,5 A 4,5 / MENÇÃO __E__ - 0 A 2,0.
+> Observações: OS RESULTADOS EM MENÇÕES PARA IDENTIFICAR A AVALIAÇÃO DO ALUNO TEM A SEGUINTE CONFORMIDADE : MENÇÃO **A** - 9,0 A 10,0 / MENÇÃO **B** - 7,0 A 8,5 / MENÇÃO **C** - 5,0 A 6,5 / MENÇÃO **D** - 2,5 A 4,5 / MENÇÃO **E** - 0 A 2,0.
 
 Uma vez tendo o histórico escolar apostilado e com notas de 0 a 10, basta ir numa Escola Secundária que atenda a sua região e peça um Certificado de Equivalência do Ensino Secundário. Você irá precisar levar:
 
@@ -794,7 +799,7 @@ Copiando os trechos mais relevantes (o destaque é meu):
 > (...)  
 > Na determinação do total dos rendimentos do agregado familiar são considerados os seguintes rendimentos:  
 > Rendimentos de trabalho dependente  
-> Rendimentos anuais **ilíquidos** provenientes de trabalho dependente  
+> Rendimentos anuais **ilíquidos** provenientes de trabalho dependente
 
 A tabela de escalões é:
 
@@ -836,12 +841,12 @@ Note que ao fazer o pedido, o site menciona que só é possível fazer o pagamen
 
 ## Comunicação de Saída Definitiva do País
 
-A [Comunicação de Saída Definitiva do País ou simplesmente **CSDP**](http://www.csdp.receita.fazenda.gov.br/csdp/index.xhtml) é basicamente é um indicativo para a Receita Federal de que você não vive mais no país. [**Brasil e Portugal tem um acordo para evitar a dupla tributação**](http://www.planalto.gov.br/ccivil_03/decreto/2001/D4012.htm), de forma que você _não_ irá pagar imposto de renda no Brasil sobre seus rendimentos em Portugal e vice-versa, de forma que __não é obrigatório fazer a CSDP__, embora você possa fazer caso queira não ter mais que declarar imposto de renda anualmente no Brasil. ([Veja mais informações neste artigo](http://www.marcelaoliveira.it/pt/declaracao-de-saida-definitiva-do-pais/)).
+A [Comunicação de Saída Definitiva do País ou simplesmente **CSDP**](http://www.csdp.receita.fazenda.gov.br/csdp/index.xhtml) é basicamente é um indicativo para a Receita Federal de que você não vive mais no país. [**Brasil e Portugal tem um acordo para evitar a dupla tributação**](http://www.planalto.gov.br/ccivil_03/decreto/2001/D4012.htm), de forma que você _não_ irá pagar imposto de renda no Brasil sobre seus rendimentos em Portugal e vice-versa, de forma que **não é obrigatório fazer a CSDP**, embora você possa fazer caso queira não ter mais que declarar imposto de renda anualmente no Brasil. ([Veja mais informações neste artigo](http://www.marcelaoliveira.it/pt/declaracao-de-saida-definitiva-do-pais/)).
 
 Note ainda que fazer a CSDP e DSDP tem algumas implicações como não poder ter mais contas bancárias convencionais no Brasil, somente contas especiais destinadas a investidores não-residentes que tem tarifas caríssimas de manutenção (a partir de R$ 400 por mês). De qualquer forma, a lei especifica dois tipos de saída:
 
-- saída com caráter __permanente__: a comunicação deve ser feita da data de saída do Brasil até o último dia do mês de fevereiro do ano subsequente;
-- saída com caráter __temporário__: a comunicação deve ser feita a partir do dia seguinte em que se complete 1 ano da de saída do Brasil (podendo ser feita antes, especificando a data futura) até o último dia do mês de fevereiro do ano seguinte.
+- saída com caráter **permanente**: a comunicação deve ser feita da data de saída do Brasil até o último dia do mês de fevereiro do ano subsequente;
+- saída com caráter **temporário**: a comunicação deve ser feita a partir do dia seguinte em que se complete 1 ano da de saída do Brasil (podendo ser feita antes, especificando a data futura) até o último dia do mês de fevereiro do ano seguinte.
 
 **No meu entendimento (atenção, não sou advogado!)** mesmo se mudando para Portugal vendendo seus móveis, entregando apartamento alugado etc., não se trata de uma saída com caráter permanente, uma vez que a saída é feita com um visto de residência de 4 meses e é preciso renovar o título de residência português várias vezes até obter a residência permanente 5 anos depois. Isto é, se não desse certo, você voltaria pro Brasil, não caracterizando portanto uma saída permanente. Dessa forma, poderia ser escolhida a opção de saída com caráter **temporário** mesmo indo para Portugal "de mala e cuia". A lei não define critérios objetivos para a definição do caráter da saída, de forma que eu entendo que seja subjetivo.
 
@@ -854,6 +859,7 @@ O formulário é de preenchimento simples, sendo necessário preencher o seu CPF
 O passo seguinte é fazer a Declaração de Saída Definitiva do País - **DSDP**, que é uma declaração de imposto de renda normal, acrescida da informação de sua saída do país. O prazo para tal é o último dia útil de abril do ano-calendário seguinte à saída do país, se em caráter permanente, ou da data de caracterização da condição de não-permanente, se em caráter temporário.
 
 Por exemplo:
+
 - se você saiu do Brasil em 22/01/2020 em caráter **permanente**, a **CSDP** deve ser feita de 22/01/2020 a 28/02/2021 e a **DSDP** deve ser feita até 30/04/2021.
 - se você saiu do Brasil em 22/01/2020 em caráter **temporário**, a **CSDP** deve ser feita de 22/01/2020 a 28/02/2022 e a **DSDP** deve ser feita até 30/04/2022. Note que neste caso você declarará IRPF em 2021 normalmente.
 
@@ -943,12 +949,12 @@ Em um mês o utilizador fez 28 viagens Z2 e percorreu apenas 3 zonas: 28 viagens
 
 O App se encontra disponível apenas para o sistema operacional Android. Para utilizar o app é necessário:
 
- - Smartphone que possua: 
-    - Android versão 5.0 ou superior
-    - NFC
-    - Bluetooth
- - Baixar o [App Anda](https://play.google.com/store/apps/details?id=pt.opt.anda&hl=en&gl=US)
- - Conta em banco (o app utiliza debito direto)
+- Smartphone que possua:
+  - Android versão 5.0 ou superior
+  - NFC
+  - Bluetooth
+- Baixar o [App Anda](https://play.google.com/store/apps/details?id=pt.opt.anda&hl=en&gl=US)
+- Conta em banco (o app utiliza debito direto)
 
 ###### Utilização do App Anda
 
@@ -966,8 +972,7 @@ Para quem tem crianças de 3 anos ou mais: é frequente que os motoristas tenham
 
 O Free Now além de ter motoristas de aplicativo e taxistas, também pode ser utilizado para aluguel de trotinetes eléctricos (patinetes elétricos) e bicicletas _dockless_.
 
-O link do Bolt já tem um código de convite com € 1,60 de desconto, no Free Now você pode usar o código __2a0twwxbe__ para ter 2€ de desconto. ;-)
-
+O link do Bolt já tem um código de convite com € 1,60 de desconto, no Free Now você pode usar o código **2a0twwxbe** para ter 2€ de desconto. ;-)
 
 ## Internet
 
@@ -1069,7 +1074,7 @@ Em Portugal é bastante comum que as empresas coloquem papeis de publicidade "n�
 É possível solicitar um adesivo (autocolante) gratuitamente, basta enviar um email para [dgc@dg.consumidor.pt](mailto:dgc@dg.consumidor.pt):
 
 > "Solicitar Dístico"
-> 
+>
 > Olá,  
 > Gostava de solicitar o autocolante do dístico de publicidade nao endereçada para ser enviado à minha morada: **<seu endereço completo>**
 
@@ -1083,7 +1088,7 @@ O [CTT tem um serviço envio à cobrança](https://www.ctt.pt/ajuda/empresas/env
 
 ![Vale de Correio](https://camo.githubusercontent.com/74116740adcdf2bd85edfa92caeee15ef86d50dd9c437da7b87843c6bf68a439/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f5f4a7a74672d4531326872672f5372664443615f4e4146492f41414141414141414258672f647175716d4c37317463382f73313630302f762b3039362e6a7067)
 
-A dica aqui é: os agentes autorizados da CTT podem ser utilizados para sacar os Vales de Correio, e em geral eles tem __muito__ menos fila do que as agências da CTT. Costumo ir na papelaria Note. Os serviços postais só podem ser pagos em espécie.
+A dica aqui é: os agentes autorizados da CTT podem ser utilizados para sacar os Vales de Correio, e em geral eles tem **muito** menos fila do que as agências da CTT. Costumo ir na papelaria Note. Os serviços postais só podem ser pagos em espécie.
 
 ## Jogos em Mídia Física
 
@@ -1095,14 +1100,16 @@ Sugere-se recortar e guardar este adesivo do plástico que envolve a embalagem, 
 
 ## Garantia
 
-Em Portugal o período padrão de garantia de produtos é de __dois anos__.
+Em Portugal o período padrão de garantia de produtos é de **dois anos**.
 
 ## Reunião Familiar
 
 ### Fundamentação
+
 No momento as viagens de turismo estão suspensas e é permitida a Reunião Familiar. O SEF tem uma [página que explica que "o objetivo da viagem deve ter uma função ou necessidade essencial, devidamente comprovada"](https://www.sef.pt/pt/pages/noticia-sef.aspx?nID=816). No meu caso, tenho uma filha de 3 anos e a minha esposa foi para o Brasil resolver um problema pessoal. Então preparei uma carta "exagerando nas tintas" dizendo que precisava da minha mãe para ajudar a tomar conta da minha filha para que eu pudesse trabalhar. Não era _realmente_ o caso, mas estava comprovado a tal "necessidade essencial" necessária para a aprovação na imigração.
 
 ### Documentação
+
 Forneci para minha mãe (tudo escaneado, sem enviar fisicamente pelos correios):
 
 - carta convite mencionada acima (modelo abaixo);
@@ -1119,25 +1126,27 @@ Além disso, ela também tinha com ela:
 - um outro formulário da DGS que vc registra o seu assento no voo, para o caso de alguém dar positivo no voo eles avisarem quem estava em volta.
 
 ### Embarque
+
 No aeroporto no Brasil foi bem tranquilo, apenas apresentou no balcão da TAP a passagem, o passaporte e o teste de Covid. Não pediram mais nada.
 
 ### Imigração
+
 O funcionário da imigração pediu o passaporte, o teste de covid, e perguntou "o motivo de estar aqui" e perguntou quanto tempo ia ficar, ela disse que veio fazer reunião familiar e ele perguntou "que tipo de reunião familiar", ao que ela respondeu que veio ajudar o filho e ficar com a neta para que o filho pudesse trabalhar, ele perguntou ainda "se tinha vindo para ficar ou se ia voltar", ela mostrou a passagem e entregou a documentação toda, ele conferiu todas as folhas, carimbou o passaporte e "bem-vinda a Portugal, boa estada".
 
 ### Modelo da Carta Convite
 
 > A(o) Oficial do Controle de Fronteira,
-> 
-> A(o) Funcionário da Companhia Aérea,
-> 
-> __Carta Convite - Reunião Familiar - Fundamentação__
-> 
-> Eu, ```[seu nome completo]```, nascido a ```[data de nascimento]```, nacional do Brasil, residente em ```[seu endereço]``` código postal ```[seu CP]``` - ```[cidade]```, ```[distrito]```, titular do Título de Residência ```[número tal]``` emitido a ```[tal data]``` no ```[cidade]``` e válido até ```[data de validade]```, titular do Passaporte ```[número tal]```, emitido a ```[tal data]``` no ```[cidade]```/Brasil e válido até ```[tal data]```, convido ```[minha mãe]```, ```[nome completo]```, nascida a ```[tal data]```, nacional do Brasil, titular do Passaporte ```[tal número]```, emitido a ```[tal data]``` no ```[cidade]```/Brasil e válido até ```[tal data]```, para ```[motivo essencial, e os dados da terceira pessoa se for o caso]```, uma vez que ```[explanação do motivo essencial]```. Neste período, ela ficará hospedada em minha casa e eu serei integralmente responsável pelas suas despesas, conforme Termo de Responsabilidade anexo.
-> Estarei no ```[Aeroporto tal]``` a aguardar a sua chegada e estou disponível no telemóvel ```[tal número]``` para quaisquer questões que se façam presentes.
 >
-> ```[Cidade]```, ```[data]```
-> 
-> ______________________________________
+> A(o) Funcionário da Companhia Aérea,
+>
+> **Carta Convite - Reunião Familiar - Fundamentação**
+>
+> Eu, `[seu nome completo]`, nascido a `[data de nascimento]`, nacional do Brasil, residente em `[seu endereço]` código postal `[seu CP]` - `[cidade]`, `[distrito]`, titular do Título de Residência `[número tal]` emitido a `[tal data]` no `[cidade]` e válido até `[data de validade]`, titular do Passaporte `[número tal]`, emitido a `[tal data]` no `[cidade]`/Brasil e válido até `[tal data]`, convido `[minha mãe]`, `[nome completo]`, nascida a `[tal data]`, nacional do Brasil, titular do Passaporte `[tal número]`, emitido a `[tal data]` no `[cidade]`/Brasil e válido até `[tal data]`, para `[motivo essencial, e os dados da terceira pessoa se for o caso]`, uma vez que `[explanação do motivo essencial]`. Neste período, ela ficará hospedada em minha casa e eu serei integralmente responsável pelas suas despesas, conforme Termo de Responsabilidade anexo.
+> Estarei no `[Aeroporto tal]` a aguardar a sua chegada e estou disponível no telemóvel `[tal número]` para quaisquer questões que se façam presentes.
+>
+> `[Cidade]`, `[data]`
+>
+> ---
 
 # Extras
 
@@ -1163,6 +1172,6 @@ Procuração é um termo emitido em um cartório que permite que uma terceira pe
 
 O Brasil tem uma [embaixada](http://lisboa.itamaraty.gov.br/pt-br/) e três consulados em Portugal. Em geral as interações para solicitações de documentos são todas com os consulados, à exceção dos [assuntos educacionais](http://lisboa.itamaraty.gov.br/pt-br/assuntos_educacionais.xml).
 
-A embaixada fica em Lisboa, e os três consulados ficam em [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/), [Porto](http://porto.itamaraty.gov.br/pt-br/) e [Faro](http://faro.itamaraty.gov.br/pt-br/). __Note que você somente poderá fazer solicitações de documentos ao consulado que atende a sua região de residência.__
+A embaixada fica em Lisboa, e os três consulados ficam em [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/), [Porto](http://porto.itamaraty.gov.br/pt-br/) e [Faro](http://faro.itamaraty.gov.br/pt-br/). **Note que você somente poderá fazer solicitações de documentos ao consulado que atende a sua região de residência.**
 
 ![Jurisdição dos consulados brasileiros em Portugal](https://user-images.githubusercontent.com/397851/91711541-f7db3880-eb7d-11ea-80d6-99514a1fa35e.png)
