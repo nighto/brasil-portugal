@@ -253,7 +253,7 @@ Após algum tempo de ansiedade e incertezas, num prazo que pode levar de 15 dias
 
 Note que o agendamento marcado pode ser num prazo superior aos 4 meses de duração do visto, não há problema. **Você não ficará ilegal neste período.** Porém neste intervalo - entre a data final do visto de trabalho, e o recebimento da Autorização de Residência - você não poderá viajar entre os países da Europa (leia-se [Espaço Schengen](https://pt.wikipedia.org/wiki/Acordo_de_Schengen)), somente permanecer em Portugal. Ao menos em teoria, uma vez que não há controle migratório entre os países do Espaço Schengen, mas convém não arriscar.
 
-Dica: dependendo da cidade que se vá trabalhar, a marcação pode levar um bom tempo (por exemplo, meu visto foi emitido em 27/12/2019 e a visita ao SEF do Porto estava marcada para 10/07/2020). É possível ligar para o SEF e marcar em outra cidade com um prazo menor. No meu caso, consegui agendamento para o SEF em Braga em 20/02/2020.
+É comum que a marcação do visto não seja na mesma cidade que você irá morar. Aproveite a oportunidade para tirar um dia do trabalho e turistar na cidade com a desculpa de estar resolvendo a burocracia imigratória. ;-)
 
 ### Documentos para Autorização de Residência
 
