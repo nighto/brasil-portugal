@@ -1,0 +1,51 @@
+# Carteira de Motorista
+
+### Troca da Carteira de Motorista Brasileira pela Carta de Condução Portuguesa
+
+Para quem tem Carteira de Motorista brasileira (CNH), existem dois prazos importantes. É possível dirigir em Portugal com a CNH brasileira - **não é exigida a Permissão Internacional para Dirigir** - num prazo de **183 dias após a chegada ao país**.
+
+Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos** a partir da data de chegada. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized). O procedimento é:
+
+1. Obter junto ao Consulado Brasileiro da sua região (Lisboa, Porto ou Faro) a **Declaração de Autenticidade da Carteira Nacional de Habilitação**. Mais informações na página do consulado: [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/cnh\_-\_declaracao\_de\_autenticidade.xml) / [Porto](http://porto.itamaraty.gov.br/pt-br/cnh\_-\_declaracao\_de\_autenticidade.xml) / [Faro](http://faro.itamaraty.gov.br/pt-br/cnh.xml). **Atenção: Cada consulado tem o seu procedimento.** Custo: €15 + correios.
+   * No consulado do **Porto** a solicitação é feita por via postal. Veja mais detalhes sobre como fazer o preenchimento dos envelopes [na página do Consulado](http://porto.itamaraty.gov.br/pt-br/servicos\_por\_correio.xml). O passo a passo é:
+     * imprimir, preencher a mão e assinar [este formulário](https://sistemas.mre.gov.br/kitweb/datafiles/Porto/pt-br/file/FORMUL%C3%81RIO%20SERVI%C3%87O\(3\).pdf);
+     * imprimir uma cópia simples da sua CNH e de um comprovante de residência;
+     * comprar um vale postal de € 15;
+     * comprar e preencher dois envelopes ([atenção que o preenchimento dos envelopes em Portugal é feito diferente de como é feito no Brasil](https://github.com/nighto/brasil-portugal#preenchimento-de-envelopes-de-cartas)):
+       *   no primeiro envelope, preencha seu nome e endereço como remetente (canto superior esquerdo da parte da frente do envelope) e o Consulado como destinatário (canto inferior direito da parte da frente do envelope)
+
+           > CONSULADO-GERAL DO BRASIL NO PORTO\
+           > AV. DE FRANÇA, 20, 2º ANDAR\
+           > 4050-275 PORTO
+       * no segundo envelope preencha da forma inversa, ou seja, o consulado como remetente e você como destinatário);
+     * pagar o envio dos dois envelopes (recomendo incluir rastreio);
+     * colocar os documentos, o vale postal e o segundo envelope dentro do primeiro e enviar.
+     * Dica: esses serviços não precisam necessariamente ser feitos nas agências do CTT (que costumam ter bastante fila); podem ir a estabelecimentos terceiros ligados à rede do CTT (agentes postais). Recomendo ir nas Lojas Note que frequentemente não tem fila. O pagamento dos serviços postais só pode ser feito em espécie.
+     * Dica: os mesmos envelopes podem ser aproveitados para fazer o [pedido do Estatuto da Igualdade](https://github.com/nighto/brasil-portugal#estatuto-de-igualdade), o que é gratuito, então se tiver interesse já pode aproveitar a oportunidade.
+   * Nos Consulados de Lisboa e Faro o procedimento é feito presencialmente. PRs são bem-vindos com mais detalhes sobre o preenchimento.
+2. Fazer um exame médico para obter um atestado médico de aptidão a condução de veículos. Note que mesmo se optar por fazer este exame em hospital particular, será necessário ter antes feito o Número de Utente no Centro de Saúde público. Mais detalhes na seção [Número de Utente](https://github.com/nighto/brasil-portugal#n%C3%BAmero-de-utente). Custo: € 4,50 na rede pública / a partir de € 25 na rede privada (podendo na prática ser menos caso você tenha seguro saúde).
+3. Após ter recebido a declaração, agendar a troca no [IMT](http://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/IMTHome.aspx) (Instituto da Mobilidade e dos Transportes, equivalente dos Detran brasileiros). Veja os documentos necessários: [IMT - Condutores > Troca de título de condução estrangeiro > Outras Situações](http://www.imt-ip.pt/sites/IMTT/Portugues/Condutores/TrocaCartaConducao/OutrasSituacoes/Paginas/OutrasSituacoes.aspx). Custo: € 30.
+
+Notas:
+
+1. é preciso entregar a carteira brasileira para a troca pela carteira portuguesa, você não fica com as duas, sua CNH será enviada para o Detran brasileiro. Como alternativa, sugiro a instalação da [CNH Digital](https://servicos.serpro.gov.br/cnh-digital/) no seu celular, bem como ter uma foto da sua CNH brasileira caso você precise de alguma informação dela;
+2. numa futura viagem de férias para o Brasil, você poderá dirigir com a carteira portuguesa, mas caso queira pode ir no Detran e fazer uma segunda via para ter as duas;
+3. não é possível trocar a permissão de dirigir temporária brasileira (obtida logo após passar na prova do Detran), somente a definitiva (emitida após 1 ano). Ou seja, caso você tenha acabado de passar na prova e tirar a carteira provisória antes de viajar para Portugal, terá que voltar ao Brasil para emitir a carteira de motorista definitiva para só então poder trocar a carteira definitiva brasileira pela portuguesa.
+
+### Tirar Carta de Condução do zero
+
+Caso você não tenha carteira de motorista brasileira e tenha interesse em tirar a carta de condução portuguesa, o processo é similar ao brasileiro. Pela regra portuguesa, para conduzir ligeiros de passageiros (carros de passeio) é preciso ter 28 horas de aulas teóricas e 32 horas de aulas práticas. Veja mais detalhes: [Escola de condução - perguntas frequentes | ACP](https://www.acp.pt/servicos/carta-de-conducao/tirar-carta-de-conducao-no-acp/questoes-frequentes).
+
+Assim como no procedimento para a troca de carteira de motorista brasileira, você precisará de um atestado médico e portanto ter feito o número de utente. Mais detalhes no item anterior.
+
+Após ter o atestado emitido pode ir a uma escola de condução e contratar o serviço, com valores que variam de 450 a 850€ (no Porto em agosto de 2020). Fiz no [Grupo ArtDrive](https://www.grupoartdrive.pt), que tem aulas teóricas online.
+
+Os exames teóricos e práticos podem ser feitas no IMT (equivalente do Detran) ou em diversas instituições privadas afiliadas ao IMT. A escola de condução que fiz tem parceria com a ACP (Automóvel Clube do Porto) de forma que os exames foram feitos lá e não no IMT.
+
+Ao se cadastrar na escola de condução, você recebe um papel azul (Título de Condução) que deve ser levado à ACP no dia do exame teórico, em todas as aulas de condução e no exame final de condução. Em geral as aulas de condução tem a duração de 90 minutos e é possível fazer duas em sequência. Após fazer metade das aulas (isto é, 16 horas de condução) é possível marcar o exame prático.
+
+O exame é feito no carro da escola de condução (o mesmo que você fez as aulas práticas) com um examinador do IMT no banco do carona e um funcionário da escola de condução no banco de trás, e ao contrário das provas práticas no Brasil que em geral são em circuitos fechados, em Portugal o exame é feito na rua, numa rota escolhida pelo examinador que teste um pouco de tudo (ruas residenciais fechadas, estradas, estacionamento paralelo, perpendicular etc).
+
+Sendo aprovado, você já sai do ACP logo após o exame com o Título de Condução assinado pelo examinador, o que lhe dá permissão para dirigir por até 30 dias após a data da aprovação no exame de condução - válido somente em Portugal. Após cerca de 10 dias você recebe em casa a carta de condução, válida por 15 anos e aceita também internacionalmente.
+
+Observação importante: a carta de condução só pode ser entregue no endereço que consta no seu título de residência, de forma que caso este esteja desatualizado, você precisará fazer primeiro um agendamento no SEF para retificar o endereço e assim emitir um novo título de residência com o endereço correto.
