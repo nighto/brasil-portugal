@@ -2,7 +2,8 @@
 
 ## 🇧🇷➡️🇵🇹
 
-\
+### Veja o conteúdo no Gitbook: [https://nighto.gitbook.io/brasil-portugal/](https://nighto.gitbook.io/brasil-portugal/)
+
 Este repositório contém informações e dicas do processo de visto para brasileiros trabalharem com TI em Portugal, um passo a passo com os procedimentos associados e dicas não relacionadas mas que podem ser úteis.
 
 Este texto foi originalmente escrito por [Arlindo Pereira](http://github.com/nighto) então alguns trechos estão em primeira pessoa, mas contribuições são bem-vindas! Tive a oportunidade de passar para uma empresa que forneceu uma advogada especializada nesse tipo de procedimento, e sinto que posso ajudar a comunidade compartilhando os conhecimentos que aprendi. Também incluí os custos de toda a documentação, para dar uma ideia do quanto se gasta no processo.
