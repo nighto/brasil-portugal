@@ -22,6 +22,17 @@ Após este prazo, há um segundo prazo para realizar a conversão da carteira br
      * colocar os documentos, o vale postal e o segundo envelope dentro do primeiro e enviar.
      * Dica: esses serviços não precisam necessariamente ser feitos nas agências do CTT (que costumam ter bastante fila); podem ir a estabelecimentos terceiros ligados à rede do CTT (agentes postais). Recomendo ir nas Lojas Note que frequentemente não tem fila. O pagamento dos serviços postais só pode ser feito em espécie.
      * Dica: os mesmos envelopes podem ser aproveitados para fazer o [pedido do Estatuto da Igualdade](https://github.com/nighto/brasil-portugal#estatuto-de-igualdade), o que é gratuito, então se tiver interesse já pode aproveitar a oportunidade.
+   * No consulado de **Lisboa** parte do processo é digital e o restante é presencial.
+     * Dar inicio ao processo através da plataforma [e-consular](https://ec-lisboa.itamaraty.gov.br/new-process).
+     * Será necessário fazer upload de:
+       * Comprovante de residência em Portugal no seu nome 1 (conta de água, luz, telefone, etc)
+       * Título de Residência em Portugal
+       * CNH válida, frente e verso, fora do plastico;
+       * Passaporte brasileiro ou outro documento que comprove a sua nacionalidade brasileira:
+     * Agendar uma ida ao Consulado. Esse agendamento é feito pela página [**Meus serviços**](https://ec-lisboa.itamaraty.gov.br/user-main). [Existe uma tabela para acompanhamento](https://ec-lisboa.itamaraty.gov.br/availability) de quando há uma vaga para serviços consulares no Consulado de Lisboa. (*Dica: as vagas são bastante limitadas e acabam rapidamente. Recomenda-se ficar olhando constantemente [ou usar um script automatizado](https://github.com/icaromh/marcar_cnh)*).
+     * A próxima etapa é ir ao consulado brasileiro em Lisboa na data marcada. É necessário levar a CNH original, um documento de identificação (o Passaporte, por exemplo) e também a folha com a Marcação (pode ser no celular).
+       * Endereço: R. António Maria Cardoso 39, 1200-443 Lisboa
+     * Pagamento apenas em MBWay no valor de €15. Não aceitam dinheiro e a máquina de cartões não tem contactless.
    * Nos Consulados de Lisboa e Faro o procedimento é feito presencialmente. PRs são bem-vindos com mais detalhes sobre o preenchimento.
 2. Fazer um exame médico para obter um atestado médico de aptidão a condução de veículos. Note que mesmo se optar por fazer este exame em hospital particular, será necessário ter antes feito o Número de Utente no Centro de Saúde público. Mais detalhes na seção [Número de Utente](https://github.com/nighto/brasil-portugal#n%C3%BAmero-de-utente). Custo: € 4,50 na rede pública / a partir de € 25 na rede privada (podendo na prática ser menos caso você tenha seguro saúde).
 3. Após ter recebido a declaração, agendar a troca no [IMT](http://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/IMTHome.aspx) (Instituto da Mobilidade e dos Transportes, equivalente dos Detran brasileiros). Veja os documentos necessários: [IMT - Condutores > Troca de título de condução estrangeiro > Outras Situações](http://www.imt-ip.pt/sites/IMTT/Portugues/Condutores/TrocaCartaConducao/OutrasSituacoes/Paginas/OutrasSituacoes.aspx). Custo: € 30.
