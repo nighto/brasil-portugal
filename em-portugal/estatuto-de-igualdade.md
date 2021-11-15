@@ -13,6 +13,7 @@ e outras pequenas facilidades, tais como:
 
 * marcação de consultas no Sistema Nacional de Saúde online, sem precisar ligar para o Centro de Saúde;
 * autenticação de documentos online com a chave privada associada ao cartão;
+* fast track na imigração dos aeroportos, você pode pegar a fila de cidadão europeu;
 * login facilitado nas plataformas online do governo.
 
 Note que, ao contrário do Cartão Cidadão português e assim como o Título de Residência, o cartão cidadão para estrangeiros não é aceito como documento válido de viagens, então mesmo em viagens dentro do Espaço Schengen você irá precisar do seu passaporte.
