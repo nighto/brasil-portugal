@@ -8,8 +8,6 @@ Há poucas vagas disponíveis e é preciso ligar repetidas vezes, por vários di
 
 O telefone é **965 903 700**. Alguns advogados vendem serviços de marcação de agendamento, o que eles fazem é ficar ligando repetidas vezes para este número até ser atendido. Existem aplicativos de rediscagem automática para celular que podem ajudar. Dica: ligue às 8h em ponto, hora que o atendimento começa, assim a possibilidade de encontrar um atendente disponível é maior.
 
-O telefone é **965 903 700**. Alguns advogados vendem serviços de marcação de agendamento, o que eles fazem é ficar ligando repetidas vezes para este número até ser atendido. Existem aplicativos de rediscagem automática para celular que podem ajudar. Dica: ligue às 8h em ponto, hora que o atendimento começa, assim a possibilidade de encontrar um atendente disponível é maior.
-
 Observação importante: só ligue e agende a partir da chegada em Portugal, um agendamento realizado numa data anterior a da chegada de seus familiares pode causar problemas.
 
 Além dos documentos brasileiros dos familiares mencionados na seção anterior, são preciso mais estes documentos:
