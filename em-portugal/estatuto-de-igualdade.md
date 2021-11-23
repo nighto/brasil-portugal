@@ -16,7 +16,7 @@ e outras pequenas facilidades, tais como:
 * fast track na imigração dos aeroportos, você pode pegar a fila de cidadão europeu;
 * login facilitado nas plataformas online do governo.
 
-Note que, ao contrário do Cartão Cidadão português e assim como o Título de Residência, o cartão cidadão para estrangeiros não é aceito como documento válido de viagens, então mesmo em viagens dentro do Espaço Schengen você irá precisar do seu passaporte.
+Note que tanto o Cartão Cidadão português para estrangeiros quanto o Título de Residência não são aceitos como documentos válidos de viagem, então mesmo em viagens dentro do Espaço Schengen você irá precisar do seu passaporte.
 
 Observação importante: é preciso ser maior de idade para pedir Estatuto de Igualdade, de forma que não é possível fazer o procedimento para filhos menores de idade.
 
