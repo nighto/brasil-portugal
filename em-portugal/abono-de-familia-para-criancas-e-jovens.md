@@ -34,3 +34,9 @@ Os valores são majorados caso sejam pelo menos 2 filhos com 36 meses ou menos, 
 Para solicitar, é preciso primeiro [ter o NISS e ter acesso à Segurança Social Direta](https://github.com/nighto/brasil-portugal#niss), ou solicitar diretamente nos postos de atendimento da Segurança Social, através do [formulário RP5045-DGSS](http://www.seg-social.pt/formularios?kw=RP5045-DGSS). Para tal, é preciso agendar atendimento através do telefone 300 502 502.
 
 Também há um [abono de família pré-natal](http://www.seg-social.pt/abono-de-familia-pre-natal2), destinado a pessoas grávidas, ou cuja criança tenha até 6 meses de idade.
+
+## Pedido de Cancelamento do Abono
+
+A comunicação entre as Finanças e a Segurança Social é automática, por exemplo após a declaração do IRS no primeiro ano não é preciso fazer nada, caso você não tenha mais direito ao abono (ou o valor a receber seja menor devido a uma mudança de escalão). Por outro lado, caso você emigre de Portugal (volte ao Brasil ou se mude para outro país) é preciso pedir o cancelamento manualmente, uma vez que somente pessoas que residem em Portugal tem direito a receber o abono.
+
+Para isso, é preciso enviar email ao ISS do distrito em que você se cadastrou. Para o distrito do Porto, o email é: [ISS-Porto-RI@seg-social.pt](mailto:ISS-Porto-RI@seg-social.pt).
