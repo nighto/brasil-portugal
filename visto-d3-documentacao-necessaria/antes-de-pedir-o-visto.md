@@ -64,7 +64,12 @@ O certificado de registro criminal deve ter sido emitido nos últimos 30 dias do
 
 Dica: Como ele só é válido por 90 dias, deve ter sido emitido nos últimos 30 dias e sai na hora, deixe para emitir e especialmente apostilar quando todos os outros documentos forem emitidos (isto é, quando você receber o passaporte etc.), para que ele seja válido pelo maior tempo possível.
 
+Por ser um documento digital, pode ser que o cartório solicite a Materialização do documento antes de apostilar. Segundo o [Cartório Maritimo](http://www.cartoriomaritimo.com.br/servicos/materializacao-de-documentos/#:~:text=Materializa%C3%A7%C3%A3o%20de%20documentos%20%C3%A9%20a,um%20website%20ou%20arquivo%20digital):
+
+> Materialização de documentos é a geração de um documento em papel, com autenticação e fé pública, a partir de um documento eletrônico proveniente de um website ou arquivo digital
+
 * Custo: R$ 0;
+* Materialização: \~R$ 19.
 * Apostilamento: \~R$ 50.
 
 **8. Declaração de autorização de consulta de antecedentes criminais em Portugal**
