@@ -8,6 +8,8 @@ Há poucas vagas disponíveis e é preciso ligar repetidas vezes, por vários di
 
 O telefone é **965 903 700**. Alguns advogados vendem serviços de marcação de agendamento, o que eles fazem é ficar ligando repetidas vezes para este número até ser atendido. Existem aplicativos de rediscagem automática para celular que podem ajudar. Dica: ligue às 8h em ponto, hora que o atendimento começa, assim a possibilidade de encontrar um atendente disponível é maior.
 
+### Quando ligar?
+Ligue no SEF assim que o familiar estiver em solo Português. Mesmo no caso do(s) familiar(es) chegar(em) junto(s) com você, é possível já começar a ligar assim que chegarem, ou seja, mesmo antes de você fazer a sua entrevista de residência e receber a sua AR. Isso porque um agendamento para o agrupamento familiar costuma demorar pelo menos 3 meses, então dá tempo de fazer e sua entrevista e ter os documentos no dia da entrevista dos familiares. E ainda porque no momento do agendamento por telefone não é necessário que a sua AR esteja pronta.
 Observação importante: só ligue e agende a partir da chegada em Portugal, um agendamento realizado numa data anterior a da chegada de seus familiares pode causar problemas.
 
 Além dos documentos brasileiros dos familiares mencionados na seção anterior, são preciso mais estes documentos:
