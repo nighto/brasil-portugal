@@ -6,13 +6,13 @@ Apesar disso, como em Portugal muitos funcionários públicos têm informações
 
 Não é necessário apresentar extratos bancários de conta corrente ou cartão de crédito que comprovem que tem condições de se manter no país, mas é sempre bom ter essa informação na bagagem.
 
-Para dar um exemplo de como as informações podem ser confusas, o [@rezehnde](https://github.com/rezehnde) veio a Portugal como familiar da UE e ao apresentar seus documentos no antigo SEF, foi mencionado que ele deveria ter feito manifestação de interesse na entrada em Portugal, o que não é correto. No caso dele, a advogada que o acompanhava, explicou a atendente, citou a lei, e ficou tudo resolvido. Portugal é assim: cada servidor público pode ter a sua opinião que nem sempre é pautada na lei e isso pode prejudicar a sua entrada no país. É preciso se precaver.
+Para dar um exemplo de como as informações podem ser confusas, o @rezehnde veio a Portugal como familiar da UE e ao apresentar seus documentos no antigo SEF, foi mencionado que ele deveria ter feito manifestação de interesse na entrada em Portugal, o que não é correto. No caso dele, a advogada que o acompanhava, explicou a atendente, citou a lei, e ficou tudo resolvido. Portugal é assim: cada servidor público pode ter a sua opinião que nem sempre é pautada na lei e isso pode prejudicar a sua entrada no país. É preciso se precaver.
 
 ### Registrando-se em Portugal
 
 #### Cidadão da União Europeia
 
-Processo muito fácil. Basta que o cidadão vá com o passaporte europeu até a Câmara Municipal e informe o endereço onde está hospedado/residindo. Pode ser até Airbnb que não exigem nenhum comprovante de morada do cidadão. Ao menos, foi assim em Aveiro e Ílhavo. A esposa do [@rezehnde](https://github.com/rezehnde) foi até a Câmara Municipal, disse que morava no endereço X e na mesma hora recebeu o título de residência com validade de cinco anos.
+Processo muito fácil. Basta que o cidadão vá com o passaporte europeu até a Câmara Municipal e informe o endereço onde está hospedado/residindo. Pode ser até Airbnb que não exigem nenhum comprovante de morada do cidadão. Ao menos, foi assim em Aveiro e Ílhavo. A esposa do @rezehnde foi até a Câmara Municipal, disse que morava no endereço X e na mesma hora recebeu o título de residência com validade de cinco anos.
 
 Com esse título de residência em mãos, o cidadão da união europeia vai até a junta de freguesia da morada e pede um atestado de morada para si próprio e para o seu cônjuge. Assim, constará nesse atestado de morada que o cidadão da união europeia reside naquele endereço com o seu esposo/esposa.
 
