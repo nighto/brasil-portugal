@@ -8,23 +8,24 @@ Veja mais detalhes no site ePortugal: [Pedir o Número de Identificação Fiscal
 
 #### Solicitação on-line
 
-Outra alternativa é solicitar o NIF é por meio do [e-Balcão](https://sitfiscal.portaldasfinancas.gov.pt/ebalcao/home), que passou a estar disponível devido à pandemia de COVID-19. O processo segue o modelo convencional, necessitando de um representante fiscal para fazer a solicitação.
-O representante deverá acessar o e-Balcão, clicar em "*Registrar Nova Questão*" e selecionar: *Registo Contribuinte > Identific. > Atrib/Alter NIF-Singulares*.
+Outra alternativa é solicitar o NIF é por meio do [e-Balcão](https://sitfiscal.portaldasfinancas.gov.pt/ebalcao/home), que passou a estar disponível devido à pandemia de COVID-19. O processo segue o modelo convencional, necessitando de um representante fiscal para fazer a solicitação. O representante deverá acessar o e-Balcão, clicar em "_Registrar Nova Questão_" e selecionar: _Registo Contribuinte > Identific. > Atrib/Alter NIF-Singulares_.
 
-No meu caso, eu fiz a solicitação para a minha esposa. No arquivo compactado eu adicionei uma imagem do passaporte dela, do meu título de residência, da certidão de casamento (provavelmente não era necessário) e do contrato de arrendamento registrado no nome dos dois. **Alerta!** O aplicativo padrão do Mac cria uma pasta oculta com um nome não suportado, causando um erro no site. Por isso, pode utilizar uma ferramenta on-line, ou um computador com outro SO.
-Após aberta, a questão será atribuída ao um atendente, que enviará um documento provisório. O documento deverá ser conferido, datado, assinado e ter a imagem anexada na mesma questão. Feito isso, a versão final do documento já com o NIF atribuído será enviada. Sobre o prazo, recebi o documento provisório no mesmo dia em que abri a questão, e o documento final um dia após ter reenviado.
+No meu caso, eu fiz a solicitação para a minha esposa. No arquivo compactado eu adicionei uma imagem do passaporte dela, do meu título de residência, da certidão de casamento (provavelmente não era necessário) e do contrato de arrendamento registrado no nome dos dois. **Alerta!** O aplicativo padrão do Mac cria uma pasta oculta com um nome não suportado, causando um erro no site. Por isso, pode utilizar uma ferramenta on-line, ou um computador com outro SO. Após aberta, a questão será atribuída ao um atendente, que enviará um documento provisório. O documento deverá ser conferido, datado, assinado e ter a imagem anexada na mesma questão. Feito isso, a versão final do documento já com o NIF atribuído será enviada. Sobre o prazo, recebi o documento provisório no mesmo dia em que abri a questão, e o documento final um dia após ter reenviado.
 
-##### Exemplo:
+**Exemplo:**
+
 > **Assunto:** Solicitação NIF - Fulana da Silva
-> 
+>
 > Eu Beltrano da Silva, portador do título de residência número XPTO123, gostaria de ser o representante fiscal e solicitar o Número de Identificação Fiscal para Fulana da Silva, passaporte número ACME123.
 
-##### Dica:
-Mesmo não tendo acesso ao Portal das Finanças, é possível acessar o site do e-Balcão e obter várias informações relevantes sobre o assunto. Na página, clique em *Ajuda Online*, no pop-up que será exibido digite "*NIF*" e selecione a opção *Obtenção de NIF - Cidadão de país terceiro*.   
+**Dica:**
+
+Mesmo não tendo acesso ao Portal das Finanças, é possível acessar o site do e-Balcão e obter várias informações relevantes sobre o assunto. Na página, clique em _Ajuda Online_, no pop-up que será exibido digite "_NIF_" e selecione a opção _Obtenção de NIF - Cidadão de país terceiro_.
 
 Mais detalhes em: [Pedido de NIF On-line para Cidadãos Estrangeiros e Recém-Nascidos.](https://eportugal.gov.pt/noticias/pedido-de-nif-online-para-cidadaos-estrangeiros-e-recem-nascidos)
 
-<br>
+\
+
 
 * Custo: Gratuito.
 

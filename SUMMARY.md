@@ -34,7 +34,6 @@
   * [Internet](dicas/internet.md)
   * [Energia elétrica e gás](dicas/energia-eletrica-e-gas.md)
   * [Água e esgoto](dicas/agua-e-esgoto.md)
-  * [IPTV](dicas/iptv.md)
   * [Supermercados](dicas/supermercados.md)
   * [Assinaturas / Streaming](dicas/assinaturas-streaming.md)
   * [VPN](dicas/vpn.md)
