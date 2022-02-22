@@ -38,7 +38,7 @@ Após reunir os documentos necessários, o requerimento pode ser entregue nos ba
 > Urbanização Cabanas Golf, nº 1\
 > 2734-506 Barcarena / OEIRAS
 
-Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](https://github.com/nighto/brasil-portugal#preenchimento-de-envelopes-de-cartas).
+Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](https://nighto.gitbook.io/brasil-portugal/dicas/cartas-e-encomendas).
 
 Após cerca de **5 meses** você irá receber 2 cartas de confirmação, uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://dre.pt/web/guest/pesquisa-avancada/-/asearch/advanced/normal?advanced.search=Pesquisa+Avan%C3%A7ada&\_advancedPublicSearch\_WAR\_drefrontofficeportlet\_sort=whenSearchable&\_advancedPublicSearch\_WAR\_drefrontofficeportlet\_sortOrder=DESC\&sumario=Concede+o+estatuto+de+igualdade+de+direitos+e+deveres+a+v%C3%A1rios+cidad%C3%A3os+brasileiros\&tipo=%22Despacho%22\&emissor=%22Administra%C3%A7%C3%A3o+Interna+-+Servi%C3%A7o+de+Estrangeiros+e+Fronteiras%22\&perPage=200\&types=SERIEII\&dataPublicacaoInicio=2021-01-01)). A partir desse momento, vem a segunda parte do passo a passo:
 
