@@ -4,8 +4,15 @@
 
 Para quem tem Carteira de Motorista brasileira (CNH), existem dois prazos importantes. É possível dirigir em Portugal com a CNH brasileira - **não é exigida a Permissão Internacional para Dirigir** - num prazo de **183 dias após a chegada ao país**.
 
-Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos** a partir da data de chegada. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized). O procedimento é:
+Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos** a partir da data de chegada. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized). 
+Há 2 procedimentos:
 
+#### Para CNH expedida a partir de 18 de maio de 2017 (COM QR code no verso):
+A partir do dia 16/03/2022, a solicitação pode ser feita diretamente ao IMT. Fonte: [portal IMT](https://www.imt-ip.pt/sites/IMTT/Portugues/Noticias/Paginas/Brasil-disponibiliza-tecnologia-tc.aspx)
+
+OBS: A divulgação é recente e não deixa claro se há a necessidade do entrega do atestado médico.
+
+#### Para CNH expedida antes de 18 de maio de 2017 (SEM QR code no verso):
 1. Obter junto ao Consulado Brasileiro da sua região (Lisboa, Porto ou Faro) a **Declaração de Autenticidade da Carteira Nacional de Habilitação**. Mais informações na página do consulado: [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/cnh\_-\_declaracao\_de\_autenticidade.xml) / [Porto](http://porto.itamaraty.gov.br/pt-br/cnh\_-\_declaracao\_de\_autenticidade.xml) / [Faro](http://faro.itamaraty.gov.br/pt-br/cnh.xml). **Atenção: Cada consulado tem o seu procedimento.** Custo: €15 + correios.
    * No consulado do **Porto** a solicitação é feita por via postal. Veja mais detalhes sobre como fazer o preenchimento dos envelopes [na página do Consulado](http://porto.itamaraty.gov.br/pt-br/servicos\_por\_correio.xml). O passo a passo é:
      * imprimir, preencher a mão e assinar [este formulário](https://sistemas.mre.gov.br/kitweb/datafiles/Porto/pt-br/file/FORMUL%C3%81RIO%20SERVI%C3%87O\(3\).pdf);
