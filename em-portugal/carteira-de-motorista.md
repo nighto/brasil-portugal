@@ -10,7 +10,8 @@ Há 2 procedimentos:
 #### Para CNH expedida a partir de 18 de maio de 2017 (COM QR code no verso):
 A partir do dia 16/03/2022, a solicitação pode ser feita diretamente ao IMT. Fonte: [portal IMT](https://www.imt-ip.pt/sites/IMTT/Portugues/Noticias/Paginas/Brasil-disponibiliza-tecnologia-tc.aspx)
 
-OBS: A divulgação é recente e não deixa claro se há a necessidade do entrega do atestado médico.
+Se este for o seu caso, pule para a etapa 2 abaixo.
+
 
 #### Para CNH expedida antes de 18 de maio de 2017 (SEM QR code no verso):
 1. Obter junto ao Consulado Brasileiro da sua região (Lisboa, Porto ou Faro) a **Declaração de Autenticidade da Carteira Nacional de Habilitação**. Mais informações na página do consulado: [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/cnh\_-\_declaracao\_de\_autenticidade.xml) / [Porto](http://porto.itamaraty.gov.br/pt-br/cnh\_-\_declaracao\_de\_autenticidade.xml) / [Faro](http://faro.itamaraty.gov.br/pt-br/cnh.xml). **Atenção: Cada consulado tem o seu procedimento.** Custo: €15 + correios.
