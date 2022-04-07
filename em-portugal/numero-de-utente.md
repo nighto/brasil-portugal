@@ -1,5 +1,9 @@
 # Número de Utente
 
+{% hint style="info" %}
+O conteúdo desta página está disponível também em vídeo:&#x20;
+{% endhint %}
+
 "Utente" quer dizer "Paciente". O Número de Utente é um número atribuído pelo Sistema Nacional de Saúde, que o identifica como paciente **tanto na rede pública quanto na privada**. Parecido com o Cartão do SUS mas também para hospitais particulares.
 
 Ao fazer consultas, exames etc., todo o histórico fica associado ao Número de Utente, e ele será necessário em alguns casos como por exemplo para fazer a matrícula de crianças na escola, tirar carteira de motorista, etc., **ainda que o atendimento seja feito em hospital particular**.
