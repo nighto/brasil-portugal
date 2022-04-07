@@ -1,5 +1,9 @@
 # Cartão Europeu Seguro Doença
 
+{% hint style="info" %}
+O conteúdo desta página também está disponível em vídeo: [https://youtu.be/azzuwx101Ho](https://youtu.be/azzuwx101Ho)&#x20;
+{% endhint %}
+
 O **Cartão Europeu Seguro Doença** ou CESD é um cartão plástico que garante atendimento nos hospitais públicos em todos os países da União Europeia com mesmos direitos de cidadãos portugueses, isto é, pagando a mesma taxa moderadora que você pagaria em Portugal. Em alguns casos, você paga o valor que os habitantes do país que você está visitando pagariam, e a Segurança Social faz o ressarcimento do valor pago a mais em relação às regras portuguesas.
 
 Dessa forma é uma boa ideia tirar o CESD para eventuais utilizações emergenciais em viagens pela Europa, ainda que você tenha plano de saúde pago pela empresa (uma vez que em geral os planos de saúde portugueses são por coparticipação e a taxa será maior que a taxa moderadora do hospital público).
