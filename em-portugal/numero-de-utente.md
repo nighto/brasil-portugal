@@ -1,7 +1,7 @@
 # Número de Utente
 
 {% hint style="info" %}
-O conteúdo desta página está disponível também em vídeo:&#x20;
+O conteúdo desta página está disponível também em vídeo: [https://youtu.be/0nb0zDwjCBA](https://youtu.be/0nb0zDwjCBA)&#x20;
 {% endhint %}
 
 "Utente" quer dizer "Paciente". O Número de Utente é um número atribuído pelo Sistema Nacional de Saúde, que o identifica como paciente **tanto na rede pública quanto na privada**. Parecido com o Cartão do SUS mas também para hospitais particulares.
