@@ -1,6 +1,6 @@
 # Pedido de Nacionalidade
 
-Cinco anos após ter recebido a sua primeira Autorização de Residência Temporária (o tempo da emissão do visto de residência até a emissão da primeira AR **não** conta), você tem o direito de pedir a nacionalidade portuguesa. Mais detalhes no site [justiça.gov.pt](https://justica.gov.pt/Registos/Nacionalidade/Nacionalidade-portuguesa). A lei foi [recentemente alterada](https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3347&tabela=leis&ficha=1&pagina=1&so_miolo=) e o prazo diminuiu de seis anos para cinco; eventuais links que você encontre mencionando o prazo de seis anos estão desatualizados.
+Cinco anos após residir em Portugal legamente _(ver nota no final da página)_, você tem o direito de pedir a nacionalidade portuguesa. Mais detalhes no site [justiça.gov.pt](https://justica.gov.pt/Registos/Nacionalidade/Nacionalidade-portuguesa). A lei foi [recentemente alterada](https://www.pgdlisboa.pt/leis/lei\_mostra\_articulado.php?nid=3347\&tabela=leis\&ficha=1\&pagina=1\&so\_miolo=) e o prazo diminuiu de seis anos para cinco; eventuais links que você encontre mencionando o prazo de seis anos estão desatualizados.
 
 O primeiro passo é fazer o agendamento no [CNAIM - Centro Nacional de Apoio à Integração de Migrantes](https://www.acm.gov.pt/pt/-/cnai-centro-nacional-de-apoio-ao-imigrante), que tem atendimento presencial em Lisboa, no Porto e no Algarve, ou numa Conservatória do Registo Civil. O atendimento pode demorar muitos meses, por isso convém agendar com antecedência. Verifique qual dos três possui a data mais próxima, uma vez que independentemente de onde você more, pode ser atendido em qualquer um dos três. O email do CNAIM de Lisboa é [rcentrais.cnai.lisboa@irn.mj.pt](mailto:rcentrais.cnai.lisboa@irn.mj.pt). O email da Conservatória do Registo Civil de Benfica é [registos.benfica@irn.mj.pt](mailto:registos.benfica@irn.mj.pt).
 
@@ -23,3 +23,11 @@ A atendente informou que quando chega no ponto 7 ja pode se dirigir a algum post
 ### Nota sobre renúncia da nacionalidade brasileira
 
 Pela lei brasileira, como a obtenção da nacionalidade portuguesa não é obrigatória, ao menos em princípio ao fazer esse pedido você estaria renunciando a sua nacionalidade brasileira. Na prática, isso parece ser uma questão somente caso a pessoa cometa crimes e se mude de volta para o Brasil, ao que o governo brasileiro não deixaria de extraditar a pessoa. [Mais detalhes neste artigo](https://www.andradepor.com/perda-da-nacionalidade-brasileira-por-aquisicao-da-nacionalidade-portuguesa/).
+
+### Desde quando o tempo começa a contar
+
+Encontrei alguns relatos conflitantes sobre a partir de quando começa a contar os 5 anos para obtenção da residência permanente. O [site do governo](https://justica.gov.pt/Registos/Nacionalidade/Nacionalidade-portuguesa) diz apenas
+
+> Pode ter nacionalidade portuguesa se (...) residir legalmente em Portugal há pelo menos 5 anos.
+
+Alguns relatos dizem que a data que vale é a data de emissão da sua primeira Autorização de Residência Temporária (ou seja, o tempo da emissão do visto de residência até a emissão da primeira AR não contaria), enquanto outros dizem que uma vez que o passaporte com o carimbo da data de entrada e o visto válido na data correspondente seria o suficiente. Em todo caso, a diferença entre os dois prazos é relativamente pequena (considerando o período de 5 anos).
