@@ -82,7 +82,7 @@ Copiando o PDF:
 
 > Contrato de trabalho ou de promessa de contrato de trabalho válidas com, pelo menos, um ano de duração, a que corresponda uma remuneração anual de, pelo menos, 1,5 vezes o salário anual bruto médio nacional ou três vezes o valor indexante de apoios sociais (IAS).
 
-O **Contrato de Trabalho** deve ser assinado por você e pela empresa em 3 vias, sendo uma da empresa, uma sua e uma para o consulado. A empresa pode enviar as 3 cópias previamente assinadas pelos Correios e pedir para que você envie de volta uma das cópias, ou te convidar para um processo de _onboarding_ presencial em Portugal, de forma que você assinará e retornará com os documentos para iniciar o processo de visto.
+O **Contrato de Trabalho** deve ser assinado por você e pela empresa em 3 vias, sendo uma da empresa, uma sua e uma para o consulado. A empresa pode enviar as 3 cópias previamente assinadas pelos Correios e pedir para que você envie de volta uma das cópias, ou te convidar para um processo de _onboarding_ presencial em Portugal, de forma que você assinará e retornará com os documentos para iniciar o processo de visto, ou ainda enviar um documento com assinatura digital.
 
 A legislação prevê também a possibilidade de aceitar uma _Promessa de Contrato de Trabalho_ mas como a empresa já me ofereceu contrato assinado direto, não sei detalhes de como deve ser esse documento.
 
