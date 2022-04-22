@@ -4,16 +4,16 @@
 
 Para quem tem Carteira de Motorista brasileira (CNH), existem dois prazos importantes. É possível dirigir em Portugal com a CNH brasileira - **não é exigida a Permissão Internacional para Dirigir** - num prazo de **183 dias após a chegada ao país**.
 
-Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos** a partir da data de chegada. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized). 
-Há 2 procedimentos:
+Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos** a partir da data de chegada. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized). Há 2 procedimentos:
 
 #### Para CNH expedida a partir de 18 de maio de 2017 (COM QR code no verso):
+
 A partir do dia 16/03/2022, a solicitação pode ser feita diretamente ao IMT. Fonte: [portal IMT](https://www.imt-ip.pt/sites/IMTT/Portugues/Noticias/Paginas/Brasil-disponibiliza-tecnologia-tc.aspx)
 
 Se este for o seu caso, pule para a etapa 2 abaixo.
 
-
 #### Para CNH expedida antes de 18 de maio de 2017 (SEM QR code no verso):
+
 1. Obter junto ao Consulado Brasileiro da sua região (Lisboa, Porto ou Faro) a **Declaração de Autenticidade da Carteira Nacional de Habilitação**. Mais informações na página do consulado: [Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/cnh\_-\_declaracao\_de\_autenticidade.xml) / [Porto](http://porto.itamaraty.gov.br/pt-br/cnh\_-\_declaracao\_de\_autenticidade.xml) / [Faro](http://faro.itamaraty.gov.br/pt-br/cnh.xml). **Atenção: Cada consulado tem o seu procedimento.** Custo: €15 + correios.
    * No consulado do **Porto** a solicitação é feita por via postal. Veja mais detalhes sobre como fazer o preenchimento dos envelopes [na página do Consulado](http://porto.itamaraty.gov.br/pt-br/servicos\_por\_correio.xml). O passo a passo é:
      * imprimir, preencher a mão e assinar [este formulário](https://sistemas.mre.gov.br/kitweb/datafiles/Porto/pt-br/file/FORMUL%C3%81RIO%20SERVI%C3%87O\(3\).pdf);
@@ -37,20 +37,21 @@ Se este for o seu caso, pule para a etapa 2 abaixo.
        * Título de Residência em Portugal
        * CNH válida, frente e verso, fora do plastico;
        * Passaporte brasileiro ou outro documento que comprove a sua nacionalidade brasileira:
-     * Agendar uma ida ao Consulado. Esse agendamento é feito pela página [**Meus serviços**](https://ec-lisboa.itamaraty.gov.br/user-main). [Existe uma tabela para acompanhamento](https://ec-lisboa.itamaraty.gov.br/availability) de quando há uma vaga para serviços consulares no Consulado de Lisboa. (*Dica: as vagas são bastante limitadas e acabam rapidamente. Recomenda-se ficar olhando constantemente [ou usar um script automatizado](https://github.com/icaromh/marcar_cnh)*).
+     * Agendar uma ida ao Consulado. Esse agendamento é feito pela página [**Meus serviços**](https://ec-lisboa.itamaraty.gov.br/user-main). [Existe uma tabela para acompanhamento](https://ec-lisboa.itamaraty.gov.br/availability) de quando há uma vaga para serviços consulares no Consulado de Lisboa. (_Dica: as vagas são bastante limitadas e acabam rapidamente. Recomenda-se ficar olhando constantemente_ [_ou usar um script automatizado_](https://github.com/icaromh/marcar\_cnh)).
      * A próxima etapa é ir ao consulado brasileiro em Lisboa na data marcada. É necessário levar a CNH original, um documento de identificação (o Passaporte, por exemplo) e também a folha com a Marcação (pode ser no celular).
        * Endereço: R. António Maria Cardoso 39, 1200-443 Lisboa
      * Pagamento apenas em MBWay no valor de €15. Não aceitam dinheiro e a máquina de cartões não tem contactless.
    * Nos Consulados de Lisboa e Faro o procedimento é feito presencialmente. PRs são bem-vindos com mais detalhes sobre o preenchimento.
 2. Fazer um exame médico para obter um atestado médico de aptidão a condução de veículos. Note que mesmo se optar por fazer este exame em hospital particular, será necessário ter antes feito o Número de Utente no Centro de Saúde público. Mais detalhes na seção [Número de Utente](https://github.com/nighto/brasil-portugal#n%C3%BAmero-de-utente). Custo: € 4,50 na rede pública / a partir de € 25 na rede privada (podendo na prática ser menos caso você tenha seguro saúde).
    * Uma alternativa para fazer o exame online: Nuno Ascenso, whatsapp: +351 932021933
-4. Após ter recebido a declaração, deverá prosseguir com a criação da solicitação. Para isso, acesse [IMT online > Troca de título de condução estrangeiro](http://www.imtonline.pt/index.php/troca-de-titulos-conducao-estrangeiros/troca-de-titulos-de-conducao109/9-uncategorised/1108-2-situacao-24), onde encontrará a opção 'Aceda [aqui](https://www.cognitoforms.com/IMT6/TROCADET%C3%8DTULOSDECONDU%C3%87%C3%83OESTRANGEIROS30)', a qual dará acesso a um formulário que deverá preencher e anexar os documentos solicitados. 
-5. Após envio da documentação, irá receber um e-mail para efetuar o pagamento da taxa de €30 e com indicação sobre a forma de recolha dos dados biométricos. O email demora cerca de 60 dias para chegar após envio do formulário
-6. Após a ida ao IMT, aguarde a chegada da carta de condução na sua residência.
+3. Após ter recebido a declaração, deverá prosseguir com a criação da solicitação. Para isso, acesse [IMT online > Troca de título de condução estrangeiro](http://www.imtonline.pt/index.php/troca-de-titulos-conducao-estrangeiros/troca-de-titulos-de-conducao109/9-uncategorised/1647-2-situacao-24), onde encontrará a opção 'Aceda [aqui](https://www.cognitoforms.com/IMT6/TROCADET%C3%8DTULOSDECONDU%C3%87%C3%83OESTRANGEIROS30)', a qual dará acesso a um formulário que deverá preencher e anexar os documentos solicitados.
+4. Após envio da documentação, irá receber um e-mail para efetuar o pagamento da taxa de €30 e com indicação sobre a forma de recolha dos dados biométricos. O email demora cerca de 60 dias para chegar após envio do formulário
+5. Após a ida ao IMT, aguarde a chegada da carta de condução na sua residência.
 
 Links de apoio:
-   * [IMT](http://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/IMTHome.aspx) (Instituto da Mobilidade e dos Transportes, equivalente dos Detran brasileiros);
-   * [IMT - Condutores > Troca de título de condução estrangeiro > Outras Situações](http://www.imt-ip.pt/sites/IMTT/Portugues/Condutores/TrocaCartaConducao/OutrasSituacoes/Paginas/OutrasSituacoes.aspx).
+
+* [IMT](http://www.imt-ip.pt/sites/IMTT/Portugues/Paginas/IMTHome.aspx) (Instituto da Mobilidade e dos Transportes, equivalente dos Detran brasileiros);
+* [IMT - Condutores > Troca de título de condução estrangeiro > Outras Situações](http://www.imt-ip.pt/sites/IMTT/Portugues/Condutores/TrocaCartaConducao/OutrasSituacoes/Paginas/OutrasSituacoes.aspx).
 
 Notas:
 
