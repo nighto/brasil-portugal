@@ -25,8 +25,7 @@ O que é preciso.
     - Passaporte
     - Comprovativo de morada
     - NIF
-    - Formulário de solicitação do NISS preenchido e assinado 
-    - https://www.seg-social.pt/documents/10152/21741/RV_1006_DGSS/d40ab4c2-9080-4bf9-a8ae-a772b43edc2b
+    - <a href="https://www.seg-social.pt/documents/10152/21741/RV_1006_DGSS/d40ab4c2-9080-4bf9-a8ae-a772b43edc2b">Formulário de solicitação do NISS</a> preenchido e assinado <i>(não é necessário cópia)</i>
 3. Com isso a pessoa no balcão da segurança social vai lançar todos os teus dados no sistema e você deverá sair de lá com seu número de NISS
 4. Antes de te liberar a pessoa no balcão vai pedir para você validar todos os dados inseridos no sistema, veja com atenção todos os dados incluindo os dados de email e telefone, eles serão necessários no próximo passo.
 5. Depois é só ir ao <a href="https://app.seg-social.pt/sso/login?service=https%3A%2F%2Fapp.seg-social.pt%2Fptss%2Fcaslogin">portal da segurança social direta</a> e efetuar o registo. Um token será enviado para o número de telemóvel qye você escreveu formulário e que foi inserido no sistema. 
