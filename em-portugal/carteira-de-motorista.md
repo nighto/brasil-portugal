@@ -46,6 +46,11 @@ Se este for o seu caso, pule para a etapa 2 abaixo.
    * Uma alternativa para fazer o exame online: Nuno Ascenso, whatsapp: +351 932021933
 3. Após ter recebido a declaração, deverá prosseguir com a criação da solicitação. Para isso, acesse [IMT online > Troca de título de condução estrangeiro](http://www.imtonline.pt/index.php/troca-de-titulos-conducao-estrangeiros/troca-de-titulos-de-conducao109/9-uncategorised/1647-2-situacao-24), onde encontrará a opção 'Aceda [aqui](https://www.cognitoforms.com/IMT6/TROCADET%C3%8DTULOSDECONDU%C3%87%C3%83OESTRANGEIROS30)', a qual dará acesso a um formulário que deverá preencher e anexar os documentos solicitados.
 4. Após envio da documentação, irá receber um e-mail para efetuar o pagamento da taxa de €30 e com indicação sobre a forma de recolha dos dados biométricos. O email demora cerca de 60 dias para chegar após envio do formulário
+   1. Observação relevante: recebi diversos relatos de que enviar emails periódicos (uma vez por semana por exemplo) perguntando sobre o status do pedido poderia acelerar a resposta (para não cair no limbo etc.). Segue sugestão de mensagem, a ser enviada para reclamacoes@imt-ip.pt:\
+      `Assunto: Situação Troca de Título de Condução Estrangeiro | NIF: zzzzzzzzz`\
+      `Olá, boa tarde. Gostaria de receber uma atualização do estado do pedido de troca de título de condução estrangeiro com o número de registo xxxxxx yyy. Tenho NIF zzzzzzz conforme o título do e-mail.`\
+      `Cumprimentos,`\
+      `Fulano de Tal`
 5. Após a ida ao IMT, aguarde a chegada da carta de condução na sua residência.
 
 Links de apoio:
