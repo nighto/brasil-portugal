@@ -4,11 +4,15 @@
 
 Para quem tem Carteira de Motorista brasileira (CNH), existem dois prazos importantes. É possível dirigir em Portugal com a CNH brasileira - **não é exigida a Permissão Internacional para Dirigir** - num prazo de **183 dias após a chegada ao país**.
 
-Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos** a partir da data de chegada. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized). Há 2 procedimentos:
+Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos** a partir da data de chegada. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized).
+
+**Observação Importante:** a carteira de motorista é enviada para o endereço que consta no seu título de residência ou cartão cidadão; **não é possível solicitar o envio para outro endereço**. Caso seu endereço esteja desatualizado, sugiro primeiro verificar com o proprietário novo inquilino do imóvel antigo de receber a carta e te avisar do recebimento, ou fazer primeiro uma nova via do documento.
+
+Há 2 procedimentos:
 
 #### Para CNH expedida a partir de 18 de maio de 2017 (COM QR code no verso):
 
-A partir do dia 16/03/2022, a solicitação pode ser feita diretamente ao IMT. Fonte: [portal IMT](https://www.imt-ip.pt/sites/IMTT/Portugues/Noticias/Paginas/Brasil-disponibiliza-tecnologia-tc.aspx)
+A partir do dia 16/03/2022, a solicitação pode ser feita diretamente ao IMT. Fonte: [Portal IMT](https://www.imt-ip.pt/sites/IMTT/Portugues/Noticias/Paginas/Brasil-disponibiliza-tecnologia-tc.aspx)
 
 Se este for o seu caso, pule para a etapa 2 abaixo.
 
@@ -35,13 +39,13 @@ Se este for o seu caso, pule para a etapa 2 abaixo.
      * Será necessário fazer upload de:
        * Comprovante de residência em Portugal no seu nome 1 (conta de água, luz, telefone, etc)
        * Título de Residência em Portugal
-       * CNH válida, frente e verso, fora do plastico;
+       * CNH válida, frente e verso, fora do plástico;
        * Passaporte brasileiro ou outro documento que comprove a sua nacionalidade brasileira:
      * Agendar uma ida ao Consulado. Esse agendamento é feito pela página [**Meus serviços**](https://ec-lisboa.itamaraty.gov.br/user-main). [Existe uma tabela para acompanhamento](https://ec-lisboa.itamaraty.gov.br/availability) de quando há uma vaga para serviços consulares no Consulado de Lisboa. (_Dica: as vagas são bastante limitadas e acabam rapidamente. Recomenda-se ficar olhando constantemente_ [_ou usar um script automatizado_](https://github.com/icaromh/marcar\_cnh)).
      * A próxima etapa é ir ao consulado brasileiro em Lisboa na data marcada. É necessário levar a CNH original, um documento de identificação (o Passaporte, por exemplo) e também a folha com a Marcação (pode ser no celular).
        * Endereço: R. António Maria Cardoso 39, 1200-443 Lisboa
      * Pagamento apenas em MBWay no valor de €15. Não aceitam dinheiro e a máquina de cartões não tem contactless.
-   * Nos Consulados de Lisboa e Faro o procedimento é feito presencialmente. PRs são bem-vindos com mais detalhes sobre o preenchimento.
+   * No Consulado de Faro o procedimento também é feito presencialmente. PRs são bem-vindos com mais detalhes sobre o preenchimento.
 2. Fazer um exame médico para obter um atestado médico de aptidão a condução de veículos. Note que mesmo se optar por fazer este exame em hospital particular, será necessário ter antes feito o Número de Utente no Centro de Saúde público. Mais detalhes na seção [Número de Utente](https://github.com/nighto/brasil-portugal#n%C3%BAmero-de-utente). Custo: € 4,50 na rede pública / a partir de € 25 na rede privada (podendo na prática ser menos caso você tenha seguro saúde).
    * Uma alternativa para fazer o exame online: Nuno Ascenso, whatsapp: +351 932021933
 3. Após ter recebido a declaração, deverá prosseguir com a criação da solicitação. Para isso, acesse [IMT online > Troca de título de condução estrangeiro](http://www.imtonline.pt/index.php/troca-de-titulos-conducao-estrangeiros/troca-de-titulos-de-conducao109/9-uncategorised/1647-2-situacao-24), onde encontrará a opção 'Aceda [aqui](https://www.cognitoforms.com/IMT6/TROCADET%C3%8DTULOSDECONDU%C3%87%C3%83OESTRANGEIROS30)', a qual dará acesso a um formulário que deverá preencher e anexar os documentos solicitados.
@@ -60,7 +64,7 @@ Links de apoio:
 
 Notas:
 
-1. é preciso entregar a carteira brasileira para a troca pela carteira portuguesa, você não fica com as duas, sua CNH será enviada para o Detran brasileiro. Como alternativa, sugiro a instalação da [CNH Digital](https://servicos.serpro.gov.br/cnh-digital/) no seu celular, bem como ter uma foto da sua CNH brasileira caso você precise de alguma informação dela;
+1. é preciso entregar a carteira brasileira para a troca pela carteira portuguesa, você não fica com as duas, sua CNH será enviada para as autoridades brasileiras. Como alternativa, sugiro a instalação da [CNH Digital](https://servicos.serpro.gov.br/cnh-digital/) no seu celular, bem como ter uma foto da sua CNH brasileira caso você precise de alguma informação dela;
 2. numa futura viagem de férias para o Brasil, você poderá dirigir com a carteira portuguesa, mas caso queira pode ir no Detran e fazer uma segunda via para ter as duas;
 3. não é possível trocar a permissão de dirigir temporária brasileira (obtida logo após passar na prova do Detran), somente a definitiva (emitida após 1 ano). Ou seja, caso você tenha acabado de passar na prova e tirar a carteira provisória antes de viajar para Portugal, terá que voltar ao Brasil para emitir a carteira de motorista definitiva para só então poder trocar a carteira definitiva brasileira pela portuguesa.
 
