@@ -6,7 +6,7 @@ Para quem tem Carteira de Motorista brasileira (CNH), existem dois prazos import
 
 Após este prazo, há um segundo prazo para realizar a conversão da carteira brasileira para a carta de condução portuguesa, de **2 anos** a partir da data de chegada. Este prazo era de 3 meses, mas foi recentemente ampliado com o [Decreto-Lei nº 2/2020](https://dre.pt/home/-/dre/128071719/details/maximized).
 
-**Observação Importante:** a carteira de motorista é enviada para o endereço que consta no seu título de residência ou cartão cidadão; **não é possível solicitar o envio para outro endereço**. Caso seu endereço esteja desatualizado, sugiro primeiro verificar com o proprietário novo inquilino do imóvel antigo de receber a carta e te avisar do recebimento, ou fazer primeiro uma nova via do documento.
+**Observação Importante:** a carteira de motorista é enviada para o endereço que consta no seu título de residência ou cartão cidadão; **não é possível solicitar o envio para outro endereço**. Caso seu endereço esteja desatualizado, sugiro primeiro verificar com o proprietário ou novo inquilino do imóvel antigo de receber a carta e te avisar do recebimento, ou fazer primeiro uma nova via do documento.
 
 Há 2 procedimentos:
 
