@@ -70,6 +70,8 @@ Notas:
 
 ### Tirar Carta de Condução do zero
 
+(O conteúdo desta seção também está disponível em vídeo: [https://youtu.be/8\_RTR0-t2EQ](https://youtu.be/8\_RTR0-t2EQ))
+
 Caso você não tenha carteira de motorista brasileira e tenha interesse em tirar a carta de condução portuguesa, o processo é similar ao brasileiro. Pela regra portuguesa, para conduzir ligeiros de passageiros (carros de passeio) é preciso ter 28 horas de aulas teóricas e 32 horas de aulas práticas. Veja mais detalhes: [Escola de condução - perguntas frequentes | ACP](https://www.acp.pt/servicos/carta-de-conducao/tirar-carta-de-conducao-no-acp/questoes-frequentes).
 
 Assim como no procedimento para a troca de carteira de motorista brasileira, você precisará de um atestado médico e portanto ter feito o número de utente. Mais detalhes no item anterior.
