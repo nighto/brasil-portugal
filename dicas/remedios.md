@@ -1,5 +1,5 @@
 # Como saber se seu remédio existe em Portugal e se precisa de receita.
-Nesse site, você pode colocar o país de origem(no caso Brasil) e o país de destino (no caso Portugal).
+Nesse site [Índice Toda Saúde](https://www.indice.eu/pt/medicamentos/equivalencias/search), você pode colocar o país de origem(no caso Brasil) e o país de destino (no caso Portugal).
 
 Após definido origem e destino basta procurar pelo remédio desejado, seja pelo nome comercial (Novalgina, Luftal...) 
 ou pelo componente (Dipirona, Simeticona...).
