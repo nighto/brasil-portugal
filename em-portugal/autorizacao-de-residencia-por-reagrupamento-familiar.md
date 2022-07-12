@@ -44,7 +44,7 @@ PB4 apostilado.
 **11. Declaração do pai ou mãe não residente**. Se for o caso, é claro.
 
 **12. Documento comprovando a ligação**\
-Certidão de casamento ou união estável, para cônjuges, ou certidão de nascimento, para filhos, em ambos os casos apostilada.
+Certidão de casamento ou união estável, para cônjuges, ou certidão de nascimento, para filhos, em ambos os casos apostilada. Em caso de união estável é necessário levar a certidação de nascimento apostilada também.
 
 Nota: de forma similar ao processo de pedido do visto, há a exigência de que as certidões sejam recentes (emitida há no máximo 6 meses para casamento e 12 meses para nascimento), mas a data que conta é a de chegada a Portugal, não a data do atendimento em si. Portanto as certidões emitidas no Brasil antes da viagem deverão ser suficientes, mesmo que o atendimento seja vários meses depois da chegada.
 
