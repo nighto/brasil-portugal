@@ -42,4 +42,5 @@
   * [Jogos em Mídia Física](dicas/jogos-em-midia-fisica.md)
   * [Garantia](dicas/garantia.md)
   * [Reunião Familiar](dicas/reuniao-familiar.md)
+  * [Remédios](dicas/remedios.md)
 * [Extras](extras.md)
