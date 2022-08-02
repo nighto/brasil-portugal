@@ -10,4 +10,6 @@ Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de
 
 Dica importante: os documentos devem ser impressos em papel branco (isto é, não pode ser aquele papel creme reciclado), somente de um lado (ou seja, não podem ser frente-e-verso) e não devem ser grampeados, ter clips ou post-its colados.
 
+Outra dica: O vice-consulado português de Curitiba/SC também aceita pedidos de visto para residentes do Paraná, Santa Catarina e Rio Grande do Sul. Mas nesse caso os documentos devem ser entregues presencialmente, e com agendamento prévio. A vantagem do processo ser feito diretamente no consulado é a agilidade, uma vez que a VFS Global é somente uma intermediadora adicional. Ela verifica e repassa os documentos para o consulado, que por sua vez encaminha ao SEF em Portugal. E muitos reclamam de atrasos nesse repasse. Por outro lado a VFS Global permite que você realize o processo todo pelos Correios, sem a necessidade de deslocamento.
+
 Veja na página seguinte os documentos necessários para poder solicitar o Visto D3, na ordem do [PDF com os requisitos no site da VFS Global](https://www.vfsglobal.com/portugal/Brazil/pdf/D3.pdf):
