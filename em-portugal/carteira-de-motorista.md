@@ -4,7 +4,7 @@
 
 Para quem tem Carteira de Motorista brasileira (CNH) não é mais necessário realizar a troca pela carteira de condução portuguesa. A partir de 01/08/2022 Portugal passou a aceitar título de condução de países membros da OCDE e CPLP (inclui o Brasil). É possível dirigir em Portugal com a CNH brasileira, desde que possua menos de 60 anos, e a última renovação ou emissão do título não tenha sido feita há mais de 15 anos. Além disso qualquer suspensão ou situação que invalide a CNH no Brasil, também invalida o seu uso em Portugal. Mais informações no site [IMT Online](http://www.imtonline.pt/index.php/troca-de-titulos-conducao-estrangeiros/troca-de-titulos-de-conducao109/9-uncategorised/2287-5-situacao-ocde-cplp)
 
-Ainda assim, caso queira proceder com a troca, há 2 procedimentos:
+Ainda assim, caso queira proceder com a troca (por exemplo, para dirigir em outros países da Europa, ou caso a data de validade esteja próxima), há 2 procedimentos:
 
 #### Para CNH expedida a partir de 18 de maio de 2017 (COM QR code no verso):
 
