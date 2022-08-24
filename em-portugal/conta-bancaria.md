@@ -1,5 +1,28 @@
 # Conta Bancária
 
-Tendo criado o NIF, o próximo passo é abrir uma conta bancária. Foi-me recomendado a abertura de conta no [ActivoBank](https://www.activobank.pt), que não cobra nenhuma tarifa para abertura ou mensalidade, somente um depósito inicial de € 500 (que ficam imediatamente disponíveis para saque ou compras no débito). Indo a uma das agências com passaporte, declaração de imposto de renda (brasileiro), comprovante de residência (pode ser brasileiro, uma conta de luz por exemplo), NIF e **contrato de trabalho**. É aberta a conta na hora e também será fornecido no ato o cartão de débito. Não é preciso levar cópias dos documentos pois eles fazem no banco. Assim como o NIF, a conta bancária também pode ser aberta sem um visto, caso você faça um _onboarding_ presencial antes da emissão do visto.
+Alguns bancos deixaram de aceitar a criação de contas para pessoas que não possuem sua Autorização de Residencia, mesmo que seja portador de visto de trabalho. Atualmente é necessario ir presencialmente aos bancos para fazer a abertura da conta sem AR.
 
-* Custo: 500 € (podendo sacar ou transferir imediatamente após a abertura da conta).
+Fique atento as tarifas bancarias.
+
+Atualmente os bancos que aceitam abertura de conta de forma presencial, com Passaporte/Visto são:
+* Novobanco
+* BPI
+* BankInter
+* Caixa Geral de Depositos
+
+Bancos que deixaram de aceitar abertura de contas somente com Passaporte/Visto
+* ActivoBank¹
+* Millenium BCP¹
+
+1)Caso já possua o cartão da AR, pode abrir a conta normalmente, inclusive de forma online
+
+O custo de abertura de conta é variavel, cada banco exige um deposito inicial de valor determinado por eles, se prepare com aproximadamente 500 euros e estará garantido, lembrando que é somente um depósito inicial (que podem ficar imediatamente disponíveis para saque ou compras no débito, lembre de perguntar antes de efetuar a abertura)
+
+Normalmente os documentos exigidos são:
+* Passaporte/Visto
+* Declaração do Imposto de Renda Brasileiro
+* Contrato de Trabalho
+* NIF
+* Comprovante de Residencia(Brasileiro ou Portugues, pode depender de cada banco)
+
+OBS: Não é preciso levar cópias dos documentos pois eles fazem no banco.
