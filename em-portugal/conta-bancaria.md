@@ -9,6 +9,7 @@ Atualmente os bancos que aceitam abertura de conta de forma presencial, com Pass
 * BPI
 * BankInter
 * Caixa Geral de Depositos
+* Santander
 
 Bancos que deixaram de aceitar abertura de contas somente com Passaporte/Visto
 * ActivoBank¹
