@@ -28,6 +28,7 @@
   * [Renovação do Título de Residência](em-portugal/renovacao-do-titulo-de-residencia.md)
   * [Comunicação de Saída Definitiva do País](em-portugal/comunicacao-de-saida-definitiva-do-pais.md)
   * [Pedido de Nacionalidade](em-portugal/pedido-de-nacionalidade.md)
+  * [Abrir Empresa](em-portugal/abrir-empresa.md)
 * [Dicas](dicas/README.md)
   * [Moradia](dicas/moradia.md)
   * [Transporte](dicas/transporte.md)

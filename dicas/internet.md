@@ -2,9 +2,9 @@
 
 Existem diversos provedores de internet fixa, como Vodafone, MEO, NOS, Nowo, e em geral fechando um pacote com fidelidade - que costuma ser de 2 anos - há alguma oferta, como descontos expressivos (que podem chegar a 100% dependendo do plano contratado) para a compra de itens como celular, TV, geladeira etc. Verifique a disponibilidade de contratação no endereço da sua residência, e dê preferência a conexões via fibra óptica pois estas são mais estáveis e tem velocidade superior.
 
-Além disso, há uma loja de eletroeletrônicos chamada [Worten](https://www.worten.pt), que seria algo similar a uma Ricardo Eletro, que oferece ainda uma oferta secundária, fora a oferta da operadora. Por exemplo, fechei um contrato de 2 anos de internet fixa, telefone fixo e duas linhas móveis e ganhei uma TV 43" 4K da Vodafone e uma 32" Full HD da Worten.
+Além disso, há uma loja de eletroeletrônicos chamada [Worten](https://www.worten.pt/), que seria algo similar a uma Ricardo Eletro, que oferece ainda uma oferta secundária, fora a oferta da operadora. Por exemplo, fechei um contrato de 2 anos de internet fixa, telefone fixo e duas linhas móveis e ganhei uma TV 43" 4K da Vodafone e uma 32" Full HD da Worten.
 
-Veja mais detalhes incluindo um simulador para verificar as opções de planos e valores, acessando o site da [Worten](https://www.worten.pt) e navegando no menu **Promoções** e **Pacotes Tv Net Voz Móvel**.
+Veja mais detalhes incluindo um simulador para verificar as opções de planos e valores, acessando o site da [Worten](https://www.worten.pt/) e navegando no menu **Promoções** e **Pacotes Tv Net Voz Móvel**.
 
 Dicas:
 

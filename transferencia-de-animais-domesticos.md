@@ -27,7 +27,7 @@ Dica: cada companhia tem seu limite de peso no porão e na cabine, convém verif
 
 O posto da Vigiagro não precisa ser necessariamente o do aeroporto, uma vez que só aeroportos com voos internacionais tem essa estrutura; também há postos em portos, o que pode ser mais conveniente.
 
-1. Com todos os documentos em mãos, você deverá enviar os documentos para o posto do [**DGAV**](http://www.dgv.min-agricultura.pt) (Direção-Geral de Alimentação e Veterinária) do aeroporto que seu vôo internacional irá chegar. Você deverá informar qual o vôo, dia e horário.
+1. Com todos os documentos em mãos, você deverá enviar os documentos para o posto do [**DGAV**](http://www.dgv.min-agricultura.pt/) (Direção-Geral de Alimentação e Veterinária) do aeroporto que seu vôo internacional irá chegar. Você deverá informar qual o vôo, dia e horário.
 
 * Aeroporto de Lisboa: [pcflisboaa@dgav.pt](mailto:pcflisboaa@dgav.pt)
 * Aeroporto do Porto: [pcfportoa@dgav.pt](mailto:pcfportoa@dgav.pt)
@@ -38,11 +38,11 @@ O posto da Vigiagro não precisa ser necessariamente o do aeroporto, uma vez que
 
 Dica: Dê preferência a pagamento em cartão ou transferência bancária. Se for em dinheiro, deve ser o valor exato (validar o valor no e-mail).
 
-1. Em território português você tem 30 dias após a chegada para ir em um veterinário e fazer o cadastro do microchip no [**SIAC**](https://siac.vet) (Sistema de Informação de Animais de Companhia).
+1. Em território português você tem 30 dias após a chegada para ir em um veterinário e fazer o cadastro do microchip no [**SIAC**](https://siac.vet/) (Sistema de Informação de Animais de Companhia).
 2. Também possui 30 dias para ir na Junta de Freguesia de onde você (e o animal) residem e pagar a licença. (Há discussões sobre se essa licença ainda deva ser paga ou não). Este último ponto parece que não é mais obrigatório (por [@rafaellsanto](https://github.com/rafaellsanto)).
 
 Há um grupo no Facebook que é bem útil para tirar dúvidas e ficar atualizado quanto a procedimentos: [Transferência de Animais Domésticos para Portugal](https://www.facebook.com/groups/252384808490181). Outro site para verificar informações é o da [IATA (International Air Transport Association)](https://www.iata.org/en/youandiata/travelers/traveling-with-pets/).
 
 Também há bastantes tipos de seguros para pets, as vezes vale a pena, pois o custo mensal é baixo comparado com o custo caso haja a necessidade de emergência.
 
-Sites confiáveis para produtos de pets: [https://www.meganimal.pt/pt](https://www.meganimal.pt/pt) [https://www.tiendanimal.pt/](https://www.tiendanimal.pt) [https://www.zuonline.pt](https://www.zuonline.pt) [https://www.barkyn.com/](https://www.barkyn.com)
+Sites confiáveis para produtos de pets: [https://www.meganimal.pt/pt](https://www.meganimal.pt/pt) [https://www.tiendanimal.pt/](https://www.tiendanimal.pt/) [https://www.zuonline.pt](https://www.zuonline.pt/) [https://www.barkyn.com/](https://www.barkyn.com/)

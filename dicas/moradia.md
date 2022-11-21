@@ -2,7 +2,7 @@
 
 Uma das principais despesas após a mudança será o aluguel, ou como se diz em português de Portugal, _arrendamento_ de um imóvel, uma vez que um imigrante que acabou de se mudar não tem imposto de renda declarado no país, bem como (tipicamente) não tem parentes com imóveis no país para serem fiadores.
 
-Alguns sites para verificar ofertas de imóveis disponíveis para arrendamento: [Imovirtual](https://www.imovirtual.com), [Idealista](https://www.idealista.pt), [RE/MAX](https://www.remax.pt), [OLX](https://www.olx.pt).
+Alguns sites para verificar ofertas de imóveis disponíveis para arrendamento: [Imovirtual](https://www.imovirtual.com/), [Idealista](https://www.idealista.pt/), [RE/MAX](https://www.remax.pt/), [OLX](https://www.olx.pt/).
 
 Em Portugal utiliza-se uma [tipologia com siglas](https://portuguese.stackexchange.com/questions/3071/que-significa-o-t-em-apartamento-t0-t1-t2-t3), sendo **T1** uma casa ou apartamento com um quarto, **T2** com dois quartos e assim sucessivamente, enquanto **T0** são as kitchenettes. Além disso há o **+1** que significa um quarto sem janelas, ou seja a subdivisão de um cômodo maior. Por exemplo, um **T1+1** seria uma casa ou apartamento com um quarto comum e um quarto sem janelas, que poderia ser utilizado como escritório por exemplo.
 

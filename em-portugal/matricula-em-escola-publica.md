@@ -1,6 +1,6 @@
 # Matrícula em Escola Pública
 
-As matrículas em creches, pré-escolas (jardins de infância), escolas primárias (equivalente ao ensino fundamental brasileiro) e secundárias (equivalente ao ensino médio) são feitas através do [Portal das Matrículas](https://portaldasmatriculas.edu.gov.pt). Você escolhe até 5 escolas públicas da sua região e o sistema automaticamente atribui uma vaga em uma das cinco escolas.
+As matrículas em creches, pré-escolas (jardins de infância), escolas primárias (equivalente ao ensino fundamental brasileiro) e secundárias (equivalente ao ensino médio) são feitas através do [Portal das Matrículas](https://portaldasmatriculas.edu.gov.pt/). Você escolhe até 5 escolas públicas da sua região e o sistema automaticamente atribui uma vaga em uma das cinco escolas.
 
 Para acessar o sistema, é preciso autenticar com o seu NIF através do sistema da Autoridade Tributária, o e-Finanças. Para isso, acesse o Portal das Finanças e solicite o acesso. Veja mais detalhes na seção sobre [NIF](https://github.com/nighto/brasil-portugal#nif).
 
