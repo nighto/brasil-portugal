@@ -6,16 +6,17 @@ Fique atento as tarifas bancarias.
 
 Atualmente os bancos que aceitam abertura de conta de forma presencial, com Passaporte/Visto são:
 * Novobanco
-* BPI
-* BankInter
-* Caixa Geral de Depositos
+* BPI¹
+* BankInter¹
+* Caixa Geral de Depositos¹
 * Santander
 
 Bancos que deixaram de aceitar abertura de contas somente com Passaporte/Visto
-* ActivoBank¹
-* Millenium BCP¹
+* ActivoBank²
+* Millenium BCP²
 
-1)Caso já possua o cartão da AR, pode abrir a conta normalmente, inclusive de forma online
+1) Recebi um relato de que na cidade de Santarém estes bancos não estavam aceitando sem AR, somente o Santander permitiu.
+2) Caso já possua o cartão da AR, pode abrir a conta normalmente, inclusive de forma online
 
 O custo de abertura de conta é variavel, cada banco exige um deposito inicial de valor determinado por eles, se prepare com aproximadamente 500 euros e estará garantido, lembrando que é somente um depósito inicial (que podem ficar imediatamente disponíveis para saque ou compras no débito, lembre de perguntar antes de efetuar a abertura)
 
