@@ -19,3 +19,10 @@ Infelizmente a ferramenta de declaração do IRS não gera uma simulação para 
 Outro ponto negativo de declarar o IRS usando RNH: as transferências dos valores a restituir de declarações feitas com o RNH ficam no final da fila, então se você declarar o IRS sem utilizar o RNH, irá receber o valor de restituição alguns meses antes.
 
 Custo: 0.
+
+## Morada fiscal desatualizada impedindo de solicitar RNH
+
+Se ao acessar a página de solicitar o RNH e a morada exibida é a sua morada do Brasil de quando solicitou o visto, é preciso atualizar o endereço para a sua morada atual de Portugal para poder solicitar o RNH.
+
+O seguinte vídeo explica como alterar a morada fiscal no Portal das Finanças utilizando o e-balcão:
+"[COMO ALTERAR MORADA FISCAL E REMOVER REPRESENTANTE FISCAL EM PORTUGAL](https://www.youtube.com/watch?v=ZhwFKPoyEbY)"
