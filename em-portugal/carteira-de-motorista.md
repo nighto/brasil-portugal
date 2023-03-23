@@ -1,5 +1,9 @@
 # Carteira de Motorista
 
+Esta página contém detalhes sobre como trocar a carteira de motorista brasileira pela carta de condução portuguesa e, mais abaixo, como tirar a carta de condução portuguesa do zero.
+
+O conteúdo está disponível também em vídeo: [https://youtu.be/G9UKhmpMFN0](https://youtu.be/G9UKhmpMFN0)
+
 ### Troca da Carteira de Motorista Brasileira pela Carta de Condução Portuguesa
 
 Para quem tem Carteira de Motorista brasileira (CNH) não é mais necessário realizar a troca pela carteira de condução portuguesa. A partir de 01/08/2022 Portugal passou a aceitar título de condução de países membros da OCDE e CPLP (inclui o Brasil). É possível dirigir em Portugal com a CNH brasileira, desde que possua menos de 60 anos, e a última renovação ou emissão do título não tenha sido feita há mais de 15 anos. Além disso qualquer suspensão ou situação que invalide a CNH no Brasil, também invalida o seu uso em Portugal. Mais informações no site [IMT Online](http://www.imtonline.pt/index.php/troca-de-titulos-conducao-estrangeiros/troca-de-titulos-de-conducao109/9-uncategorised/2287-5-situacao-ocde-cplp)
