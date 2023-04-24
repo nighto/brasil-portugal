@@ -27,6 +27,8 @@ Dica: cada companhia tem seu limite de peso no porão e na cabine, convém verif
 
 O posto da Vigiagro não precisa ser necessariamente o do aeroporto, uma vez que só aeroportos com voos internacionais tem essa estrutura; também há postos em portos, o que pode ser mais conveniente.
 
+Obs: Fiz o processo recentemente e não foi necessário ir ao posto da Vigiagro para emissão do CVI. Quando fui lá me informar, o agente me explicou que todo o processo é feito agora através do site https://www.gov.br/pt-br/servicos/solicitar-certificado-veterinario-internacional-para-viajar-com-seu-cao-ou-gato-para-uniao-europeia-irlanda-do-norte-noruega-e-suica-cvi utilizando uma conta do tipo Ouro do site gov.br. Através dessa conta é possível anexar os comprovantes e assiná-los digitalmente. As instruções detalhadas estão nesse PDF: https://www.gov.br/agricultura/pt-br/assuntos/vigilancia-agropecuaria/animais-estimacao/sair-do-brasil/assinatura-eletronica-gov-br-para-cvis.pdf
+
 1. Com todos os documentos em mãos, você deverá enviar os documentos para o posto do [**DGAV**](http://www.dgv.min-agricultura.pt/) (Direção-Geral de Alimentação e Veterinária) do aeroporto que seu vôo internacional irá chegar. Você deverá informar qual o vôo, dia e horário.
 
 * Aeroporto de Lisboa: [pcflisboaa@dgav.pt](mailto:pcflisboaa@dgav.pt)
