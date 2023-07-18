@@ -9,11 +9,11 @@ Atualmente os bancos que aceitam abertura de conta de forma presencial, com Pass
 * BPI¹
 * BankInter¹
 * Caixa Geral de Depositos¹
-* Santander
 
 Bancos que deixaram de aceitar abertura de contas somente com Passaporte/Visto
 * ActivoBank²
 * Millenium BCP²
+* Santander²
 
 1) Recebi um relato de que na cidade de Santarém estes bancos não estavam aceitando sem AR, somente o Santander permitiu.
 2) Caso já possua o cartão da AR, pode abrir a conta normalmente, inclusive de forma online
