@@ -17,6 +17,6 @@ Uma vez tendo o histórico escolar apostilado e com notas de 0 a 10, basta ir nu
 
 Não tem custo e fica pronto em alguns dias.
 
-Mais informações na [página de assuntos educacionais da embaixada brasileira em Lisboa](http://lisboa.itamaraty.gov.br/pt-br/assuntos\_educacionais.xml).
+Mais informações na [página do "Setor de Cooperação Acadêmica e Educacional" da embaixada brasileira em Lisboa](https://www.gov.br/mre/pt-br/embaixada-lisboa/setor-de-cooperacao-academica-e-educacional).
 
 Nota: o certificado de conclusão será emitido com as notas mínimas para aprovação (12 de 20), caso seja necessário um certificado com as notas, verifique o link acima para fazer a equivalência.
