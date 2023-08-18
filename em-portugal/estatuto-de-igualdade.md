@@ -40,7 +40,7 @@ Após reunir os documentos necessários, o requerimento pode ser entregue nos ba
 
 Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](https://nighto.gitbook.io/brasil-portugal/dicas/cartas-e-encomendas).
 
-Após cerca de **5 meses** você irá receber 2 cartas de confirmação(*), uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://diariodarepublica.pt/dr/pesquisa-avancada)). A partir desse momento, vem a segunda parte do passo a passo:
+Após cerca de **5 meses** você irá receber 2 cartas de confirmação(*), uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://diariodarepublica.pt/dr/pesquisa-avancada) - procure por "Concede o estatuto de igualdade de direitos e deveres a vários cidadãos brasileiros"). A partir desse momento, vem a segunda parte do passo a passo:
 
 1. [Marque o agendamento no site do Instituto dos Registos e Notariado](https://agendamento.irn.mj.pt) ou pelo telefone 210 990 111.\
    Dica: no site é possível preencher o número do cartão cidadão para agendamento com zeros (informação confirmada com o atendente). Caso não funcione, utilize esse [gerador de número de cartão cidadão](https://cc.marcosantos.me) copiando somente a parte numérica. (Parece que o número do cartão cidadão é a chave primária para realizar os agendamentos.)
