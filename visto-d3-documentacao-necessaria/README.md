@@ -6,7 +6,9 @@ A VFS Global possui escritórios em cinco capitais: Rio, São Paulo, Belo Horizo
 
 Alguns documentos devem ser apresentados no original, outros basta cópia simples / impressão, outros se deve levar o original e uma cópia _autenticada_, e ainda outros você precisará fazer o _apostilamento_. Verifique o [anexo](https://github.com/nighto/brasil-portugal#extras) no final sobre mais detalhes desses procedimentos.
 
-Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de visto de trabalho; os demais familiares farão um pedido de _Autorização de Residência por Reagrupamento Familiar_ só em Portugal - isto é, entram como turistas (e portanto precisam comprovar passagem de volta) e só então fazem o processo. Mais abaixo listo os documentos necessários para tal.
+~~**Note que se você tem cônjuge e/ou filhos, somente você irá fazer o pedido de visto de trabalho; os demais familiares farão um pedido de**** **_**Autorização de Residência por Reagrupamento Familiar**_** ****só em Portugal - isto é, entram como turistas (e portanto precisam comprovar passagem de volta) e só então fazem o processo. Mais abaixo listo os documentos necessários para tal.**~~
+
+**Atenção, essa parte mudou: familiares agora podem solicitar visto de acompanhamento de familiar e já chegarem em Portugal com a documentação correta, ao invés de solicitar Reagrupamento Familiar como era antes. Como a regra mudou quando já estava por aqui não sei exatamente como funciona. Contribuições são bem-vindas!**
 
 Dica importante: os documentos devem ser impressos em papel branco (isto é, não pode ser aquele papel creme reciclado), somente de um lado (ou seja, não podem ser frente-e-verso) e não devem ser grampeados, ter clips ou post-its colados.
 
