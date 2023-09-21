@@ -55,6 +55,8 @@ Se este for o seu caso, pule para a etapa 2 abaixo.
       `Olá, boa tarde. Gostaria de receber uma atualização do estado do pedido de troca de título de condução estrangeiro com o número de registo xxxxxx yyy. Tenho NIF zzzzzzz conforme o título do e-mail.`\
       `Cumprimentos,`\
       `Fulano de Tal`
+
+  2. É possível acessar este site e enviar um pedido de status 'Aceda [aqui](https://www.cognitoforms.com/IMT6/EstadoDoProcessoEnvioDeDocumentos)' 
 5. Após a ida ao IMT, aguarde a chegada da carta de condução na sua residência.
 
 Links de apoio:
