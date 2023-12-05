@@ -10,13 +10,60 @@ Para solicitar, basta acessar [a página de RNH no Portal das Finanças](https:/
 
 ![](https://user-images.githubusercontent.com/397851/105693652-e5301a00-5ef7-11eb-9fec-fd6a3f30d243.png)
 
-Infelizmente a ferramenta de declaração do IRS não gera uma simulação para declarações com o RNH, de forma que, para além de usar os serviços de um contabilista/contador, para poder comparar a declaração com e sem RNH a alternativa é:
+Para saber o quanto você vai receber ou pagar, basta fazer o cálculo a seguir:
+
+1. Salário Bruto Anual - €4.104 (ou o valor total da contribuição a segurança social, o que for maior) = Valor total tributável.
+2. Valor total tributável x 0.2 = Valor que, como RNH, deveria ter pago para o IRS.
+3. Valor pago de IRS - Resultado a cima = Valor que irá ser restituído.
+
+**Exemplo 1:**
+
+> Salário: **€2.100**
+>
+> Salário Bruto Anual: **€29.400**
+>
+> Valor pago ao ISS: **€3.234**
+>
+> Valor pago ao IRS: **€6.188**
+>
+> Cálculo:
+>
+> €29.400 - €4.104 (maior que valor pago ao ISS) = €25.296
+>
+> €25.296 x 0.2 = €5.059,20
+>
+> €6.188 - €5.059,20 = **€1.128,80 (Valor a ser restituído)**
+
+**Exemplo 2:**
+
+> Salário: **€3.500**
+>
+> Salário Bruto Anual: **€49.000**
+>
+> Valor pago ao ISS: **€5.390**
+>
+> Valor pago ao IRS: **€13.678**
+>
+> Cálculo:
+>
+> €49.000 - €5.390 = €43.610
+>
+> €43.610 x 0.2 = €8.722
+>
+> €13.678 - €8.722 = **€4.956 (Valor a ser restituído)**
+
+Obs:
+1. Cálculo com base no IRS 2023 e válidos para Categoria A e B. (trabalho dependente e trabalho independente)
+2. Deduções de saude, educação e etc. **não incidem** no cálculo para quem usa o RNH.
+
+Infelizmente a ferramenta de declaração do IRS não gera uma simulação para declarações com o RNH, então caso queira fazer uma simulação
+em outras categorias de trabalho, ou possua outros valores tributáveis adicionais, a alternativa é:
 
 1. Simular a declaração sem o RNH e anotar o valor de restituição previsto;
 2. Fazer a declaração usando o RNH;
 3. Se o valor recebido for menor do que o previsto sem o RNH, fazer uma declaração retificadora, enviando uma declaração padrão sem utilizar o RNH.
 
-Outro ponto negativo de declarar o IRS usando RNH: as transferências dos valores a restituir de declarações feitas com o RNH ficam no final da fila, então se você declarar o IRS sem utilizar o RNH, irá receber o valor de restituição alguns meses antes.
+Um ponto negativo de declarar o IRS usando RNH: as transferências dos valores a restituir de declarações feitas com o RNH ficam no final da fila, então se você declarar o IRS sem utilizar o RNH, irá receber o valor de restituição alguns meses antes.
 
 Custo: 0.
 
