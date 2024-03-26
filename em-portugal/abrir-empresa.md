@@ -14,7 +14,7 @@ Além disso vale a pena passar todas as contas para a empresa, como plano de int
 
 Segue em anexo o que pode ser comprado pela empresa e em amarelo o que devolve o IVA:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Despesas que podem ser da empresa, e destas quais deduzem o valor do IVA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Despesas que podem ser da empresa, e destas quais deduzem o valor do IVA</p></figcaption></figure>
 
 Existem 5 passos a seguir que passarei a enunciar:
 

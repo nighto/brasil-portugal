@@ -12,6 +12,15 @@ Em Portugal, o padrão é diferente e envelopes de cartas preenchidas no padrão
 
 [Veja mais informações no site do Consulado-Geral do Brasil no Porto](http://porto.itamaraty.gov.br/pt-br/servicos\_por\_correio.xml).
 
+### Preenchimento de Formulários de Correio Registado
+
+Página Web para auxiliar o preenchimento e impressão dos Formulários de Correio Registado dos CTT. Basta preencher os campos, colocar o formulário na impressora e imprimir.\
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Captura de tela da ferramenta. Fonte: <a href="https://raw.githubusercontent.com/samuelcarreira/preenchimento_formulario_correio_registado/master/mockup-browser.png">https://raw.githubusercontent.com/samuelcarreira/preenchimento_formulario_correio_registado/master/mockup-browser.png</a></p></figcaption></figure>
+
+[https://github.com/samuelcarreira/preenchimento\_formulario\_correio\_registado](https://github.com/samuelcarreira/preenchimento\_formulario\_correio\_registado) / [https://samuelcarreira.com/correioregistado/](https://samuelcarreira.com/correioregistado/)
+
 ### Publicidade Não Endereçada
 
 Em Portugal é bastante comum que as empresas coloquem papeis de publicidade "não endereçada" nas caixas de correio das casas e apartamentos, isto é, uma espécie de "spam" com folhetos diversos. Há uma [lei (nº 6/1999)](https://dre.pt/pesquisa/-/search/180023/details/maximized) que define as regras que as empresas devem seguir, de forma que caso haja um adesivo solicitando que as empresas não coloquem na sua caixa de correio, as empresas devem respeitar.
@@ -33,6 +42,6 @@ O [CTT tem um serviço envio à cobrança](https://www.ctt.pt/ajuda/empresas/env
 
 É uma opção especialmente interessante para vendas no OLX. Funciona assim: você fecha a venda com o interessado, opta por pagar o valor do envio online ou na agência mesmo, vai a agência do CTT com a caixa (e se tiver pago online, precisa imprimir uma etiqueta para o envio), a pessoa paga ao receber e alguns dias depois você recebe na sua residência um Vale de Correio, basicamente uma espécie de cheque que você pode sacar na agência CTT ou num agente autorizado da CTT. Essa é a aparência de um Vale de Correio:
 
-![](https://camo.githubusercontent.com/74116740adcdf2bd85edfa92caeee15ef86d50dd9c437da7b87843c6bf68a439/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f5f4a7a74672d4531326872672f5372664443615f4e4146492f41414141414141414258672f647175716d4c37317463382f73313630302f762b3039362e6a7067)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemplo de Vale Postal. Fonte: <a href="https://www.ctt.pt/contentAsset/raw-data/4c0189ef-c5f3-4daa-92f7-d2a2e22d17c5/imagemBanner/b446323f-fbd9-485e-9136-ef0217920ad8">https://www.ctt.pt/contentAsset/raw-data/4c0189ef-c5f3-4daa-92f7-d2a2e22d17c5/imagemBanner/b446323f-fbd9-485e-9136-ef0217920ad8</a></p></figcaption></figure>
 
 A dica aqui é: os _agentes autorizados da CTT_ podem ser utilizados para sacar os Vales de Correio, e em geral eles tem **muito** menos fila do que as agências da CTT. Costumo ir na papelaria Note. Os serviços postais só podem ser pagos em espécie.
