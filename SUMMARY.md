@@ -31,6 +31,7 @@
   * [Pedido de Nacionalidade](em-portugal/pedido-de-nacionalidade.md)
   * [Abrir Empresa](em-portugal/abrir-empresa.md)
   * [Declaração NARIC - Ensino Superior União Europeia](em-portugal/declaracao-naric-ensino-superior-uniao-europeia.md)
+  * [Rescisão de contratos com multa](em-portugal/rescisao-de-contratos-com-multa.md)
 * [Dicas](dicas/README.md)
   * [Moradia](dicas/moradia.md)
   * [Transporte](dicas/transporte.md)
