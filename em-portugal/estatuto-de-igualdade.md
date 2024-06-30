@@ -29,9 +29,9 @@ Observação importante: é preciso ser maior de idade para pedir Estatuto de Ig
     [Consulado de Lisboa](http://cglisboa.itamaraty.gov.br/pt-br/:::\_certificado.xml) - faz-se a solicitação com envio dos documentos online e há um agendamento para pegar o documento;
 
     [Consulado do Porto](http://porto.itamaraty.gov.br/pt-br/certificado\_de\_nacionalidade\_-\_estatuto\_de\_igualdade.xml) - No Consulado do Porto, faz-se a solicitação com envio dos documentos online. Após receber e-mail com validação pela autoridade consular deve-se escolher uma data para atendimento presencial. [Note que não é possível ser atendido nos consulados das outras jurisdições](https://github.com/nighto/brasil-portugal#consulado-ou-embaixada).
-3. [Formulário de solicitação do SEF](https://imigrante.sef.pt/wp-content/uploads/Requerimento\_DireitosDeveres\_DD\_PT.pdf). Imprima e preencha da forma mais legível possível.
+3. [Formulário de solicitação da AIMA](https://aima.gov.pt/media/pages/documents/bca279315f-1714485880/modelo-direitos-e-deveres.pdf). Imprima e preencha da forma mais legível possível.
 
-Após reunir os documentos necessários, o requerimento pode ser entregue nos balcões de atendimento do SEF nas Delegações ou Direções Regionais do SEF, mediante marcação prévia ou pode igualmente ser enviado por correio contendo o formulário do SEF, a declaração do Consulado e uma cópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):
+Após reunir os documentos necessários, o requerimento pode ser entregue nos balcões de atendimento da AIMA nas Delegações ou Direções Regionais da AIMA, mediante marcação prévia ou pode igualmente ser enviado por correio contendo o formulário da AIMA, a declaração do Consulado e uma cópia do seu Título de Residência para o endereço ([foto original](https://user-images.githubusercontent.com/408965/91441497-3617e580-e868-11ea-9eda-6ae9d2c1269c.png)):
 
 > Departamento de Nacionalidades\
 > Avenida do Casal de Cabanas\
@@ -40,7 +40,7 @@ Após reunir os documentos necessários, o requerimento pode ser entregue nos ba
 
 Observação importante sobre o preenchimento do envelope: o padrão de campos para preenchimento de envelopes de cartas em Portugal é diferente do Brasil, aqui não se usa o remetente no verso. [Veja mais detalhes](https://nighto.gitbook.io/brasil-portugal/dicas/cartas-e-encomendas).
 
-Após cerca de **5 meses** você irá receber 2 cartas de confirmação(*), uma do SEF e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://diariodarepublica.pt/dr/pesquisa-avancada) - procure por "Concede o estatuto de igualdade de direitos e deveres a vários cidadãos brasileiros"). A partir desse momento, vem a segunda parte do passo a passo:
+Após cerca de **5 meses** você irá receber 2 cartas de confirmação(*), uma da AIMA e outra da conservatória (confirmando que saiu no diário oficial português - também é possível fazer a busca no [Diário da República Eletrônico](https://diariodarepublica.pt/dr/pesquisa-avancada) - procure por "Concede o estatuto de igualdade de direitos e deveres a vários cidadãos brasileiros"). A partir desse momento, vem a segunda parte do passo a passo:
 
 1. [Marque o agendamento no site do Instituto dos Registos e Notariado](https://agendamento.irn.mj.pt) ou pelo telefone 210 990 111.\
    Dica: no site é possível preencher o número do cartão cidadão para agendamento com zeros (informação confirmada com o atendente). Caso não funcione, utilize esse [gerador de número de cartão cidadão](https://cc.marcosantos.me) copiando somente a parte numérica. (Parece que o número do cartão cidadão é a chave primária para realizar os agendamentos.)
